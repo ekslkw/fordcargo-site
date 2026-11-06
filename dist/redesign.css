@@ -118,3 +118,18 @@ header .brand-lockup .brand{padding-left:0!important}
 .guide{max-width:760px}.guide h1{font-size:clamp(30px,4vw,46px)}.guide .lead{font-size:19px;color:#2c3d48}.guide-meta{font-size:13px;color:#5d6b74;margin-top:-6px}.guide h2{font-size:clamp(22px,2.4vw,30px);margin-top:38px}.guide dl{display:block;padding:20px 24px}.guide dt{margin-top:10px}.guide dd{margin:2px 0 8px}.guide .note{background:#f0e6d1;padding:16px 20px;border-radius:5px}
 .guide-list{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;padding-bottom:60px}.guide-card{background:#fff;border:1px solid #e2e4df;border-radius:5px;padding:26px}.guide-card h2{font-size:22px;margin:0 0 12px}.guide-card h2 a{text-decoration:none}.guide-card p{font-size:15px;color:#4a5963}
 @media(max-width:900px){.guide-list{grid-template-columns:1fr}}
+
+/* v22: banner principal în mișcare lentă (se oprește la cerere și la „reduce motion”) */
+.hero{isolation:isolate}
+.hero-image{animation:hero-drift 22s ease-in-out infinite alternate;will-change:transform;transform-origin:70% 60%}
+.mobile-fleet{animation:hero-drift 22s ease-in-out infinite alternate;transform-origin:60% 60%}
+@keyframes hero-drift{from{transform:scale(1) translateX(0)}to{transform:scale(1.08) translateX(-1.5%)}}
+.hero-glint{position:absolute;inset:0;pointer-events:none;z-index:1;background:linear-gradient(105deg,transparent 40%,rgba(255,236,190,.16) 50%,transparent 60%);background-size:250% 100%;animation:hero-glint 9s ease-in-out infinite;mix-blend-mode:screen}
+@keyframes hero-glint{0%,55%{background-position:120% 0}100%{background-position:-60% 0}}
+.hero-content{position:relative;z-index:2}
+.hero-content>*{animation:hero-in .7s ease-out both}
+.hero-content>*:nth-child(2){animation-delay:.08s}.hero-content>*:nth-child(3){animation-delay:.16s}.hero-content>*:nth-child(4){animation-delay:.24s}
+@keyframes hero-in{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+.hero-motion-toggle{position:absolute;right:14px;top:14px;z-index:3;width:34px;height:34px;border-radius:50%;border:1px solid #ffffff60;background:#14253199;color:#fff;cursor:pointer;font-size:13px}
+.hero.paused .hero-image,.hero.paused .mobile-fleet,.hero.paused .hero-glint{animation-play-state:paused}
+@media (prefers-reduced-motion:reduce){.hero-image,.mobile-fleet,.hero-glint,.hero-content>*{animation:none}.hero-glint{display:none}}

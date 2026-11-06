@@ -14,3 +14,5 @@ document.querySelectorAll('.icon-motion-toggle').forEach(button=>button.addEvent
   var on=false;function chk(){var v=window.scrollY>250;if(v!==on){on=v;b.classList.toggle('show',v);}}
   window.addEventListener('scroll',chk,{passive:true});chk();
 })();
+
+document.querySelectorAll('.hero-motion-toggle').forEach(function(b){b.addEventListener('click',function(){var en=document.documentElement.lang==='en';var p=b.closest('.hero').classList.toggle('paused');b.setAttribute('aria-pressed',String(p));b.setAttribute('aria-label',p?(en?'Start the photo motion':'Pornește mișcarea fotografiei'):(en?'Stop the photo motion':'Oprește mișcarea fotografiei'));b.firstElementChild.textContent=p?'▷':'Ⅱ';});});
