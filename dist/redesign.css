@@ -170,3 +170,21 @@ footer .brand2 .wm{height:30px}
 .part-card a::after{content:"";position:absolute;inset:0;border-radius:inherit}
 .part-card:hover{box-shadow:0 8px 22px #14253118;transform:translateY(-2px)}
 .part-card:focus-within{outline:3px solid #cd8d19;outline-offset:2px}
+/* v25: rezultate căutare — cartele profesionale */
+#parts-results-list{display:grid;gap:12px}
+.part-search-result{display:grid;grid-template-columns:56px 1fr auto;gap:6px 20px;align-items:center;background:#fff;border:1px solid #e1e4df;border-left:4px solid var(--gold);border-radius:8px;padding:18px 20px;margin:0;box-shadow:0 1px 2px #1425310d;transition:box-shadow .15s,transform .15s}
+.part-search-result:hover{box-shadow:0 8px 24px #1425311a;transform:translateY(-1px)}
+.part-search-result .result-icon{width:48px;height:48px;padding:6px;background:#f4efe3;border-radius:10px;align-self:start}
+.part-search-result h3{font-size:17px;line-height:1.3;margin:0 0 8px;letter-spacing:-.01em}
+.part-search-result .result-codes{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:8px;font-family:Consolas,Menlo,monospace}
+.part-search-result .chip{font-size:12.5px;font-weight:700;background:#eef1f3;color:#142531;border:1px solid #d7dde1;border-radius:5px;padding:3px 8px;letter-spacing:.02em;white-space:nowrap}
+.part-search-result .chip.main{background:#142531;color:#fff;border-color:#142531}
+.part-search-result p{font-size:12.5px;color:#5d6b74;margin:0}
+.part-search-result .result-actions{display:flex;flex-direction:column;gap:8px;align-items:stretch;min-width:170px}
+.part-search-result .result-actions button{background:var(--gold);color:#142531;border:0;border-radius:5px;padding:11px 14px;font-weight:800;font-size:14px;cursor:pointer}
+.part-search-result .result-actions button:hover{background:#d9a234}
+.part-search-result .result-actions a{text-align:center;font-size:13px;font-weight:700;color:#142531;border:1px solid #c9d0d4;border-radius:5px;padding:9px 12px;text-decoration:none}
+.part-search-result .result-actions a:hover{border-color:#142531}
+#parts-search-status{font-weight:700;margin:14px 0}
+@media(max-width:700px){.part-search-result{grid-template-columns:44px 1fr;padding:16px}.part-search-result .result-icon{width:40px;height:40px;padding:5px}.part-search-result .result-actions{grid-column:1/-1;flex-direction:row}.part-search-result .result-actions>*{flex:1}.part-search-result h3{font-size:16px}}
+@media(max-width:700px){.part-search-result .result-actions a,.part-search-result .result-actions button{font-size:13px;padding:10px 8px;white-space:nowrap}}

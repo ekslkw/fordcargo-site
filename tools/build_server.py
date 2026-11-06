@@ -123,9 +123,9 @@ if os.path.exists(src):
     open(f'{D}/assets/sd-{h}.txt','w',encoding='utf-8').write(enc)
     os.remove(src)
     js=f'{D}/unified-search.js'; j=open(js,encoding='utf-8').read()
-    dec=("(t=>{const A='"+''.join(chars).replace('\\','\\\\').replace("'","\\'")+"',B='"+''.join(perm).replace('\\','\\\\').replace("'","\\'")+"';const m={};for(let i=0;i<B.length;i++)m[B[i]]=A[i];"
-         "let o='';for(const c of t)o+=m[c]||c;return JSON.parse(o)})")
-    j=_re.sub(r"fetch\('/assets/(?:search-data\.json\?v=\d+|sd-[0-9a-f]+\.txt)'\)\.then\(r=>\{if\(!r\.ok\)throw Error\('load'\);return (?:r\.json\(\)|r\.text\(\)\.then\(.*?\))\}",
-               lambda m:f"fetch('/assets/sd-{h}.txt').then(r=>{{if(!r.ok)throw Error('load');return r.text().then({dec})}}",j,count=1,flags=_re.S)
+    esc=lambda x:x.replace('\\','\\\\').replace("'","\\'")
+    dec=("t=>{const A='"+esc(''.join(chars))+"',B='"+esc(''.join(perm))+"';const m={};for(let i=0;i<B.length;i++)m[B[i]]=A[i];let o='';for(const c of t)o+=m[c]||c;return JSON.parse(o)}")
+    head=f"/*SD*/const SD_URL='/assets/sd-{h}.txt',SD_DEC={dec};/*/SD*/"
+    j=_re.sub(r'/\*SD\*/.*?/\*/SD\*/',lambda m:head,j,count=1,flags=_re.S)
     open(js,'w',encoding='utf-8').write(j)
     print('date căutare codificate:',f'sd-{h}.txt')
