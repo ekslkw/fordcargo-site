@@ -219,7 +219,7 @@ T = {
 "Cum identific o piesă fără cod?": "How do I identify a part without a number?",
 "Trimite VIN-ul și descrierea piesei. Pentru un echipament montat, trimite și datele producătorului suprastructurii.": "Send the VIN and a description of the part. For mounted equipment, also send the body manufacturer's details.",
 "Cum trimit cererea?": "How do I send a request?",
-"Folosește formularul, telefonul sau WhatsApp. Formularul pregătește un mesaj în WhatsApp; expedierea se finalizează de către tine în aplicație.": "Use the form, call us or write on WhatsApp. The form sends your request to us by e-mail; you can also send it through WhatsApp.",
+"Folosește formularul, telefonul sau WhatsApp. Formularul trimite cererea pe e-mail direct către echipa EKS LKW; o poți trimite și pe WhatsApp.": "Use the form, call us or write on WhatsApp. The form sends your request to us by e-mail; you can also send it through WhatsApp.",
 "Cum se plătește?": "How do I pay?",
 "Prin transfer bancar / ordin de plată sau numerar, conform condițiilor confirmate în ofertă. Nu încasăm plăți online pe acest site.": "By bank transfer or cash, under the terms confirmed in the quote. We do not take online payments on this site.",
 "Cât durează aprovizionarea?": "How long does sourcing take?",
