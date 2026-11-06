@@ -105,7 +105,7 @@ header .brand-lockup .brand{padding-left:0!important}
 /* v20 — logo în subsol, fără linia decorativă */
 .brand::after,.brand:after{display:none!important;content:none!important}
 .footer-lockup{display:flex;align-items:center;gap:14px;margin-bottom:14px}
-.footer-lockup .vehicle{width:56px;height:auto;border-radius:6px;flex:none;background:#fff}
+.footer-lockup .vehicle{width:56px;height:auto;flex:none;background:none}
 .footer-lockup .brand{padding-left:0!important;margin:0}
 
 /* v21: buton înapoi sus */
@@ -133,3 +133,24 @@ header .brand-lockup .brand{padding-left:0!important}
 .hero-motion-toggle{position:absolute;right:14px;top:14px;z-index:3;width:34px;height:34px;border-radius:50%;border:1px solid #ffffff60;background:#14253199;color:#fff;cursor:pointer;font-size:13px}
 .hero.paused .hero-image,.hero.paused .mobile-fleet,.hero.paused .hero-glint{animation-play-state:paused}
 @media (prefers-reduced-motion:reduce){.hero-image,.mobile-fleet,.hero-glint,.hero-content>*{animation:none}.hero-glint{display:none}}
+/* v22: siglă + text (varianta C) cu ondulare ușoară a numelui */
+.brand-lockup{gap:14px}
+.brand-sep{width:1px;height:46px;background:#cfd3cf;flex:none}
+.brand2{display:flex;flex-direction:column;text-decoration:none;color:inherit;line-height:1}
+.brand2 .b-top{font:700 10px/1 Arial,Helvetica,sans-serif;letter-spacing:2.4px;color:#a36e1d;margin-bottom:5px;white-space:nowrap}
+.brand2 .b-name{font:800 30px/1 Arial,Helvetica,sans-serif;letter-spacing:-.5px;white-space:nowrap;display:flex}
+.brand2 .b-name span{display:inline-block;animation:brand-wave 3.4s ease-in-out infinite;animation-delay:calc(var(--i) * .12s)}
+.brand2 .b-name .sp{width:.28em;animation:none}
+.brand2 .b-sub{font:400 13px/1.2 Arial,Helvetica,sans-serif;color:#52606a;margin-top:6px;white-space:nowrap}
+@keyframes brand-wave{0%,100%{transform:translateY(0) skewY(0)}25%{transform:translateY(-2px) skewY(-2deg)}50%{transform:translateY(0) skewY(0)}75%{transform:translateY(1.5px) skewY(1.5deg)}}
+footer .brand-sep{background:#ffffff30}
+footer .brand2{color:#fff}
+.footer-grid a.brand2{display:flex;margin-top:0;font-size:inherit}
+footer .brand2 .b-top{color:#e8b548}
+footer .brand2 .b-sub{color:#c8d0d5}
+footer .brand2 .b-name{font-size:28px}
+.brand-lockup .vehicle{filter:drop-shadow(0 2px 3px #0002)}
+@media(max-width:700px){.brand-lockup{gap:9px}.brand-sep{height:36px}.brand2 .b-top{font-size:8px;letter-spacing:1.6px;margin-bottom:4px}.brand2 .b-name{font-size:22px}.brand2 .b-sub{font-size:10.5px;margin-top:4px}.brand-lockup .vehicle{width:46px}}
+@media(max-width:380px){.brand2 .b-sub{display:none}.brand2 .b-name{font-size:21px}}
+@media(prefers-reduced-motion:reduce){.brand2 .b-name span{animation:none}}
+@media(max-width:700px){.hero-motion-toggle{top:auto;bottom:12px;right:12px}}

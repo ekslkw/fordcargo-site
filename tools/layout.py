@@ -1,15 +1,22 @@
 """Șablon comun pentru toate paginile generate (antet, subsol, <head>). Modifică aici o singură dată."""
 import json,html
 SITE='https://fordcargo.ro'
-CSS_VER='21'
-JS_VER='21'
+CSS_VER='22'
+JS_VER='22'
 CSP=("default-src 'self'; script-src 'self'; script-src-elem 'self' 'unsafe-inline'; script-src-attr 'none'; "
      "style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; "
      "frame-src https://www.google.com https://maps.google.com; object-src 'none'; base-uri 'none'; form-action 'none'; upgrade-insecure-requests")
 HOURS={'ro':'Luni–Vineri: 08:00–18:00<br>Sâmbătă: 08:00–15:30<br>Duminică: 08:30–13:00',
        'en':'Monday–Friday: 08:00–18:00<br>Saturday: 08:00–15:30<br>Sunday: 08:30–13:00'}
-LOGO='<img class="vehicle" src="/assets/eks-lkw-logo.jpg" alt="" width="70" height="69">'
-LOGO_FOOT='<img class="vehicle" src="/assets/eks-lkw-logo.jpg" alt="" width="56" height="55" loading="lazy">'
+LOGO='<img class="vehicle" src="/assets/eks-lkw-logo-140.webp" alt="" width="70" height="69">'
+LOGO_FOOT='<img class="vehicle" src="/assets/eks-lkw-logo-140.webp" alt="" width="56" height="55" loading="lazy">'
+def brand_html(lang,cls='brand2'):
+    top='SINCE 1990 · ROMANIA' if lang=='en' else 'DIN 1990 · ROMÂNIA'
+    sub='Parts for Ford Trucks' if lang=='en' else 'Piese pentru camioane Ford Trucks'
+    name=''.join(f'<span style="--i:{i}">{c}</span>' if c!=' ' else '<span class="sp"> </span>' for i,c in enumerate('EKS LKW'))
+    href='/en/' if lang=='en' else '/'
+    return (f'<span class="brand-sep" aria-hidden="true"></span><a class="{cls}" href="{href}" aria-label="EKS LKW — {sub}">'
+            f'<span class="b-top">{top}</span><span class="b-name" aria-hidden="true">{name}</span><span class="b-sub">{sub}</span></a>')
 SOCIAL=('<div class="social"><a href="https://www.facebook.com/PieseAutoCamioane/" target="_blank" rel="noopener" aria-label="facebook"><img src="/assets/facebook.svg" alt="" width="21" height="21"></a>'
         '<a href="https://www.instagram.com/ekslkw/" target="_blank" rel="noopener" aria-label="instagram"><img src="/assets/instagram.svg" alt="" width="21" height="21"></a>'
         '<a href="https://www.tiktok.com/@ekslkwsrl" target="_blank" rel="noopener" aria-label="tiktok"><img src="/assets/tiktok.svg" alt="" width="21" height="21"></a></div>')
@@ -30,7 +37,7 @@ def header(lang,alt_url=None):
         if alt_url: nav+=f'<a href="{alt_url}" hreflang="ro" lang="ro">RO</a>'
         top='PARTS AND ACCESSORIES FOR FORD TRUCKS AND TRACTOR UNITS'; skip='Skip to content'; menu='Menu ☰'; navl='Main navigation'
     return (f'<a class="skip" href="#main">{skip}</a><div class="topline"><div class="wrap">{top} <a href="tel:+40733357357">+40 733 357 357 </a></div></div>'
-            f'<header class="wrap"><div class="brand-lockup">{LOGO}<a class="brand" href="{'/en/' if lang=='en' else '/'}">EKS LKW<small>FordCargo.ro</small></a></div>'
+            f'<header class="wrap"><div class="brand-lockup">{LOGO}{brand_html(lang)}</div>'
             f'<button class="menu" aria-controls="navigation" aria-expanded="false">{menu}</button><nav id="navigation" aria-label="{navl}">{nav}</nav>{SOCIAL}</header>')
 def footer(lang):
     if lang=='ro':
@@ -48,7 +55,7 @@ def footer(lang):
                disc='FordCargo.ro is the website of EKS LKW PIESE AUTO S.R.L., an independent supplier of parts for Ford trucks. Ford, Ford Cargo and F-MAX are trademarks of their respective owners. This site is not affiliated with Ford Motor Company, Ford Otosan or the official Ford dealer network.',
                call='Call now',quick='Quick contact',addr='Șoseaua Viilor 54, Bucharest 050152, Romania')
     links=''.join(f'<a href="{u}">{n}</a>' for u,n in t['links'])
-    return (f'<footer class="universal-footer"><div class="wrap footer-grid"><div><div class="brand-lockup footer-lockup">'+LOGO_FOOT+f'<a class="brand" href="{'/en/' if lang=='en' else '/'}">EKS LKW<small>FordCargo.ro</small></a></div><p>{t["tag"]}</p>'
+    return (f'<footer class="universal-footer"><div class="wrap footer-grid"><div><div class="brand-lockup footer-lockup">'+LOGO_FOOT+brand_html(lang)+f'</div><p>{t["tag"]}</p>'
             f'<a href="https://eurokolben.ro" target="_blank" rel="noopener">EKS LKW PIESE AUTO S.R.L. · eurokolben.ro</a></div><div><div class="business-hours"><strong>{t["prog"]}</strong><p>{HOURS[lang]}</p></div>'
             f'<strong>Contact</strong><a href="tel:+40733357357">+40 733 357 357</a><a href="tel:+40745820894">+40 745 820 894</a><a href="mailto:office@eurokolben.ro">EKS LKW PIESE AUTO S.R.L.<br>office@eurokolben.ro</a>'
             f'<p>{t["addr"]}<br>{t["reg"]}</p></div><div><strong>{t["info"]}</strong>{links}</div></div>'
