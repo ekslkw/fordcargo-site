@@ -78,7 +78,7 @@ for g,lst in by_group.items():
         seen=set(); rel=[t for t in rel if not (t[0] in seen or seen.add(t[0]))]
         models=', '.join(x['models'])
         en_url=f"/en/references/{g}/{ref_page[pid(x)]}/#piesa-{pid(x)}"
-        dl=f'<dt>Cod / referință</dt><dd>{esc(f)}</dd><dt>Cod fără separatori</dt><dd>{esc(re.sub(r"[^A-Za-z0-9İ]","",f))}</dd><dt>Categorie</dt><dd><a href="/categorie/{g}/">{esc(gro)}</a></dd>'
+        dl=f'<dt>Cod / referință</dt><dd>{esc(f)}</dd><dt>Alte scrieri ale codului</dt><dd>{esc(' · '.join(dict.fromkeys(v for v in [re.sub(r"[^A-Za-z0-9İ]","",f),f.replace(' ','-')] if v!=f)))}</dd><dt>Categorie</dt><dd><a href="/categorie/{g}/">{esc(gro)}</a></dd>'
         if others: dl+='<dt>Referințe asociate</dt><dd>'+' · '.join(f'<a href="/piesa/{slug(o)}/">{esc(o)}</a>' for o in others)+'</dd>'
         if models: dl+=f'<dt>Aplicație</dt><dd>{esc(models)}</dd>'
         dl+='<dt>Producător</dt><dd>Original Ford sau aftermarket — se precizează în ofertă</dd>'
