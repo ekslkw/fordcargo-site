@@ -1,7 +1,7 @@
 """Șablon comun pentru toate paginile generate (antet, subsol, <head>). Modifică aici o singură dată."""
 import json,html
 SITE='https://fordcargo.ro'
-CSS_VER='22'
+CSS_VER='23'
 JS_VER='22'
 CSP=("default-src 'self'; script-src 'self'; script-src-elem 'self' 'unsafe-inline'; script-src-attr 'none'; "
      "style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; "

@@ -188,3 +188,6 @@ footer .brand2 .wm{height:30px}
 #parts-search-status{font-weight:700;margin:14px 0}
 @media(max-width:700px){.part-search-result{grid-template-columns:44px 1fr;padding:16px}.part-search-result .result-icon{width:40px;height:40px;padding:5px}.part-search-result .result-actions{grid-column:1/-1;flex-direction:row}.part-search-result .result-actions>*{flex:1}.part-search-result h3{font-size:16px}}
 @media(max-width:700px){.part-search-result .result-actions a,.part-search-result .result-actions button{font-size:13px;padding:10px 8px;white-space:nowrap}}
+/* v25: iconițe de categorie în stil liniar */
+.part-card img{width:64px;height:64px;padding:10px;background:#f4efe3;border-radius:14px;box-sizing:border-box}
+.part-card h3{margin-top:18px}
