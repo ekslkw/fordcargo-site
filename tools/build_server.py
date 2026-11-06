@@ -39,6 +39,7 @@ RewriteCond %{{HTTP_HOST}} ^www\\. [NC]
 RewriteRule ^ https://fordcargo.ro%{{REQUEST_URI}} [R=301,L]
 # datele căutării se descarcă doar din paginile site-ului (nu direct)
 RewriteCond %{{HTTP_REFERER}} !^https://(www\\.)?fordcargo\\.ro/ [NC]
+RewriteCond %{{HTTP:Sec-Fetch-Site}} !^same-origin$ [NC]
 RewriteRule ^assets/sd-[0-9a-f]+\\.txt$ - [F,L]
 # redirecționări fixe
 """ + ''.join(f"RewriteRule ^{ESC(a)}$ {b} [R=301,L]\n" for a,b in STATIC) + """# /pagina.html -> /pagina (doar la cererea directă a clientului)
