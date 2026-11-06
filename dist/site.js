@@ -16,3 +16,6 @@ document.querySelectorAll('.icon-motion-toggle').forEach(button=>button.addEvent
 })();
 
 document.querySelectorAll('.hero-motion-toggle').forEach(function(b){b.addEventListener('click',function(){var en=document.documentElement.lang==='en';var p=b.closest('.hero').classList.toggle('paused');b.setAttribute('aria-pressed',String(p));b.setAttribute('aria-label',p?(en?'Start the photo motion':'Pornește mișcarea fotografiei'):(en?'Stop the photo motion':'Oprește mișcarea fotografiei'));b.firstElementChild.textContent=p?'▷':'Ⅱ';});});
+
+/* wa-source: mesajele WhatsApp arată că vin de pe fordcargo.ro și pagina de unde au fost trimise */
+document.querySelectorAll('a[href^="https://wa.me/40733357357"]').forEach(function(a){try{var u=new URL(a.href);var t=u.searchParams.get('text')||'';if(t.indexOf('fordcargo.ro')>-1)return;var en=document.documentElement.lang==='en';var page=location.origin+location.pathname;var head=en?'Hello! I am writing from fordcargo.ro.':'Bună ziua! Vă scriu de pe fordcargo.ro.';t=t?head+'\n'+t.replace(/^Bună ziua!\s*/,'')+'\n'+(en?'Page: ':'Pagina: ')+page:head+'\n'+(en?'Page: ':'Pagina: ')+page;u.searchParams.set('text',t);a.href=u.toString();}catch(e){}});

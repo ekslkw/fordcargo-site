@@ -93,7 +93,7 @@ for g,lst in by_group.items():
               +(f'<p>{note}</p>' if note else '')+
               f'<dl>{dl}</dl>'
               f'<p>Disponibilitatea, producătorul și prețul se confirmă în ofertă. Verificăm aplicația după cod sau după seria de șasiu (VIN) înainte de livrare.</p>'
-              f'<p class="detail-actions"><a class="button" href="{ro_quote_link(name,f)}">Cere ofertă</a> <a class="button secondary" href="https://wa.me/40733357357?text={quote("Bună ziua! Doresc o ofertă pentru "+f+" — "+name,safe="")}" target="_blank" rel="noopener">Întreabă pe WhatsApp</a></p>')
+              f'<p class="detail-actions"><a class="button" href="{ro_quote_link(name,f)}">Cere ofertă</a> <a class="button secondary" href="https://wa.me/40733357357?text={quote("Bună ziua! Vă scriu de pe fordcargo.ro.\nDoresc o ofertă pentru "+f+" — "+name+"\nPagina: https://fordcargo.ro"+path,safe="")}" target="_blank" rel="noopener">Întreabă pe WhatsApp</a></p>')
         if rel:
             main+='<h2>Alte piese din categoria '+esc(gro)+'</h2><ul class="related-codes">'+''.join(f'<li><a href="/piesa/{t[0]}/">{esc(t[1])} — {esc(t[2]["ro"])}</a></li>' for t in rel)+'</ul>'
         title=f'{f} — {name} | EKS LKW'

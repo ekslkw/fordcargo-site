@@ -2,7 +2,7 @@
 import json,html
 SITE='https://fordcargo.ro'
 CSS_VER='23'
-JS_VER='22'
+JS_VER='23'
 CSP=("default-src 'self'; script-src 'self'; script-src-elem 'self' 'unsafe-inline'; script-src-attr 'none'; "
      "style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; "
      "frame-src https://www.google.com https://maps.google.com; object-src 'none'; base-uri 'none'; form-action 'none'; upgrade-insecure-requests")
