@@ -109,7 +109,7 @@ header .brand-lockup .brand{padding-left:0!important}
 .footer-lockup .brand{padding-left:0!important;margin:0}
 
 /* v21: buton înapoi sus */
-.to-top{position:fixed;right:18px;bottom:88px;z-index:60;width:46px;height:46px;border-radius:50%;border:0;background:var(--gold);color:#142531;box-shadow:0 4px 14px rgba(0,0,0,.3);border:2px solid #fff;display:flex;align-items:center;justify-content:center;cursor:pointer;opacity:0;visibility:hidden;transform:translateY(10px);transition:opacity .2s,transform .2s,visibility .2s}
+.to-top{position:fixed;right:18px;bottom:88px;z-index:60;width:46px;height:46px;border-radius:50%;border:0;background:var(--gold);color:#142531;box-shadow:0 4px 14px rgba(0,0,0,.3);border:2px solid #fff;display:flex;align-items:center;justify-content:center;cursor:pointer;opacity:0;visibility:hidden;transform:translateY(10px);transition:opacity .12s,transform .12s,visibility .12s;touch-action:manipulation;-webkit-tap-highlight-color:transparent}
 .to-top.show{opacity:1;visibility:visible;transform:none}
 .to-top:hover,.to-top:focus-visible{background:#fff;color:#142531;outline:none}
 @media (max-width:700px){.to-top{right:14px;bottom:84px;width:42px;height:42px}}

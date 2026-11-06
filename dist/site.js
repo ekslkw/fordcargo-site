@@ -11,6 +11,6 @@ document.querySelectorAll('.icon-motion-toggle').forEach(button=>button.addEvent
   b.innerHTML='<svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M12 5l-7 7 1.4 1.4L11 8.8V20h2V8.8l4.6 4.6L19 12z" fill="currentColor"/></svg>';
   b.addEventListener('click',function(){var r=window.matchMedia('(prefers-reduced-motion: reduce)').matches;window.scrollTo({top:0,behavior:r?'auto':'smooth'});});
   document.body.appendChild(b);
-  var on=false;function chk(){var v=window.scrollY>600;if(v!==on){on=v;b.classList.toggle('show',v);}}
+  var on=false;function chk(){var v=window.scrollY>250;if(v!==on){on=v;b.classList.toggle('show',v);}}
   window.addEventListener('scroll',chk,{passive:true});chk();
 })();
