@@ -154,3 +154,19 @@ footer .brand2 .b-name{font-size:28px}
 @media(max-width:380px){.brand2 .b-sub{display:none}.brand2 .b-name{font-size:21px}}
 @media(prefers-reduced-motion:reduce){.brand2 .b-name span{animation:none}}
 @media(max-width:700px){.hero-motion-toggle{top:auto;bottom:12px;right:12px}}
+/* v23: siglă text „șablon” (SVG) */
+.brand2 .b-name{display:block;line-height:0}
+.brand2 .wm{height:34px;width:auto;display:block;overflow:visible}
+.brand2 .wm-l{fill:#142531;transform-box:fill-box;transform-origin:50% 100%;animation:brand-wave2 3.4s ease-in-out infinite;animation-delay:calc(var(--i) * .12s)}
+.brand2 .wm-g{fill:#c8941f}
+footer .brand2 .wm-l{fill:#fff}
+footer .brand2 .wm-g{fill:#e8b548}
+footer .brand2 .wm{height:30px}
+@keyframes brand-wave2{0%,100%{transform:translateY(0) skewY(0)}25%{transform:translateY(-3px) skewY(-2deg)}50%{transform:translateY(0) skewY(0)}75%{transform:translateY(2px) skewY(1.5deg)}}
+@media(max-width:700px){.brand2 .wm{height:25px}}
+@media(prefers-reduced-motion:reduce){.brand2 .wm-l{animation:none}}
+/* v23: toată cartela de categorie este clicabilă */
+.part-card{position:relative;transition:box-shadow .15s,transform .15s}
+.part-card a::after{content:"";position:absolute;inset:0;border-radius:inherit}
+.part-card:hover{box-shadow:0 8px 22px #14253118;transform:translateY(-2px)}
+.part-card:focus-within{outline:3px solid #cd8d19;outline-offset:2px}

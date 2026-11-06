@@ -60,6 +60,22 @@ for l in open('data/xref/nume-verificate.tsv',encoding='utf-8'):
 for r in recs:
     if r['group']=='motor' and r['en'].lower().startswith('connecting rod') and re.match(r'(Bară|Tijă) de legătură',r['ro']):
         r['ro']=re.sub(r'^(Bară|Tijă) de legătură','Bielă',r['ro']); log.append(('nume',r['refs'][0],r['ro']))
+# fără nume de alte firme în denumiri și coduri (decizia proprietarului)
+BR=[(r'\bAdmisie aer Webasto\b','Admisie aer încălzitor staționar'),(r'\bWebasto air inlet\b','Auxiliary heater air inlet'),
+    (r'\bBec bord Webasto\b','Bec bord încălzitor staționar'),(r'\bWebasto cluster bulb\b','Auxiliary heater indicator bulb'),
+    (r'\bPompă Webasto\b','Pompă încălzitor staționar'),(r'\bWebasto pump\b','Auxiliary heater pump'),
+    (r',?\s*Webasto\b',' încălzitor staționar'),(r'\bSenzor KITAS4 ZF TX 19MM\b','Senzor tahograf, 19 mm'),(r'\bSensor KITAS4 ZF TX 19MM\b','Tachograph sensor, 19 mm'),
+    (r',?\s*tip Volvo\b',''),(r',?\s*Volvo type\b',''),(r'\s*\(Mercedes\)',''),(r',\s*Iveco\b',''),(r'\bIveco\s*/\s*Ford,\s*',''),
+    (r',?\s*\bEaton\b',''),(r'\bZF\s+',''),(r'\s+ZF\b','')]
+for r in recs:
+    for k in ('ro','en'):
+        v=r[k]
+        for a,b in BR: v=re.sub(a,b,v)
+        if k=='en': v=v.replace('încălzitor staționar','auxiliary heater')
+        v=re.sub(r'^Set\s*/\s*Ford,\s*','Set, ',v)
+        v=re.sub(r'\s{2,}',' ',v).strip().strip(',').strip()
+        if v!=r[k]: log.append(('marca',r['refs'][0],r[k],'->',v)); r[k]=v
+    r['refs']=[re.sub(r'^SKF\s+','',re.sub(r'\s+BTH-\d+$','',x)) for x in r['refs']]
 json.dump(cat,open(C,'w'),ensure_ascii=False)
 for x in log: print(*x)
 print('fișe',len(recs))

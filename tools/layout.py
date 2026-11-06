@@ -10,13 +10,24 @@ HOURS={'ro':'Luni–Vineri: 08:00–18:00<br>Sâmbătă: 08:00–15:30<br>Dumini
        'en':'Monday–Friday: 08:00–18:00<br>Saturday: 08:00–15:30<br>Sunday: 08:30–13:00'}
 LOGO='<img class="vehicle" src="/assets/eks-lkw-logo-140.webp" alt="" width="70" height="69">'
 LOGO_FOOT='<img class="vehicle" src="/assets/eks-lkw-logo-140.webp" alt="" width="56" height="55" loading="lazy">'
-def brand_html(lang,cls='brand2'):
+WM_LETTERS=[('M0 0H70V22H24V39H64V61H24V78H70V100H0Z',70),('M0 0H24V38L48 0H75L42 50L75 100H48L24 62V100H0Z',75),
+ ('M70 0H10L0 10V46L10 56H46V78H0V100H60L70 90V54L60 44H24V22H70Z',70),None,('M0 0H24V78H70V100H0Z',70),
+ ('M0 0H24V38L48 0H75L42 50L75 100H48L24 62V100H0Z',75),('M0 0H22L30 68L40 22H54L64 68L72 0H94L80 100H60L47 50L34 100H14Z',94)]
+def wordmark(uid='h'):
+    x=0;ps='';n=0
+    for i,l in enumerate(WM_LETTERS):
+        if l is None: x+=30;continue
+        d,w=l; ps+=f'<g transform="translate({x} 0)"><path class="wm-l{" wm-g" if i>=4 else ""}" style="--i:{n}" d="{d}"/></g>'; x+=w+10; n+=1
+    x-=10
+    return (f'<svg class="wm" viewBox="-8 -6 {x+16} 112" aria-hidden="true" focusable="false"><g transform="skewX(-9)">'
+            f'<mask id="wmc-{uid}" maskUnits="userSpaceOnUse" x="-30" y="-20" width="{x+60}" height="150"><rect x="-30" y="-20" width="{x+60}" height="150" fill="#fff"/><rect x="-30" y="47" width="{x+60}" height="5" fill="#000"/></mask>'
+            f'<g mask="url(#wmc-{uid})">{ps}</g></g></svg>')
+def brand_html(lang,cls='brand2',uid='h'):
     top='SINCE 1990 · ROMANIA' if lang=='en' else 'DIN 1990 · ROMÂNIA'
     sub='Parts for Ford Trucks' if lang=='en' else 'Piese pentru camioane Ford Trucks'
-    name=''.join(f'<span style="--i:{i}">{c}</span>' if c!=' ' else '<span class="sp"> </span>' for i,c in enumerate('EKS LKW'))
     href='/en/' if lang=='en' else '/'
     return (f'<span class="brand-sep" aria-hidden="true"></span><a class="{cls}" href="{href}" aria-label="EKS LKW — {sub}">'
-            f'<span class="b-top">{top}</span><span class="b-name" aria-hidden="true">{name}</span><span class="b-sub">{sub}</span></a>')
+            f'<span class="b-top">{top}</span><span class="b-name">{wordmark(uid)}</span><span class="b-sub">{sub}</span></a>')
 SOCIAL=('<div class="social"><a href="https://www.facebook.com/PieseAutoCamioane/" target="_blank" rel="noopener" aria-label="facebook"><img src="/assets/facebook.svg" alt="" width="21" height="21"></a>'
         '<a href="https://www.instagram.com/ekslkw/" target="_blank" rel="noopener" aria-label="instagram"><img src="/assets/instagram.svg" alt="" width="21" height="21"></a>'
         '<a href="https://www.tiktok.com/@ekslkwsrl" target="_blank" rel="noopener" aria-label="tiktok"><img src="/assets/tiktok.svg" alt="" width="21" height="21"></a></div>')
@@ -49,13 +60,13 @@ def footer(lang):
                call='Sună acum',quick='Contact rapid',addr='Șoseaua Viilor 54, București 050152, România')
     else:
         t=dict(tag='Parts for the full Ford Trucks range and mounted bodies, on request. An EKS LKW PIESE AUTO website.',prog='Opening hours',info='Useful information',
-               links=[('/en/policies/returns/','Returns'),('/en/policies/delivery/','Delivery and payment'),('/en/policies/warranty/','Warranty'),('/en/policies/terms/','Terms'),
+               links=[('/en/faq','FAQ'),('/en/guides','Guides'),('/en/policies/returns/','Returns'),('/en/policies/delivery/','Delivery and payment'),('/en/policies/warranty/','Warranty'),('/en/policies/terms/','Terms'),
                       ('/en/policies/privacy/','Privacy'),('/en/policies/cookies/','Cookies'),('/en/references/','Part references')],
                reg='VAT RO36484785 · Trade Register J2016011620407',anpc='ANPC — Romanian consumer protection authority',sal='Alternative Dispute Resolution',pub='Public procurement',
                disc='FordCargo.ro is the website of EKS LKW PIESE AUTO S.R.L., an independent supplier of parts for Ford trucks. Ford, Ford Cargo and F-MAX are trademarks of their respective owners. This site is not affiliated with Ford Motor Company, Ford Otosan or the official Ford dealer network.',
                call='Call now',quick='Quick contact',addr='Șoseaua Viilor 54, Bucharest 050152, Romania')
     links=''.join(f'<a href="{u}">{n}</a>' for u,n in t['links'])
-    return (f'<footer class="universal-footer"><div class="wrap footer-grid"><div><div class="brand-lockup footer-lockup">'+LOGO_FOOT+brand_html(lang)+f'</div><p>{t["tag"]}</p>'
+    return (f'<footer class="universal-footer"><div class="wrap footer-grid"><div><div class="brand-lockup footer-lockup">'+LOGO_FOOT+brand_html(lang,uid='f')+f'</div><p>{t["tag"]}</p>'
             f'<a href="https://eurokolben.ro" target="_blank" rel="noopener">EKS LKW PIESE AUTO S.R.L. · eurokolben.ro</a></div><div><div class="business-hours"><strong>{t["prog"]}</strong><p>{HOURS[lang]}</p></div>'
             f'<strong>Contact</strong><a href="tel:+40733357357">+40 733 357 357</a><a href="tel:+40745820894">+40 745 820 894</a><a href="mailto:office@eurokolben.ro">EKS LKW PIESE AUTO S.R.L.<br>office@eurokolben.ro</a>'
             f'<p>{t["addr"]}<br>{t["reg"]}</p></div><div><strong>{t["info"]}</strong>{links}</div></div>'

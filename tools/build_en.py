@@ -30,11 +30,14 @@ GROUPS=['motor','transmisie','franare','suspensie','directie','electric','racire
 
 def map_href(u):
     base,frag=(u.split('#',1)+[''])[:2]; frag='#'+frag if frag else ''
+    if '?' in base:
+        b0,q=base.split('?',1)
+        return map_href(b0)+'?'+q+frag if b0 else u
     b=base.rstrip('/') or '/'
     if b in LINK: return LINK[b]+frag
     if b.endswith('.html') and b[:-5] in LINK: return LINK[b[:-5]]+frag
     m=re.fullmatch(r'/categorie/([a-z]+)',b)
-    if m and m.group(1) in GROUPS: return f'/en/references/{m.group(1)}/'+frag
+    if m and m.group(1) in GROUPS: return f'/en/references/{m.group(1)}/1/'+frag
     if b=='/politici/confidentialitate': return '/en/policies/privacy/'+frag
     return u
 def tr_text(s):
@@ -90,6 +93,7 @@ for rof,(rop,enp,enf) in PAGES.items():
     k=tail.find('</main>')+7; t2=tail[k:]
     fs=re.search(r'<footer.*?</footer>',t2,re.S)
     if fs: t2=t2[:fs.start()]+re.search(r'<footer.*?</footer>',layout.footer('en'),re.S).group(0)+t2[fs.end():]
+    t2=t2.replace('aria-label="Contact rapid"','aria-label="Quick contact"').replace('>Sună acum</a>','>Call now</a>')
     out=head+main+tail[:k]+t2
     os.makedirs(os.path.dirname(f'{D}/{enf}'),exist_ok=True)
     open(f'{D}/{enf}','w',encoding='utf-8').write(out)

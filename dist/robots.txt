@@ -3,6 +3,7 @@ User-agent: *
 Allow: /
 Disallow: /trimite-cerere.php
 Disallow: /redirect.php
+Disallow: /assets/sd-
 
 # Motoare de căutare și asistenți AI: acces permis pentru indexare și citare
 User-agent: Googlebot
@@ -22,5 +23,6 @@ User-agent: DuckAssistBot
 Allow: /
 Disallow: /trimite-cerere.php
 Disallow: /redirect.php
+Disallow: /assets/sd-
 
 Sitemap: https://fordcargo.ro/sitemap.xml

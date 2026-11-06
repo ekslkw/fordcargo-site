@@ -37,6 +37,9 @@ RewriteRule ^\\.well-known/ - [L]
 RewriteCond %{{HTTPS}} !=on [OR]
 RewriteCond %{{HTTP_HOST}} ^www\\. [NC]
 RewriteRule ^ https://fordcargo.ro%{{REQUEST_URI}} [R=301,L]
+# datele căutării se descarcă doar din paginile site-ului (nu direct)
+RewriteCond %{{HTTP_REFERER}} !^https://(www\\.)?fordcargo\\.ro/ [NC]
+RewriteRule ^assets/sd-[0-9a-f]+\\.txt$ - [F,L]
 # redirecționări fixe
 """ + ''.join(f"RewriteRule ^{ESC(a)}$ {b} [R=301,L]\n" for a,b in STATIC) + """# /pagina.html -> /pagina (doar la cererea directă a clientului)
 RewriteCond %{THE_REQUEST} \\s/([^\\s?]+)\\.html[\\s?] [NC]
@@ -105,3 +108,24 @@ import glob
 for f in ['static/robots.txt','static/llms.txt']+glob.glob('static/fordcargoro*.txt'):
     shutil.copy(f, f'{D}/'+os.path.basename(f))
 print('robots.txt, llms.txt, cheie IndexNow copiate')
+
+# --- datele căutării: nu se publică JSON-ul brut (fișier codificat + acces doar din paginile site-ului)
+import hashlib,random,re as _re
+src=f'{D}/assets/search-data.json'
+if os.path.exists(src):
+    txt=open(src,encoding='utf-8').read()
+    chars=[chr(c) for c in range(33,127)]
+    perm=chars[:]; random.Random(1990).shuffle(perm)
+    enc=txt.translate(str.maketrans(''.join(chars),''.join(perm)))
+    h=hashlib.sha256(enc.encode()).hexdigest()[:10]
+    for f in os.listdir(f'{D}/assets'):
+        if f.startswith('sd-') and f.endswith('.txt'): os.remove(f'{D}/assets/{f}')
+    open(f'{D}/assets/sd-{h}.txt','w',encoding='utf-8').write(enc)
+    os.remove(src)
+    js=f'{D}/unified-search.js'; j=open(js,encoding='utf-8').read()
+    dec=("(t=>{const A='"+''.join(chars).replace('\\','\\\\').replace("'","\\'")+"',B='"+''.join(perm).replace('\\','\\\\').replace("'","\\'")+"';const m={};for(let i=0;i<B.length;i++)m[B[i]]=A[i];"
+         "let o='';for(const c of t)o+=m[c]||c;return JSON.parse(o)})")
+    j=_re.sub(r"fetch\('/assets/(?:search-data\.json\?v=\d+|sd-[0-9a-f]+\.txt)'\)\.then\(r=>\{if\(!r\.ok\)throw Error\('load'\);return (?:r\.json\(\)|r\.text\(\)\.then\(.*?\))\}",
+               lambda m:f"fetch('/assets/sd-{h}.txt').then(r=>{{if(!r.ok)throw Error('load');return r.text().then({dec})}}",j,count=1,flags=_re.S)
+    open(js,'w',encoding='utf-8').write(j)
+    print('date căutare codificate:',f'sd-{h}.txt')

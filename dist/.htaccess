@@ -12,6 +12,9 @@ RewriteRule ^\.well-known/ - [L]
 RewriteCond %{HTTPS} !=on [OR]
 RewriteCond %{HTTP_HOST} ^www\. [NC]
 RewriteRule ^ https://fordcargo.ro%{REQUEST_URI} [R=301,L]
+# datele căutării se descarcă doar din paginile site-ului (nu direct)
+RewriteCond %{HTTP_REFERER} !^https://(www\.)?fordcargo\.ro/ [NC]
+RewriteRule ^assets/sd-[0-9a-f]+\.txt$ - [F,L]
 # redirecționări fixe
 RewriteRule ^magazin$ /catalog [R=301,L]
 RewriteRule ^magazin\.html$ /catalog [R=301,L]
