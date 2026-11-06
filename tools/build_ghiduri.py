@@ -82,6 +82,7 @@ def write(path,html):
     fp=D+path+('index.html' if path.endswith('/') else '')
     os.makedirs(os.path.dirname(fp),exist_ok=True); open(fp,'w',encoding='utf-8').write(html)
 
+json_ld_ro={}
 for a in ART:
     path=f'/ghid/{a["slug"]}/'
     crumbs=[('Acasă','/'),('Ghiduri','/ghiduri'),(a['title'],path)]
@@ -95,6 +96,7 @@ for a in ART:
     ld={"@context":"https://schema.org","@type":"Article","headline":a['title'],"description":a['desc'],"datePublished":a['date'],"dateModified":a['date'],
         "inLanguage":"ro","author":ORG,"publisher":{**ORG,"logo":{"@type":"ImageObject","url":SITE+"/assets/eks-lkw-logo.jpg"}},
         "mainEntityOfPage":SITE+path,"image":SITE+"/assets/parts-still-life.webp"}
+    json_ld_ro[a['slug']]=ld
     write(path,page('ro',a['title']+' | EKS LKW',a['desc'],path,main,crumbs,ld=ld))
 
 # pagina /ghiduri: lista articolelor în locul conținutului vechi
@@ -110,3 +112,93 @@ for k,v in (('og:title','Ghiduri: coduri și identificarea pieselor pentru camio
     h=re.sub(rf'(<meta property="{k}" content=")[^"]*',lambda m:m.group(1)+v,h)
 open(p,'w',encoding='utf-8').write(h)
 print('ghiduri:',[(a['slug'],wc(a['body'])) for a in ART])
+
+# --- versiunea în engleză (/en/guides/...) ---
+ART_EN={
+'identificare-piesa-ford-cargo':dict(slug='finding-the-right-ford-cargo-part',
+ title='How to find the right part for a Ford Cargo',
+ desc='What to prepare before asking for a Ford Cargo part: the number on the part, where it is fitted, the VIN and the photos that help identify it.',
+ lead='Two Ford Cargo trucks from the same year can have a different engine, gearbox or axle. That is why our first question on the phone is not “which model?” but “what does it say on the part?”.',
+ body='''
+<h2>1. Start with the old part</h2>
+<p>The number on the removed part is the most reliable information. On Ford parts it usually looks like <b>7C46 7550 BA</b> (a clutch disc) or <b>CC46 2L324 AA</b> (a parking brake valve). Copy it in full, including the letters at the end, and take a clear photo of the label or stamped marking.</p>
+<p>If the part carries several numbers, send all of them. One may be the Ford number, another the manufacturer's number, another a batch number. We sort them out when we check.</p>
+<h2>2. Say where it is fitted</h2>
+<p>For brakes, suspension and steering, the axle and side matter: front or rear, left or right. For an electrical part, photograph the connector too; the number of pins is easier to see in a photo than in a description. For hoses and pipes, a photo showing both ends helps.</p>
+<h2>3. The VIN helps when the number is missing</h2>
+<p>The chassis number (VIN) is in the registration document and on the plate in the cab. With it we can check the factory configuration when the part has no label left or has already been replaced by a part from another source. The VIN field in our form is optional. If you send a photo of the registration document, cover the owner's details; we only need the chassis number.</p>
+<h2>4. The body has its own plate</h2>
+<p>A tipper body, crane, tank or refuse compactor is not made by Ford. For those parts we need the equipment manufacturer and the serial number from the equipment plate, not the truck's VIN.</p>
+<h2>5. Ask for confirmation before ordering</h2>
+<p>The quote states the exact part number, the manufacturer (genuine Ford or aftermarket), the lead time and the price. If the suffix differs or there is a superseding version, we tell you before you order.</p>
+<p class="note">No part number? Tell us which part you need, for which truck, and what it looks like. We start from there and ask for anything that is missing.</p>
+'''),
+'cod-piesa-ford-prefix-baza-sufix':dict(slug='reading-a-ford-part-number',
+ title='How to read a Ford part number: prefix, base and suffix',
+ desc='A Ford number like 3C46 7548 BA has three parts. What each one tells you, why the suffix matters and how to search for it on FordCargo.ro.',
+ lead='Ford part numbers look hard to read, but they follow a fixed structure. Once you know it, you can quickly tell whether two numbers are the same part or just look alike.',
+ body='''
+<h2>The three parts</h2>
+<p>Take the clutch release bearing <b>3C46 7548 BA</b> as an example:</p>
+<dl>
+<dt>3C46 — the prefix</dt><dd>Generally shows the design period and the vehicle programme. Cargo parts often carry prefixes such as 3C46, 9C46, AC46 or CC46.</dd>
+<dt>7548 — the base</dt><dd>Tells you what kind of part it is. The same base number means the same function, whatever the prefix.</dd>
+<dt>BA — the suffix</dt><dd>Marks the version or revision of the part. AA is usually the first version; AB, BA and so on are later changes.</dd>
+</dl>
+<h2>The base shows the part group</h2>
+<p>Ford base numbers are grouped by system. Some groups you will see often in our catalogue:</p>
+<ul>
+<li><b>2xxx</b> — brakes (e.g. 2L324, parking brake valve)</li>
+<li><b>3xxx</b> — steering and front axle (3304, drag link)</li>
+<li><b>6xxx</b> — engine</li>
+<li><b>7xxx</b> — clutch and gearbox (7550 clutch disc, 7548 release bearing)</li>
+<li><b>8xxx</b> — cooling</li>
+<li><b>9xxx</b> — fuel and emissions</li>
+</ul>
+<p>Every part page on FordCargo.ro states which group the base number belongs to.</p>
+<h2>Don't drop the suffix</h2>
+<p>Two parts with the same base and different suffixes may be interchangeable, but they may also differ: another length, another number of splines, another connector. Always search the full number. If you only have part of it, say so in your request so we can check the versions.</p>
+<h2>How to type it in the search</h2>
+<p>In the <a href="/en/search">site search</a> you can type the number with spaces, with hyphens or joined up: <b>3C46 7548 BA</b>, <b>3C46-7548-BA</b> and <b>3C467548BA</b> find the same part. Watch out for 0 and O, 1 and I: the letters O and I are rare in Ford numbers, so it is usually a digit.</p>
+<p class="note">A catalogue result is a starting point. We confirm that it fits your truck in the quote.</p>
+'''),
+'coduri-t-finis-si-coduri-ford':dict(slug='t-finis-and-ford-part-numbers',
+ title='T, FINIS and Ford numbers: one part, several numbers',
+ desc='Why the same Ford truck part shows up with a Ford number and a T or FINIS number, and how to find the link between them on FordCargo.ro.',
+ lead='An old invoice says T199352, the part itself says CC46 2L324 AA. It is the same valve. This happens a lot and causes confusion when ordering.',
+ body='''
+<h2>Where the different numbers come from</h2>
+<p>The Ford number (such as <b>CC46 2L324 AA</b>) is the design number marked on the part. Alongside it, distribution catalogues, packaging labels and invoices use other numbers: short numbers starting with T, such as <b>T199352</b>, or numeric 7-digit FINIS numbers. They do not replace the Ford number; they accompany it in ordering systems.</p>
+<h2>How we link them in the catalogue</h2>
+<p>When the link between a T or FINIS number and a Ford number is documented, we show both on the same part page, under “Referințe asociate” (related references). A few examples from the catalogue:</p>
+<ul>
+<li><a href="/piesa/cc462l324aa/">CC46 2L324 AA</a> = T199352 — parking brake circuit relay valve</li>
+<li>7C46 7550 BA = T165054 — clutch disc, 430 mm</li>
+<li>AC46 7K626 AA = T190733 — clutch slave cylinder</li>
+</ul>
+<p>You can search any of them in the <a href="/en/search">search</a>; the result leads to the same page.</p>
+<h2>When there is no link</h2>
+<p>For some T numbers we do not have a matching Ford number yet. Their pages show only the number and the name. That does not mean the part cannot be found; it just has to be checked separately. Send us the number and, if possible, a photo of the part or its packaging.</p>
+<h2>What not to do</h2>
+<p>Don't assume two numbers are equivalent just because the digits look alike. T199352 and T199353 can be completely different parts. We establish equivalence from documents, not from similar-looking numbers.</p>
+'''),
+}
+for a in ART:
+    e=ART_EN[a['slug']]; path=f'/en/guides/{e["slug"]}/'
+    crumbs=[('Home','/en/'),('Guides','/en/guides'),(e['title'],path)]
+    words=wc(e['body'])
+    main=(crumbs_html(crumbs,'en')+'<article class="guide">'
+          f'<div class="eyebrow">GUIDE · {words//180+1} MIN</div><h1>{esc(e["title"])}</h1>'
+          f'<p class="guide-meta">EKS LKW · <time datetime="{a["date"]}">{a["date"][8:10]}.{a["date"][5:7]}.{a["date"][:4]}</time></p>'
+          f'<p class="lead">{e["lead"]}</p>{e["body"]}'
+          '<p class="detail-actions"><a class="button" href="/en/contact">Request a quote</a> <a class="button secondary" href="/en/search">Search by part number</a></p>'
+          '<h2>More guides</h2><ul>'+''.join(f'<li><a href="/en/guides/{ART_EN[b["slug"]]["slug"]}/">{esc(ART_EN[b["slug"]]["title"])}</a></li>' for b in ART if b is not a)+'</ul></article>')
+    ld={"@context":"https://schema.org","@type":"Article","headline":e['title'],"description":e['desc'],"datePublished":a['date'],"dateModified":a['date'],
+        "inLanguage":"en","author":ORG,"publisher":{**ORG,"logo":{"@type":"ImageObject","url":SITE+"/assets/eks-lkw-logo.jpg"}},
+        "mainEntityOfPage":SITE+path,"image":SITE+"/assets/parts-still-life.webp"}
+    write(path,page('en',e['title']+' | EKS LKW',e['desc'],path,main,crumbs,ld=ld,alt=('ro',f'/ghid/{a["slug"]}/')))
+    # RO: legătura către EN
+    rp=f'/ghid/{a["slug"]}/'
+    write(rp,page('ro',a['title']+' | EKS LKW',a['desc'],rp,open(D+rp+'index.html',encoding='utf-8').read().split('<main id="main" class="wrap catalog-detail">',1)[1].rsplit('</main>',1)[0],
+                  [('Acasă','/'),('Ghiduri','/ghiduri'),(a['title'],rp)],ld=json_ld_ro[a['slug']],alt=('en',path)))
+print('ghiduri EN:',len(ART_EN))

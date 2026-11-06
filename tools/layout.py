@@ -2,7 +2,7 @@
 import json,html
 SITE='https://fordcargo.ro'
 CSS_VER='21'
-JS_VER='20'
+JS_VER='21'
 CSP=("default-src 'self'; script-src 'self'; script-src-elem 'self' 'unsafe-inline'; script-src-attr 'none'; "
      "style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; "
      "frame-src https://www.google.com https://maps.google.com; object-src 'none'; base-uri 'none'; form-action 'none'; upgrade-insecure-requests")
@@ -23,12 +23,14 @@ def header(lang,alt_url=None):
         if alt_url: nav+=f'<a href="{alt_url}" hreflang="en" lang="en">EN</a>'
         top='PIESE ȘI ACCESORII PENTRU CAMIOANE ȘI CAPETE TRACTOR'; skip='Sari la conținut'; menu='Meniu ☰'; navl='Navigație principală'
     else:
-        nav=('<a href="/">Home (RO)</a><a href="/en/references/">Part references</a><a href="/cauta-piese">Search parts</a><a href="/contact">Contact</a>'
-             '<a class="nav-quote" href="/contact#cerere">Request a quote</a>')
+        nav=('<a href="/en/">Home</a><details class="models-menu"><summary>Ford models</summary><div><a href="/en/ford-cargo-parts">Cargo</a><a href="/en/ford-f-max-parts">F-MAX and variants</a>'
+             '<a href="/en/ford-f-line-parts">F-LINE</a><a href="/en/ford-tractor-unit-parts">Tractor units</a><a href="/en/ford-construction-tipper-parts">Construction / Tippers</a>'
+             '<a href="/en/ford-special-vehicle-parts">Special vehicles and bodies</a></div></details><a href="/en/catalog">Parts catalogue</a><a href="/en/search">Search parts</a>'
+             '<a href="/en/about">About us</a><a href="/en/contact">Contact</a><a class="nav-quote" href="/en/contact#cerere">Request a quote</a>')
         if alt_url: nav+=f'<a href="{alt_url}" hreflang="ro" lang="ro">RO</a>'
         top='PARTS AND ACCESSORIES FOR FORD TRUCKS AND TRACTOR UNITS'; skip='Skip to content'; menu='Menu ☰'; navl='Main navigation'
     return (f'<a class="skip" href="#main">{skip}</a><div class="topline"><div class="wrap">{top} <a href="tel:+40733357357">+40 733 357 357 </a></div></div>'
-            f'<header class="wrap"><div class="brand-lockup">{LOGO}<a class="brand" href="/">EKS LKW<small>FordCargo.ro</small></a></div>'
+            f'<header class="wrap"><div class="brand-lockup">{LOGO}<a class="brand" href="{'/en/' if lang=='en' else '/'}">EKS LKW<small>FordCargo.ro</small></a></div>'
             f'<button class="menu" aria-controls="navigation" aria-expanded="false">{menu}</button><nav id="navigation" aria-label="{navl}">{nav}</nav>{SOCIAL}</header>')
 def footer(lang):
     if lang=='ro':
@@ -46,7 +48,7 @@ def footer(lang):
                disc='FordCargo.ro is the website of EKS LKW PIESE AUTO S.R.L., an independent supplier of parts for Ford trucks. Ford, Ford Cargo and F-MAX are trademarks of their respective owners. This site is not affiliated with Ford Motor Company, Ford Otosan or the official Ford dealer network.',
                call='Call now',quick='Quick contact',addr='Șoseaua Viilor 54, Bucharest 050152, Romania')
     links=''.join(f'<a href="{u}">{n}</a>' for u,n in t['links'])
-    return (f'<footer class="universal-footer"><div class="wrap footer-grid"><div><div class="brand-lockup footer-lockup">'+LOGO_FOOT+f'<a class="brand" href="/">EKS LKW<small>FordCargo.ro</small></a></div><p>{t["tag"]}</p>'
+    return (f'<footer class="universal-footer"><div class="wrap footer-grid"><div><div class="brand-lockup footer-lockup">'+LOGO_FOOT+f'<a class="brand" href="{'/en/' if lang=='en' else '/'}">EKS LKW<small>FordCargo.ro</small></a></div><p>{t["tag"]}</p>'
             f'<a href="https://eurokolben.ro" target="_blank" rel="noopener">EKS LKW PIESE AUTO S.R.L. · eurokolben.ro</a></div><div><div class="business-hours"><strong>{t["prog"]}</strong><p>{HOURS[lang]}</p></div>'
             f'<strong>Contact</strong><a href="tel:+40733357357">+40 733 357 357</a><a href="tel:+40745820894">+40 745 820 894</a><a href="mailto:office@eurokolben.ro">EKS LKW PIESE AUTO S.R.L.<br>office@eurokolben.ro</a>'
             f'<p>{t["addr"]}<br>{t["reg"]}</p></div><div><strong>{t["info"]}</strong>{links}</div></div>'

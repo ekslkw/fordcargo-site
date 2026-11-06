@@ -23,6 +23,7 @@ GROUPS={ # cheie: (RO, EN, descriere RO, descriere EN)
 }
 ORDER=list(GROUPS)
 PER_CAT=100; PER_REF=80
+def pid(x): return re.sub(r'^t?dizelsan','k',x['id'],flags=re.I)
 def slug(s): return re.sub(r'[^a-z0-9]','',s.replace('İ','').replace('ı','').lower())
 def codekey(s): return slug(s)
 def ro_quote_link(name,codes): return '/contact?part='+quote(f'{name} — {codes}',safe='')+'#cerere'
@@ -42,7 +43,7 @@ for g in rec_group: rec_group[g].sort(key=lambda x:codekey(x['refs'][0]))
 # pagina (RO/EN references) pe care apare fiecare fișă
 ref_page={}
 for g,lst in rec_group.items():
-    for i,x in enumerate(lst): ref_page[x['id']]=i//PER_REF+1
+    for i,x in enumerate(lst): ref_page[pid(x)]=i//PER_REF+1
 # --- curăță directoarele generate
 for d in ['piesa','categorie','referinte','en/references']:
     shutil.rmtree(os.path.join(D,d),ignore_errors=True)
@@ -76,7 +77,7 @@ for g,lst in by_group.items():
         rel=[lst[(i+k)%n] for k in range(1,7) if n>1 and (i+k)%n!=i]
         seen=set(); rel=[t for t in rel if not (t[0] in seen or seen.add(t[0]))]
         models=', '.join(x['models'])
-        en_url=f"/en/references/{g}/{ref_page[x['id']]}/#piesa-{x['id']}"
+        en_url=f"/en/references/{g}/{ref_page[pid(x)]}/#piesa-{pid(x)}"
         dl=f'<dt>Cod / referință</dt><dd>{esc(f)}</dd><dt>Cod fără separatori</dt><dd>{esc(re.sub(r"[^A-Za-z0-9İ]","",f))}</dd><dt>Categorie</dt><dd><a href="/categorie/{g}/">{esc(gro)}</a></dd>'
         if others: dl+='<dt>Referințe asociate</dt><dd>'+' · '.join(f'<a href="/piesa/{slug(o)}/">{esc(o)}</a>' for o in others)+'</dd>'
         if models: dl+=f'<dt>Aplicație</dt><dd>{esc(models)}</dd>'
@@ -151,7 +152,7 @@ for lang in ['ro','en']:
             for x in lst[(p-1)*PER_REF:p*PER_REF]:
                 nm=x[lang]; codes=', '.join(x['refs'])
                 code_html=' · '.join(f'<a href="/piesa/{slug(r)}/">{esc(r)}</a>' for r in x['refs'])
-                rows+=(f'<tr id="piesa-{x["id"]}"><td><b>{esc(nm)}</b><small>{T["kind"]}</small></td><td class="code">{code_html}</td>'
+                rows+=(f'<tr id="piesa-{pid(x)}"><td><b>{esc(nm)}</b><small>{T["kind"]}</small></td><td class="code">{code_html}</td>'
                        f'<td>{esc(", ".join(x["models"])) or T["conf"]}</td><td><a href="{ro_quote_link(nm,codes)}">{T["ask"]}</a></td></tr>')
             nav=[]
             if p>1: nav.append(f'<a href="{base}{g}/{p-1}/">{T["prev"]}</a>')
@@ -180,7 +181,7 @@ for lang in ['ro','en']:
         write('/en/references/',page('en','Part references | EKS LKW','Ford Trucks part references by group: engine, transmission, braking, suspension, cab and more. Request a quote from EKS LKW, Bucharest.','/en/references/',main,[('Home','/'),('Part references','/en/references/')],alt=('ro','/referinte/')))
 # --- date căutare (format compact v2: [id, ro, en, coduri "a|b", modele "a|b", indice grupă, pagina EN, slug pagină RO])
 gi={g:i for i,g in enumerate(ORDER)}
-rows=[[x['id'],x['ro'],x['en'],'|'.join(x['refs']),'|'.join(x['models']),gi[x['group']],ref_page[x['id']],slug(x['refs'][0])] for x in data]
+rows=[[pid(x),x['ro'],x['en'],'|'.join(x['refs']),'|'.join(x['models']),gi[x['group']],ref_page[pid(x)],slug(x['refs'][0])] for x in data]
 json.dump({'v':2,'g':ORDER,'r':rows},open(os.path.join(D,'assets/search-data.json'),'w'),ensure_ascii=False,separators=(',',':'))
 print('piese',len(pages),'| categorii',{g:len(by_group.get(g,[])) for g in ORDER})
 
