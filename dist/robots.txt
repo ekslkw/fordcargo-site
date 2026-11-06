@@ -1,0 +1,26 @@
+# fordcargo.ro — EKS LKW Piese Auto S.R.L.
+User-agent: *
+Allow: /
+Disallow: /trimite-cerere.php
+Disallow: /redirect.php
+
+# Motoare de căutare și asistenți AI: acces permis pentru indexare și citare
+User-agent: Googlebot
+User-agent: Bingbot
+User-agent: Google-Extended
+User-agent: Applebot
+User-agent: Applebot-Extended
+User-agent: GPTBot
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: ClaudeBot
+User-agent: Claude-User
+User-agent: Claude-SearchBot
+User-agent: DuckAssistBot
+Allow: /
+Disallow: /trimite-cerere.php
+Disallow: /redirect.php
+
+Sitemap: https://fordcargo.ro/sitemap.xml

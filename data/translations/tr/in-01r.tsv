@@ -1,0 +1,291 @@
+T400	ANAHTAR KOMPLE - 4.LU SINYAL	Switch complete - 4. turn signal	Întrerupător complet - 4. semnalizare
+T401	ANAHTAR KOMPLE - KLIMA ACMA KAPAMA	Switch complete - air conditioning opening closing	Întrerupător complet - climatizare deschidere închidere
+T402	ANAHTAR KOMPLE - KLIMA IC DOLASIM	Switch complete - air conditioning inner circulation	Întrerupător complet - climatizare interior circulație
+T403	ANAHTAR KOMPLE - PTO (POWER TAKE OFF)	Switch complete - PTO ( take-off off)	Întrerupător complet - PTO ( preluare oprit)
+T404	ANAHTAR KOMPLE DIFF KILIT	Switch complete differential lock	Întrerupător complet diferențial încuietoare
+T405	ANAHTAR KOMPLE	Switch complete	Întrerupător complet
+T406	ANAHTAR KOMPLE- FLASOR	Switch complete- flasher relay	Întrerupător complet- releu semnalizare
+T407	ANAHTAR KOMPLE- FLASÖR ENG	Switch complete- flasher relay engine	Întrerupător complet- releu semnalizare motor
+T408	ANAHTAR KOMPLE-4.LU SINYAL	Switch complete-4. turn signal	Întrerupător complet-4. semnalizare
+T409	ANAHTAR KOMPLE-DIFERANSIYEL KILIT	Switch complete-differential lock	Întrerupător complet-diferențial încuietoare
+T410	ANAHTAR KOMPLE-DIFF.KILIT	Switch complete-differential.lock	Întrerupător complet-diferențial.încuietoare
+T411	ANAHTAR KOMPLE-INTERLOCK(6X4)	Switch complete-interlock(6X4)	Întrerupător complet-interblocare(6X4)
+T412	ANAHTAR KOMPLE-ON SIS FARI	Switch complete-front Fog lamp	Întrerupător complet-față Proiector ceață
+T413	ANAHTAR KOMPLE-ON SIS LAMBAS ENG	Switch complete-front fog lamp engine	Întrerupător complet-față ceață lampă motor
+T414	ANAHTAR KOMPLE-ON SIS LAMBASI	Switch complete-front fog lamp	Întrerupător complet-față ceață lampă
+T415	ANAHTAR KOMPLE-PTO	Switch complete-PTO	Întrerupător complet-PTO
+T416	ANAHTAR KOMPLE-SIS LAMBASI ARKA	Switch complete-fog lamp rear	Întrerupător complet-ceață lampă spate
+T417	ANAHTAR KOMPLE-SİS LAMBASI ARKA ENG	Switch complete-fog lamp rear engine	Întrerupător complet-ceață lampă spate motor
+T418	ANAHTAR KOMPLE-ÖN SIS FARI	Switch complete-front Fog lamp	Întrerupător complet-față Proiector ceață
+T419	ANAHTAR SAG/SOL KAPI CAMI ACMA	Switch right/left door glass opening	Întrerupător dreapta/stânga ușă geam deschidere
+T420	ANAHTAR SIYAH FORD TRUCKS	Switch black FORD trucks	Întrerupător negru FORD camioane
+T421	ANAHTAR İLAVE DINGIL KALDIRMA	Switch additional axle lifting	Întrerupător suplimentar punte ridicare
+T422	ANAHTAR- 1. DIFF.KILIT(6X4)	Switch- 1. differential.lock(6X4)	Întrerupător- 1. diferențial.încuietoare(6X4)
+T423	ANAHTAR-DEVRE KESICI -KABIN IC (ADR)	Switch-circuit cut-off switch -cab inner	Întrerupător-circuit întrerupător -cabină interior
+T424	ANAHTAR-ILAVE DING.KALDIRMA	Switch-additional axle.lifting	Întrerupător-suplimentar punte.ridicare
+T425	ANAHTAR-ISITICILI AYNA KONT	Switch-heated mirror control	Întrerupător-cu încălzire oglindă control
+T426	ANAHTAR-ISITICILI AYNA KONTROLU	Switch-heated mirror control	Întrerupător-cu încălzire oglindă control
+T427	ANAHTAR-KLIMA IC SIRKULASYON	Switch-air conditioning inner circulation	Întrerupător-climatizare interior circulație
+T428	ANAHTAR-MOTOR DIAGNOSTIK	Switch-engine diagnostic	Întrerupător-motor diagnoză
+T429	ANAHTAR-S/STEER DING.KALDIRMA	Switch-/ axle.lifting	Întrerupător-/ punte.ridicare
+T430	ANAHTAR-SAG- KAPI CAMI ACMA	Switch-right- door glass opening	Întrerupător-dreapta- ușă geam deschidere
+T431	ANAHTAR-SOL- KAPI CAMI ACMA	Switch-left- door glass opening	Întrerupător-stânga- ușă geam deschidere
+T432	ANAHTAR:DIS AYNA AYAR	Switch:outer mirror adjustment	Întrerupător:exterior oglindă reglaj
+T433	ANAHTAR:FAR AYARI	Switch:headlamp adjustment	Întrerupător:far reglaj
+T434	ANTEN DIREGI-RADYO	Antenna pillar-radio	Antenă stâlp-radio
+T435	ANTEN KABLOSU-RADYO	Antenna cable-radio	Antenă cablu-radio
+T436	ANTEN KOMPLE-RADYO (TAKIM)	Antenna complete-radio (set)	Antenă complet-radio (set)
+T437	ANTEN	Antenna	Antenă
+T438	ANTİFREEZ KIRMIZI - 56	Red - 56	Roșu - 56
+T439	ANTİFREEZ MAVİ -56 AXS AXAM	Blue -56 axle shaft components	Albastru -56 semiaxă componente
+T440	ANTİFREEZ MAVİ -56 OPT	Blue -56	Albastru -56
+T441	ANTİFREEZ MAVİ -56 TNS	Blue -56	Albastru -56
+T442	ANTİFREEZ MAVİ	Blue	Albastru
+T443	ANTİFREEZ	Component — check reference	Componentă — verificare după referință
+T444	ANTİFRİZ KIRMIZI -56 OPT	Antifreeze red -56	Antigel roșu -56
+T445	APLIK - ARKA PANEL	Fixture - rear panel	Aplică - spate panou
+T446	APLIK - ÜST ORTA	Fixture - upper middle	Aplică - superior central
+T447	APLIKE ON KAPI DIS UST SAG	Applied front door outer upper right	Aplicat față ușă exterior superior dreapta
+T448	ARA BAGLANTI - SU POMPASI	Intermediate connection - Water pump	Intermediar conexiune - Pompă de apă
+T449	ARA BORU HAVA FİLİTRE ÇIKIŞ MARKA VERİLECEKLER	Intermediate pipe air filter outlet brand	Intermediar conductă aer filtru ieșire marcă
+T450	ARA BORU-GENLESME DEPOSU	Intermediate pipe-Expansion tank	Intermediar conductă-Vas de expansiune
+T451	ARA BORU-GENLESME DEPOSU YATAKLI, NHDD 7.3 LT TCI	Intermediate pipe-Expansion tank with bearing, NHDD 7.3 L	Intermediar conductă-Vas de expansiune cu lagăr, NHDD 7.3 l
+T452	ARA BORU-HAVA FILTRESI CIKIS	Intermediate pipe-Air filter outlet	Intermediar conductă-Filtru de aer ieșire
+T453	ARA BORU-HAVA FILTRESI CIKIS YATAKSIZ	Intermediate pipe-Air filter outlet without sleeper berth	Intermediar conductă-Filtru de aer ieșire fără cușetă
+T454	ARA BORU-HV.F.CIK(H476+CINS)DC	Intermediate pipe-..outlet(H476+type)DC	Intermediar conductă-..ieșire(H476+tip)DC
+T455	ARA BORU-YAKIT GERI DONUS YATAKLI, YUKSEK TAVAN	Intermediate pipe-fuel reverse return with bearing, high roof	Intermediar conductă-combustibil marșarier retur cu lagăr, înalt plafon
+T456	ARA BORU-YAKIT.SU AYIRICIDAN .ANA FILT.YE	Intermediate pipe-fuel.water from separator .main filter	Intermediar conductă-combustibil.apă de la separator .principal filtru
+T457	ARA DIKME - MOTOR BLOGU ETEGI	Intermediate upright - Engine block skirt	Intermediar montant - Bloc motor fustă
+T458	ARA KABLO-SANZIMAN SOL VALFI	Intermediate cable-gearbox left valve	Intermediar cablu-cutie de viteze stânga supapă
+T459	ARA PARCA - BILYA	Intermediate part - bearing technical-work	Intermediar piesă - rulment tehnic-lucru
+T460	ARA PARCA - DIF KILIT	Intermediate part - differential lock	Intermediar piesă - diferențial încuietoare
+T461	ARA PARCA - FAN NHDD	Intermediate part - fan NHDD	Intermediar piesă - ventilator NHDD
+T462	ARA PARCA - FAN	Intermediate part - fan	Intermediar piesă - ventilator
+T463	ARA PARCA - ON MAKASI DINGILE	Intermediate part - front leaf spring to axle	Intermediar piesă - față arc cu foi către axă
+T464	ARA PARCA - PINYON RULMANI	Intermediate part - pinion bearing	Intermediar piesă - pinion rulment
+T465	ARA PARCA -CEKICI PLATFORMU	Intermediate part -tractor unit platform	Intermediar piesă -cap tractor platformă
+T466	ARA PARCA / FAN NHDD	Intermediate part / fan NHDD technical-work	Intermediar piesă / ventilator NHDD tehnic-lucru
+T467	ARA PARCA FAN	Intermediate part fan	Intermediar piesă ventilator
+T468	ARA PARCA	Intermediate part	Intermediar piesă
+T469	ARA PARCA KOMPLE - MODULU BLOGA BAGLAMA NHDD	Intermediate part complete - module to block fastening NHDD	Intermediar piesă complet - modul pentru bloc fixare NHDD
+T470	ARA PARCA(YASTIK) - KABLOLU VITES SISTEMI NHDD 300 PS	Intermediate part(cushion) - with cable gear system NHDD 300 PS	Intermediar piesă(pernă) - cu cablu treaptă de viteză sistem NHDD 300 PS
+T471	ARA PARCA-KORNA DUGMESI	Intermediate part-horn button	Intermediar piesă-claxon buton
+T472	ARA PARCA-ON AKS RULMANI	Intermediate part-front axle shaft bearing	Intermediar piesă-față semiaxă rulment
+T473	ARA PARCA-ON MAKAS U CIVATASIN	Intermediate part-front leaf spring bolt	Intermediar piesă-față arc cu foi șurub
+T474	ARA PARCA-ON MAKAS U CIVATASINA	Intermediate part-front leaf spring to bolt	Intermediar piesă-față arc cu foi pentru șurub
+T475	ARA PARÇA - ARKA AKS	Intermediate part - rear axle shaft	Intermediar piesă - spate semiaxă
+T476	ARA PARÇA DFR	Intermediate part differential	Intermediar piesă diferențial
+T477	ARA PARÇA FAN ÇIKMA	Intermediate part fan used part	Intermediar piesă ventilator dezmembrări
+T478	ARA PARÇA	Intermediate part	Intermediar piesă
+T479	ARA PARÇA PİNYON RULMANI	Intermediate part pinion bearing	Intermediar piesă pinion rulment
+T480	ARA PATCA- FAN	Intermediate - fan	Intermediar - ventilator
+T481	ARA PLAKA	Intermediate plate	Intermediar placă
+T482	ARA PTO UZATMA 170 KACIK EKSEN PIS.POMPA SANZIMAN	Intermediate PTO extension 170 offset axis .pump gearbox	Intermediar PTO prelungire 170 decalat axă .pompă cutie de viteze
+T483	ARA SAFT -6X4	Intermediate propeller shaft -6X4	Intermediar arbore de transmisie -6X4
+T484	ARA SEGMAN - MERITOR - (914463)	Intermediate ring - - (914463)	Intermediar inel - - (914463)
+T485	ARA SOGUTUCU KOMPLE	Intermediate cooler complete	Intermediar răcitor complet
+T486	ARA SOGUTUCU KOMPLE-RADYATOR	Intermediate cooler complete-radiator	Intermediar răcitor complet-radiator
+T487	ARA VANA ROCKER ARM ALMA	Intermediate valve rocker arm arm take-off	Intermediar robinet culbutor braț preluare
+T488	ARIZA TESHIS BAGLANTI KABLOSU - (SAMTEC)	Fault diagnosis connection cable	Defecțiune diagnoză conexiune cablu
+T489	ARKA - MOTOR TAKOZU	Rear - engine mount	Spate - motor tampon
+T490	ARKA AKS DIS DELIKLI FORD	Rear axle shaft outer perforated FORD	Spate semiaxă exterior perforat FORD
+T491	ARKA AKS KOMPLE - ON 5.41	Rear axle shaft complete - front 5.41	Spate semiaxă complet - față 5.41
+T492	ARKA AKS KOVANI - ARKA -6X4	Rear axle shaft sleeve - rear -6X4	Spate semiaxă manșon - spate -6X4
+T493	ARKA AKS KOVANI KOMPLE	Rear axle shaft sleeve complete	Spate semiaxă manșon complet
+T494	ARKA AKS MILI CIFT CEKER KAFASIZ	Rear Axle shaft double drive without head	Spate Planetară dublu tracțiune fără cap
+T495	ARKA AKS PULU F-MAX	F-MAX rear axle washer	Șaibă axă spate F-MAX
+T496	ARKA AKS SAFTI-SAG - (3191865) 116,5 CM	Rear axle shaft shaft-right - (3191865) 116,5 CM	Spate semiaxă arbore-dreapta - (3191865) 116,5 CM
+T497	ARKA AKS SAFTI-SAG - (3191867)	Rear axle shaft shaft-right - (3191867)	Spate semiaxă arbore-dreapta - (3191867)
+T498	ARKA AKS SAFTI-SOL - (3191864)	Rear axle shaft shaft-left - (3191864)	Spate semiaxă arbore-stânga - (3191864)
+T499	ARKA AKS SAFTI-SOL - (3191866)	Rear axle shaft shaft-left - (3191866)	Spate semiaxă arbore-stânga - (3191866)
+T500	ARKA AKS SAG (CIFT FREZE)	Rear axle shaft right (double spline)	Spate semiaxă dreapta (dublu canelură)
+T501	ARKA AKS SAĞ ÇİFT FREZE	Rear axle shaft right double spline	Spate semiaxă dreapta dublu canelură
+T502	ARKA AKS SOL TEK FREZE	Rear axle shaft left single spline	Spate semiaxă stânga simplu canelură
+T503	ARKA AMORTISOR ARKA KORUKLU (FA)	Rear shock absorber rear with bellows	Spate amortizor spate cu burduf
+T504	ARKA AMORTISOR	Rear shock absorber	Spate amortizor
+T505	ARKA AMORTISOR ON KORUKLU (EB)	Rear shock absorber front with bellows	Spate amortizor față cu burduf
+T506	ARKA AMORTİSOR SASE	Rear shock absorber chassis	Spate amortizor șasiu
+T507	ARKA AYNA MAHRUTİ 25/24	Rear Differential crown wheel and pinion 25/24	Spate Coroană și pinion diferențial 25/24
+T508	ARKA CAMURLUK - ON, ARKA(KENAR)	Rear mudguard - front, rear(edge)	Spate aripă - față, spate(margine)
+T509	ARKA CAMURLUK SAG 1826	Rear mudguard right 1826	Spate aripă dreapta 1826
+T510	ARKA CAMURLUK SOL YAN	Rear mudguard left side	Spate aripă stânga lateral
+T511	ARKA CAMURLUK-SAG/SOL-BOYASIZ	Rear mudguard-right/left-unpainted	Spate aripă-dreapta/stânga-nevopsit
+T512	ARKA CEKER CAMURLUK KELEPCESI	Rear drive mudguard clamp	Spate tracțiune aripă colier
+T513	ARKA DIS RULMAN	Rear outer bearing	Spate exterior rulment
+T514	ARKA DIS RULMAN-KOMPLE	Rear outer bearing-complete	Spate exterior rulment-complet
+T515	ARKA DIŞ RULMAN NEWSUN BEARING	Rear outer bearing bearing	Spate exterior rulment rulment
+T516	ARKA FREN HORTUMU HAVALI FREN LASTİK	Rear Brake hose pneumatic brake rubber	Spate Furtun de frână pneumatic frână cauciuc
+T517	ARKA FREN HORTUMU HAVALI FREN LASTİK Y.M	Rear Brake hose pneumatic brake rubber	Spate Furtun de frână pneumatic frână cauciuc
+T518	ARKA GOVDE	Rear body	Spate corp
+T519	ARKA KABIN KORUGU F MAX SAG	F MAX right rear cab air spring	Pernă de aer spate dreapta pentru cabină F MAX
+T520	ARKA KABIN KORUĞÜ F MAX SAG	F MAX right rear cab air spring	Pernă de aer spate dreapta pentru cabină F MAX
+T521	ARKA KABİN AMORTİSOR	Rear cab shock absorber	Spate cabină amortizor
+T522	ARKA KABİN AMORTİSÖRÜ	Rear Cab shock absorber	Spate Amortizor cabină
+T523	ARKA KABİN KÖRÜĞU	Rear Cab air spring	Spate Pernă de aer cabină
+T524	ARKA KABİN KÖRÜĞÜ	Rear Cab air spring	Spate Pernă de aer cabină
+T525	ARKA KAPAK - KUCUK AYNA (SPOT)	Rear cover - small mirror (spotlight)	Spate capac - mic oglindă (proiector)
+T526	ARKA KAPAK BUYUK 2524	Rear cover large 2524	Spate capac mare 2524
+T527	ARKA KAPAK BUYUK AYNA	Rear cover large mirror	Spate capac mare oglindă
+T528	ARKA KAPAK KÜÇÜK 2524	Rear cover small 2524	Spate capac mic 2524
+T529	ARKA KAPAK	Rear cover	Spate capac
+T530	ARKA KRANK KECE	Rear crankshaft oil seal	Spate arbore cotit simering
+T531	ARKA KRANK KECES	Rear crankshaft oil seal	Spate arbore cotit simering
+T532	ARKA KRANK KECESI	Rear crankshaft oil seal	Spate arbore cotit simering
+T533	ARKA KROS SEMER 4142	Rear crossmember saddle 4142	Suport traversă spate 4142
+T534	ARKA MAKAS KOMPLE	Rear leaf spring complete	Spate arc cu foi complet
+T535	ARKA MAKAS KOMPLE-TANDEM SUSPN	Rear leaf spring complete- suspension	Spate arc cu foi complet- suspensie
+T536	ARKA MOTOR AYAĞI ENDUSTRİYEL	Rear engine support leg industrial	Spate motor picior de sprijin industrial
+T537	ARKA MOTOR TAKOZU	Rear engine mount	Spate motor tampon
+T538	ARKA PANEL GÖVDE	Rear panel body	Spate panou corp
+T539	ARKA PANEL	Rear panel	Panou spate
+T540	ARKA PANEL SACI SPOILERLİ	Sheet metal rear panel with spoiler	Panou spate din tablă cu spoiler
+T541	ARKA PLAKA LAMBASI - ADR	Rear Number plate lamp	Spate Lampă număr înmatriculare
+T542	ARKA SAĞ DÖŞEME	Rear right upholstery	Spate dreapta tapițerie
+T543	ARKA SOL DÖŞEME	Rear left upholstery	Spate stânga tapițerie
+T544	ARKA SUSPANSIYAN CIVATA OZEL	Rear suspension bolt special	Spate suspensie șurub special
+T545	ARKA SUSPANSYION - EN ARKA KORUK	Rear suspension - width rear bellows	Spate suspensie - lățime spate burduf
+T546	ARKA SUSPANSYION -ARKA KORUK	Rear suspension -rear bellows	Spate suspensie -spate burduf
+T547	ARKA SUSPANSYION -ARKA KORUK SAG	Rear suspension -rear bellows right	Spate suspensie -spate burduf dreapta
+T548	ARKA SUSPANSYION -ARKA KORUK SOL	Rear suspension -rear bellows left	Spate suspensie -spate burduf stânga
+T549	ARKA SUSPANSYION -ARKANIN ÖNÜ KORUK	Rear suspension -rear front side bellows	Spate suspensie -din spate partea din față burduf
+T550	ARKA SUSPANSİYON	Rear suspension	Spate suspensie
+T551	ARKA SÜSPANSİYON ARKA KÖRÜK	Rear suspension rear bellows	Spate suspensie spate burduf
+T552	ARKA SÜSPANSİYON KÖRÜĞÜ	Rear Suspension air spring	Spate Pernă de aer suspensie
+T553	ARKA SÜSPANSİYON TABLA SOL	Rear suspension plate left	Spate suspensie placă stânga
+T554	ARKA TAMPON KOMPLE, 6X4 2630 DAMPERLI	Rear bumper complete, 6X4 2630 tipping	Spate bară de protecție complet, 6X4 2630 basculabil
+T555	ARKA TEKER PORYA CEKICI KECE	Rear wheel wheel hub tractor unit oil seal	Spate roată butuc de roată cap tractor simering
+T556	ARKA TEKER PORYA CEKICI	Rear wheel wheel hub tractor unit	Spate roată butuc de roată cap tractor
+T557	ARKA TESISAT KOMP-3230C 5500 W/BASE,3230 8X2	Complete rear wiring harness 3230C, 5500 wheelbase, 3230 8x2	Cablaj spate complet 3230C, ampatament 5500, 3230 8x2
+T558	ARKA TESISAT KOMPLE	Rear wiring harness complete	Spate cablaj complet
+T559	ARKA TESİSAT KOMPLE	Rear wiring harness complete	Spate cablaj complet
+T560	ARKA YAN CAM-SAG	Rear Side window-right	Spate Geam lateral-dreapta
+T561	ARKA YAN CAM-SOL	Rear Side window-left	Spate Geam lateral-stânga
+T562	ARKA YAN GOVDE TUTAMAK	Rear side body handle	Spate lateral corp mâner
+T563	ARKA YAN GÖVDE TUTAMAK MARKA VERİLECEKLER	Rear side body handle brand	Spate lateral corp mâner marcă
+T564	ARKA YATAY AMORTİSÖR YATAY BAĞLANTI AYAĞI MARKA VERİLECEKLER	Rear horizontal shock absorber horizontal connection support leg brand	Spate orizontal amortizor orizontal conexiune picior de sprijin marcă
+T565	ARKA İÇ RULMAN KOMPLE 3230	Complete inner rear bearing for 3230	Rulment interior spate complet pentru 3230
+T566	ARKA ŞASE AMORTİSÖRÜ F MAX	F MAX rear chassis shock absorber	Amortizor spate pentru șasiu F MAX
+T567	ARKA ŞASE AMÖRTİSÖRÜ	Rear chassis shock absorber	Spate șasiu amortizor
+T568	ASKI - EGR SOGUTUCU	Suspension - EGR cooler	Suspendare - EGR răcitor
+T569	ASKI ARKA VIRAJ DEMIRI	Suspension rear Anti-roll bar	Suspendare spate Bară stabilizatoare
+T570	ASKI KOMPLE-ARKA A/ROLLBAR	Suspension complete-rear /roll bar	Suspendare complet-spate /bară anti-ruliu
+T571	ASKI-ARKA VIRAJ DEMI	Suspension-rear anti-roll bar	Suspendare-spate stabilizator bară
+T572	ASKI-ARKA VIRAJ DEMIRI	Suspension-rear Anti-roll bar	Suspendare-spate Bară stabilizatoare
+T573	ASM ELEKTRONIK KUMANDA SISTEM	Assembly electronic control system	Ansamblu electronic comandă sistem
+T574	ASM ELEKTRONIK KUMANDA SISTEMI	Assembly electronic control system	Ansamblu electronic comandă sistem
+T575	ASM ELEKTRONİK KUMANDA SİSTEMİ	Assembly electronic control system	Ansamblu electronic comandă sistem
+T576	ASR ANAHTARI -ASR IKAZ	Switch - warning	Întrerupător - avertizare
+T577	ASR ANAHTARI KOMPLE	Switch complete	Întrerupător complet
+T578	ASR ANAHTARI	Switch	Întrerupător
+T579	AVADANLIK KUTU KAPAGI	Tool kit box cover	Trusă de scule cutie capac
+T580	AVADANLIK KUTU KAPAĞI	Tool kit box cover	Trusă de scule cutie capac
+T581	AVADANLIK KUTUSU KOMPLE	Tool kit housing complete	Trusă de scule carcasă complet
+T582	AVARA KASNAK - NHDD 7.3 LT TCI,+AC	Idler pulley - NHDD 7.3 L ,+AC	Intermediar fulie - NHDD 7.3 l ,+AC
+T583	AVARE DISLI BURCU	Idler gear bush	Intermediar roată dințată bucșă
+T584	AVARE DİŞLİ YATAĞI	Idler gear bearing	Intermediar roată dințată lagăr
+T585	AVARE KASNAK - NHDD	Idler pulley - NHDD	Intermediar fulie - NHDD
+T586	AYAKKABILIK 1838	Shoe storage tray for 1838	Suport pentru încălțăminte pentru 1838
+T587	AYAKKABILIK 1846-4142	Shoe storage tray for 1846, 4142	Suport pentru încălțăminte pentru 1846, 4142
+T588	AYAKKABILIK 2524/3230	Shoe storage tray 2524/3230	Suport încălțăminte 2524/3230
+T589	AYAR CIVATASI (CARGO-2520/3227)	Adjustment bolt (CARGO-2520/3227)	Reglaj șurub (CARGO-2520/3227)
+T590	AYAR CIVATASI KOMPLE SAĞ	Adjustment bolt complete right	Reglaj șurub complet dreapta
+T591	AYAR CIVATASI KOMPLE SOL	Adjustment bolt complete left	Reglaj șurub complet stânga
+T592	AYAR CIVATASI-FREN TABLASIN EGE FREN	Adjustment bolt-brake plate brake	Reglaj șurub-frână placă frână
+T593	AYAR CIVATASI-FREN TABLASINA	Adjustment bolt-brake to plate	Reglaj șurub-frână la placă
+T594	AYAR DISLI MILI KOMPLE	Adjuster gear shaft complete	Ax pinion de reglare complet
+T595	AYAR DISLI MILI	Adjuster gear shaft	Ax pinion de reglare
+T596	AYAR GOVDESI	Adjuster housing	Corp de reglare
+T597	AYAR HALKASI SOL KÜÇÜK	Adjustment ring left small	Reglaj inel stânga mic
+T598	AYAR KORUYUCU	Adjustment guard	Reglaj protecție
+T599	AYAR KUTUSU KOMPLE SAĞ	Adjustment assembly complete right	Ansamblu de reglare complet dreapta
+T600	AYAR KUTUSU KOMPLE SOL	Adjustment assembly complete left	Ansamblu de reglare complet stânga
+T601	AYAR KUTUSU SOLL	Adjustment assembly left	Ansamblu de reglare stânga
+T602	AYAR MANDALI KOMPLE ( Z CAM ÖNCESİ )	Adjustment latch complete ( glass before )	Zăvor de reglare complet ( geam înainte de )
+T603	AYAR MANDALI KOMPLE (ESKİ MODEL)	Adjustment latch complete (Earlier model)	Zăvor de reglare complet (Model vechi)
+T604	AYAR MANDALI-FREN TABLASI	Adjustment latch-Brake backplate	Zăvor de reglare-Platou frână
+T605	AYAR MEKANIZMASI GOVDE	Adjustment mechanism body	Mecanism de reglare corp
+T606	AYAR MEKANIZMASI KOMPLE SAG	Adjustment mechanism complete right	Mecanism de reglare complet dreapta
+T607	AYAR MEKANIZMASI KOMPLE SOL	Adjustment mechanism complete left	Mecanism de reglare complet stânga
+T608	AYAR MEKANIZMASI SOL EGE FREN	Adjustment mechanism left brake	Mecanism de reglare stânga frână
+T609	AYAR PISTONU (ES950832)	Adjustment piston (ES950832)	Reglaj piston (ES950832)
+T610	AYAR PISTONU(CARGO-2520/3227)	Adjustment piston(CARGO-2520/3227)	Reglaj piston(CARGO-2520/3227)
+T611	AYAR PULU - HAVA BOSLUGU	Adjustment washer - air clearance	Reglaj șaibă - aer joc
+T612	AYAR SOMUNU - MERITOR (1673664)	Adjustment nut - (1673664)	Reglaj piuliță - (1673664)
+T613	AYAR SOMUNU	Adjustment nut	Reglaj piuliță
+T614	AYAR SOMUNU SAG	Adjustment nut right	Reglaj piuliță dreapta
+T615	AYAR SOMUNU SOL - MERITOR (1673663)	Adjustment nut left - (1673663)	Reglaj piuliță stânga - (1673663)
+T616	AYARLI DEBRIYAJ ITICI CUBUGU	Adjustable clutch tappet rod	Reglabil ambreiaj tachet tijă
+T617	AYARLI DEBRIYAJ ITICI CUBUĞU	Adjustable clutch tappet rod technical-work	Reglabil ambreiaj tachet tijă tehnic-lucru
+T618	AYARLI DEBRİYAJ İTİCİ ÇUBUĞU	Adjustable clutch tappet rod	Reglabil ambreiaj tachet tijă
+T619	AYIRICI KOMPLE - YAG 12.7	Separator complete - oil 12.7	Separator complet - ulei 12.7
+T620	AYNA BUYUK ELEKTRIKSIZ	Mirror large non-electric	Oglindă mare fără acționare electrică
+T621	AYNA CAMI - ALT KUCUK SAG/SOL	Mirror glass - lower small right/left	Sticlă oglindă - inferior mic dreapta/stânga
+T622	AYNA CAMI - UST BUYUK SAG SOL	Mirror glass - upper large right left	Sticlă oglindă - superior mare dreapta stânga
+T623	AYNA CAMI - UST BUYUK SAG/SOL	Mirror glass - upper large right/left	Sticlă oglindă - superior mare dreapta/stânga
+T624	AYNA CAMI KÜÇÜK	Mirror glass small	Sticlă oglindă mic
+T625	AYNA CAMI- ALT KUCUK SAG SOL	Mirror glass- lower small right left	Sticlă oglindă- inferior mic dreapta stânga
+T626	AYNA DISLI BURCU	Mirror gear bush	Oglindă roată dințată bucșă
+T627	AYNA DISLI CIVATASI	Mirror gear bolt	Oglindă roată dințată șurub
+T628	AYNA DISLI PULU	Mirror gear washer	Oglindă roată dințată șaibă
+T629	AYNA DISLI SOMUNU	Mirror gear nut	Oglindă roată dințată piuliță
+T630	AYNA DIŞ DİKİZ SAĞ	Mirror outer rear-view right	Oglindă exterior retrovizor dreapta
+T631	AYNA ELEKTRİKLİ BÜYÜK YUVARLAK SOKET	Mirror electric large round connector	Oglindă electric mare rotund conector
+T632	AYNA GOVDESI - DIS DIKIZ AYNASI ALT SAG	Mirror housing - outer Rear-view mirror lower right	Oglindă corp - exterior Oglindă retrovizoare inferior dreapta
+T633	AYNA GOVDESI - DIS DIKIZ AYNASI ALT SOL	Mirror housing - outer Rear-view mirror lower left	Oglindă corp - exterior Oglindă retrovizoare inferior stânga
+T634	AYNA GOVDESI - DIS DIKIZ AYNASI SAG	Mirror housing - outer Rear-view mirror right	Oglindă corp - exterior Oglindă retrovizoare dreapta
+T635	AYNA GOVDESI - DIS DIKIZ AYNASI SOL	Mirror housing - outer Rear-view mirror left	Oglindă corp - exterior Oglindă retrovizoare stânga
+T636	AYNA KAPAGI:DIS AYNA GOVDESI,SAG	Mirror cover:outer mirror housing,right	Oglindă capac:exterior oglindă corp,dreapta
+T637	AYNA KAPAGI:DIS AYNA GOVDESI,SOL	Mirror cover:outer mirror housing,left	Oglindă capac:exterior oglindă corp,stânga
+T638	AYNA KAPAKLARI	Mirror covers	Oglindă capace
+T639	AYNA KAPAĞI DIŞ AYNA GÖVDE SAĞ	Mirror cover outer mirror body right	Oglindă capac exterior oglindă corp dreapta
+T640	AYNA KOLU - DIS DIKIZ AYNASI SAG	Mirror arm - outer Rear-view mirror right	Oglindă braț - exterior Oglindă retrovizoare dreapta
+T641	AYNA KOLU - DIS DIKIZ AYNASI SAĞ	Right exterior rear-view mirror arm	Braț oglindă retrovizoare exterioară dreapta
+T642	AYNA KOLU - DIS DIKIZ AYNASI SOL	Mirror arm - outer Rear-view mirror left	Oglindă braț - exterior Oglindă retrovizoare stânga
+T643	AYNA KOLU - ÖN GÖRÜŞ 1846	Front-view mirror arm for 1846	Braț oglindă de vedere frontală pentru 1846
+T644	AYNA KOLU KAPAK - DIS DIKIZ AYNASI SOL	Mirror arm cover - outer Rear-view mirror left	Oglindă braț capac - exterior Oglindă retrovizoare stânga
+T645	AYNA KOLU SAG DIS CARGO	Mirror arm right outer CARGO	Oglindă braț dreapta exterior CARGO
+T646	AYNA KOLU	Mirror arm	Oglindă braț
+T647	AYNA KOMPLE - DIS DIKIZ - SAG (ISITICILI)	Mirror complete - outer rear-view - right (heated)	Oglindă complet - exterior retrovizor - dreapta (cu încălzire)
+T648	AYNA KOMPLE - DIS DIKIZ - SOL(ISITICILI)	Mirror complete - outer rear-view - left(heated)	Oglindă complet - exterior retrovizor - stânga(cu încălzire)
+T649	AYNA KOMPLE - SAG	Mirror complete - right	Oglindă complet - dreapta
+T650	AYNA KOMPLE - SOL	Mirror complete - left	Oglindă complet - stânga
+T651	AYNA KOMPLE SAG	Mirror complete right	Oglindă complet dreapta
+T652	AYNA KOMPLE SOL F MAX	F MAX complete left mirror	Oglindă completă stânga F MAX
+T653	AYNA KUCUK TEKER 2524-2530	Small wheel-view mirror for 2524, 2530	Oglindă mică pentru vizualizarea roții, 2524, 2530
+T654	AYNA KUCUK YM	Mirror small	Oglindă mic
+T655	AYNA MAHRUTI 14/37	Differential crown wheel and pinion 14/37	Coroană și pinion diferențial 14/37
+T656	AYNA MAHRUTI 8/41	Differential crown wheel and pinion 8/41	Coroană și pinion diferențial 8/41
+T657	AYNA MAHRUTI 9/37	Differential crown wheel and pinion 9/37	Coroană și pinion diferențial 9/37
+T658	AYNA MAHRUTI 9/41 UZUNBILEK	Differential crown wheel and pinion 9/41	Coroană și pinion diferențial 9/41
+T659	AYNA MAHRUTİ 19/27	Differential crown wheel and pinion 19/27	Coroană și pinion diferențial 19/27
+T660	AYNA MAHRUTİ 25/21 ARKA	Differential crown wheel and pinion 25/21 rear	Coroană și pinion diferențial 25/21 spate
+T661	AYNA MAHRUTİ 8/41 ROCKVELL	Differential crown wheel and pinion 8/41	Coroană și pinion diferențial 8/41
+T662	AYNA MAHRUTİ ARKA 25/24	Differential crown wheel and pinion rear 25/24	Coroană și pinion diferențial spate 25/24
+T663	AYNA MAHRUTİ	Differential crown wheel and pinion	Coroană și pinion diferențial
+T664	AYNA MAHRUTİ SETİ 11/41	Differential crown wheel and pinion set 11/41	Set coroană și pinion diferențial 11/41
+T665	AYNA MARUTİ 15/37	Mirror 15/37	Oglindă 15/37
+T666	AYNA MARUTİ 7*39 EUROCARGO	Mirror 7*39	Oglindă 7*39
+T667	AYNA MARUTİ 8/37	Mirror 8/37	Oglindă 8/37
+T668	AYNA MARUTİ 8/39	Mirror 8/39	Oglindă 8/39
+T669	AYNAMAHRUTİ 14/26	Differential crown wheel and pinion 14/26	Coroană și pinion diferențial 14/26
+T670	AĞIR SERİ İÇ PİSTON 16 S 2220	Heavy series inner piston 16 2220	Greu serie interior piston 16 2220
+T671	B DIREK - IC SAG	Pillar - inner right	Stâlp - interior dreapta
+T672	B DIREK DIS - SOL YATAKSIZ	Pillar outer - left without sleeper berth	Stâlp exterior - stânga fără cușetă
+T673	B DIREK DIS - UST,SAG	Pillar outer - upper,right	Stâlp exterior - superior,dreapta
+T674	B DIREK DIS-SAG ,YATAKSIZ	Pillar outer-right ,without sleeper berth	Stâlp exterior-dreapta ,fără cușetă
+T675	B DIREK DIS-SAG YATAKLI	Pillar outer-right with bearing	Stâlp exterior-dreapta cu lagăr
+T676	B DIREK DIS-SOL YATAKLI	Pillar outer-left with bearing	Stâlp exterior-stânga cu lagăr
+T677	B DIREK IC KOMPLE-SAG	Pillar inner complete-right	Stâlp interior complet-dreapta
+T678	B DIREK IC KOMPLE-SOL YATAKSIZ	Pillar inner complete-left without sleeper berth	Stâlp interior complet-stânga fără cușetă
+T679	B DIREK IC-SAG	Pillar inner-right	Stâlp interior-dreapta
+T680	B DİREK DIŞ SOL YATAKSIZ	Pillar outer left without sleeper berth	Stâlp exterior stânga fără cușetă
+T681	BAGLAMA - ARKA YAY (6X4)	Fastening - rear spring (6X4)	Fixare - spate arc (6X4)
+T682	BAGLAMA - ARKA YAY	Fastening - rear spring	Fixare - spate arc
+T683	BAGLAMA ARKA YAY	Fastening rear spring	Fixare spate arc
+T684	BAGLANTI - CAM SILECEGI (30/09/2004)	Connection - glass wiper (30/09/2004)	Conexiune - geam ștergător (30/09/2004)
+T685	BAGLANTI - DEBRIYAJ HORTUMU	Connection - clutch hose	Conexiune - ambreiaj furtun
+T686	BAGLANTI - HAVA GIRISI	Connection - air inlet	Conexiune - aer intrare
+T687	BAGLANTI - SU GIRISI	Connection - water inlet	Conexiune - apă intrare
+T688	BAGLANTI - VALF REKOR NHDD	Connection - valve union NHDD	Conexiune - supapă racord NHDD
+T689	BAGLANTI - VALF REKOR	Connection - valve union	Conexiune - supapă racord
+T690	BAGLANTI BORU	Connection pipe	Conexiune conductă

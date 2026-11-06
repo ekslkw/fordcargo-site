@@ -1,0 +1,69 @@
+# FordCargo.ro — configurație Apache (Zooku). Generat de tools/build_server.py
+Options -Indexes -MultiViews
+DirectoryIndex index.html
+AddDefaultCharset utf-8
+ErrorDocument 404 /404.html
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+# validarea certificatului SSL (AutoSSL / Let's Encrypt) rămâne pe HTTP, fără redirecționări
+RewriteRule ^\.well-known/ - [L]
+# HTTPS și domeniu fără www
+RewriteCond %{HTTPS} !=on [OR]
+RewriteCond %{HTTP_HOST} ^www\. [NC]
+RewriteRule ^ https://fordcargo.ro%{REQUEST_URI} [R=301,L]
+# redirecționări fixe
+RewriteRule ^magazin$ /catalog [R=301,L]
+RewriteRule ^magazin\.html$ /catalog [R=301,L]
+RewriteRule ^despre-noi\.html$ /despre-noi [R=301,L]
+RewriteRule ^contact\.html$ /contact [R=301,L]
+RewriteRule ^cauta-piese\.html$ /cauta-piese [R=301,L]
+# /pagina.html -> /pagina (doar la cererea directă a clientului)
+RewriteCond %{THE_REQUEST} \s/([^\s?]+)\.html[\s?] [NC]
+RewriteCond %{REQUEST_URI} !^/404\.html$
+RewriteRule ^ /%1 [R=301,L]
+# /pagina -> pagina.html
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{DOCUMENT_ROOT}/$1.html -f
+RewriteRule ^(.+?)/?$ $1.html [L]
+# adrese vechi (catalog V17) -> redirect.php
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^ /redirect.php [L]
+</IfModule>
+
+<IfModule mod_headers.c>
+Header always set Strict-Transport-Security "max-age=31536000"
+Header always set X-Content-Type-Options "nosniff"
+Header always set X-Frame-Options "DENY"
+Header always set Referrer-Policy "no-referrer"
+Header always set Permissions-Policy "camera=(), microphone=(), geolocation=()"
+Header always set Content-Security-Policy "default-src 'self'; script-src 'self'; script-src-elem 'self' 'unsafe-inline'; script-src-attr 'none'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; frame-src https://www.google.com https://maps.google.com; object-src 'none'; base-uri 'none'; form-action 'self'; upgrade-insecure-requests; frame-ancestors 'none'"
+<FilesMatch "\.(css|js|svg|png|jpg|jpeg|webp|ico)$">
+Header set Cache-Control "public, max-age=2592000"
+</FilesMatch>
+<FilesMatch "\.(html|json|xml)$">
+Header set Cache-Control "public, max-age=600"
+</FilesMatch>
+</IfModule>
+
+<IfModule mod_deflate.c>
+AddOutputFilterByType DEFLATE text/html text/css application/javascript application/json image/svg+xml application/xml
+</IfModule>
+
+# fișiere interne
+<FilesMatch "^(_headers|_redirects)$">
+Require all denied
+</FilesMatch>
+
+# BEGIN cPanel-generated php ini directives, do not edit
+<IfModule php8_module>
+   php_value error_log "/home/u43916ford/logs/php.error.log"
+   php_flag log_errors On
+</IfModule>
+<IfModule lsapi_module>
+   php_value error_log "/home/u43916ford/logs/php.error.log"
+   php_flag log_errors On
+</IfModule>
+# END cPanel-generated php ini directives, do not edit

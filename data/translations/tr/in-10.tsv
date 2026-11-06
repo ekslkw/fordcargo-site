@@ -1,0 +1,683 @@
+T6211	TRIM PANELI - SAG	Panel - right	Panou - dreapta
+T6212	TRIM PANELI -ARKA YAN SAG	Panel -rear side right	Panou -spate lateral dreapta
+T6213	TRIM PANELI -ARKA YAN SAG(H/R)	Panel -rear side right(/)	Panou -spate lateral dreapta(/)
+T6214	TRIM PANELI -ARKA YAN SOL	Panel -rear side left	Panou -spate lateral stânga
+T6215	TRIM PANELI -TAVAN ON ( D/C)	Panel -roof front ( /)	Panou -plafon față ( /)
+T6216	TRIM PANELI ARKA CAMSIZ D/CAB	Panel rear without glass /	Panou spate fără geam /
+T6217	TRIM PANELI KOMP-ARKA YAN SAG	Panel assembly-rear side right	Panou ansamblu-spate lateral dreapta
+T6218	TRIM PANELI KOMPL-TAVAN ON D/C	Panel complete-roof front /	Panou complet-plafon față /
+T6219	TRIM PANELI KOMPL-TAVAN ON	Panel complete-roof front	Panou complet-plafon față
+T6220	TRIM PANELI KOMPLE TAVAN ON	Panel complete roof front	Panou complet plafon față
+T6221	TRIM PANELI KOMPLE-GOVDE ARKA	Panel complete-body rear	Panou complet-corp spate
+T6222	TRIM PANELI KOMPLE-GOVDE ARKA YATAKSIZ	Panel complete-body rear without sleeper berth	Panou complet-corp spate fără cușetă
+T6223	TRIM PANELI KOMPLE-KAPI SAG	Panel complete-door right	Panou complet-ușă dreapta
+T6224	TRIM PANELI KOMPLE-KAPI SOL	Panel complete-door left	Panou complet-ușă stânga
+T6225	TRIM PANELI KOMPLE-TAVAN ON	Panel complete-roof front	Panou complet-plafon față
+T6226	TRIM PANELI-ARKA CAMSIZ D/CAB	Panel-rear without glass /	Panou-spate fără geam /
+T6227	TRIM PANELİ KOMPLE KAPI SOL	Panel complete door left	Panou complet ușă stânga
+T6228	TRIM PANELİ KOMPLE	Panel complete	Panou complet
+T6229	TRIM TAVAN ARKA YATAKLI YÜKSEK TAVAN	Roof rear with bearing high roof	Plafon spate cu lagăr înalt plafon
+T6230	TRİM TAVAN ÖN MARKA VERİLECEKLER	Roof front brand	Plafon față marcă
+T6231	TUBLS LASTIK-DUZ 295/80 R 22.5	Tubeless rubber-straight 295/80 22.5	Fără cameră cauciuc-drept 295/80 22.5
+T6232	TURBO 12LT E3 5 4143 BORGWARNER	Turbocharger 12LT E3 5 4143	Turbocompresor 12LT E3 5 4143
+T6233	TURBO 12LT E3 5 4143	Turbocharger 12LT E3 5 4143	Turbocompresor 12LT E3 5 4143
+T6234	TURBO 2524/3230	Turbocharger for 2524, 3230	Turbocompresor pentru 2524, 3230
+T6235	TURBO 2524/3230 ITHAL	Turbocharger 2524/3230	Turbocompresor 2524/3230
+T6236	TURBO 9LT E3 5 **33	Turbocharger 9LT E3 5 **33	Turbocompresor 9LT E3 5 **33
+T6237	TURBO CIKIS BORUSU	Turbocharger outlet pipe	Conductă de ieșire turbocompresor
+T6238	TURBO CIKIS DIRSEGI	Turbocharger outlet elbow	Turbocompresor ieșire cot
+T6239	TURBO E6 12LT **42 BORGWARNER	Turbocharger E6 12LT **42	Turbocompresor E6 12LT **42
+T6240	TURBO E6 12LT **42	Turbocharger E6 12LT **42	Turbocompresor E6 12LT **42
+T6241	TURBO EKSOZT BOGAZ ARA CELIK CONTA	Turbocharger exhaust neck intermediate steel gasket	Turbocompresor evacuare racord intermediar oțel garnitură
+T6242	TURBO FILITRESI	Turbocharger filter	Turbocompresor filtru
+T6243	TURBO GERI DONUS CONTASI	Turbocharger reverse return gasket	Turbocompresor marșarier retur garnitură
+T6244	TURBO GIRIS FLANSI (ENDUSTRIYEL MOTOR ICIN)	Turbocharger inlet flange (industrial engine for)	Turbocompresor intrare flanșă (industrial motor pentru)
+T6245	TURBO GİRİŞ BORUSU HAVALANDIRMA HORTUMU	Turbocharger inlet pipe ventilation hose	Turbocompresor intrare conductă ventilație furtun
+T6246	TURBO HORTUMU FORD ORJ KIRMIZI	Turbocharger hose FORD genuine red	Turbocompresor furtun FORD original roșu
+T6247	TURBO HORTUMU FORD ORJ MAVI	Turbocharger hose FORD genuine blue	Turbocompresor furtun FORD original albastru
+T6248	TURBO SALYANOZU 1846	Turbocharger volute housing for 1846	Carcasă spiralată turbocompresor pentru 1846
+T6249	TURBO SENSOR	Turbocharger sensor	Turbocompresor senzor
+T6250	TURBO VALFİ	Turbocharger valve	Turbocompresor supapă
+T6251	TURBO YAG DONUS CONTASI	Turbocharger oil return gasket	Turbocompresor ulei retur garnitură
+T6252	TURBO ÇIKIŞ HAVA KAZANI ARA ARA BORU (PİMLİ) (ENDÜSTRİYEL MOTOR)	Turbocharger outlet air vessel intermediate intermediate pipe (with pin) (industrial engine)	Turbocompresor ieșire aer recipient intermediar intermediar conductă (cu bolț) (industrial motor)
+T6253	TURBO ÇIKIŞ HORTUMU	Turbocharger outlet hose	Turbocompresor ieșire furtun
+T6254	TURBO ÇIKIŞ İNTERCOOL ARA BORUSU (ENDÜSTRİYEL MOTOR)	Turbocharger outlet intercooler intermediate pipe (industrial engine)	Turbocompresor ieșire intercooler intermediar conductă (industrial motor)
+T6255	TURBO ŞARJ MAGNET	Turbocharger charging	Turbocompresor încărcare
+T6256	TURBO ŞARJ	Turbocharger charging	Turbocompresor încărcare
+T6257	TURBO-HAVA KAZANI ARASI SAC BORU (ENDUSTRIYEL MOTOR ICIN)	Turbocharger-air vessel between sheet metal pipe (industrial engine for)	Turbocompresor-aer recipient între tablă conductă (industrial motor pentru)
+T6258	TURBO-INTERCOOL ARASI SAC BORU (ENDUSTRIYEL MOTOR ICIN)	Turbocharger-intercooler between sheet metal pipe (industrial engine for)	Turbocompresor-intercooler între tablă conductă (industrial motor pentru)
+T6259	TURBOSARJ 2517 CARGO	Turbocharger 2517 CARGO	Turbocompresor 2517 CARGO
+T6260	TURBOSARJ 9LT 1838/3536/4136	9 l turbocharger for 1838, 3536, 4136	Turbocompresor 9 l pentru 1838, 3536, 4136
+T6261	TURBOSARJ AKTUATOR KITI	Turbocharger actuator kit	Turbocompresor actuator kit
+T6262	TURBOSARJ KOMPLE - MOTOR EGZOZ NHDD	Turbocharger complete - engine exhaust NHDD	Turbocompresor complet - motor evacuare NHDD
+T6263	TURBOSARJ KOMPLE	Complete turbocharger	Turbocompresor complet
+T6264	TURBOSARJ VGT FILTRESI CNH	VGT turbocharger filter	Filtru turbocompresor VGT
+T6265	TURBOSARJ VGT FILTRESI	VGT turbocharger filter	Filtru turbocompresor VGT
+T6266	TURBOSARJ İVECO	Turbocharger	Turbocompresor
+T6267	TURBOSARJ	Turbocharger	Turbocompresor
+T6268	TURBOSARJ.... MAGNET	Turbocharger	Turbocompresor
+T6269	TURBOSARJ..... TURBOCHARGER	Turbocharger..... turbocharger	Turbocompresor..... turbocompresor
+T6270	TURBOSARJ:KOMPLE	Turbocharger:complete	Turbocompresor:complet
+T6271	TURBOŞARJ 9LT 1838/3536/4136 TURBOCHARGER	Turbocharger 9 l, 1838/3536/4136	Turbocompresor 9 l, 1838/3536/4136
+T6272	TURBOŞARJ 9LT 1838/3536/4136	9 l turbocharger for 1838, 3536, 4136	Turbocompresor 9 l pentru 1838, 3536, 4136
+T6273	TURBOŞARJ KOMPLE - MOTOR EGZOZ NHDD MAGNET	Turbocharger complete - engine exhaust NHDD	Turbocompresor complet - motor evacuare NHDD
+T6274	TURBOŞARJ KOMPLE	Complete turbocharger	Turbocompresor complet
+T6275	TUTAMAK - GOVDE ON CAM ALTI SAG/SOL	Handle - body Windscreen underneath right/left	Mâner - corp Parbriz inferior dreapta/stânga
+T6276	TUTAMAK - GOVDE ON SAG	Handle - body front right	Mâner - corp față dreapta
+T6277	TUTAMAK - GOVDE ON SAĞ	Handle - body front right	Mâner - corp față dreapta
+T6278	TUTAMAK - YATAK ALTI TORPIDO	Handle - bearing underneath dashboard	Mâner - lagăr inferior planșă de bord
+T6279	TUTAMAK - YOLCU YARDIM SAG	Handle - passenger assistance right	Mâner - pasager asistență dreapta
+T6280	TUTAMAK KOMPLE - GOVDE ÖN SOL	Handle complete - body front left	Mâner complet - corp față stânga
+T6281	TUTAMAK KOMPLE-GOVDE ON SOL	Handle complete-body front left	Mâner complet-corp față stânga
+T6282	TUTAMAK	Handle	Mâner
+T6283	TUTAMAK-ARKA DIS SAG	Handle-rear outer right	Mâner-spate exterior dreapta
+T6284	TUTAMAK-ARKA IC SAG	Handle-rear inner right	Mâner-spate interior dreapta
+T6285	TUTAMAK-GÖVDE ON CAM ALTI SAG	Handle-body Windscreen underneath right	Mâner-corp Parbriz inferior dreapta
+T6286	TUTAMAK-ON IC SAG	Handle-front inner right	Mâner-față interior dreapta
+T6287	TUTAMAK-ON SAG	Handle-front right	Mâner-față dreapta
+T6288	TUTUCU ARKA SUSPANSIYON	Holder rear suspension	Suport de fixare spate suspensie
+T6289	TUTUCU	Holder	Suport de fixare
+T6290	TUTUCU SAC - KAPI ON SAG YATAKLI	Holder sheet metal - door front right with bearing	Suport de fixare tablă - ușă față dreapta cu lagăr
+T6291	TUTUCU YAY	Holder spring	Suport de fixare arc
+T6292	TUTUCU-MERITOR - (967581)	Holder- - (967581)	Suport de fixare- - (967581)
+T6293	TUTUCU-UZAKT.KUMANDA HAV.SUSP	Holder-remote.control air.suspension	Suport de fixare-de la distanță.comandă aer.suspensie
+T6294	TUYSUZ BANT BEZ BANT 19MM	Lint-free strip fabric strip 19MM	Fără scame bandă țesătură bandă 19MM
+T6295	TXV ON BAGLANTI PLAKASI	Front connection plate	Față conexiune placă
+T6296	U CIVATA - ARKA MAKAS	Bolt - rear leaf spring	Șurub - spate arc cu foi
+T6297	U CIVATA - ON MAKAS - (25000 KG)	Bolt - front leaf spring - (25000 kg)	Șurub - față arc cu foi - (25000 kg)
+T6298	U CIVATA	Bolt	Șurub
+T6299	U CIVATA-ARKA MAKAS	Bolt-rear leaf spring	Șurub-spate arc cu foi
+T6300	U CİVATASI MARKA VERİLECEKLER	Bolt brand	Șurub marcă
+T6301	U-CIVATA - ON MAKAS	Bolt - front leaf spring	Șurub - față arc cu foi
+T6302	U-CIVATA-EGZOST MONTAJI ON	Bolt-exhaust mounting front	Șurub-evacuare montare față
+T6303	U-CIVATA-ON MAKAS	Bolt-front leaf spring	Șurub-față arc cu foi
+T6304	U-CIVATA-ON MAKASLAR(H476)	Bolt-front leaf springs(H476)	Șurub-față arcuri lamelare(H476)
+T6305	U-CIVATASI	Bolt	Șurub
+T6306	UC BILYA:MAHRUTI	End bearing:drive pinion	Capăt rulment:pinion de atac
+T6307	UFLEYICI KANALI-KALORIFER SOL	Blower channel-cab heater left	Ventilator de habitaclu canal-încălzire habitaclu stânga
+T6308	URE ENJEKTORU KONNEKTOR KITI	Urea injector connector kit	Uree injector conector kit
+T6309	URE POMPASI FILTRE KAPAGI KITI	Urea pump filter cover kit	Uree pompă filtru capac kit
+T6310	URE POMPASI URE CIKIS KONNEKTORU KITI	Urea pump urea outlet connector kit	Uree pompă uree ieșire conector kit
+T6311	URE POMPASI URE GERI DONUS KONNEKTORU KITI	Urea pump urea reverse return connector kit	Uree pompă uree marșarier retur conector kit
+T6312	URE POMPASI URE GIRIS KONNEKTORU KITI	Urea pump urea inlet connector kit	Uree pompă uree intrare conector kit
+T6313	URE TANKI KOMP	Urea tank assembly	Uree rezervor ansamblu
+T6314	URE TANKI KOMP-520 LT DEPO ILE	Urea tank assembly-520 L tank with	Uree rezervor ansamblu-520 l rezervor cu
+T6315	URE TANKI KOMPLE 315 LT DEPO	Urea tank complete 315 L tank	Uree rezervor complet 315 l rezervor
+T6316	URE TANKI KOMPLE	Urea tank complete	Uree rezervor complet
+T6317	URE TANKI-520LT DEPO ILE(STG4)	Urea tank-520LT tank with(STG4)	Uree rezervor-520LT rezervor cu(STG4)
+T6318	URE VALFI	Urea valve	Uree supapă
+T6319	UST CAMURLUK	Upper mudguard	Superior aripă
+T6320	UST KAPAK GOVDESI - YAKIT FILTRESI NHDD	Upper cover housing - Fuel filter NHDD	Superior capac corp - Filtru de combustibil NHDD
+T6321	UST MERKEZ	Upper actuating cylinder	Superior cilindru de acționare
+T6322	UST TAKIM CONTA (YARIM) (10LT) 500397664	Upper Gasket set (half) (10LT) 500397664	Superior Set garnituri (jumătate) (10LT) 500397664
+T6323	UST YASTIK ARKA MAKAS	Upper cushion rear leaf spring	Superior pernă spate arc cu foi
+T6324	UST YASTIK-ARKA MAKAS-UST	Upper cushion-rear leaf spring-upper	Superior pernă-spate arc cu foi-superior
+T6325	UST YATAK KOMPLE	Upper bearing complete	Superior lagăr complet
+T6326	UZAKTAN KUMANDA - KAPI KILIDI	Remote control - Door lock	De la distanță comandă - Încuietoare ușă
+T6327	UZAKTAN KUMANDA ANAHTARI - KAPI GIRIS	Remote control switch - door inlet	De la distanță comandă întrerupător - ușă intrare
+T6328	UZAKTAN KUMANDA ANAHTARI	Remote control switch	De la distanță comandă întrerupător
+T6329	UZANTI - EGZOST BORUSU	Extension - exhaust pipe	Extensie - evacuare conductă
+T6330	UZATMA - ON TAMPON SOL TARAF	Extension - front bumper left side	Prelungire - față bară de protecție stânga parte
+T6331	UZATMA BRAKETI- ARKA KOSE DIREK UST DESTEK ARASI	Extension bracket- rear corner pillar upper support between	Prelungire suport- spate colț stâlp superior suport între
+T6332	UZATMA BRAKETI- ON GOVDE DIREK ON	Extension bracket- front body pillar front	Prelungire suport- față corp stâlp față
+T6333	UZATMA BRAKETI- TABAN SACI YAN	Extension bracket- base sheet metal side	Prelungire suport- bază tablă lateral
+T6334	UZATMA ÖN TAMPON SAĞ ASTARLI	Extension front bumper right primed	Prelungire față bară de protecție dreapta grunduit
+T6335	UZATMA ÖN TAMPON SOL ASTARLI	Extension front bumper left primed	Prelungire față bară de protecție stânga grunduit
+T6336	UZUN ARA ROT	Long intermediate steering rod	Lung intermediar bară de direcție
+T6337	UZUN FAR - YUKSEK ISIK	Long headlamp - high light	Lung far - înalt lumină
+T6338	UZUN FAR - YUKSEK IŞIK	Long headlamp - high light	Lung far - înalt lumină
+T6339	UZUN FAR AYFAR	Long headlamp	Lung far
+T6340	UZUN FAR AYGERSAN	Long headlamp	Lung far
+T6341	UZUN FAR FARBA	Long headlamp	Lung far
+T6342	UZUN FAR GÜNDÜZ FARLI	Long headlamp daytime with headlamp	Lung far de zi cu far
+T6343	UZUN FAR GÜNDÜZ FARLI FARBA	Long headlamp daytime with headlamp	Lung far de zi cu far
+T6344	UZUN FAR	Long headlamp	Lung far
+T6345	UZUN KALKAN KOMPLE -MOTOR GURULTU IZALATOR SAG	Long shield complete -engine noise insulator right	Lung scut complet -motor zgomot izolator dreapta
+T6346	UZUN ROD / KOMPLE 33	Long rod / complete 33	Lung tijă / complet 33
+T6347	UZUN ROD 1846	Long steering rod 1846 T	Bară lungă de direcție 1846 T
+T6348	UZUN ROD	Long rod	Lung tijă
+T6349	UZUN ROD KOMPLE - 2, ON DINGIL	Long rod complete - 2, front axle	Lung tijă complet - 2, față punte
+T6350	UZUN ROD KOMPLE - 2. ON DINGIL	Long rod complete - 2. front axle	Lung tijă complet - 2. față punte
+T6351	UZUN ROD KOMPLE - 2.DINGIL	Long rod complete - 2.axle	Lung tijă complet - 2.punte
+T6352	UZUN ROD KOMPLE - ÖN SUSPANSIYON	Long rod complete - front suspension	Lung tijă complet - față suspensie
+T6353	UZUN ROD KOMPLE	Long rod complete	Lung tijă complet
+T6354	UZUN ROD KOMPLE F MAX	F MAX complete long steering link	Bară lungă de direcție completă F MAX
+T6355	UZUN ROD KOMPLE-ON SUSPANSIYON	Long rod complete-front suspension	Lung tijă complet-față suspensie
+T6356	UZUN ROD-S/STEER DINGIL 3230 8X2	Long steering rod for 3230 8x2 axle	Bară lungă de direcție pentru puntea 3230 8x2
+T6357	UZUN ROT	Drag link	Bară longitudinală de direcție
+T6358	UZUN ROT İKİ DİNGİL ARASI CARGO	Drag link two axle between CARGO	Bară longitudinală de direcție două punte între CARGO
+T6359	UZUN YAG CUBUGU	Long oil rod	Lung ulei tijă
+T6360	V CEKI KOLU TAMIR TAKIMI (ARKA)	Towing arm repair set (rear)	Tractare braț reparație set (spate)
+T6361	V CEKI KOLU TAMIR TAKIMI (ON)	Towing arm repair set (front)	Tractare braț reparație set (față)
+T6362	V KAYIS - ALTERNATOR (-AC/9 LT/EURO 3+5)	V-belt - (-AC/9 L/EURO 3+5)	Curea trapezoidală - (-AC/9 l/EURO 3+5)
+T6363	V KAYIS - ALTERNATOR - RETARDERLI/INTARDERLI 12.7 LT	V-belt - - with retarder/with Intarder 12.7 L	Curea trapezoidală - - cu retarder/cu Intarder 12.7 l
+T6364	V KAYIS - ALTERNATOR - RETARDERSIZ/INTARDERSIZ 12.7 LT	V-belt - - without retarder/without intarder 12.7 L	Curea trapezoidală - - fără retarder/fără intarder 12.7 l
+T6365	V KAYIS - ALTERNATOR	V-belt	Curea trapezoidală
+T6366	V KAYIS -ALTERNATOR EURO 6 -AC	V-belt - EURO 6 -AC	Curea trapezoidală - EURO 6 -AC
+T6367	V KAYIS -ALTERNATOR NHDD(-AC)	V-belt - NHDD(-AC)	Curea trapezoidală - NHDD(-AC)
+T6368	V KAYIS -ALTERNATÖR NHDD(-AC)	V-belt - NHDD(-AC)	Curea trapezoidală - NHDD(-AC)
+T6369	V KAYIS ALTERNATÖR	V-belt	Curea trapezoidală
+T6370	V KOL ARKA SUSPANSIYON	Arm rear suspension	Braț spate suspensie
+T6371	V KOL ARKA TANDEM SUSPANSIYON	Arm rear suspension	Braț spate suspensie
+T6372	V- KOL ARKA SUSPANSION	Arm rear suspension	Braț spate suspensie
+T6373	V- KOL ŞEM	Arm	Braț
+T6374	V-BAND KELEPCESI-T/C INTERCLR.BAGL NHDD 7.3 LT TCI	Band clamp-/ intercooler.connection NHDD 7.3 L	Bandă colier-/ intercooler.conexiune NHDD 7.3 l
+T6375	V-KAYIŞI	Belt	Curea
+T6376	V-KELEPCE - INT. CLR.BORUSU	Clamp - . .pipe	Colier - . .conductă
+T6377	V-KELEPCE / INT. CLR.BORUSU	Clamp / . .pipe	Colier / . .conductă
+T6378	V-KELEPCE-KOMPRSR.CIKIS BORUSU	Clamp-compressor.outlet pipe	Colier-compresor.ieșire conductă
+T6379	V-KELEPÇE-KOMPRSR.CIKIS BORUSU	Clamp-compressor.outlet pipe	Colier-compresor.ieșire conductă
+T6380	V-KOLU KUCUK KAFA CIVATASI	Arm small head bolt	Braț mic cap șurub
+T6381	V.DISLI FORD-CARGO	Gear FORD-CARGO	Roată dințată FORD-CARGO
+T6382	VALF - BASINC	Valve - pressure	Supapă - presiune
+T6383	VALF - ROMORK	Valve - trailer	Supapă - remorcă
+T6384	VALF - ROMÖRK MAY	Valve - trailer	Supapă - remorcă
+T6385	VALF - TURBO ACMA KAPAMA	Valve - turbocharger opening closing	Supapă - turbocompresor deschidere închidere
+T6386	VALF BASINC	Valve pressure	Supapă presiune
+T6387	VALF BASINC YAKIT	Valve pressure fuel	Supapă presiune combustibil
+T6388	VALF BLOGU (TARAKLAMA VENTILI)	Valve block (serration valve)	Supapă bloc (danturare supapă)
+T6389	VALF BLOGU	Valve block	Supapă bloc
+T6390	VALF BLOĞU (TARAKLAMA VENTILI)	Valve block (serration valve)	Supapă bloc (danturare supapă)
+T6391	VALF EGR SOĞUTUCU GİRİŞ	Valve EGR cooler inlet	Supapă EGR răcitor intrare
+T6392	VALF EGR SOĞUTUCU ÇIKIŞ	Valve EGR cooler outlet	Supapă EGR răcitor ieșire
+T6393	VALF KOMP - EGZOST FREN	Valve assembly - exhaust brake	Supapă ansamblu - evacuare frână
+T6394	VALF KOMPL-DIREKSIYON HIDROLIK	Valve complete-steering hydraulic	Supapă complet-direcție hidraulic
+T6395	VALF KOMPLE - BASINC DUSURUCU	Valve complete - pressure reducer	Supapă complet - presiune reductor
+T6396	VALF KOMPLE - EVAPOTATOR GENLESME	Valve complete - evaporator expansion	Supapă complet - evaporator expansiune
+T6397	VALF KOMPLE - KALORIFER SU KONTROLU	Valve complete - cab heater water control	Supapă complet - încălzire habitaclu apă control
+T6398	VALF KOMPLE - KARTER HAVALANDIRMA NHDD	Valve complete - oil sump ventilation NHDD	Supapă complet - carter de ulei ventilație NHDD
+T6399	VALF KOMPLE - YAKIT BASINC	Valve complete - fuel pressure	Supapă complet - combustibil presiune
+T6400	VALF KOMPLE - YAKIT BUHARI	Valve complete - fuel vapour	Supapă complet - combustibil vapori
+T6401	VALF KOMPLE DİREKSİYON HİDROLİK (ARKA ÇEKER )	Valve complete steering hydraulic (rear drive )	Supapă complet direcție hidraulic (spate tracțiune )
+T6402	VALF KOMPLE YATAKLI YÜKSEK TAVANLI	Valve complete with bearing high with roof	Supapă complet cu lagăr înalt cu plafon
+T6403	VALF KOMPLE YATAKLI, YUKSEK TAVAN	Valve complete with bearing, high roof	Supapă complet cu lagăr, înalt plafon
+T6404	VALF KOMPLE- YAKIT BASINC	Valve complete- fuel pressure	Supapă complet- combustibil presiune
+T6405	VALF KOMPLE-YAKIT BASIN REGULATORU NHDD	Valve complete-fuel regulator NHDD	Supapă complet-combustibil regulator NHDD
+T6406	VALF PLAKASI - FREN KOMPRESORU	Valve plate - brake compressor	Supapă placă - frână compresor
+T6407	VALF SISTEMI	Valve system	Supapă sistem
+T6408	VALF TURBOSARJ GIRIS (VGT)	Valve turbocharger inlet	Supapă turbocompresor intrare
+T6409	VALF YUKSEKLIK KABIN ARKA	Valve height cab rear	Supapă înălțime cabină spate
+T6410	VALF YUKSEKLIK KABIN ARKA TOPUZ BAŞLI	Valve height cab rear knob headed	Supapă înălțime cabină spate mâner sferic cu cap
+T6411	VALF YUKSEKLIK KABİN ARKA	Valve height cab rear	Supapă înălțime cabină spate
+T6412	VALF- DENGE - KOLTUK	Valve- stabilising - seat	Supapă- stabilizare - scaun
+T6413	VALF-HAVA BACASI TOZ TAHLIYE	Valve-air vertical duct dust drain	Supapă-aer tubulatură verticală praf evacuare
+T6414	VALVE KOMPLE	Valve complete	Supapă complet
+T6415	VANTILATOR KANADI 1838	Fan blade 1838	Paletă ventilator 1838
+T6416	VENTIL KIBRIT KUTUSU	Valve housing	Supapă carcasă
+T6417	VENTIL KIBRIT KUTUSU M MAY	Valve housing	Supapă carcasă
+T6418	VENTIL ÇARPMA	Valve impact	Supapă impact
+T6419	VENTİL KİBRİT KUTUSU	Valve housing	Supapă carcasă
+T6420	VIDA - AYAR	Screw - adjustment	Șurub - reglaj
+T6421	VIDA - M6X20	Screw - M6X20	Șurub - M6X20
+T6422	VIDA - OZEL CAMURLUK MONTAJ	Screw - special mudguard mounting	Șurub - special aripă montare
+T6423	VIDA - PIYANO AYAR NHDD	Screw - rocker arm assembly adjustment NHDD	Șurub - ansamblu culbutori reglaj NHDD
+T6424	VIDA M6-ALTIKOSE MENTESE TO ON KOL	Screw M6-hexagonal hinge to front arm	Șurub M6-hexagonal balama către față braț
+T6425	VIDA	Screw	Șurub
+T6426	VIDA SETI-RETARDER BAĞLANTI TAKOZU HANX	Screw set-retarder connection mount	Șurub set-retarder conexiune tampon
+T6427	VIDA SETİ- RETARDER BAĞLANTI TAKOZU	Screw set- retarder connection mount	Șurub set- retarder conexiune tampon
+T6428	VIDA SETİ-RETARDER BAĞLANTI TAKOZU TST	Screw set-retarder connection mount	Șurub set-retarder conexiune tampon
+T6429	VIDALI TAPA - (9S 109/16S 109)	Screw-type plug - (9S 109/16S 109)	Cu șurub dop - (9S 109/16S 109)
+T6430	VIRAJ CUBUGU-KABIN	Anti-roll rod-cab	Stabilizator tijă-cabină
+T6431	VIRAJ DEMIR LASTIGI - ON	Anti-roll bar bush - front	Bucșă bară stabilizatoare - față
+T6432	VIRAJ DEMIRI-ON	Anti-roll bar-front	Bară stabilizatoare-față
+T6433	VIRAJ DENGE KOLU	Anti-roll Torque rod	Stabilizator Braț de reacție
+T6434	VIRAJ DENGE TAKOZU	Anti-roll stabilising mount	Stabilizator stabilizare tampon
+T6435	VISKOZ UNITE KOMPLE-PERVANE	Viscous unit complete-fan	Vâscos unitate complet-ventilator
+T6436	VITES AYIRICISI	Gear separator	Treaptă de viteză separator
+T6437	VITES BEZELI KOMPLE	Gear bezel complete	Treaptă de viteză ornament complet
+T6438	VITES CATAL MILI	Gear fork shaft	Treaptă de viteză furcă arbore
+T6439	VITES CATALI	Gear fork	Treaptă de viteză furcă
+T6440	VITES DEGISTIRME UNITESI:KABLOLU VITES	Gear shifting unit:with cable gear technical-work	Treaptă de viteză schimbare unitate:cu cablu treaptă de viteză tehnic-lucru
+T6441	VITES DEGISTIRME UNITESI:KABLOLU VITES,ANA UNITE	Gear shifting unit:with cable gear,main unit	Treaptă de viteză schimbare unitate:cu cablu treaptă de viteză,principal unitate
+T6442	VITES DUGMESI OTOMOTİK ENG	Gear button automatic engine	Treaptă de viteză buton automat motor
+T6443	VITES GECIRME KABLOSU - NHDD 300PS	Gear pass-through cable - NHDD 300PS	Treaptă de viteză trecere cablu - NHDD 300PS
+T6444	VITES GECIRME KABLOSU 3,70 CM	Gear pass-through cable 3,70 CM	Treaptă de viteză trecere cablu 3,70 CM
+T6445	VITES GECIRME KABLOSU	Gear pass-through cable	Treaptă de viteză trecere cablu
+T6446	VITES GECIRME KABLOSU KISA 3.24	Gear pass-through cable short 3.24	Treaptă de viteză trecere cablu scurt 3.24
+T6447	VITES GECIRME KABLOSU KISA	Gear pass-through cable short	Treaptă de viteză trecere cablu scurt
+T6448	VITES GECIRME KABLOSU KMP-MAVI	Gear pass-through cable complete-blue	Treaptă de viteză trecere cablu complet-albastru
+T6449	VITES GECIRME KABLOSU MAVI 3,51 CM HORİZON	Gear pass-through cable blue 3,51 CM	Treaptă de viteză trecere cablu albastru 3,51 CM
+T6450	VITES GECIRME KABLOSU MAVI 3,51 CM	Gear pass-through cable blue 3,51 CM	Treaptă de viteză trecere cablu albastru 3,51 CM
+T6451	VITES GECIRME KABLOSU TURTEL	Gear pass-through cable	Treaptă de viteză trecere cablu
+T6452	VITES GECIRME KABLOSU_BEYAZ	Gear pass-through cable_white	Treaptă de viteză trecere cablu_alb
+T6453	VITES GECIRME KABLOSU_BEYAZ HORİZON	Gear pass-through cable_white	Treaptă de viteză trecere cablu_alb
+T6454	VITES GEÇIRME KABLOSU	Gear pass-through cable	Treaptă de viteză trecere cablu
+T6455	VITES GEÇİRME - KABLOSU	Gear pass-through - cable	Treaptă de viteză trecere - cablu
+T6456	VITES GEÇİRME KABLOSU 3,70 CM	Gear pass-through cable 3,70 CM	Treaptă de viteză trecere cablu 3,70 CM
+T6457	VITES GEÇİRME KABLOSU	Gear pass-through cable	Treaptă de viteză trecere cablu
+T6458	VITES HALATI 3,46 CM EMSA	Gear cable 3,46 CM	Treaptă de viteză cablu 3,46 CM
+T6459	VITES HALATI 3,46 CM	Gear cable 3,46 CM	Treaptă de viteză cablu 3,46 CM
+T6460	VITES HALATI 3,66 CM	Gear cable 3,66 CM	Treaptă de viteză cablu 3,66 CM
+T6461	VITES HALATI 3,80 CM	Gear cable 3,80 CM	Treaptă de viteză cablu 3,80 CM
+T6462	VITES HALATI CABLE	Gear cable cable	Treaptă de viteză cablu cablu
+T6463	VITES HALATI HORİZON	Gear cable	Treaptă de viteză cablu
+T6464	VITES HALATI KONGSBERG	Gear cable	Treaptă de viteză cablu
+T6465	VITES HALATI	Gear cable	Treaptă de viteză cablu
+T6466	VITES HALATI SIYAH 3,88 CM	Gear cable black 3,88 CM	Treaptă de viteză cablu negru 3,88 CM
+T6467	VITES HILALI:SANZ.1.VE2.VITES(IB5)	Gear half-moon:gearbox.1.VE2.gear(IB5)	Treaptă de viteză semilună:cutie de viteze.1.VE2.treaptă de viteză(IB5)
+T6468	VITES KABLOSU KOMP-VITES SECME	Gear cable assembly-gear selection	Treaptă de viteză cablu ansamblu-treaptă de viteză selectare
+T6469	VITES KABLOSU KOMPLE SEÇME 006	Gear cable complete selection 006	Treaptă de viteză cablu complet selectare 006
+T6470	VITES KOLU - RETARDERLI	Gear arm - with retarder	Treaptă de viteză braț - cu retarder
+T6471	VITES KOLU - RETARDERSIZ	Gear arm - without retarder	Treaptă de viteză braț - fără retarder
+T6472	VITES KOLU KOMPLE 16 VITES	Gear arm complete 16 gear technical-work	Treaptă de viteză braț complet 16 treaptă de viteză tehnic-lucru
+T6473	VITES KOLU KOMPLE-16 VITES	Gear arm complete-16 gear	Treaptă de viteză braț complet-16 treaptă de viteză
+T6474	VITES KOLU	Gear arm	Treaptă de viteză braț
+T6475	VITES KONSOLU KOMPLE - (MANUEL SANZIMAN)	Gear console complete - (manual gearbox)	Treaptă de viteză consolă complet - (manual cutie de viteze)
+T6476	VITES KORUGU KOMPLE	Gear bellows complete	Treaptă de viteză burduf complet
+T6477	VITES KORUGU-IC	Gear bellows-inner	Treaptă de viteză burduf-interior
+T6478	VITES KULE MILI (9S 109/16S 109)	Gear tower shaft (9S 109/16S 109)	Treaptă de viteză turn arbore (9S 109/16S 109)
+T6479	VITES KULE TARAGI (9S 109/16S 109)	Gear tower comb (9S 109/16S 109)	Treaptă de viteză turn pieptene (9S 109/16S 109)
+T6480	VITES MEKANIZMASI KOMPLE	Gear mechanism complete	Treaptă de viteză mecanism complet
+T6481	VITES MEKANIZMASI	Gear mechanism technical-work	Treaptă de viteză mecanism tehnic-lucru
+T6482	VITES MEKANIZMASI TM TK	Gear mechanism set set	Treaptă de viteză mecanism set set
+T6483	VITES SECME KABLOSU KOMP-YESIL HORİZON	Gear selection cable assembly-green	Treaptă de viteză selectare cablu ansamblu-verde
+T6484	VITES SECME KABLOSU KOMP-YESIL	Gear selection cable assembly-green	Treaptă de viteză selectare cablu ansamblu-verde
+T6485	VITES SECME KABLOSU KOMP-YEŞİL	Gear selection cable assembly-green	Treaptă de viteză selectare cablu ansamblu-verde
+T6486	VITES SECME KABLOSU KOMPLE - F MAX CABLE	F MAX complete gear selector cable	Cablu selector viteze complet F MAX
+T6487	VITES SECME KABLOSU KOMPLE - F MAX	F MAX complete gear selector cable	Cablu selector viteze complet F MAX
+T6488	VITES SECME KABLOSU KOMPLE - F MAX EMSA	F MAX complete gear selector cable	Cablu selector viteze complet F MAX
+T6489	VITES SECME KABLOSU KOMPLE - F MAX HORİZON	F MAX complete gear selector cable	Cablu selector viteze complet F MAX
+T6490	VITES SECME KABLOSU KOMPLE - F MAX KONGSBERG	F MAX complete gear selector cable	Cablu selector viteze complet F MAX
+T6491	VITES SECME KABLOSU KOMPLE 4142 DÜZ VİTES	Complete gear selector cable 4142, manual transmission	Cablu selectare viteze complet 4142, cutie manuală
+T6492	VITES SECME KABLOSU KOMPLE	Gear selection cable complete	Treaptă de viteză selectare cablu complet
+T6493	VITES SECME KABLOSU KOMPLE UZUN 361CM HC46 BB OLDU ELRİNG	Gear selection cable complete long 361CM HC46	Treaptă de viteză selectare cablu complet lung 361CM HC46
+T6494	VITES SECME KABLOSU KOMPLE UZUN 361CM HC46 BB OLDU HORİZON	Gear selection cable complete long 361CM HC46	Treaptă de viteză selectare cablu complet lung 361CM HC46
+T6495	VITES SECME KABLOSU KOMPLE UZUN 361CM HC46 BB OLDU KONGSBERG	Gear selection cable complete long 361CM HC46	Treaptă de viteză selectare cablu complet lung 361CM HC46
+T6496	VITES SECME KABLOSU- NHDD 300 PS 3,67 CM	Gear selection cable- NHDD 300 PS 3,67 CM	Treaptă de viteză selectare cablu- NHDD 300 PS 3,67 CM
+T6497	VITES SECME KABLOSU- NHDD 300 PS	Gear selection cable- NHDD 300 PS	Treaptă de viteză selectare cablu- NHDD 300 PS
+T6498	VITES SECME KABLOSU_MAVİ	Gear selection cable_blue	Treaptă de viteză selectare cablu_albastru
+T6499	VITES SEHBA YAYI ARKA CARGO	Gear stand spring rear CARGO	Treaptă de viteză suport arc spate CARGO
+T6500	VITES SEHPA YAYI ON CARGO	Gear stand spring front CARGO	Treaptă de viteză suport arc față CARGO
+T6501	VITES SEÇME KABLOSU_MAVİ	Gear selection cable_blue	Treaptă de viteză selectare cablu_albastru
+T6502	VITES TOPUZ SEMASI 8 VITES (16S 109)	Gear knob diagram 8 gear (16S 109)	Treaptă de viteză mâner sferic schemă 8 treaptă de viteză (16S 109)
+T6503	VITES TOPUZU (16S 109)	Gear knob (16S 109)	Treaptă de viteză buton sferic (16S 109)
+T6504	VITES TOPUZU (9S 109/16S 109)	Gear knob (9S 109/16S 109)	Treaptă de viteză buton sferic (9S 109/16S 109)
+T6505	VITES TOPUZU - CIFT MANDALLI	Gear knob - double with latch	Treaptă de viteză buton sferic - dublu cu zăvor
+T6506	VITES TOPUZU / TEK MANDALLI	Gear knob / single with latch	Treaptă de viteză buton sferic / simplu cu zăvor
+T6507	VITES TOPUZU CİFT MANDALLI	Gear knob double with latch	Treaptă de viteză buton sferic dublu cu zăvor
+T6508	VITES TOPUZU KOMPLE	Gear knob complete	Treaptă de viteză buton sferic complet
+T6509	VITES TOPUZU	Gear knob	Treaptă de viteză buton sferic
+T6510	VITES TOPUZU TEK MANDALLI	Gear knob single with latch	Treaptă de viteză buton sferic simplu cu zăvor
+T6511	VITES TOPUZU ÇİFT MANDALLI	Gear knob double with latch	Treaptă de viteză buton sferic dublu cu zăvor
+T6512	VITES TOPUZU- KOMPLE (ALUMINYUM)	Gear knob- complete (aluminium)	Treaptă de viteză buton sferic- complet (aluminiu)
+T6513	VITES TOPUZU-DAMPERLI (-C16S)	Gear knob-tipping (-C16S)	Treaptă de viteză buton sferic-basculabil (-C16S)
+T6514	VITESI HALAT ROTILI DUZ	Gear cable with ball joint straight technical-work	Treaptă de viteză cablu cu articulație sferică drept tehnic-lucru
+T6515	VKOL	Component — check reference	Componentă — verificare după referință
+T6516	VOLAN CİVATASI	Flywheel bolt	Volantă șurub
+T6517	VOLAN DİŞLİSİ 4142	Flywheel ring gear 4142	Coroană dințată volantă 4142
+T6518	VOLAN GOBEK RULMAN	Flywheel hub bearing	Volantă butuc rulment
+T6519	VOLAN GOBEK RULMANI KOMPLE	Flywheel hub bearing complete	Volantă butuc rulment complet
+T6520	VOLAN GOBEK RULMANI	Flywheel hub bearing	Volantă butuc rulment
+T6521	VOLAN KOMPLE	Flywheel complete	Volantă complet
+T6522	VOLAN KOMPLESI	Flywheel complete assembly	Volantă ansamblu complet
+T6523	VOLAN MUHAFAZASI	Flywheel protective housing	Volantă carcasă de protecție
+T6524	VOLANT 1846	Flywheel for 1846 T	Volant pentru 1846 T
+T6525	VOLANT 1846T	Flywheel 1846T	Volantă 1846T
+T6526	VOLANT 2524/3230 EKER	Flywheel for 2524, 3230	Volant pentru 2524, 3230
+T6527	VOLANT 2524/3230	Flywheel 2524/3230	Volantă 2524/3230
+T6528	VOLANT BILYASI	Flywheel bearing	Volantă rulment
+T6529	VOLANT CİVATASI	Flywheel bolt	Volantă șurub
+T6530	VOLANT DISLISI 2524-3230	Flywheel ring gear for 2524, 3230	Coroană dințată volant pentru 2524, 3230
+T6531	VOLANT DİŞLISI 2524-3230	Flywheel ring gear 2524/3230	Coroană dințată volantă 2524/3230
+T6532	VOLANT ENDÜSTRİYEL MOTOR	Flywheel industrial engine	Volantă industrial motor
+T6533	VOLANT KOMPLE 4142	Complete flywheel for 4142	Volant complet pentru 4142
+T6534	VOLANT KOMPLESI	Flywheel complete assembly	Volantă ansamblu complet
+T6535	VOLANT KOMPLESİ	Flywheel complete assembly	Volantă ansamblu complet
+T6536	VOLANT MUHAFAZA ŞANZIMAN GÖVDE	Flywheel protective housing gearbox body	Volantă carcasă de protecție cutie de viteze corp
+T6537	VOLANT MUHAFAZASI MARKA VERİLECEKLER	Flywheel protective housing brand	Volantă carcasă de protecție marcă
+T6538	VOLVO TİPİ REVİZYONLU TERMOSTAT KOMPLE	Type reconditioned thermostat complete	Tip recondiționat termostat complet
+T6539	VİDA BİLYA	Screw bearing	Șurub rulment
+T6540	VİRAJ BAGLANTISI ÖN	Anti-roll connection front	Stabilizator conexiune față
+T6541	VİRAJ DEMİRİ	Anti-roll bar	Bară stabilizatoare
+T6542	VİRAJ DENGE LASTİK ÖN	Anti-roll stabilising rubber front	Stabilizator stabilizare cauciuc față
+T6543	VİTES AYIRICI DİZME BİLYA N NSC	Gear separator arrangement bearing	Treaptă de viteză separator aranjare rulment
+T6544	VİTES HALAT MAFSALI YM	Gear cable joint	Treaptă de viteză cablu articulație
+T6545	VİTES HALATI / 3,45 CM	Gear cable / 3,45 CM	Treaptă de viteză cablu / 3,45 CM
+T6546	VİTES HALATI 3,45 CM	Gear cable 3,45 CM	Treaptă de viteză cablu 3,45 CM
+T6547	VİTES KOLU	Gear arm	Treaptă de viteză braț
+T6548	VİTES KİTLEME KAMASI KISA	Gear locking key short	Treaptă de viteză blocare pană scurt
+T6549	VİTES SECME KABLOSU KOMPLE - F MAX CABLE	F MAX complete gear selector cable	Cablu selector viteze complet F MAX
+T6550	VİTES SECME KABLOSU KOMPLE - F MAX	F MAX complete gear selector cable	Cablu selector viteze complet F MAX
+T6551	VİTES SECME KABLOSU KOMPLE EMSA	Gear selection cable complete	Treaptă de viteză selectare cablu complet
+T6552	VİTES SECME KABLOSU KOMPLE	Gear selection cable complete	Treaptă de viteză selectare cablu complet
+T6553	VİTES SEÇME KABLOSU KOMPLE	Gear selection cable complete	Treaptă de viteză selectare cablu complet
+T6554	VİTES SEÇİCİ MİL RULMANLI	Gear selector shaft with bearing technical-work	Treaptă de viteză selector arbore cu rulment tehnic-lucru
+T6555	VİTES TOPUZU ÇİFT MANDAL	Gear knob double latch	Treaptă de viteză buton sferic dublu zăvor
+T6556	VİTES ÇUBUĞU	Gear rod	Treaptă de viteză tijă
+T6557	VİTESİ TOPUZU	Gear knob	Treaptă de viteză buton sferic
+T6558	YAG BASINC GOSTERGESI KOMPLE	Oil pressure gauge complete	Ulei presiune indicator complet
+T6559	YAG BORUSU KOMPLE	Oil pipe complete	Ulei conductă complet
+T6560	YAG CUBUGU ALİMÜNYUM KARTEL (ENDÜSTRİYEL MOTORU)	Oil rod aluminium oil sump (industrial motor)	Ulei tijă aluminiu baie de ulei (industrial motor)
+T6561	YAG CUBUGU KISA	Oil rod short	Ulei tijă scurt
+T6562	YAG CUBUGU KOMPLE	Oil rod complete	Ulei tijă complet
+T6563	YAG DONUS BORUSU KOMPLE NHDD	Oil return pipe complete NHDD	Ulei retur conductă complet NHDD
+T6564	YAG DONUS BORUSU KOMPLE	Oil return pipe complete	Ulei retur conductă complet
+T6565	YAG EMIS BORUSU - YAG POMPASI	Oil suction pipe - Oil pump	Ulei aspirație conductă - Pompă de ulei
+T6566	YAG EMIS BORUSU KOMPLE	Oil suction pipe complete	Ulei aspirație conductă complet
+T6567	YAG FILTRESI (BAKIM)	Oil filter (maintenance)	Filtru de ulei (întreținere)
+T6568	YAG FILTRESI DIŞ TAS	Oil filter outer housing	Carcasă exterioară filtru de ulei
+T6569	YAG FILTRESI GENSET	Oil filter generator set	Filtru de ulei grup electrogen
+T6570	YAG FILTRESI IC	Inner oil filter element	Element interior filtru de ulei
+T6571	YAG FILTRESI KOMPLE İÇ/DIŞ	Complete inner and outer oil filter set	Set filtru de ulei complet interior și exterior
+T6572	YAG FILTRESİ BAKIM	Oil filter maintenance	Filtru de ulei întreținere
+T6573	YAG FILTRESİ EURO 6	Oil filter EURO 6	Filtru de ulei EURO 6
+T6574	YAG FILTRESİ EURO6	Oil filter EURO6	Filtru de ulei EURO6
+T6575	YAG FILTRESİ	Oil filter	Filtru de ulei
+T6576	YAG KARTERI KOMPLE	Oil sump complete	Ulei carter complet
+T6577	YAG KARTERI MOTOR BLOK ALT ETEK NHDD	Oil sump engine block lower skirt NHDD	Ulei carter motor bloc inferior fustă NHDD
+T6578	YAG KECE SACI-AKS BASI-C.DING	Oil oil seal sheet metal-axle shaft head-.axle	Ulei simering tablă-semiaxă cap-.punte
+T6579	YAG KECESI 80*100*10	Oil oil seal 80*100*10	Ulei simering 80*100*10
+T6580	YAG KECESI BUTUNU	Oil oil seal complete assembly	Ulei simering ansamblu complet
+T6581	YAG KECESI BUTUNU-ON DEFARANSIYEL	Oil oil seal complete assembly-front differential	Ulei simering ansamblu complet-față diferențial
+T6582	YAG KECESI	Oil oil seal	Ulei simering
+T6583	YAG KECESI-ON TEKERLEK POYRA(2)	Oil oil seal-front wheel hub(2)	Ulei simering-față roată butuc(2)
+T6584	YAG MUSUR APARATI TESSAN	Oil switch device	Ulei contact electric dispozitiv
+T6585	YAG MUSURU EM	Oil sensor	Ulei senzor
+T6586	YAG OLCME CUBUGU 69,5 CM	Oil measurement rod 69,5 CM	Ulei măsurare tijă 69,5 CM
+T6587	YAG POMPASI	Oil pump	Pompă de ulei
+T6588	YAG POMPASI JMC	Oil pump	Pompă de ulei
+T6589	YAG POMPASI KOMPLE	Oil pump complete	Pompă de ulei complet
+T6590	YAG POMPASI XX24/XX30	Oil pump XX24/XX30	Pompă de ulei XX24/XX30
+T6591	YAG SEVIYE CUBUGU KOMPLE	Oil level rod complete	Ulei nivel tijă complet
+T6592	YAG SEVIYE CUBUGU	Oil level rod	Ulei nivel tijă
+T6593	YAG SEVIYE CUBUGU VE BORU KOMP	Oil level rod and pipe assembly	Ulei nivel tijă și conductă ansamblu
+T6594	YAG SEVIYE SENSORU	Oil level sensor	Ulei nivel senzor
+T6595	YAG SEVIYESI SENSORU KOMPLE	Oil level sensor complete	Nivel ulei senzor complet
+T6596	YAG SOGUTUCU CONTA	Oil cooler gasket	Răcitor de ulei garnitură
+T6597	YAG SOGUTUCU CONTASI	Oil cooler gasket	Răcitor de ulei garnitură
+T6598	YAG SOGUTUCU CONTASI. TEK CONTA	Oil cooler gasket. single gasket	Răcitor de ulei garnitură. simplu garnitură
+T6599	YAG SOGUTUCU ELEMANI (ALIMINYUM)	Oil cooler element (aluminium)	Răcitor de ulei element (aluminiu)
+T6600	YAG SOGUTUCU ELEMANI (ALIMİNYUM)	Oil cooler element (aluminium)	Răcitor de ulei element (aluminiu)
+T6601	YAG SOGUTUCU GOVDESI - MOTOR YAG FPT (ELEMANSIZ)	Oil cooler housing - engine oil (without element)	Răcitor de ulei corp - motor ulei (fără element)
+T6602	YAG SOGUTUCU HORTUMU	Oil cooler hose	Răcitor de ulei furtun
+T6603	YAG SOGUTUCU KOMPL	Oil cooler complete	Răcitor de ulei complet
+T6604	YAG SOGUTUCU KOMPLE - MOTOR	Oil cooler complete - engine	Răcitor de ulei complet - motor
+T6605	YAG SOGUTUCU KOMPLE - MOTOR YAG	Oil cooler complete - engine oil	Răcitor de ulei complet - motor ulei
+T6606	YAG SOGUTUCU KOMPLE	Oil cooler complete	Răcitor de ulei complet
+T6607	YAG SOGUTUCU KOMPİLE	Oil cooler complete	Răcitor de ulei complet
+T6608	YAG SOGUTUCU PETEGI 4142	Oil cooler core 4142	Element răcitor ulei 4142
+T6609	YAG SOGUTUCU	Oil cooler	Răcitor de ulei
+T6610	YAG TANKI	Oil tank	Ulei rezervor
+T6611	YAG TOPLAYICI	Oil collector	Ulei colector
+T6612	YAGCI VALF - KOMPLE	Grease nipple valve - complete	Gresor supapă - complet
+T6613	YAGCI VALF KOMPLE	Grease nipple valve complete	Gresor supapă complet
+T6614	YAGMUR OLUK FITILI H298	Rain groove weatherstrip H298	Ploaie canal cheder H298
+T6615	YAKIT BORUSU FORD CARGO 1842-3542-4142	Fuel pipe for Ford Cargo 1842, 3542, 4142	Conductă de combustibil pentru Ford Cargo 1842, 3542, 4142
+T6616	YAKIT BORUSU	Fuel pipe	Combustibil conductă
+T6617	YAKIT DEPO AYAGI KOMPLE	Fuel tank support leg complete	Combustibil rezervor picior de sprijin complet
+T6618	YAKIT DEPO AYAGI(H476)+STG4	Fuel tank support leg(H476)+STG4	Combustibil rezervor picior de sprijin(H476)+STG4
+T6619	YAKIT DEPO	Fuel tank	Combustibil rezervor
+T6620	YAKIT DEPOSU 315 LT DAMPERLI 3C46 9002 CB	Fuel tank 315 L tipping 3C46 9002 CB	Rezervor combustibil 315 l basculabil 3C46 9002 CB
+T6621	YAKIT DEPOSU 315 LT	Fuel tank 315 L	Rezervor combustibil 315 l
+T6622	YAKIT DEPOSU 315 LT YOL KAMYONU	Fuel tank 315 L road truck	Rezervor combustibil 315 l drum camion
+T6623	YAKIT DEPOSU 350 LT	Fuel tank 350 L	Rezervor combustibil 350 l
+T6624	YAKIT DEPOSU 600 LT	Fuel tank 600 L	Rezervor combustibil 600 l
+T6625	YAKIT DEPOSU KOMPLE - 650 LT	Fuel tank complete - 650 L	Rezervor combustibil complet - 650 l
+T6626	YAKIT DEPOSU KOMPLE 400 LT	Fuel tank complete 400 L	Rezervor combustibil complet 400 l
+T6627	YAKIT DEPOSU KOMPLE- 550LT	Fuel tank complete- 550LT	Rezervor combustibil complet- 550LT
+T6628	YAKIT DEPOSU KOMPLE-520 LT	Fuel tank complete-520 L	Rezervor combustibil complet-520 l
+T6629	YAKIT ENJ GOMLEGI SARISI	Fuel injection cylinder liner yellow technical-work	Combustibil injecție cămașă de cilindru galben tehnic-lucru
+T6630	YAKIT ENJEKSIYON SELONOIDI MPRO	Fuel injection solenoid	Combustibil injecție solenoid
+T6631	YAKIT ENJEKSIYON SELONOIDI MPROP 689	Fuel injection solenoid 689	Combustibil injecție solenoid 689
+T6632	YAKIT ENJEKSIYON SELONOIDI MPROP 771/723	Fuel injection solenoid 771/723	Combustibil injecție solenoid 771/723
+T6633	YAKIT ENJEKTOR KOMPLESI (12.7 L)	Fuel injector complete assembly (12.7 )	Combustibil injector ansamblu complet (12.7 )
+T6634	YAKIT ENJEKTOR KOMPLESI, 240PS, 300PS - 7.3LT	Fuel injector complete assembly, 240PS, 300PS - 7.3LT	Combustibil injector ansamblu complet, 240PS, 300PS - 7.3LT
+T6635	YAKIT ENJEKTOR KOMPLESI, 260PS, (320PS E1,E3,E5)	Fuel injector complete assembly, 260PS, (320PS E1,E3,E5)	Combustibil injector ansamblu complet, 260PS, (320PS E1,E3,E5)
+T6636	YAKIT ENJEKTOR KOMPLESI, 350PS, 380PS, (320PS-E4) 9LT E6	Fuel injector complete assembly, 350PS, 380PS, (320PS-E4) 9LT E6	Combustibil injector ansamblu complet, 350PS, 380PS, (320PS-E4) 9LT E6
+T6637	YAKIT ENJEKTÖR KOMPLESI, 240PS, 300PS - 7.3LT	Fuel injector complete assembly, 240PS, 300PS - 7.3LT	Combustibil injector ansamblu complet, 240PS, 300PS - 7.3LT
+T6638	YAKIT FILITRESI GENSET	Fuel filter generator set	Combustibil filtru grup electrogen
+T6639	YAKIT FILTRE GOVDESI KOMPLE	Fuel filter housing complete	Combustibil filtru corp complet
+T6640	YAKIT FILTRE SISESI BAGLANTISI	Fuel filter bottle connection	Combustibil filtru recipient conexiune
+T6641	YAKIT FILTRESI (BAKIM) - ON - NHDD 7.3 LT TCI	Fuel filter (maintenance) - front - NHDD 7.3 L	Filtru de combustibil (întreținere) - față - NHDD 7.3 l
+T6642	YAKIT FILTRESI (BAKIM)	Fuel filter for maintenance	Filtru combustibil pentru întreținere
+T6643	YAKIT FILTRESI (BAKIM)=	Fuel filter for servicing	Filtru de combustibil pentru întreținere
+T6644	YAKIT FILTRESI BAKIM	Fuel filter for servicing	Filtru de combustibil pentru întreținere
+T6645	YAKIT FILTRESI FİL FİL	Fuel filter	Filtru de combustibil
+T6646	YAKIT FILTRESİ (BAKIM)	Fuel filter for servicing	Filtru de combustibil pentru întreținere
+T6647	YAKIT FİLTRESİ BAKIM	Fuel filter for servicing	Filtru de combustibil pentru întreținere
+T6648	YAKIT FİLİTRESİ FİL	Fuel filter	Filtru de combustibil
+T6649	YAKIT HORTUMU	Fuel hose	Combustibil furtun
+T6650	YAKIT HORTUMU KOMP-GERI DONUS	Fuel hose assembly-reverse return	Combustibil furtun ansamblu-marșarier retur
+T6651	YAKIT HORTUMU KOMPLE NHDD 7.3 LT TCI	Fuel hose complete NHDD 7.3 L	Combustibil furtun complet NHDD 7.3 l
+T6652	YAKIT HORTUMU-BEYAZ (30 METRE)	Fuel hose-white (30 metre)	Combustibil furtun-alb (30 metru)
+T6653	YAKIT ON FILT.KOMPLE-ISITICILI	Fuel front filter.complete-heated	Combustibil față filtru.complet-cu încălzire
+T6654	YAKIT ON FILTRESI - ISITICILI (SASE)	Fuel front filter - heated (chassis)	Combustibil față filtru - cu încălzire (șasiu)
+T6655	YAKIT ON FILTRESI	Fuel front filter	Combustibil față filtru
+T6656	YAKIT POMPA DISLISI	Fuel pump gear	Combustibil pompă roată dințată
+T6657	YAKIT POMPASI KOMPLE (NHDD)	Fuel pump complete (NHDD)	Pompă de combustibil complet (NHDD)
+T6658	YAKIT POMPASI KOMPLE 4142	Complete fuel pump for 4142	Pompă de combustibil completă pentru 4142
+T6659	YAKIT SAMANDIRASI KOMPLE	Fuel float complete	Combustibil plutitor complet
+T6660	YAKIT TANKI	Fuel tank	Combustibil rezervor
+T6661	YAKIT ŞAMANDIRASI KOMPLE	Fuel float complete	Combustibil plutitor complet
+T6662	YAKIT ŞAMANDIRASI	Fuel float	Combustibil plutitor
+T6663	YAKIT ŞEKİLLİ POLYEMİD HORTUM	Fuel shaped polyamide hose	Combustibil profilat poliamidă furtun
+T6664	YALPALAMA SENSÖRÜ	Sway sensor	Oscilație laterală senzor
+T6665	YAN AYNA KAPAK SOL	Side mirror cover left	Oglindă laterală capac stânga
+T6666	YAN BASAMAK ALT SAG	Side access step lower right	Lateral treaptă de acces inferior dreapta
+T6667	YAN BASAMAK ALT SOL	Side access step lower left	Lateral treaptă de acces inferior stânga
+T6668	YAN BASAMAK GOVDE TARAFI	Side access step body side	Lateral treaptă de acces corp parte
+T6669	YAN BASAMAK KOMPLE SAG	Side access step complete right	Lateral treaptă de acces complet dreapta
+T6670	YAN BASAMAK KOMPLE SOL	Side access step complete left	Lateral treaptă de acces complet stânga
+T6671	YAN BASAMAK KOMPLE-SAG	Side access step complete-right	Lateral treaptă de acces complet-dreapta
+T6672	YAN BASAMAK KOMPLE-SOL	Side access step complete-left	Lateral treaptă de acces complet-stânga
+T6673	YAN BASAMAK NRAKETI SAG	Side access step bracket right	Lateral treaptă de acces suport dreapta
+T6674	YAN BASAMAK NRAKETI SOL	Side access step bracket left	Lateral treaptă de acces suport stânga
+T6675	YAN BASAMAK ORTA SOL	Side access step middle left	Lateral treaptă de acces central stânga
+T6676	YAN BASAMAK PLASTİĞİ SAG	Side access step plastic component right	Lateral treaptă de acces piesă din plastic dreapta
+T6677	YAN BASAMAK SACI	Side access step sheet metal	Lateral treaptă de acces tablă
+T6678	YAN BASAMAK- ORTA SAG	Side access step- middle right	Lateral treaptă de acces- central dreapta
+T6679	YAN BASAMAK-UST SAG-H476	Side access step-upper right-H476	Lateral treaptă de acces-superior dreapta-H476
+T6680	YAN BASAMAK-UST SOL	Side access step-upper left	Lateral treaptă de acces-superior stânga
+T6681	YAN BASAMAK-UST SOL-H476	Side access step-upper left-H476	Lateral treaptă de acces-superior stânga-H476
+T6682	YAN BASAMAK-UST-SAG (H298)	Side access step-upper-right (H298)	Lateral treaptă de acces-superior-dreapta (H298)
+T6683	YAN ETEKLIK SOL	Side side skirt left	Lateral fustă laterală stânga
+T6684	YAN ETEKLIK-SOL	Side side skirt-left	Lateral fustă laterală-stânga
+T6685	YAN ETEKLİK SAG	Side side skirt right	Lateral fustă laterală dreapta
+T6686	YAN ETEKLİK SAĞ	Side side skirt right	Lateral fustă laterală dreapta
+T6687	YAN IKAZ - LAMBASI	Side warning - lamp	Lateral avertizare - lampă
+T6688	YAN IKAZ LAMBASI	Side warning lamp	Lateral avertizare lampă
+T6689	YAN KAPAK ŞASİ SAĞ MARKA VERİLECEKLER	Side cover chassis right brand	Lateral capac șasiu dreapta marcă
+T6690	YAN KAPAK ŞASİ SAĞ	Side cover chassis right	Lateral capac șasiu dreapta
+T6691	YAN KAPAK ŞASİ SOL MARKA VERİLECEKLER	Side cover chassis left brand	Lateral capac șasiu stânga marcă
+T6692	YAN PANEL YATAK BOL- SOL YATAKSIZ	Side panel bearing loose- left without sleeper berth	Lateral panou lagăr larg- stânga fără cușetă
+T6693	YAN PANEL YATAK BOL-SAG (YATAKSIZ)	Side panel bearing loose-right (without sleeper berth)	Lateral panou lagăr larg-dreapta (fără cușetă)
+T6694	YAN SINYAL LAMBASI KOMP.-SAG	Side Indicator lamp assembly.-right	Lateral Lampă semnalizare ansamblu.-dreapta
+T6695	YAN SINYAL LAMBASI KOMP.-SOL	Side Indicator lamp assembly.-left	Lateral Lampă semnalizare ansamblu.-stânga
+T6696	YAN SINYAL LAMBASI KOMPLE - SAG	Side Indicator lamp complete - right	Lateral Lampă semnalizare complet - dreapta
+T6697	YAN SINYAL LAMBASI KOMPLE SAG	Side Indicator lamp complete right	Lateral Lampă semnalizare complet dreapta
+T6698	YAN SINYAL LAMBASI KOMPLE SAĞ AR	Side Indicator lamp complete right	Lateral Lampă semnalizare complet dreapta
+T6699	YAN SINYAL LAMBASI KOMPLE SOL	Side Indicator lamp complete left	Lateral Lampă semnalizare complet stânga
+T6700	YAN SINYAL LAMBASI KOMPLE-SAG	Side Indicator lamp complete-right	Lateral Lampă semnalizare complet-dreapta
+T6701	YAN SINYAL LAMBASI KOMPLE-SOL AR	Side Indicator lamp complete-left	Lateral Lampă semnalizare complet-stânga
+T6702	YAN SINYAL LAMBASI KOMPLE-SOL	Side Indicator lamp complete-left	Lateral Lampă semnalizare complet-stânga
+T6703	YAN SINYAL SOL	Side turn signal left	Lateral semnalizare stânga
+T6704	YAN SİNYAL LAMBASI SAĞ F-LİNE	Side Indicator lamp right -line	Lateral Lampă semnalizare dreapta -linie
+T6705	YAN SİNYAL LAMBASI SOL F-LİNE	Side Indicator lamp left -line	Lateral Lampă semnalizare stânga -linie
+T6706	YAN SİNYAL LAMBASI SOL	Side Indicator lamp left	Lateral Lampă semnalizare stânga
+T6707	YAN TUTAMAK- ON SAG	Side handle- front right	Lateral mâner- față dreapta
+T6708	YAN TUTAMAK- ON SOL	Side handle- front left	Lateral mâner- față stânga
+T6709	YAN YELE KOMPLE-SAG BOYALI	Side deflector complete-right painted	Lateral deflector complet-dreapta vopsit
+T6710	YAN YELE UST SAG	Side deflector upper right	Lateral deflector superior dreapta
+T6711	YAN YELE UST SAG-BOYALI	Side deflector upper right-painted	Lateral deflector superior dreapta-vopsit
+T6712	YAN YELE-SAG(2010,5MY)	Side deflector-right(2010,5MY)	Lateral deflector-dreapta(2010,5MY)
+T6713	YAN ÇAMURLUK SAĞ	Side mudguard right	Lateral aripă dreapta
+T6714	YANMA ODASI-KURU TIP WEBASTO	Combustion chamber-dry type	Ardere cameră-uscat tip
+T6715	YARDIMCI FLANS	Auxiliary flange	Auxiliar flanșă
+T6716	YARDIMCI FLANŞ	Auxiliary flange	Auxiliar flanșă
+T6717	YARIM MOTOR	Half engine	Jumătate motor
+T6718	YARIM TK CONTA	Half set gasket	Jumătate set garnitură
+T6719	YASTIK-ON MAKASLAR MARKA VERİLECEKLER	Cushion-front leaf springs brand	Pernă-față arcuri lamelare marcă
+T6720	YASTIK-ON MAKASLAR(+CSTR)	Cushion-front leaf springs(+)	Pernă-față arcuri lamelare(+)
+T6721	YATAK - BIYEL KOLU ALT	Bearing - Connecting rod lower	Lagăr - Bielă inferior
+T6722	YATAK - BIYEL KOLU UST	Bearing - Connecting rod upper	Lagăr - Bielă superior
+T6723	YATAK - BIYEL KOLU ÜST	Bearing - Connecting rod upper	Lagăr - Bielă superior
+T6724	YATAK - EKSANTRIK MILI	Bearing - Camshaft	Lagăr - Arbore cu came
+T6725	YATAK - KRANK ANA, KIRMIZI	Bearing - crankshaft main, red	Lagăr - arbore cotit principal, roșu
+T6726	YATAK - MAKARALI	Bearing - with rollers	Lagăr - cu role
+T6727	YATAK : BIYEL KOLU UST	Bearing : Connecting rod upper	Lagăr : Bielă superior
+T6728	YATAK BURCU	Bearing bush	Lagăr bucșă
+T6729	YATAK KOMPLE - EKSENEL	Bearing complete - axial	Lagăr complet - axial
+T6730	YATAK KOMPLE - MAKARALI	Bearing complete - with rollers	Lagăr complet - cu role
+T6731	YATAK KRANK ANA MAVI	Bearing crankshaft main blue	Lagăr arbore cotit principal albastru
+T6732	YATAK KRANK	Bearing crankshaft	Lagăr arbore cotit
+T6733	YATAK MENTESESI KOMPLE-SAG	Bearing hinge complete-right	Lagăr balama complet-dreapta
+T6734	YATAK MENTESESI KOMPLE-SOL YATAKSIZ	Bearing hinge complete-left without sleeper berth	Lagăr balama complet-stânga fără cușetă
+T6735	YATAK PLAKASI	Bearing plate	Lagăr placă
+T6736	YATAY CUBUK - ARKA SUSPANSIYON	Horizontal rod - rear suspension	Orizontal tijă - spate suspensie
+T6737	YATAY CUBUK-YUKSEKLIK SENSORU	Horizontal rod-height sensor	Orizontal tijă-înălțime senzor
+T6738	YATAY YUK ALGILAYICI VALF	Horizontal load sensor valve	Orizontal sarcină senzor supapă
+T6739	YAY - (1524891)	Spring - (1524891)	Arc - (1524891)
+T6740	YAY - AKTARMA GOBEK SUSTA YAYI INCE (9S 109/16S 109)	Spring - driveline hub spring spring thin (9S 109/16S 109)	Arc - transmisie butuc arc arc subțire (9S 109/16S 109)
+T6741	YAY - DEBRIYAJ BASKISI	Spring - Clutch pressure plate	Arc - Placă de presiune ambreiaj
+T6742	YAY - DEBRIYAJ UST MERKEZI	Spring - Clutch master cylinder	Arc - Cilindru principal ambreiaj
+T6743	YAY - EGZOZ VALFI NHDD	Spring - exhaust valve NHDD	Arc - evacuare supapă NHDD
+T6744	YAY - EGZOZ VALFI	Spring - exhaust valve	Arc - evacuare supapă
+T6745	YAY - EGZOZ VALFİ	Spring - exhaust valve	Arc - evacuare supapă
+T6746	YAY - EGZOZ VALFİ NHDD	Spring - exhaust valve NHDD	Arc - evacuare supapă NHDD
+T6747	YAY	Spring	Arc
+T6748	YAY - KABIN SUSPANSIYON - ON SAG	Spring - cab suspension - front right	Arc - cabină suspensie - față dreapta
+T6749	YAY - SENKROMENC BASKI YAYI	Spring - synchroniser pressure plate spring	Arc - sincronizator placă de presiune arc
+T6750	YAY - SUPAP	Spring - valve	Arc - supapă
+T6751	YAY - VITES MEKANIZMASI	Spring - gear mechanism	Arc - treaptă de viteză mecanism
+T6752	YAY- DEBRIYAJ SAFT KOMPRESOR	Spring- clutch propeller shaft compressor	Arc- ambreiaj arbore de transmisie compresor
+T6753	YAY- KOLTUK SIRT YATIRMA	Spring- seat back tilting	Arc- scaun spate înclinare
+T6754	YAY-KABIN SUSPANSIYON-ON SOL	Spring-cab suspension-front left	Arc-cabină suspensie-față stânga
+T6755	YAY:MOTOR SUPABI(8)	Spring:engine valve(8)	Arc:motor supapă(8)
+T6756	YAY:SANZ.3/4 SENKROMEC(5 VITES)	Spring:gearbox.3/4 synchroniser(5 gear)	Arc:cutie de viteze.3/4 sincronizator(5 treaptă de viteză)
+T6757	YAY:SANZ.SENKROMEÇ	Spring:gearbox.synchroniser	Arc:cutie de viteze.sincronizator
+T6758	YAYLI PUL	Spring-loaded washer	Cu arc șaibă
+T6759	YAYLI SEGMAN - GUNES DISLI	Spring-loaded ring - sun gear	Cu arc inel - soare roată dințată
+T6760	YAYLI SEKMAN-EKSOZ MANIFOLDU	Spring-loaded piston ring-exhaust manifold	Cu arc segment-evacuare colector
+T6761	YAĞ FILTRESI	Oil filter	Filtru de ulei
+T6762	YAĞ KAPAĞI	Oil cover	Ulei capac
+T6763	YAĞ KARTERİ-MOTOR BLOK ALT	Oil sump-engine block lower	Ulei carter-motor bloc inferior
+T6764	YAĞ KECESI-ON TEKERLEK POYRA(2)	Oil oil seal-front wheel hub(2)	Ulei simering-față roată butuc(2)
+T6765	YAĞ KEÇE YATAĞI	Oil oil seal bearing	Ulei simering lagăr
+T6766	YAĞ KEÇESİ 55x78x8 PİRİZDİREK ZF16 S 2230	Oil oil seal 55X78X8 input shaft 16 2230	Ulei simering 55X78X8 arbore primar 16 2230
+T6767	YAĞ POMPA BORUSU ORİNGİ	Oil pump pipe O-ring	Ulei pompă conductă inel O
+T6768	YAĞ POMPA BORUSU	Oil pump pipe	Ulei pompă conductă
+T6769	YAĞ POMPASI	Oil pump	Pompă de ulei
+T6770	YAĞ POMPASI FORD D1210	Oil pump FORD D1210	Pompă de ulei FORD D1210
+T6771	YAĞ POMPASI KOMPLE	Oil pump complete	Pompă de ulei complet
+T6772	YAĞ SENSÖRÜ	Oil sensor	Ulei senzor
+T6773	YAĞ SOGUTUCU ELEMANI (BAKIR)	Oil cooler element (copper)	Răcitor de ulei element (cupru)
+T6774	YAĞ SOĞUTUCU HORTUMU	Oil cooler hose	Răcitor de ulei furtun
+T6775	YAĞ SOĞUTUCU KOMPLE EURO 5	Oil cooler complete EURO 5	Răcitor de ulei complet EURO 5
+T6776	YAĞ SOĞUTUCU ORİNGLERİ 6 LI 1838 4136	Set of 6 oil cooler O-rings 1838/4136	Set de 6 inele O pentru răcitor ulei 1838/4136
+T6777	YAĞ SÜZGECİ DRT	Oil strainer	Ulei sită filtrantă
+T6778	YAĞ SÜZGECİ ENDUSTRİYEL MAVİ MOTOR	Oil strainer industrial blue engine	Ulei sită filtrantă industrial albastru motor
+T6779	YAĞ SÜZGECİ	Oil strainer	Ulei sită filtrantă
+T6780	YAĞ ÖLÇME ÇUBUGU	Oil measurement rod	Ulei măsurare tijă
+T6781	YAĞ ÖLÇME ÇUBUĞU 4142	Oil dipstick for 4142	Jojă de ulei pentru 4142
+T6782	YAĞLAMA - JETİ	Lubrication - jet	Ungere - duză
+T6783	YAĞLAMA JETİ	Lubrication jet	Ungere duză
+T6784	YAĞLAMA KOVAN	Lubrication sleeve	Ungere manșon
+T6785	YEDEK SU DEPOSU 24 /30	Spare water tank 24 /30	Rezervă apă rezervor 24 /30
+T6786	YEDEK SU DEPOSU 2524/3230	Coolant expansion tank for 2524, 3230	Vas de expansiune pentru 2524, 3230
+T6787	YEDEK SU DEPOSU DS	Spare water tank	Rezervă apă rezervor
+T6788	YEDEK SU DEPOSU ORTUMU	Spare water tank hose	Rezervă apă rezervor furtun
+T6789	YELE	Deflector	Deflector
+T6790	YENİ CARGO KARTER ALİMİNYUM	New CARGO oil sump aluminium	Nou CARGO carter de ulei aluminiu
+T6791	YM BÜYUK AYNA SAĞ - SOL	Large mirror right - left	Mare oglindă dreapta - stânga
+T6792	YM CARGO KUCUK AYNA SAG SOL	CARGO small mirror right left	CARGO mic oglindă dreapta stânga
+T6793	YUK DENGELEME VALFI KOMPLE	Load balancing valve complete	Sarcină echilibrare supapă complet
+T6794	YUKSEKLIK SENSORU HAVALI SUSPANSIYON DC46 3C475 AA 375 441 050 120 81259370023	Height sensor Air suspension DC46 3C475 AA 375 441 050 120 81259370023	Înălțime senzor Suspensie pneumatică DC46 3C475 AA 375 441 050 120 81259370023
+T6795	YUKSEKLIK SENSORU-HAVALI SUSP	Height sensor-pneumatic suspension	Înălțime senzor-pneumatic suspensie
+T6796	YUVA - ARKA SUSPANSIYON GRES 6X4	Seat - rear suspension grease 6X4	Locaș - spate suspensie vaselină 6X4
+T6797	YUVA - ARKA SUSPANSIYON GRES	Seat - rear suspension grease	Locaș - spate suspensie vaselină
+T6798	YUVA - ARKA SUSPANSIYON KOL .BILYASI -6X4	Seat - rear suspension arm .bearing -6X4	Locaș - spate suspensie braț .rulment -6X4
+T6799	YUVA - ARKA SUSPANSIYON KOL BILYASI - 6X4	Seat - rear suspension arm bearing - 6X4	Locaș - spate suspensie braț rulment - 6X4
+T6800	YUVA - ARKA SUSPANSIYON KOL	Seat - rear suspension arm	Locaș - spate suspensie braț
+T6801	YUVA - ON SAFT	Seat - front propeller shaft	Locaș - față arbore de transmisie
+T6802	YUVA ISTAVROZ MILI 1524888	Seat universal joint cross shaft 1524888	Locaș cruce cardanică arbore 1524888
+T6803	YUVA KILIT	Seat lock	Locaș încuietoare
+T6804	YUVA	Seat	Locaș
+T6805	YUVA TERMOSTAT FILTRELI	Seat thermostat with filter	Locaș termostat cu filtru
+T6806	YUVA:KALORIFER RADYATORU	Seat:Heater matrix	Locaș:Radiator încălzire
+T6807	YUVA:TERMOSTAT FILTRELI	Seat:thermostat with filter	Locaș:termostat cu filtru
+T6808	YUZUK - SUPAP (+0.20)	Ring - valve (+0.20)	Inel - supapă (+0.20)
+T6809	YUZUK - SUPAP	Ring - valve	Inel - supapă
+T6810	YUZUK-DIREKSIYON MILI	Ring-Steering shaft	Inel-Arbore de direcție
+T6811	YÜKSEKLIK SENSORU HAVALI SUSPANSIYON	Height sensor Air suspension	Înălțime senzor Suspensie pneumatică
+T6812	YÜKSEKLIK SENSÖRÜ HAVALI SUSPANSIYON	Height sensor Air suspension	Înălțime senzor Suspensie pneumatică
+T6813	YÜKSEKLİK SENSÖR / HAVALI SÜSPANSİYON	Height sensor / Air suspension	Înălțime senzor / Suspensie pneumatică
+T6814	YÜKSEKLİK SENSÖR HAVALI SÜSPANSİYON	Height sensor Air suspension	Înălțime senzor Suspensie pneumatică
+T6815	YÜKSEKLİK SENSÖRÜ HAVA SÜSPANSİYON	Height sensor air suspension	Înălțime senzor aer suspensie
+T6816	YÜKSEKLİK SENSÖRÜ HAVA SÜSPANSİYON MARKA VERİLECEKLER	Height sensor air suspension brand	Înălțime senzor aer suspensie marcă
+T6817	Z KAM MILI	Cam shaft	Camă arbore
+T6818	Z-CAM MILI	Glass shaft	Geam arbore
+T6819	Z-KAM MILI	Cam shaft	Camă arbore
+T6820	Z-KAM MILİ	Cam shaft	Camă arbore
+T6821	Z-KAM MİLİ	Cam shaft	Camă arbore
+T6822	ZARF VE RULMAN KITI - 1524988	Envelope and bearing kit - 1524988	Înveliș și rulment kit - 1524988
+T6823	ZF8098 DIREKSIYON KUTUSU KOMPLESI-(3230C,4030,2530	Complete steering box ZF8098, 3230C/4030/2530	Casetă de direcție completă ZF8098, 3230C/4030/2530
+T6824	ÇABUK TAHLİYE VENTİL	Quick drain valve	Rapid evacuare supapă
+T6825	ÇALIŞMA LAMBA 9 LED	Operation lamp 9 LED	Funcționare lampă 9 LED
+T6826	ÇALIŞMA LAMBASI KOMPLE ARKA	Operation lamp complete rear	Funcționare lampă complet spate
+T6827	ÇAMUR TAKVİYE HALKA KARŞILIĞI	Mud reinforcement ring striker	Noroi ranforsare inel contraplacă
+T6828	ÇAMURLUK - ARKA	Mudguard - rear	Aripă - spate
+T6829	ÇAMURLUK - ARKA SAG 3230	Right rear mudguard 3230	Aripă spate dreapta 3230
+T6830	ÇAMURLUK AYAĞI SAĞ	Mudguard support leg right	Aripă picior de sprijin dreapta
+T6831	ÇAMURLUK SOL YM F-MAX	F-MAX left fender, new model	Aripă stânga F-MAX, model nou
+T6832	ÇARPIŞMA KORUYUCU	Collision guard	Impact protecție
+T6833	ÇATAL MİL	Fork shaft	Furcă arbore
+T6834	ÇEKİ HALKASI ARKA TAMPON	Towing ring rear bumper	Tractare inel spate bară de protecție
+T6835	ÇEMBER DİŞLİ	Ring gear	Inel roată dințată
+T6836	ÇIKIŞ MİLİ RULMANI	Outlet shaft bearing	Ieșire arbore rulment
+T6837	ÇOLAK KOL SOL H476 CONSTRUCTION	Arm left H476 construction	Braț stânga H476 construcții
+T6838	ÖN 2. DİNGİL FREN HORTUMU YAYLI 3230	Spring-protected brake hose for second front axle, 3230	Furtun de frână cu arc pentru a doua punte față, 3230
+T6839	ÖN AMORTİSÖR ŞASİ F-MAX	F-MAX front chassis shock absorber	Amortizor față pentru șasiu F-MAX
+T6840	ÖN AYNA MAHRUTİ 25/24	Front Differential crown wheel and pinion 25/24	Față Coroană și pinion diferențial 25/24
+T6841	ÖN BASAMAK-ORTA	Front access step-middle	Față treaptă de acces-central
+T6842	ÖN CAM KALO.ÜFLEME	Windscreen cab heater.blowing	Parbriz încălzire habitaclu.suflare
+T6843	ÖN CAM	Windscreen	Parbriz
+T6844	ÖN GORUS AYNASI KOLLU	Front visibility mirror with arm	Față vizibilitate oglindă cu braț
+T6845	ÖN GORUS AYNASI KOLLU YM	Front visibility mirror with arm	Față vizibilitate oglindă cu braț
+T6846	ÖN GÖRÜŞ AYNA KOLU	Front visibility mirror arm	Față vizibilitate oglindă braț
+T6847	ÖN GÖRÜŞ AYNASI KOLSUZ	Front visibility mirror without arm	Față vizibilitate oglindă fără braț
+T6848	ÖN GÖRÜŞ AYNASI	Front visibility mirror	Față vizibilitate oglindă
+T6849	ÖN KABİN AMORTİSÖRÜ	Front Cab shock absorber	Față Amortizor cabină
+T6850	ÖN KAPAK	Front cover	Față capac
+T6851	ÖN KAPUT F LİNE	Front bonnet line	Față capotă linie
+T6852	ÖN MOTOR AYAĞI ENDUSTRİYEL	Front engine support leg industrial	Față motor picior de sprijin industrial
+T6853	ÖN MOTOR TAKOZU BRN	Front engine mount	Față motor tampon
+T6854	ÖN MOTOR TAKOZU	Front engine mount	Față motor tampon
+T6855	ÖN PANJUR KİLİDİ	Front front grille lock	Față grilă frontală încuietoare
+T6856	ÖN PANJUR KİLİT SETİ SOL	Front front grille lock set left	Față grilă frontală încuietoare set stânga
+T6857	ÖN PANJUR UST	Front front grille upper	Față grilă frontală superior
+T6858	ÖN PORYA KEÇESİ	Front wheel hub oil seal	Față butuc de roată simering
+T6859	ÖN TEKER ARKA CAMURLUK YAN SAG HAFRİYAT	Front wheel rear mudguard side right earthmoving	Față roată spate aripă lateral dreapta terasamente
+T6860	ÖN TEKER ARKA CAMURLUK YAN SOL HAFRİYAT	Front wheel rear mudguard side left earthmoving	Față roată spate aripă lateral stânga terasamente
+T6861	ÖN TEKER ARKA CAMURLUK ÜST PARÇA SAĞ	Front wheel rear mudguard upper part right	Față roată spate aripă superior piesă dreapta
+T6862	ÖN TEKER ARKA CAMURLUK ÜST PARÇA SOL	Front wheel rear mudguard upper part left	Față roată spate aripă superior piesă stânga
+T6863	ÖN ÇAMURLUK	Front mudguard	Față aripă
+T6864	ÖN ÇAMURLUK SAĞ 1838	Right front mudguard for 1838	Aripă față dreapta pentru 1838
+T6865	ÖN ŞASİ AMORTİSÖR H566	Front chassis shock absorber H566	Față șasiu amortizor H566
+T6866	ÖNCAM YIKAMA MOTORU-24V-DETAY	Windscreen washing motor-24V-detail	Parbriz spălare motor-24V-detaliu
+T6867	ÖZEL PLASTİK KELEPÇE ARMUT BAŞLIK	Special plastic clamp pear head	Special plastic colier pară cap
+T6868	ÜST KAPAK	Upper cover	Superior capac
+T6869	ÜST RÜZGARLIK ALT AYAK	Upper wind deflector lower mounting foot	Superior deflector de aer inferior picior de fixare
+T6870	ÜST RÜZGARLIK ÜST AYAK BAĞLANTI	Upper wind deflector upper mounting foot connection	Superior deflector de aer superior picior de fixare conexiune
+T6871	İKİ KANALLI ELEKTROPNÖMATİK EBS MODÜL	Two grooved electropneumatic EBS module	Două cu caneluri electropneumatic EBS modul
+T6872	İMDAT KOLU EUROCARGO	Parking brake lever	Manetă frână de parcare
+T6873	İNTERCOOL HORTUMU UZUN	Intercooler hose long	Intercooler furtun lung
+T6874	İPTAL KAYIŞI FMAX	FMAX bypass belt	Curea de ocolire FMAX
+T6875	İSTAVROZ KUTU CİVATASI	Universal joint cross box bolt	Cruce cardanică cutie șurub
+T6876	İSTAVROZ KUTUSU F-MAX 15/37 2,467	F-MAX differential spider housing, 15/37, 2,467	Carcasă port-sateliți F-MAX, 15/37, 2,467
+T6877	İSTAVROZ KUTUSU	Universal joint cross housing	Cruce cardanică carcasă
+T6878	İSTAVROZ SET	Universal joint cross set	Cruce cardanică set
+T6879	İÇ LAMBA	Inner lamp	Interior lampă
+T6880	ŞAFT ASKISI 33	Propeller shaft support 33	Suport arbore cardanic 33
+T6881	ŞAFT ASKISİ 33	Propeller shaft support 33	Suport arbore cardanic 33
+T6882	ŞAMANDIRA	Float	Plutitor
+T6883	ŞANIZMAN KARTI	Gearbox circuit board	Cutie de viteze placă electronică
+T6884	ŞANZIMAN ARA PLAKA	Gearbox intermediate plate	Cutie de viteze intermediar placă
+T6885	ŞANZIMAN ARKA KEÇE 16S1620	Gearbox rear oil seal 16S1620	Cutie de viteze spate simering 16S1620
+T6886	ŞANZIMAN KOMPLE EURO6 9LT	Gearbox complete EURO6 9LT	Cutie de viteze complet EURO6 9LT
+T6887	ŞANZIMAN KOMPLE	Gearbox complete	Cutie de viteze complet
+T6888	ŞANZIMAN VITES DUGMESI OTOMOTIK	Gearbox gear button automatic	Cutie de viteze treaptă de viteză buton automat
+T6889	ŞANZUMAN KOMPLE - RETARDARSIZ YOL TİPİ FMAX	FMAX complete gearbox, road version without retarder	Cutie de viteze completă FMAX, versiune rutieră fără retarder
+T6890	ŞASE FİLTRE KAPAĞI MERCEDES	Chassis filter cover	Șasiu filtru capac
+T6891	ŞERİT LASTIK ÖN TAMPON SAĞ	Strip rubber front bumper right	Bandă cauciuc față bară de protecție dreapta
+T6892	ŞERİT LASTIK-ON TAMPON SOL	Strip rubber-front bumper left	Bandă cauciuc-față bară de protecție stânga
+T6893	ŞİM PISTON GOMLEK 0,14	Shim piston cylinder liner 0,14	Șaibă de reglaj piston cămașă de cilindru 0,14

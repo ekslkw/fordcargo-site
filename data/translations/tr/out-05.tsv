@@ -1,0 +1,500 @@
+T2761	Engine noise shield	Scut antifonic motor
+T2762	Engine noise shield, side, right	Scut antifonic motor, lateral, dreapta
+T2763	Engine noise shield, side, left	Scut antifonic motor, lateral, stânga
+T2764	Engine noise shield, front, left	Scut antifonic motor, față, stânga
+T2765	Cylinder liner, Ford D 1210	Cămașă cilindru, Ford D 1210
+T2766	Body panel, impact	Panou caroserie, impact
+T2767	Gearbox housing	Carcasă cutie de viteze
+T2768	Sun visor bracket 2524	Suport parasolar 2524
+T2769	Sun visor, complete, 3230	Parasolar complet 3230
+T2770	Temperature gauge, complete	Indicator temperatură, complet
+T2771	Inlet metering valve	Supapă de dozare admisie
+T2772	Gear shift cable	Cablu schimbător de viteze
+T2773	Carpet, rear right	Mochetă, spate dreapta
+T2774	Carpet, middle	Mochetă, centrală
+T2775	Carpet, left	Mochetă, stânga
+T2776	Ring, 0.08 mm	Inel, 0,08 mm
+T2777	Ring, 0.1 mm	Inel, 0,1 mm
+T2778	Ring, 0.12 mm	Inel, 0,12 mm
+T2779	Ring, drive pinion top bearing	Inel, rulment superior pinion de atac
+T2780	Retaining ring	Inel de fixare
+T2781	Centring ring	Inel de centrare
+T2782	Ring gear (16S 109)	Coroană dințată (16S 109)
+T2783	Ring gear 1/2 (9S 109/16S 109)	Coroană dințată 1/2 (9S 109/16S 109)
+T2784	Ring gear 3/4 (9S 75)	Coroană dințată 3/4 (9S 75)
+T2785	Ring gear	Coroană dințată
+T2786	Radiator fan shroud ring	Inel carcasă ventilator radiator
+T2787	Flywheel ring, drive plate	Inel volant, placă de antrenare
+T2788	Motion transmitter	Transmițător de mișcare
+T2789	Air intake stack cap, day cab, H298	Căciulă tub admisie aer, cabină de zi, H298
+T2790	Air intake stack grille	Grilă tub admisie aer
+T2791	Air intake stack, complete, sleeper cab	Tub admisie aer, complet, cabină cu cușetă
+T2792	Air intake stack, complete, NHDD 7.3 l TCI, 32000 kg	Tub admisie aer, complet, NHDD 7.3 l TCI, 32000 kg
+T2793	Air intake stack, complete	Tub admisie aer, complet
+T2794	Air intake stack head, complete	Cap tub admisie aer, complet
+T2795	Air intake stack head, complete	Cap tub admisie aer, complet
+T2796	Air intake stack head	Cap tub admisie aer
+T2797	Air pressure gauge, complete (nickel-plated)	Manometru presiune aer, complet (nichelat)
+T2798	Air pressure gauge, complete	Manometru presiune aer, complet
+T2799	Air pressure sensor (6,5MY)	Senzor presiune aer (6,5MY)
+T2800	Air intake pipe bracket	Suport conductă admisie aer
+T2801	Air intake hose	Furtun admisie aer
+T2802	Air intake hose	Furtun admisie aer
+T2803	Air filter housing, complete	Carcasă filtru aer, completă
+T2804	Air filter cap, for industrial engine	Capac filtru aer, pentru motor industrial
+T2805	Air filter set, outer / inner, F-MAX	Set filtru aer, exterior / interior, F-MAX
+T2806	Air filter, outer, F-MAX	Filtru aer, exterior, F-MAX
+T2807	Air filter, outer, Legacy	Filtru aer, exterior, Legacy
+T2808	Air filter dust outlet hose	Furtun evacuare praf filtru aer
+T2809	Air filter mounting foot, industrial engine	Picior de prindere filtru aer, motor industrial
+T2810	Air filter bracket, H476	Suport filtru aer, H476
+T2811	Air filter to intake manifold intermediate hose	Furtun intermediar filtru aer – galerie admisie
+T2812	Air filter to intake manifold intermediate hose	Furtun intermediar filtru aer – galerie admisie
+T2813	Air filter cover	Capac filtru aer
+T2814	Air filter housing clamp 4142	Colier carcasă filtru aer 4142
+T2815	Air filter, outer	Filtru aer, exterior
+T2816	Air filter, inner, F-MAX	Filtru aer, interior, F-MAX
+T2817	Air filter, inner, Legacy	Filtru aer, interior, Legacy
+T2818	Air filter, inner	Filtru aer, interior
+T2819	Air filter, outer, NHDD	Filtru aer, exterior, NHDD
+T2820	Air filter, inner, NHDD 7.3	Filtru aer, interior, NHDD 7.3
+T2821	Air filter, NHDD	Filtru aer, NHDD
+T2822	Air filter elbow hose	Furtun cot filtru aer
+T2823	Air filter set, outer / inner	Set filtru aer, exterior / interior
+T2824	Air filter cover clip	Clemă capac filtru aer
+T2825	Air filter cover O-ring	O-ring capac filtru aer
+T2826	Air filter cover	Capac filtru aer
+T2827	Air filter, complete	Filtru aer, complet
+T2828	Air filter, complete, 15 inch	Filtru aer, complet, 15 inch
+T2829	Air filter housing	Carcasă filtru aer
+T2830	Air filter, inner, NHDD 7.3	Filtru aer, interior, NHDD 7.3
+T2831	Air filter, inner, NHDD 9 l	Filtru aer, interior, NHDD 9 l
+T2832	Air filter	Filtru aer
+T2833	Air filter dust collector	Colector praf filtru aer
+T2834	Air filter, inner, Legacy	Filtru aer, interior, Legacy
+T2835	Air filter mounting foot, front	Picior de prindere filtru aer, față
+T2836	Air filter cover, Euro 6	Capac filtru aer, Euro 6
+T2837	Air filter housing	Carcasă filtru aer
+T2838	Air filter dust valve, large	Supapă evacuare praf filtru aer, mare
+T2839	Air filter front cover 1838	Capac frontal filtru aer 1838
+T2840	Air filter set, outer / inner	Set filtru aer, exterior / interior
+T2841	Air filter set, outer / inner	Set filtru aer, exterior / interior
+T2842	Air filter set, outer / inner	Set filtru aer, exterior / interior
+T2843	Air filter set, outer / inner	Set filtru aer, exterior / interior
+T2844	Air filter set, outer / inner	Set filtru aer, exterior / interior
+T2845	Air filter, inner, F-MAX	Filtru aer, interior, F-MAX
+T2846	Air filter cover	Capac filtru aer
+T2847	Air filter, inner	Filtru aer, interior
+T2848	Air filter housing	Carcasă filtru aer
+T2849	Air filter set, inner / outer	Set filtru aer, interior / exterior
+T2850	Air duct, auxiliary heater	Canal aer, încălzitor suplimentar
+T2851	Air duct, cab heater	Canal aer, încălzire habitaclu
+T2852	Air duct, cab heater, right	Canal aer, încălzire habitaclu, dreapta
+T2853	Air tank outlet hose elbow, thick, for industrial engine	Cot furtun ieșire rezervor aer, gros, pentru motor industrial
+T2854	Air compressor 630CC (LK4958)	Compresor aer 630CC (LK4958)
+T2855	Air spring, cab front (42 cm) (AA)	Pernă de aer, cabină față (42 cm) (AA)
+T2856	Air spring, cab front (42 cm)	Pernă de aer, cabină față (42 cm)
+T2857	Air spring, complete, cab rear suspension, C4AS	Pernă de aer, completă, suspensie cabină spate, C4AS
+T2858	Air spring, complete, cab rear suspension	Pernă de aer, completă, suspensie cabină spate
+T2859	Air spring, complete, cab front suspension, C2AS	Pernă de aer, completă, suspensie cabină față, C2AS
+T2860	Air spring, complete, cab rear suspension, sleeper cab, high roof	Pernă de aer, completă, suspensie cabină spate, cabină cu cușetă, plafon înalt
+T2861	Air spring, complete, cab front suspension, C2AS	Pernă de aer, completă, suspensie cabină față, C2AS
+T2862	Air spring, complete, cab front suspension, C4AS	Pernă de aer, completă, suspensie cabină față, C4AS
+T2863	Air spring, complete, cab front suspension	Pernă de aer, completă, suspensie cabină față
+T2864	Air spring, complete, cab front suspension	Pernă de aer, completă, suspensie cabină față
+T2865	Air spring, complete, cab front suspension	Pernă de aer, completă, suspensie cabină față
+T2866	Air spring, front	Pernă de aer, față
+T2867	Air spring, complete, cab rear suspension, C4AS	Pernă de aer, completă, suspensie cabină spate, C4AS
+T2868	Air dryer filter	Filtru uscător aer
+T2869	Air dryer filter AL12	Filtru uscător aer AL12
+T2870	Air dryer, H476 / 1838	Uscător aer, H476 / 1838
+T2871	Air dryer, H476 1838, old model	Uscător aer, H476 1838, model vechi
+T2872	Air dryer, H476 1838	Uscător aer, H476 1838
+T2873	Air dryer, complete, APU 0090	Uscător aer, complet, APU 0090
+T2874	Air dryer, complete, APU 0090	Uscător aer, complet, APU 0090
+T2875	Air dryer, complete, APU 0090	Uscător aer, complet, APU 0090
+T2876	Air dryer, complete, CC46	Uscător aer, complet, CC46
+T2877	Air dryer, complete, with filter, Ford 3230	Uscător aer, complet, cu filtru, Ford 3230
+T2878	Air dryer, complete, 11 bar (H298)	Uscător aer, complet, 11 bar (H298)
+T2879	Air dryer, complete, APU (H476)	Uscător aer, complet, APU (H476)
+T2880	Air dryer, complete, APU 0070	Uscător aer, complet, APU 0070
+T2881	Air dryer, complete, APU 0090	Uscător aer, complet, APU 0090
+T2882	Air dryer, complete, APU	Uscător aer, complet, APU
+T2883	Air dryer purge valve 4142	Supapă purjare uscător aer 4142
+T2884	Air dryer purge valve	Supapă purjare uscător aer
+T2885	Air dryer purge valve (used part)	Supapă purjare uscător aer (din dezmembrări)
+T2886	Air dryer purge valve 0070	Supapă purjare uscător aer 0070
+T2887	Air dryer repair kit, complete	Kit reparație uscător aer, complet
+T2888	Air dryer repair kit, half	Kit reparație uscător aer, parțial
+T2889	Air box outlet pipe	Conductă ieșire carcasă aer
+T2890	Engine air cleaner hose	Furtun filtru aer motor
+T2891	Charge air cooler 350PS/380PS	Intercooler 350PS/380PS
+T2892	Charge air cooler	Intercooler
+T2893	Charge air cooler	Intercooler
+T2894	Air blower duct, windscreen	Canal suflare aer, parbriz
+T2895	Air vent, driver side, left	Gură de aer, partea șoferului, stânga
+T2896	Air vent, passenger side	Gură de aer, partea pasagerului
+T2897	Relay valve, brake system	Supapă releu, sistem de frânare
+T2898	Relay valve, brake system	Supapă releu, sistem de frânare
+T2899	Relay valve, brake system	Supapă releu, sistem de frânare
+T2900	Relay valve, brake system	Supapă releu, sistem de frânare
+T2901	Relay valve, air	Supapă releu, aer
+T2902	Low air pressure warning switch	Senzor avertizare presiune aer
+T2903	Air processing unit	Unitate de tratare a aerului
+T2904	Air processing unit 0090	Unitate de tratare a aerului 0090
+T2905	Ventilation cover, rear, inner	Capac ventilație, spate, interior
+T2906	Wheel rim, without countersink	Jantă, fără locaș conic
+T2907	Helical gear, secondary housing unit	Roată dințată elicoidală, unitate carcasă secundară
+T2908	Helical gear	Roată dințată elicoidală
+T2909	Ford part HG9Q 6C032 DA	Piesă Ford HG9Q 6C032 DA
+T2910	Hydraulic clutch pipe, H476	Conductă hidraulică ambreiaj, H476
+T2911	Speedometer, complete	Vitezometru, complet
+T2912	Speed sensor, KITAS2	Senzor viteză, KITAS2
+T2913	Speed sensor	Senzor viteză
+T2914	Bonnet latch bracket, right	Suport închizător capotă, dreapta
+T2915	Loudspeaker, complete	Difuzor, complet
+T2916	Rocker arm	Culbutor
+T2917	Hose, expansion tank to radiator	Furtun, vas de expansiune – radiator
+T2918	Hydraulic clutch hose	Furtun hidraulic ambreiaj
+T2919	Hydraulic clutch hose	Furtun hidraulic ambreiaj
+T2920	Trailer brake connection hose, red	Furtun conexiune frână semiremorcă, roșu
+T2921	Trailer brake connection hose, yellow	Furtun conexiune frână semiremorcă, galben
+T2922	EGR cooler outlet hose	Furtun ieșire răcitor EGR
+T2923	Evaporator hose, flexible	Furtun evaporator, flexibil
+T2924	Brake hose	Furtun frână
+T2925	Air hose	Furtun aer
+T2926	Ventilation hose	Furtun ventilație
+T2927	Power steering pressure hose	Furtun presiune servodirecție
+T2928	Cab heater water hose	Furtun apă încălzire habitaclu
+T2929	Cab heater water hose	Furtun apă încălzire habitaclu
+T2930	Engine breather hose	Furtun ventilație motor
+T2931	Engine breather hose	Furtun ventilație motor
+T2932	Hose, engine to compressor	Furtun, motor – compresor
+T2933	Hose, engine to compressor	Furtun, motor – compresor
+T2934	Hose, engine to radiator	Furtun, motor – radiator
+T2935	Hose washer	Șaibă furtun
+T2936	Radiator hose, lower	Furtun radiator, inferior
+T2937	Radiator hose	Furtun radiator
+T2938	Radiator hose	Furtun radiator
+T2939	Radiator hose	Furtun radiator
+T2940	Hose, radiator to engine, outlet, lower	Furtun, radiator – motor, ieșire, inferior
+T2941	Hose, radiator to engine, outlet, lower, NHDD 7.3 l TCI	Furtun, radiator – motor, ieșire, inferior, NHDD 7.3 l TCI
+T2942	Hose, radiator to engine, outlet, lower	Furtun, radiator – motor, ieșire, inferior
+T2943	Hose, radiator to engine, outlet	Furtun, radiator – motor, ieșire
+T2944	Hose, radiator to engine, outlet, upper, NHDD 7.3 l TCI	Furtun, radiator – motor, ieșire, superior, NHDD 7.3 l TCI
+T2945	Radiator hose, lower	Furtun radiator, inferior
+T2946	Exhaust sensor hose	Furtun senzor evacuare
+T2947	Hose, cooler to compressor	Furtun, răcitor – compresor
+T2948	Water outlet hose	Furtun ieșire apă
+T2949	Water tank hose (CAS 7439-92-1)	Furtun rezervor apă (CAS 7439-92-1)
+T2950	Water tank hose	Furtun rezervor apă
+T2951	Water inlet hose	Furtun intrare apă
+T2952	Water inlet hose	Furtun intrare apă
+T2953	Thermostat hose	Furtun termostat
+T2954	Thermostat hose	Furtun termostat
+T2955	Oil cooler outlet hose	Furtun ieșire răcitor ulei
+T2956	Oil cooler outlet hose	Furtun ieșire răcitor ulei
+T2957	Oil cooler outlet hose	Furtun ieșire răcitor ulei
+T2958	Oil cooler inlet hose	Furtun intrare răcitor ulei
+T2959	Oil cooler inlet hose	Furtun intrare răcitor ulei
+T2960	Oil cooler inlet hose	Furtun intrare răcitor ulei
+T2961	Oil cooler inlet hose	Furtun intrare răcitor ulei
+T2962	Oil cooler inlet hose	Furtun intrare răcitor ulei
+T2963	Oil cooler hose	Furtun răcitor ulei
+T2964	Oil drain hose	Furtun golire ulei
+T2965	Oil hose	Furtun ulei
+T2966	Oil hose	Furtun ulei
+T2967	Oil hose	Furtun ulei
+T2968	Cab tilt cylinder hose (H476)	Furtun cilindru ridicare cabină (H476)
+T2969	Hydraulic clutch hose	Furtun hidraulic ambreiaj
+T2970	Air filter outlet hose	Furtun ieșire filtru aer
+T2971	Oil cooler hose	Furtun răcitor ulei
+T2972	Oil cooler outlet hose	Furtun ieșire răcitor ulei
+T2973	Hose	Furtun
+T2974	Hose bracket	Suport furtun
+T2975	Clutch hose	Furtun ambreiaj
+T2976	Steering pump return hose	Furtun retur pompă servodirecție
+T2977	Steering hose, tank intermediate	Furtun servodirecție, intermediar rezervor
+T2978	Steering hose 2524	Furtun servodirecție 2524
+T2979	EGR cooler outlet hose	Furtun ieșire răcitor EGR
+T2980	EGR cooler outlet hose	Furtun ieșire răcitor EGR
+T2981	Hose	Furtun
+T2982	Hose	Furtun
+T2983	Air intake stack hose, with bellows	Furtun tub admisie aer, cu burduf
+T2984	Air filter outlet hose	Furtun ieșire filtru aer
+T2985	Air filter elbow pipe hose	Furtun cot conductă filtru aer
+T2986	Power steering pressure hose	Furtun presiune servodirecție
+T2987	Intercooler inlet / outlet hose	Furtun intrare / ieșire intercooler
+T2988	Cab heater water outlet hose	Furtun ieșire apă încălzire habitaclu
+T2989	Cab heater water outlet hose	Furtun ieșire apă încălzire habitaclu
+T2990	Cab heater water outlet hose	Furtun ieșire apă încălzire habitaclu
+T2991	Cab heater water outlet hose	Furtun ieșire apă încălzire habitaclu
+T2992	Cab heater water outlet hose	Furtun ieșire apă încălzire habitaclu
+T2993	Hose clamp	Colier furtun
+T2994	Hose, lock to lock	Furtun, de la încuietoare la încuietoare
+T2995	Hose, short, 5-ply wire braided	Furtun, scurt, cu inserție din 5 fire
+T2996	Hose, short, 5-ply wire braided	Furtun, scurt, cu inserție din 5 fire
+T2997	Hose assembly, dryer to cooler	Furtun complet, uscător – răcitor
+T2998	Hose assembly, radiator degas outlet	Furtun complet, ieșire degazare radiator
+T2999	Brake hose assembly, rear wheel, 90241	Furtun frână complet, roată spate, 90241
+T3000	Brake hose assembly, rear wheel	Furtun frână complet, roată spate
+T3001	Crankcase breather hose assembly	Furtun ventilație carter complet
+T3002	Cab tilt cylinder hose assembly, day cab	Furtun cilindru ridicare cabină complet, cabină fără cușetă
+T3003	Hose assembly, dryer to cooler	Furtun complet, uscător – răcitor
+T3004	Hose assembly, dryer / cooler	Furtun complet, uscător / răcitor
+T3005	Brake hose assembly, front wheel	Furtun frână complet, roată față
+T3006	Hose assembly, radiator degas outlet	Furtun complet, ieșire degazare radiator
+T3007	Hose assembly, radiator degas outlet	Furtun complet, ieșire degazare radiator
+T3008	Brake hose assembly, front wheel	Furtun frână complet, roată față
+T3009	Hose assembly, tank to gearbox auxiliary pump	Furtun complet, rezervor – pompă auxiliară cutie de viteze
+T3010	Steering hose assembly	Furtun servodirecție complet
+T3011	Power steering hose assembly	Furtun servodirecție hidraulică complet
+T3012	Cab tilt cylinder hose assembly	Furtun cilindru ridicare cabină complet
+T3013	Fuel supply hose assembly	Furtun alimentare combustibil complet
+T3014	Steering hose assembly	Furtun servodirecție complet
+T3015	Steering hose assembly	Furtun servodirecție complet
+T3016	Crankcase breather hose assembly	Furtun ventilație carter complet
+T3017	Hose assembly	Furtun complet
+T3018	Hose assembly, coolant tank	Furtun complet, vas de expansiune
+T3019	Hose assembly, coolant tank	Furtun complet, vas de expansiune
+T3020	Oil cooler hose assembly	Furtun răcitor ulei complet
+T3021	Steering hose assembly	Furtun servodirecție complet
+T3022	Steering hose assembly	Furtun servodirecție complet
+T3023	Brake hose assembly, 2nd front axle, 90239	Furtun frână complet, a doua punte față, 90239
+T3024	Steering hose assembly	Furtun servodirecție complet
+T3025	Steering hose assembly	Furtun servodirecție complet
+T3026	Steering hose assembly	Furtun servodirecție complet
+T3027	Cab tilt cylinder hose assembly	Furtun cilindru ridicare cabină complet
+T3028	Cab tilt cylinder hose assembly (H476)	Furtun cilindru ridicare cabină complet (H476)
+T3029	Brake hose assembly, front wheel	Furtun frână complet, roată față
+T3030	Hose assembly, coolant tank	Furtun complet, vas de expansiune
+T3031	Radiator hose, lower	Furtun radiator, inferior
+T3032	Radiator hose, lower	Furtun radiator, inferior
+T3033	Radiator hose, lower	Furtun radiator, inferior
+T3034	Radiator hose	Furtun radiator
+T3035	Radiator hose assembly, 3-way	Furtun radiator complet, cu 3 căi
+T3036	Radiator hose, upper	Furtun radiator, superior
+T3037	Radiator hose, upper	Furtun radiator, superior
+T3038	Radiator hose	Furtun radiator
+T3039	Radiator hose, lower	Furtun radiator, inferior
+T3040	Radiator hose	Furtun radiator
+T3041	Radiator hose	Furtun radiator
+T3042	Exhaust sensor hose	Furtun senzor evacuare
+T3043	Hose set, 7 pcs., Cargo 2520	Set furtunuri, 7 buc., Cargo 2520
+T3044	Hose set, 10 pcs., Cargo 2520	Set furtunuri, 10 buc., Cargo 2520
+T3045	Hose set, 4 pcs., 2524/3230	Set furtunuri, 4 buc., 2524/3230
+T3046	Water outlet hose	Furtun ieșire apă
+T3047	Water outlet hose	Furtun ieșire apă
+T3048	Water pump hose	Furtun pompă apă
+T3049	Water outlet hose	Furtun ieșire apă
+T3050	Hose, turbocharger to aluminium pipe	Furtun, turbocompresor – conductă din aluminiu
+T3051	Turbocharger oil return hose	Furtun retur ulei turbocompresor
+T3052	Hose	Furtun
+T3053	Hose	Furtun
+T3054	Oil hose, with heat shield	Furtun ulei, cu scut termic
+T3055	Oil cooler outlet hose, braided	Furtun ieșire răcitor ulei, împletit
+T3056	Oil cooler inlet hose, braided	Furtun intrare răcitor ulei, împletit
+T3057	Oil cooler inlet hose	Furtun intrare răcitor ulei
+T3058	Oil cooler inlet hose	Furtun intrare răcitor ulei
+T3059	Oil cooler inlet hose, braided	Furtun intrare răcitor ulei, împletit
+T3060	Fuel filter hose	Furtun filtru combustibil
+T3061	Fuel level hose	Furtun nivel combustibil
+T3062	Oil cooler inlet hose, braided	Furtun intrare răcitor ulei, împletit
+T3063	Oil cooler inlet hose, braided	Furtun intrare răcitor ulei, împletit
+T3064	Oil cooler hose	Furtun răcitor ulei
+T3065	Oil cooler outlet hose	Furtun ieșire răcitor ulei
+T3066	Oil cooler outlet hose, fabric wrapped	Furtun ieșire răcitor ulei, înfășurat cu pânză
+T3067	Oil cooler outlet hose	Furtun ieșire răcitor ulei
+T3068	Hose, thin section	Furtun, secțiune subțire
+T3069	Windscreen washer hose, tank to nozzle, left	Furtun spălător parbriz, rezervor – duză, stânga
+T3070	Windscreen washer hose	Furtun spălător parbriz
+T3071	Degas tank outlet hose	Furtun ieșire vas degazare
+T3072	Degas tank outlet hose (H476)	Furtun ieșire vas degazare (H476)
+T3073	Cab tilt cylinder support hose	Furtun suport cilindru ridicare cabină
+T3074	Exhaust hose, 80 cm	Furtun evacuare, 80 cm
+T3075	Air filter inlet hose	Furtun intrare filtru aer
+T3076	Air filter inlet hose, day cab	Furtun intrare filtru aer, cabină fără cușetă
+T3077	Air filter outlet hose	Furtun ieșire filtru aer
+T3078	Air filter outlet hose, NHDD 7.3 l TCI	Furtun ieșire filtru aer, NHDD 7.3 l TCI
+T3079	Air filter outlet hose	Furtun ieșire filtru aer
+T3080	Air filter outlet hose, NHDD 7.3 l TCI	Furtun ieșire filtru aer, NHDD 7.3 l TCI
+T3081	Air filter inlet hose, sleeper cab, NHDD 7.3 l TCI	Furtun intrare filtru aer, cabină cu cușetă, NHDD 7.3 l TCI
+T3082	Air duct hose, right	Furtun canal aer, dreapta
+T3083	Air duct hose, left	Furtun canal aer, stânga
+T3084	Hydraulic hose, cab lock beam	Furtun hidraulic, traversă încuietoare cabină
+T3085	Hydraulic pump outlet hose	Furtun ieșire pompă hidraulică
+T3086	Intercooler outlet hose	Furtun ieșire intercooler
+T3087	Intercooler inlet hose	Furtun intrare intercooler
+T3088	Intercooler inlet hose	Furtun intrare intercooler
+T3089	Intercooler inlet / outlet hose, NHDD 7.3 l TCI	Furtun intrare / ieșire intercooler, NHDD 7.3 l TCI
+T3090	Cab heater outlet hose, right	Furtun ieșire încălzire habitaclu, dreapta
+T3091	Cab heater inlet / outlet hose (H476)	Furtun intrare / ieșire încălzire habitaclu (H476)
+T3092	Cab heater inlet / outlet hose (H476)	Furtun intrare / ieșire încălzire habitaclu (H476)
+T3093	Cab heater inlet hose	Furtun intrare încălzire habitaclu
+T3094	Cab heater inlet hose	Furtun intrare încălzire habitaclu
+T3095	Cab heater inlet hose	Furtun intrare încălzire habitaclu
+T3096	Cab heater air blower hose, outer, left	Furtun suflare aer încălzire habitaclu, exterior, stânga
+T3097	Cab heater air blower hose, right	Furtun suflare aer încălzire habitaclu, dreapta
+T3098	Cab heater air blower hose, left	Furtun suflare aer încălzire habitaclu, stânga
+T3099	Cab heater water outlet hose	Furtun ieșire apă încălzire habitaclu
+T3100	Cab heater water inlet hose, NHDD 7.3 l TCI	Furtun intrare apă încălzire habitaclu, NHDD 7.3 l TCI
+T3101	Cab tilt lock hose, right	Furtun încuietoare ridicare cabină, dreapta
+T3102	Cab tilt lock hose, left, sleeper cab, NHDD 7.3 l	Furtun încuietoare ridicare cabină, stânga, cabină cu cușetă, NHDD 7.3 l
+T3103	Cab tilt cylinder hose, left (H476)	Furtun cilindru ridicare cabină, stânga (H476)
+T3104	Hose, pump to cab tilt cylinder	Furtun, pompă – cilindru ridicare cabină
+T3105	Engine air cleaner outlet hose, left	Furtun ieșire filtru aer motor, stânga
+T3106	Radiator expansion tank hose, upper	Furtun vas de expansiune radiator, superior
+T3107	Radiator expansion tank hose, lower, NHDD 7.3 l TCI	Furtun vas de expansiune radiator, inferior, NHDD 7.3 l TCI
+T3108	Radiator expansion tank hose, upper	Furtun vas de expansiune radiator, superior
+T3109	Radiator vent hose, cylinder head, NHDD 7.3 l TCI	Furtun aerisire radiator, chiulasă, NHDD 7.3 l TCI
+T3110	Radiator reserve water tank hose, lower	Furtun rezervor apă de rezervă radiator, inferior
+T3111	Radiator vent hose	Furtun aerisire radiator
+T3112	Radiator vent hose	Furtun aerisire radiator
+T3113	Radiator hose, upper	Furtun radiator, superior
+T3114	Hose, radiator to engine, lower, NHDD 7.3 l TCI	Furtun, radiator – motor, inferior, NHDD 7.3 l TCI
+T3115	Hose, radiator to engine, upper, NHDD 7.3 l TCI	Furtun, radiator – motor, superior, NHDD 7.3 l TCI
+T3116	Hose, radiator to engine, upper	Furtun, radiator – motor, superior
+T3117	Hose, cooler to compressor	Furtun, răcitor – compresor
+T3118	Cooler hose	Furtun răcitor
+T3119	Hose, cooler / compressor	Furtun, răcitor / compresor
+T3120	Power steering pump to gear hose, H476	Furtun pompă servodirecție – casetă, H476
+T3121	Overflow hose, cylinder head	Furtun preaplin, chiulasă
+T3122	Overflow hose, thermostat housing, NHDD 7.3 l TCI	Furtun preaplin, carcasă termostat, NHDD 7.3 l TCI
+T3123	Overflow hose, thermostat housing	Furtun preaplin, carcasă termostat
+T3124	Overflow hose, thermostat housing	Furtun preaplin, carcasă termostat
+T3125	Overflow hose, thermostat housing, day cab	Furtun preaplin, carcasă termostat, cabină fără cușetă
+T3126	Overflow hose, thermostat housing, day cab	Furtun preaplin, carcasă termostat, cabină fără cușetă
+T3127	Turbine inlet hose	Furtun intrare turbină
+T3128	Oil cooler inlet hose	Furtun intrare răcitor ulei
+T3129	Oil cooler inlet hose	Furtun intrare răcitor ulei
+T3130	Fuel hose, polyamide	Furtun combustibil, poliamidă
+T3131	Fuel level hose	Furtun nivel combustibil
+T3132	Hose, condenser / compressor	Furtun, condensator / compresor
+T3133	Hose, condenser / dryer	Furtun, condensator / uscător
+T3134	Hose	Furtun
+T3135	Hose 1, cab tilt electric pump	Furtun 1, pompă electrică ridicare cabină
+T3136	Hose 2, cab tilt electric pump	Furtun 2, pompă electrică ridicare cabină
+T3137	Cab heater water outlet hose	Furtun ieșire apă încălzire habitaclu
+T3138	Hydraulic hose, cab tilt	Furtun hidraulic, ridicare cabină
+T3139	Cab heater water outlet hose	Furtun ieșire apă încălzire habitaclu
+T3140	Cab heater water outlet hose	Furtun ieșire apă încălzire habitaclu
+T3141	Radiator hose, upper, thermostat housing (+AC)	Furtun radiator, superior, carcasă termostat (+AC)
+T3142	Turbocharger oil return hose	Furtun retur ulei turbocompresor
+T3143	Hose	Furtun
+T3144	Power steering pressure line hose	Furtun conductă presiune servodirecție
+T3145	Hydraulic clutch pipe, H476	Conductă hidraulică ambreiaj, H476
+T3146	Inner door opening handle, left	Mâner interior deschidere ușă, stânga
+T3147	Inner reinforcement, chassis front, inner right	Ranforsare interioară, șasiu față, interior dreapta
+T3148	Inner plate gear	Roată dințată interioară tip taler
+T3149	Inner plate gear	Roată dințată interioară tip taler
+T3150	Needle sleeve	Bucșă cu ace
+T3151	Needle bearing	Rulment cu ace
+T3152	Warning switch, low pressure	Comutator avertizare, presiune joasă
+T3153	Warning switch assembly, parking brake	Comutator avertizare complet, frână de parcare
+T3154	Warning switch assembly, parking brake (green)	Comutator avertizare complet, frână de parcare (verde)
+T3155	Warning switch assembly, parking brake	Comutator avertizare complet, frână de parcare
+T3156	Warning switch assembly, parking brake, green	Comutator avertizare complet, frână de parcare, verde
+T3157	Warning switch assembly, parking brake	Comutator avertizare complet, frână de parcare
+T3158	Warning switch assembly	Comutator avertizare complet
+T3159	Warning switch, cab lock test	Comutator avertizare, test încuietoare cabină
+T3160	Double check valve, brake system	Supapă dublă de sens, sistem de frânare
+T3161	Seat fore-aft adjuster, complete, passenger	Mecanism reglaj longitudinal scaun, complet, pasager
+T3162	Hand brake lever, H476	Manetă frână de mână, H476
+T3163	Spring brake chamber 37122057 (12*6200)	Cilindru de frână cu acumulator 37122057 (12*6200)
+T3164	Spring brake chamber, complete	Cilindru de frână cu acumulator, complet
+T3165	Spring brake chamber, complete (Z-cam)	Cilindru de frână cu acumulator, complet (Z-cam)
+T3166	Front anti-roll bar insulator	Izolator bară stabilizatoare față
+T3167	Front anti-roll bar insulator	Izolator bară stabilizatoare față
+T3168	Insulator	Izolator
+T3169	Front anti-roll bar insulator	Izolator bară stabilizatoare față
+T3170	Cable insulator, left	Izolator cablu, stânga
+T3171	Intarder	Intarder
+T3172	Intercooler hose, 4 springs, red (outlet)	Furtun intercooler, 4 arcuri, roșu (ieșire)
+T3173	Intercooler hose, 4 springs, black (outlet)	Furtun intercooler, 4 arcuri, negru (ieșire)
+T3174	Intercooler outlet hose	Furtun ieșire intercooler
+T3175	Intercooler outlet hose	Furtun ieșire intercooler
+T3176	Instrument panel cover, right	Capac planșă bord, dreapta
+T3177	Instrument panel cover, left, with PTO	Capac planșă bord, stânga, cu PTO
+T3178	Heat exchanger	Schimbător de căldură
+T3179	Heat shield stud	Prezon scut termic
+T3180	Heat shield, sensor guard	Scut termic, protecție senzor
+T3181	Heater, complete, dry type	Încălzitor, complet, tip uscat
+T3182	Heater connector	Conector încălzitor
+T3183	Differential spider gear (1524886)	Satelit diferențial (1524886)
+T3184	Differential case (empty)	Carcasă diferențial (goală)
+T3185	Differential case (assembled)	Carcasă diferențial (echipată)
+T3186	Differential case 8/41	Carcasă diferențial 8/41
+T3187	Differential case, complete (assembled)	Carcasă diferențial, completă (echipată)
+T3188	Differential spider shaft (3278W335N)	Ax sateliți diferențial (3278W335N)
+T3189	Differential spider shaft (3278W335N)	Ax sateliți diferențial (3278W335N)
+T3190	Differential spider shaft (991522343)	Ax sateliți diferențial (991522343)
+T3191	Differential spider shaft (991524883)	Ax sateliți diferențial (991524883)
+T3192	Universal joint cross, propeller shaft, 240-260PS, 45 mm	Cruce cardanică, arbore cardanic, 240-260PS, 45 mm
+T3193	Universal joint cross, propeller shaft, 300-320PS, 55 mm	Cruce cardanică, arbore cardanic, 300-320PS, 55 mm
+T3194	Universal joint cross, propeller shaft, 350-380PS, 65 mm	Cruce cardanică, arbore cardanic, 350-380PS, 65 mm
+T3195	Universal joint cross, propeller shaft	Cruce cardanică, arbore cardanic
+T3196	Insulator, body rear	Izolator, caroserie spate
+T3197	Insulator, radiator shroud	Izolator, carcasă radiator
+T3198	Insulator rubber	Cauciuc izolator
+T3199	Grille, front bonnet	Grilă, capotă față
+T3200	Grille, front bonnet	Grilă, capotă față
+T3201	Radiator grille, F-MAX	Grilă radiator, F-MAX
+T3202	Bumper grille (primed)	Grilă bară de protecție (grunduită)
+T3203	Bumper grille, F-MAX	Grilă bară de protecție, F-MAX
+T3204	Bumper grille, F-MAX	Grilă bară de protecție, F-MAX
+T3205	Bumper grille	Grilă bară de protecție
+T3206	Front bumper grille	Grilă bară de protecție față
+T3207	Grid heater relay	Releu încălzitor admisie
+T3208	Radiator grille, complete	Grilă radiator, completă
+T3209	Grille	Grilă
+T3210	Oil pump strainer and cover, complete, NHDD	Sită și capac pompă ulei, complet, NHDD
+T3211	Front bumper grille	Grilă bară de protecție față
+T3212	Air intake stack grille	Grilă tub admisie aer
+T3213	Insulation kit	Kit izolație
+T3214	Insulation	Izolație
+T3215	Insulation, under cab, front	Izolație, sub cabină, față
+T3216	Insulator, body front mudguard	Izolator, aripă față caroserie
+T3217	Insulator, above engine	Izolator, deasupra motorului
+T3218	Rear anti-roll bar insulator	Izolator bară stabilizatoare spate
+T3219	Insulating tape	Bandă izolatoare
+T3220	Wheel rim, 9.0X22.5	Jantă, 9.0X22.5
+T3221	Wheel rim assembly	Ansamblu jantă
+T3222	Wheel rim cover	Capac jantă
+T3223	Wheel rim hub cover	Capac central jantă
+T3224	Wheel rim, complete	Jantă, completă
+T3225	Ford part JC46 3530 AAZHRQ	Piesă Ford JC46 3530 AAZHRQ
+T3226	Ford part JC46 3533 AAZHRW	Piesă Ford JC46 3533 AAZHRW
+T3227	Ford part JC46 3F900 AAZHRQ	Piesă Ford JC46 3F900 AAZHRQ
+T3228	Ford part JC46 E02348 AAZHRQ	Piesă Ford JC46 E02348 AAZHRQ
+T3229	Ford part JC46 E03197 ADJJAI	Piesă Ford JC46 E03197 ADJJAI
+T3230	Cab, sleeper, high roof (painted, without trim), white, without doors	Cabină, cu cușetă, plafon înalt (vopsită, fără ornamente), albă, fără uși
+T3231	Cab, day, low roof (painted, without trim), white, without doors	Cabină, fără cușetă, plafon jos (vopsită, fără ornamente), albă, fără uși
+T3232	Cab shock absorber, rear	Amortizor cabină, spate
+T3233	Cab shock absorber, rear	Amortizor cabină, spate
+T3234	Cab shock absorber	Amortizor cabină
+T3235	Cab shock absorber, rear	Amortizor cabină, spate
+T3236	Cab shock absorber, rear, lateral	Amortizor cabină, spate, lateral
+T3237	Cab shock absorber, rear, lateral	Amortizor cabină, spate, lateral
+T3238	Cab rear suspension bump stop	Tampon limitator suspensie cabină spate
+T3239	Cab coil spring plate	Taler arc elicoidal cabină
+T3240	Cab coil spring plate, upper right, sleeper cab, high roof	Taler arc elicoidal cabină, superior dreapta, cabină cu cușetă, plafon înalt
+T3241	Cab coil spring plate, upper right, sleeper cab, high roof	Taler arc elicoidal cabină, superior dreapta, cabină cu cușetă, plafon înalt
+T3242	Cab coil spring plate, upper right, sleeper cab, high roof	Taler arc elicoidal cabină, superior dreapta, cabină cu cușetă, plafon înalt
+T3243	Cab coil spring plate, upper left, sleeper cab, high roof	Taler arc elicoidal cabină, superior stânga, cabină cu cușetă, plafon înalt
+T3244	Cab hose, 35 cm	Furtun cabină, 35 cm
+T3245	Cab, complete, sleeper, high roof, painted (white), without doors	Cabină, completă, cu cușetă, plafon înalt, vopsită (albă), fără uși
+T3246	Cab, complete, white, single bunk, fully trimmed	Cabină, completă, albă, o cușetă, complet echipată cu ornamente
+T3247	Cab, complete, sleeper, high roof, white	Cabină, completă, cu cușetă, plafon înalt, albă
+T3248	Cab, complete, H476, without doors	Cabină, completă, H476, fără uși
+T3249	Cab shock absorber, front	Amortizor cabină, față
+T3250	Cab tilt cylinder, Cargo, right	Cilindru ridicare cabină, Cargo, dreapta
+T3251	Cab tilt cylinder, Cargo, left	Cilindru ridicare cabină, Cargo, stânga
+T3252	Gear lever cable, gear shift, yellow	Cablu manetă viteze, schimbare trepte, galben
+T3253	Gear lever cable, gear shift, black	Cablu manetă viteze, schimbare trepte, negru
+T3254	Wiring harness conduit, 50x200 mm	Tub protecție cablaj, 50x200 mm
+T3255	Battery link cable assembly	Cablu legătură baterii, complet
+T3256	Battery link cable assembly	Cablu legătură baterii, complet
+T3257	Oil level sensor cable assembly	Cablu senzor nivel ulei, complet
+T3258	Oil level sensor cable assembly	Cablu senzor nivel ulei, complet
+T3259	Gear transfer cable, complete	Cablu transfer viteze, complet
+T3260	Gearbox shift cable, complete	Cablu schimbător cutie de viteze, complet

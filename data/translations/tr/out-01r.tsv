@@ -1,0 +1,291 @@
+T400	Switch, complete, hazard warning lights	Comutator complet, avarii (semnalizare 4 lămpi)
+T401	Switch, complete, air conditioning on/off	Comutator complet, pornire/oprire AC
+T402	Switch, complete, air conditioning recirculation	Comutator complet, recirculare aer AC
+T403	Switch, complete, PTO (power take-off)	Comutator complet, PTO (priză de putere)
+T404	Switch, complete, differential lock	Comutator complet, blocare diferențial
+T405	Switch, complete	Comutator complet
+T406	Switch, complete, hazard flasher	Comutator complet, avarii
+T407	Switch, complete, hazard flasher	Comutator complet, avarii
+T408	Switch, complete, hazard warning lights	Comutator complet, avarii (semnalizare 4 lămpi)
+T409	Switch, complete, differential lock	Comutator complet, blocare diferențial
+T410	Switch, complete, differential lock	Comutator complet, blocare diferențial
+T411	Switch, complete, interlock (6X4)	Comutator complet, interblocare (6X4)
+T412	Switch, complete, front fog lamp	Comutator complet, proiector ceață față
+T413	Switch, complete, front fog lamp	Comutator complet, proiector ceață față
+T414	Switch, complete, front fog lamp	Comutator complet, proiector ceață față
+T415	Switch, complete, PTO	Comutator complet, PTO
+T416	Switch, complete, rear fog lamp	Comutator complet, lampă ceață spate
+T417	Switch, complete, rear fog lamp	Comutator complet, lampă ceață spate
+T418	Switch, complete, front fog lamp	Comutator complet, proiector ceață față
+T419	Window switch, right/left door	Comutator geam electric, ușă dreapta/stânga
+T420	Switch, black, Ford Trucks	Comutator negru, Ford Trucks
+T421	Switch, additional axle lift	Comutator ridicare punte suplimentară
+T422	Switch, 1st differential lock (6X4)	Comutator blocare diferențial 1 (6X4)
+T423	Switch, circuit breaker, cab interior (ADR)	Comutator întrerupere circuit, interior cabină (ADR)
+T424	Switch, additional axle lift	Comutator ridicare punte suplimentară
+T425	Switch, heated mirror control	Comutator comandă oglinzi încălzite
+T426	Switch, heated mirror control	Comutator comandă oglinzi încălzite
+T427	Switch, air conditioning recirculation	Comutator recirculare aer AC
+T428	Switch, engine diagnostics	Comutator diagnoză motor
+T429	Switch, steered axle lift	Comutator ridicare punte directoare
+T430	Window switch, right door	Comutator geam electric, ușă dreapta
+T431	Window switch, left door	Comutator geam electric, ușă stânga
+T432	Switch, exterior mirror adjustment	Comutator reglaj oglinzi exterioare
+T433	Switch, headlamp levelling	Comutator reglaj faruri
+T434	Antenna mast, radio	Tijă antenă, radio
+T435	Antenna cable, radio	Cablu antenă, radio
+T436	Antenna, complete, radio (set)	Antenă completă, radio (set)
+T437	Antenna	Antenă
+T438	Antifreeze, red, -56	Antigel roșu, -56
+T439	Antifreeze, blue, -56	Antigel albastru, -56
+T440	Antifreeze, blue, -56	Antigel albastru, -56
+T441	Antifreeze, blue, -56	Antigel albastru, -56
+T442	Antifreeze, blue	Antigel albastru
+T443	Antifreeze	Antigel
+T444	Antifreeze, red, -56	Antigel roșu, -56
+T445	Trim, rear panel	Ornament, panou spate
+T446	Trim, upper middle	Ornament, superior central
+T447	Trim, front door exterior, upper right	Ornament exterior ușă față, superior dreapta
+T448	Intermediate connector, water pump	Racord intermediar, pompă apă
+T449	Intermediate pipe, air filter outlet, brand to be specified	Conductă intermediară, ieșire filtru aer, marcă de specificat
+T450	Intermediate pipe, expansion tank	Conductă intermediară, vas de expansiune
+T451	Intermediate pipe, expansion tank, sleeper cab, NHDD 7.3 l TCI	Conductă intermediară, vas de expansiune, cabină cu cușetă, NHDD 7.3 l TCI
+T452	Intermediate pipe, air filter outlet	Conductă intermediară, ieșire filtru aer
+T453	Intermediate pipe, air filter outlet, day cab	Conductă intermediară, ieșire filtru aer, cabină fără cușetă
+T454	Intermediate pipe, air filter outlet (H476+CINS) DC	Conductă intermediară, ieșire filtru aer (H476+CINS) DC
+T455	Intermediate pipe, fuel return, sleeper cab, high roof	Conductă intermediară, retur combustibil, cabină cu cușetă, plafon înalt
+T456	Intermediate pipe, fuel water separator to main filter	Conductă intermediară, de la separatorul apă-combustibil la filtrul principal
+T457	Intermediate support, engine block skirt	Montant intermediar, fustă bloc motor
+T458	Intermediate cable, gearbox left valve	Cablu intermediar, supapă stânga cutie de viteze
+T459	Spacer, bearing	Distanțier, rulment
+T460	Spacer, differential lock	Distanțier, blocare diferențial
+T461	Spacer, fan, NHDD	Distanțier ventilator, NHDD
+T462	Spacer, fan	Distanțier ventilator
+T463	Spacer, front leaf spring to axle	Distanțier arc lamelar față pe punte
+T464	Spacer, pinion bearing	Distanțier, rulment pinion
+T465	Spacer, tractor unit platform	Distanțier, platformă cap tractor
+T466	Spacer, fan, NHDD	Distanțier ventilator, NHDD
+T467	Spacer, fan	Distanțier ventilator
+T468	Spacer	Distanțier
+T469	Adapter, complete, module to engine block, NHDD	Piesă intermediară completă, fixare modul pe blocul motor, NHDD
+T470	Spacer (cushion), cable gear shift system, NHDD 300 PS	Distanțier (tampon), sistem schimbare viteze cu cablu, NHDD 300 PS
+T471	Spacer, horn button	Distanțier, buton claxon
+T472	Spacer, front axle bearing	Distanțier, rulment punte față
+T473	Spacer, front leaf spring U-bolt	Distanțier, bridă U arc lamelar față
+T474	Spacer, front leaf spring U-bolt	Distanțier, bridă U arc lamelar față
+T475	Spacer, rear axle	Distanțier, punte spate
+T476	Spacer, differential	Distanțier, diferențial
+T477	Spacer, fan (used part)	Distanțier ventilator (din dezmembrări)
+T478	Spacer	Distanțier
+T479	Spacer, pinion bearing	Distanțier, rulment pinion
+T480	Spacer, fan	Distanțier ventilator
+T481	Intermediate plate	Placă intermediară
+T482	PTO extension, intermediate, 170 offset axis, hydraulic pump, gearbox	Prelungire PTO intermediară, ax decalat 170, pompă hidraulică, cutie de viteze
+T483	Intermediate propeller shaft, 6X4	Cardan intermediar, 6X4
+T484	Intermediate circlip (914463)	Siguranță intermediară (914463)
+T485	Intercooler, complete	Intercooler complet
+T486	Intercooler, complete, radiator	Intercooler complet, radiator
+T487	Intermediate valve, rocker arm	Supapă intermediară, culbutor
+T488	Diagnostic connection cable	Cablu conexiune diagnoză
+T489	Engine mount, rear	Tampon motor, spate
+T490	Rear axle, outer, perforated, Ford	Punte spate, exterior, perforat, Ford
+T491	Rear axle, complete, front 5.41	Punte spate completă, față 5.41
+T492	Rear axle housing, rear, 6X4	Carcasă punte spate, spate, 6X4
+T493	Rear axle housing, complete	Carcasă punte spate, completă
+T494	Rear axle shaft, double drive, without head	Planetară punte spate, dublă tracțiune, fără cap
+T495	Rear axle washer, F-MAX	Șaibă punte spate, F-MAX
+T496	Rear axle shaft, right (3191865), 116,5 CM	Planetară punte spate, dreapta (3191865), 116,5 CM
+T497	Rear axle shaft, right (3191867)	Planetară punte spate, dreapta (3191867)
+T498	Rear axle shaft, left (3191864)	Planetară punte spate, stânga (3191864)
+T499	Rear axle shaft, left (3191866)	Planetară punte spate, stânga (3191866)
+T500	Rear axle shaft, right (double spline)	Planetară punte spate, dreapta (dublă canelură)
+T501	Rear axle shaft, right, double spline	Planetară punte spate, dreapta, dublă canelură
+T502	Rear axle shaft, left, single spline	Planetară punte spate, stânga, canelură simplă
+T503	Rear shock absorber, rear bellows (FA)	Amortizor spate, cu burduf spate (FA)
+T504	Rear shock absorber	Amortizor spate
+T505	Rear shock absorber, front bellows (EB)	Amortizor spate, cu burduf față (EB)
+T506	Rear chassis shock absorber	Amortizor șasiu spate
+T507	Crown wheel and pinion, rear, 25/24	Coroană și pinion, spate, 25/24
+T508	Rear mudguard, front, rear (edge)	Aripă spate, față, spate (margine)
+T509	Rear mudguard, right, 1826	Aripă spate, dreapta, 1826
+T510	Rear mudguard, left side	Aripă spate, partea stângă
+T511	Rear mudguard, right/left, unpainted	Aripă spate, dreapta/stânga, nevopsită
+T512	Rear drive axle mudguard clamp	Colier aripă punte motoare spate
+T513	Rear outer bearing	Rulment exterior spate
+T514	Rear outer bearing, complete	Rulment exterior spate, complet
+T515	Rear outer bearing	Rulment exterior spate
+T516	Rear air brake hose, rubber	Furtun frână pneumatică spate, cauciuc
+T517	Rear air brake hose, rubber, new model	Furtun frână pneumatică spate, cauciuc, model nou
+T518	Rear body	Caroserie spate
+T519	Rear cab air spring, right, F-MAX	Pernă aer cabină spate, dreapta, F-MAX
+T520	Rear cab air spring, right, F-MAX	Pernă aer cabină spate, dreapta, F-MAX
+T521	Rear cab shock absorber	Amortizor cabină spate
+T522	Rear cab shock absorber	Amortizor cabină spate
+T523	Rear cab air spring	Pernă aer cabină spate
+T524	Rear cab air spring	Pernă aer cabină spate
+T525	Rear cover, small mirror (spot)	Capac spate, oglindă mică (spot)
+T526	Rear cover, large, 2524	Capac spate, mare, 2524
+T527	Rear cover, large mirror	Capac spate, oglindă mare
+T528	Rear cover, small, 2524	Capac spate, mic, 2524
+T529	Rear cover	Capac spate
+T530	Rear crankshaft oil seal	Simering arbore cotit, spate
+T531	Rear crankshaft oil seal	Simering arbore cotit, spate
+T532	Rear crankshaft oil seal	Simering arbore cotit, spate
+T533	Rear crossmember saddle, 4142	Suport traversă spate, 4142
+T534	Rear leaf spring, complete	Arc lamelar spate, complet
+T535	Rear leaf spring, complete, tandem suspension	Arc lamelar spate, complet, suspensie tandem
+T536	Rear engine mount bracket, industrial	Suport motor spate, industrial
+T537	Rear engine mount	Tampon motor spate
+T538	Rear panel, body	Panou spate, caroserie
+T539	Rear panel	Panou spate
+T540	Rear panel sheet, with spoiler	Tablă panou spate, cu spoiler
+T541	Rear number plate lamp, ADR	Lampă număr înmatriculare spate, ADR
+T542	Rear upholstery, right	Tapițerie spate, dreapta
+T543	Rear upholstery, left	Tapițerie spate, stânga
+T544	Rear suspension bolt, special	Șurub suspensie spate, special
+T545	Rear suspension air spring, rearmost	Pernă aer suspensie spate, cea mai din spate
+T546	Rear suspension air spring, rear	Pernă aer suspensie spate, spate
+T547	Rear suspension air spring, rear, right	Pernă aer suspensie spate, spate, dreapta
+T548	Rear suspension air spring, rear, left	Pernă aer suspensie spate, spate, stânga
+T549	Rear suspension air spring, front of rear axle	Pernă aer suspensie spate, față punte spate
+T550	Rear suspension	Suspensie spate
+T551	Rear suspension air spring, rear	Pernă aer suspensie spate, spate
+T552	Rear suspension air spring	Pernă aer suspensie spate
+T553	Rear suspension plate, left	Placă suspensie spate, stânga
+T554	Rear bumper, complete, 6X4 2630 tipper	Bară de protecție spate completă, 6X4 2630 basculantă
+T555	Rear wheel hub oil seal, tractor unit	Simering butuc roată spate, cap tractor
+T556	Rear wheel hub, tractor unit	Butuc roată spate, cap tractor
+T557	Rear wiring harness, complete, 3230C 5500 wheelbase, 3230 8X2	Cablaj spate complet, 3230C ampatament 5500, 3230 8X2
+T558	Rear wiring harness, complete	Cablaj spate complet
+T559	Rear wiring harness, complete	Cablaj spate complet
+T560	Rear side window, right	Geam lateral spate, dreapta
+T561	Rear side window, left	Geam lateral spate, stânga
+T562	Rear side body grab handle	Mâner lateral spate caroserie
+T563	Rear side body grab handle, brand to be specified	Mâner lateral spate caroserie, marcă de specificat
+T564	Rear horizontal shock absorber mounting bracket, brand to be specified	Suport prindere amortizor orizontal spate, marcă de specificat
+T565	Rear inner bearing, complete, 3230	Rulment interior spate, complet, 3230
+T566	Rear chassis shock absorber, F-MAX	Amortizor șasiu spate, F-MAX
+T567	Rear chassis shock absorber	Amortizor șasiu spate
+T568	Hanger, EGR cooler	Suport de suspendare, răcitor EGR
+T569	Rear anti-roll bar link	Brățară suspendare bară stabilizatoare spate
+T570	Rear anti-roll bar link, complete	Brățară suspendare bară stabilizatoare spate, completă
+T571	Rear anti-roll bar link	Brățară suspendare bară stabilizatoare spate
+T572	Rear anti-roll bar link	Brățară suspendare bară stabilizatoare spate
+T573	Electronic control system assembly	Ansamblu sistem de comandă electronică
+T574	Electronic control system assembly	Ansamblu sistem de comandă electronică
+T575	Electronic control system assembly	Ansamblu sistem de comandă electronică
+T576	ASR switch, ASR warning	Comutator ASR, avertizare ASR
+T577	ASR switch, complete	Comutator ASR complet
+T578	ASR switch	Comutator ASR
+T579	Toolbox lid	Capac cutie scule
+T580	Toolbox lid	Capac cutie scule
+T581	Toolbox, complete	Cutie scule completă
+T582	Idler pulley, NHDD 7.3 l TCI, with AC	Rolă intermediară, NHDD 7.3 l TCI, cu AC
+T583	Idler gear bushing	Bucșă roată dințată intermediară
+T584	Idler gear bearing	Lagăr roată dințată intermediară
+T585	Idler pulley, NHDD	Rolă intermediară, NHDD
+T586	Shoe compartment, 1838	Compartiment încălțăminte, 1838
+T587	Shoe compartment, 1846-4142	Compartiment încălțăminte, 1846-4142
+T588	Shoe compartment, 2524/3230	Compartiment încălțăminte, 2524/3230
+T589	Adjusting bolt (CARGO 2520/3227)	Șurub de reglaj (CARGO 2520/3227)
+T590	Adjusting bolt, complete, right	Șurub de reglaj complet, dreapta
+T591	Adjusting bolt, complete, left	Șurub de reglaj complet, stânga
+T592	Adjusting bolt, brake backing plate	Șurub de reglaj, taler frână
+T593	Adjusting bolt, brake backing plate	Șurub de reglaj, taler frână
+T594	Adjuster gear shaft, complete	Ax pinion reglaj, complet
+T595	Adjuster gear shaft	Ax pinion reglaj
+T596	Adjuster housing	Carcasă reglaj
+T597	Adjusting ring, left, small	Inel de reglaj, stânga, mic
+T598	Adjuster guard	Protecție reglaj
+T599	Slack adjuster, complete, right	Levier reglaj frână complet, dreapta
+T600	Slack adjuster, complete, left	Levier reglaj frână complet, stânga
+T601	Slack adjuster, left	Levier reglaj frână, stânga
+T602	Adjusting latch, complete (before Z glass)	Clichet de reglaj complet (înainte de geam Z)
+T603	Adjusting latch, complete (old model)	Clichet de reglaj complet (model vechi)
+T604	Adjusting latch, brake backing plate	Clichet de reglaj, taler frână
+T605	Adjusting mechanism housing	Carcasă mecanism de reglaj
+T606	Adjusting mechanism, complete, right	Mecanism de reglaj complet, dreapta
+T607	Adjusting mechanism, complete, left	Mecanism de reglaj complet, stânga
+T608	Adjusting mechanism, left	Mecanism de reglaj, stânga
+T609	Adjusting piston (ES950832)	Piston de reglaj (ES950832)
+T610	Adjusting piston (CARGO 2520/3227)	Piston de reglaj (CARGO 2520/3227)
+T611	Adjusting washer, air gap	Șaibă de reglaj, întrefier
+T612	Adjusting nut (1673664)	Piuliță de reglaj (1673664)
+T613	Adjusting nut	Piuliță de reglaj
+T614	Adjusting nut, right	Piuliță de reglaj, dreapta
+T615	Adjusting nut, left (1673663)	Piuliță de reglaj, stânga (1673663)
+T616	Clutch push rod, adjustable	Tijă împingere ambreiaj, reglabilă
+T617	Clutch push rod, adjustable	Tijă împingere ambreiaj, reglabilă
+T618	Clutch push rod, adjustable	Tijă împingere ambreiaj, reglabilă
+T619	Oil separator, complete, 12.7	Separator ulei complet, 12.7
+T620	Mirror, large, non-electric	Oglindă mare, fără acționare electrică
+T621	Mirror glass, lower, small, right/left	Sticlă oglindă, inferioară, mică, dreapta/stânga
+T622	Mirror glass, upper, large, right/left	Sticlă oglindă, superioară, mare, dreapta/stânga
+T623	Mirror glass, upper, large, right/left	Sticlă oglindă, superioară, mare, dreapta/stânga
+T624	Mirror glass, small	Sticlă oglindă, mică
+T625	Mirror glass, lower, small, right/left	Sticlă oglindă, inferioară, mică, dreapta/stânga
+T626	Crown wheel bushing	Bucșă coroană diferențial
+T627	Crown wheel bolt	Șurub coroană diferențial
+T628	Crown wheel washer	Șaibă coroană diferențial
+T629	Crown wheel nut	Piuliță coroană diferențial
+T630	Exterior rear-view mirror, right	Oglindă retrovizoare exterioară, dreapta
+T631	Mirror, electric, large, round connector	Oglindă electrică mare, conector rotund
+T632	Mirror housing, exterior rear-view mirror, lower right	Carcasă oglindă retrovizoare exterioară, inferioară dreapta
+T633	Mirror housing, exterior rear-view mirror, lower left	Carcasă oglindă retrovizoare exterioară, inferioară stânga
+T634	Mirror housing, exterior rear-view mirror, right	Carcasă oglindă retrovizoare exterioară, dreapta
+T635	Mirror housing, exterior rear-view mirror, left	Carcasă oglindă retrovizoare exterioară, stânga
+T636	Mirror cover, exterior mirror housing, right	Capac oglindă, carcasă oglindă exterioară, dreapta
+T637	Mirror cover, exterior mirror housing, left	Capac oglindă, carcasă oglindă exterioară, stânga
+T638	Mirror covers	Capace oglindă
+T639	Mirror cover, exterior mirror housing, right	Capac oglindă, carcasă oglindă exterioară, dreapta
+T640	Mirror arm, exterior rear-view mirror, right	Braț oglindă retrovizoare exterioară, dreapta
+T641	Mirror arm, exterior rear-view mirror, right	Braț oglindă retrovizoare exterioară, dreapta
+T642	Mirror arm, exterior rear-view mirror, left	Braț oglindă retrovizoare exterioară, stânga
+T643	Mirror arm, front-view mirror, 1846	Braț oglindă de vedere frontală, 1846
+T644	Mirror arm cover, exterior rear-view mirror, left	Capac braț oglindă retrovizoare exterioară, stânga
+T645	Mirror arm, exterior, right, CARGO	Braț oglindă exterioară, dreapta, CARGO
+T646	Mirror arm	Braț oglindă
+T647	Exterior rear-view mirror, complete, right (heated)	Oglindă retrovizoare exterioară completă, dreapta (încălzită)
+T648	Exterior rear-view mirror, complete, left (heated)	Oglindă retrovizoare exterioară completă, stânga (încălzită)
+T649	Mirror, complete, right	Oglindă completă, dreapta
+T650	Mirror, complete, left	Oglindă completă, stânga
+T651	Mirror, complete, right	Oglindă completă, dreapta
+T652	Mirror, complete, left, F-MAX	Oglindă completă, stânga, F-MAX
+T653	Wheel-view mirror, small, 2524-2530	Oglindă mică vizualizare roată, 2524-2530
+T654	Mirror, small, new model	Oglindă mică, model nou
+T655	Crown wheel and pinion 14/37	Coroană și pinion 14/37
+T656	Crown wheel and pinion 8/41	Coroană și pinion 8/41
+T657	Crown wheel and pinion 9/37	Coroană și pinion 9/37
+T658	Crown wheel and pinion 9/41	Coroană și pinion 9/41
+T659	Crown wheel and pinion 19/27	Coroană și pinion 19/27
+T660	Crown wheel and pinion 25/21, rear	Coroană și pinion 25/21, spate
+T661	Crown wheel and pinion 8/41	Coroană și pinion 8/41
+T662	Crown wheel and pinion, rear, 25/24	Coroană și pinion, spate, 25/24
+T663	Crown wheel and pinion	Coroană și pinion
+T664	Crown wheel and pinion set 11/41	Set coroană și pinion 11/41
+T665	Crown wheel and pinion 15/37	Coroană și pinion 15/37
+T666	Crown wheel and pinion 7*39, Eurocargo	Coroană și pinion 7*39, Eurocargo
+T667	Crown wheel and pinion 8/37	Coroană și pinion 8/37
+T668	Crown wheel and pinion 8/39	Coroană și pinion 8/39
+T669	Crown wheel and pinion 14/26	Coroană și pinion 14/26
+T670	Inner piston, heavy series, 16 S 2220	Piston interior, serie grea, 16 S 2220
+T671	B-pillar, inner, right	Stâlp B, interior, dreapta
+T672	B-pillar, outer, left, day cab	Stâlp B, exterior, stânga, cabină fără cușetă
+T673	B-pillar, outer, upper, right	Stâlp B, exterior, superior, dreapta
+T674	B-pillar, outer, right, day cab	Stâlp B, exterior, dreapta, cabină fără cușetă
+T675	B-pillar, outer, right, sleeper cab	Stâlp B, exterior, dreapta, cabină cu cușetă
+T676	B-pillar, outer, left, sleeper cab	Stâlp B, exterior, stânga, cabină cu cușetă
+T677	B-pillar, inner, complete, right	Stâlp B, interior, complet, dreapta
+T678	B-pillar, inner, complete, left, day cab	Stâlp B, interior, complet, stânga, cabină fără cușetă
+T679	B-pillar, inner, right	Stâlp B, interior, dreapta
+T680	B-pillar, outer, left, day cab	Stâlp B, exterior, stânga, cabină fără cușetă
+T681	Rear spring mounting (6X4)	Prindere arc spate (6X4)
+T682	Rear spring mounting	Prindere arc spate
+T683	Rear spring mounting	Prindere arc spate
+T684	Connector, windscreen wiper (30/09/2004)	Legătură, ștergător parbriz (30/09/2004)
+T685	Connector, clutch hose	Racord, furtun ambreiaj
+T686	Connector, air inlet	Racord, intrare aer
+T687	Connector, water inlet	Racord, intrare apă
+T688	Connector, valve union, NHDD	Racord, niplu supapă, NHDD
+T689	Connector, valve union	Racord, niplu supapă
+T690	Connecting pipe	Conductă de legătură

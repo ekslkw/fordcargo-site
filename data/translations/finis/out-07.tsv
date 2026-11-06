@@ -1,0 +1,835 @@
+F5677	Brake ring TR C	Inel frână TR C
+F5678	Braking ring 3 4	Inel frânare 3 4
+F5679	Wheel bearing outer race, front axle	Inel exterior rulment roată, punte față
+F5680	Wheel bearing inner race, front axle	Inel interior rulment roată, punte față
+F5681	Fuel injector assembly 240PS 30	Ansamblu injector combustibil 240PS 30
+F5682	Injector 12.7 L	Injector 12.7 L
+F5683	AdBlue injector	Injector AdBlue
+F5684	Fuel injector assembly	Ansamblu injector combustibil
+F5685	Fuel injector assembly	Ansamblu injector combustibil
+F5686	Injector assembly	Ansamblu injector
+F5687	Fuel injector assembly 260PS 320PS E1 E3 E5	Ansamblu injector combustibil 260PS 320PS E1 E3 E5
+F5688	Exhaust aftertreatment injector	Injector evacuare post-tratare
+F5689	Injector F-MAX	Injector F-MAX
+F5690	Injector holder	Suport injector
+F5691	Injector inlet pipe removal connector	Conector demontare conductă intrare injector
+F5692	Injector, 9L engine	Injector motor 9L
+F5693	Injector sleeve installation tool	Unealtă montaj bucșă injector
+F5694	Inner bearing cup remover	Extractor cuvetă rulment interior
+F5695	Inner clutch disc	Disc ambreiaj interior
+F5696	Inner striking lever	Pârghie interioară de cuplare
+F5697	Input gear	Pinion de intrare
+F5698	Input shaft	Arbore primar
+F5699	Input shaft assembly	Ansamblu arbore primar
+F5700	Input shaft bearing cup installer/remover tools	Scule montaj/demontaj cuvetă rulment arbore primar
+F5701	Input shaft roller bearing puller	Extractor rulment cu role arbore primar
+F5702	Input shaft nut disassembly and assembly tool	Sculă demontare și montare piuliță arbore primar
+F5703	Input shaft centering apparatus	Dispozitiv de centrare arbore primar
+F5704	Engine control unit insulator to block	Izolator unitate de comandă motor la bloc
+F5705	Insert	Inserție
+F5706	Insert, 3rd and 4th gear	Inserție treapta 3 și 4
+F5707	Air conditioning insert	Inserție aer condiționat
+F5708	Rubber insert assembly	Ansamblu inserție cauciuc
+F5709	Cup holder insert	Inserție suport pahare
+F5710	Door trim insert	Inserție ornament ușă
+F5711	Front door armrest insert	Inserție cotieră ușă față
+F5712	Front door armrest insert	Inserție cotieră ușă față
+F5713	Front seat adjust knob insert	Inserție buton reglaj scaun față
+F5714	Front seat cushion insert	Inserție pernă scaun față
+F5715	Front seat cushion latch attachment insert	Inserție fixare zăvor pernă scaun față
+F5716	Instrument panel insert	Inserție panou de bord
+F5717	Instrument panel applique panel insert	Inserție panou ornamental bord
+F5718	Rear bumper side insert	Inserție laterală bară de protecție spate
+F5719	Valve rocker insert	Inserție culbutor supapă
+F5720	Intake valve seat insert	Inserție scaun supapă admisie
+F5721	Valve seat insert, intake 0.20, exhaust	Inserție scaun supapă admisie 0.20, evacuare
+F5722	Intake valve seat insert 0.20	Inserție scaun supapă admisie 0.20
+F5723	Valve stem insert E	Inserție tijă supapă E
+F5724	Intake valve stem insert	Inserție tijă supapă admisie
+F5725	Front bumper light installation, left	Instalație lumini bară față, stânga
+F5726	Installation jacket	Manșon de montaj
+F5727	Installation set	Set de montaj
+F5728	Bearing cap installer	Dispozitiv montaj capac lagăr
+F5729	Halfshaft seal installer	Dispozitiv montaj simering planetară
+F5730	Main bearing cup installer	Dispozitiv montaj cuvetă rulment principal
+F5731	Output shaft flange oil seal installer	Dispozitiv montaj simering flanșă arbore secundar
+F5732	Piston pin installer	Dispozitiv montaj bolț piston
+F5733	Pivot bushing installer	Dispozitiv montaj bucșă pivot
+F5734	Trunnion bearing cup installer	Dispozitiv montaj cuvetă rulment fus
+F5735	Trunnion seal installer	Dispozitiv montaj garnitură fus
+F5736	Valve seal installer	Dispozitiv montaj garnitură supapă
+F5737	Instrument cluster	Bloc de instrumente
+F5738	Instrument panel LHD	Panou de bord LHD
+F5739	Air cleaner insulator	Izolator filtru de aer
+F5740	Air cleaner stack pipe insulator	Izolator conductă verticală filtru de aer
+F5741	Insulator and spacer	Izolator și distanțier
+F5742	Insulator and spacer assembly, rear engine mounting	Ansamblu izolator și distanțier, suport motor spate
+F5743	Insulator assembly	Ansamblu izolator
+F5744	Air cleaner stack pipe to body insulator assembly	Ansamblu izolator conductă verticală filtru de aer la caroserie
+F5745	Body side panel reinforcement sound insulator assembly	Ansamblu izolator fonic ranforsare panou lateral caroserie
+F5746	Engine insulator assembly	Ansamblu izolator motor
+F5747	Engine front support insulator assembly	Ansamblu izolator suport motor față
+F5748	Engine noise shield insulator assembly	Ansamblu izolator scut fonic motor
+F5749	Fan shroud insulator assembly	Ansamblu izolator carcasă ventilator
+F5750	Front insulator assembly	Ansamblu izolator, față
+F5751	Front suspension tensioner strut insulator assembly	Ansamblu izolator tirant suspensie față
+F5752	Insulator assembly	Ansamblu izolator
+F5753	Rear floor pan sound insulator assembly	Ansamblu izolator fonic podea spate
+F5754	Roof panel sound insulator assembly	Ansamblu izolator fonic panou plafon
+F5755	Insulator assembly	Ansamblu izolator
+F5756	Stabilizer bar insulator assembly	Ansamblu izolator bară stabilizatoare
+F5757	Cab mounting insulator	Izolator suport cabină
+F5758	Engine noise shield insulator, center	Izolator scut fonic motor, central
+F5759	Front door outer panel sound insulator	Izolator fonic panou exterior ușă față
+F5760	Front door outer panel sound insulator, left hand	Izolator fonic panou exterior ușă față, stânga
+F5761	Front floor pan sound insulator, left hand	Izolator fonic podea față, stânga
+F5762	Front roof panel sound insulator	Izolator fonic panou plafon față
+F5763	Fuel tube insulator	Izolator conductă combustibil
+F5764	Hood sound insulator	Izolator fonic capotă
+F5765	Hood sound insulator	Izolator fonic capotă
+F5766	Luggage compartment front floor sound insulator	Izolator fonic podea față compartiment bagaje
+F5767	Quarter window insulator	Izolator geam lateral fix
+F5768	Exhaust aftertreatment solution tank insulator	Izolator rezervor soluție post-tratare evacuare
+F5769	Transmission to dash panel insulator	Izolator cutie de viteze la panou bord
+F5770	Underbody insulator	Izolator sub caroserie
+F5771	Wire insulator, left hand	Izolator cablu, stânga
+F5772	Insulator	Izolator
+F5773	Insulator assembly	Ansamblu izolator
+F5774	Engine rear insulator assembly	Ansamblu izolator motor spate
+F5775	Engine rear insulator assembly	Ansamblu izolator motor spate
+F5776	Engine front insulator assembly	Ansamblu izolator motor față
+F5777	Cab insulator	Izolator cabină
+F5778	Dash panel insulator	Izolator panou bord
+F5779	Insulator, complete	Izolator complet
+F5780	Radiator mounting insulator	Izolator suport radiator
+F5781	Radiator shroud insulator	Izolator carcasă radiator
+F5782	Rear shock absorber insulator	Izolator amortizor spate
+F5783	Rubber insulator	Izolator cauciuc
+F5784	Rear shock absorber mounting insulator	Izolator suport amortizor spate
+F5785	Air cleaner stack pipe insulator	Izolator conductă verticală filtru de aer
+F5786	Wiring insulator strip	Bandă izolatoare cablaj
+F5787	Wheelhouse insulator	Izolator pasaj roată
+F5788	Anti-roll bar insulator	Izolator bară stabilizatoare
+F5789	Intarder	Intarder
+F5790	Intarder assembly	Ansamblu intarder
+F5791	Intarder, complete	Intarder complet
+F5792	Intarder shim thickness adjustment tool	Sculă reglaj grosime șaibă de reglaj intarder
+F5793	Integrated air valve	Supapă de aer integrată
+F5794	Intercooler 4142	Intercooler 4142
+F5795	Intercooler radiator assembly	Ansamblu radiator intercooler
+F5796	Intercooler radiator assembly	Ansamblu radiator intercooler
+F5797	Interior light bulb	Bec lampă interioară
+F5798	Interior light cover	Capac lampă interioară
+F5799	Auxiliary transmission gear shift rod interlock	Interblocare tijă schimbător cutie de viteze auxiliară
+F5800	Transmission gear shift interlock	Interblocare schimbător cutie de viteze
+F5801	Transmission planetary gear intermediate ring	Inel intermediar angrenaj planetar cutie de viteze
+F5802	Intermediate case assembly	Ansamblu carcasă intermediară
+F5803	Intermediate housing	Carcasă intermediară
+F5804	Intermediate plate	Placă intermediară
+F5805	Intermediate ring	Inel intermediar
+F5806	Intermediate washer	Șaibă intermediară
+F5807	Intermediate shaft	Arbore intermediar
+F5808	Intermediate washer	Șaibă intermediară
+F5809	Transmission main shaft internal ring	Inel interior arbore principal cutie de viteze
+F5810	Belt tensioner	Întinzător curea
+F5811	Electrical main switch	Întrerupător general electric
+F5812	Beacon light switch	Întrerupător girofar
+F5813	Interior light switch	Întrerupător lumini interioare
+F5814	Brake stop light switch	Întrerupător stop frână
+F5815	Transmission gear shift interlock	Interblocare schimbător cutie de viteze
+F5816	IP end cover, left	Capac capăt IP, stânga
+F5817	IP end cover, left, with PTO	Capac capăt IP, stânga, cu PTO
+F5818	Body isolator, front	Izolator caroserie, față
+F5819	Body isolator, rear	Izolator caroserie, spate
+F5820	Isolator	Izolator
+F5821	Floor isolator assembly	Ansamblu izolator podea
+F5822	Auxiliary floor isolator assembly	Ansamblu izolator podea auxiliar
+F5823	Lifting jack assembly	Ansamblu cric de ridicare
+F5824	Steering column jacket assembly	Ansamblu manșon coloană de direcție
+F5825	Jam nut	Contrapiuliță
+F5826	Steel wheel rim 22.5x9	Jantă oțel 22.5x9
+F5827	Rear towing jaw assembly	Ansamblu cârlig de tractare spate
+F5828	Rear towing jaw assembly	Ansamblu cârlig de tractare spate
+F5829	JC46 13W030 AG N	JC46 13W030 AG N
+F5830	Windshield washer jet assembly	Ansamblu duză spălător parbriz
+F5831	Rocker arm oil jet	Duză ulei culbutor
+F5832	Joint	Articulație
+F5833	Accelerator control joint	Articulație comandă accelerație
+F5834	Transmission select shaft ball joint assembly	Ansamblu articulație sferică arbore selector cutie de viteze
+F5835	Joint assembly	Ansamblu articulație
+F5836	Fixed joint	Articulație fixă
+F5837	Joint pin	Bolț articulație
+F5838	Transmission central cable ball joint	Articulație sferică cablu central cutie de viteze
+F5839	Transmission shift control ball joint	Articulație sferică comandă schimbător cutie de viteze
+F5840	Transmission control cable joint	Articulație cablu comandă cutie de viteze
+F5841	Cable clamp	Clemă cablu
+F5842	Starter motor cable, complete, Otokar	Cablu electromotor complet, Otokar
+F5843	Exhaust shield	Scut evacuare
+F5844	Door lower tension arm set, OT Jumbo	Set braț tensionare inferior ușă, OT Jumbo
+F5845	Door sill plate, outer, left	Tablă prag ușă, exterior, stânga
+F5846	Door edge seal	Garnitură margine ușă
+F5847	Door stripe set	Set benzi decorative ușă
+F5848	Door upper pivot set, OT Jumbo	Set pivot superior ușă, OT Jumbo
+F5849	Propeller shaft seal installation tool	Sculă montaj simering arbore cardanic
+F5850	Rubber lubricant 400 ml	Lubrifiant pentru cauciuc 400 ml
+F5851	Seal	Simering
+F5852	Instrument panel mounting cross beam bracket to tube	Suport traversă montaj panou de bord la tub
+F5853	Key blank	Cheie brută
+F5854	Key blank F-MAX	Cheie brută F-MAX
+F5855	Key chain	Breloc chei
+F5856	Door lock key	Cheie broască ușă
+F5857	Long shaft yoke key	Pană furcă arbore lung
+F5858	Steering spindle key	Pană ax direcție
+F5859	Valve spring retainer key	Semicon taler arc supapă
+F5860	Valve spring retainer key	Semicon taler arc supapă
+F5861	Lock control test device kit, complete	Kit dispozitiv testare control încuietoare, complet
+F5862	Kit	Kit
+F5863	Piston ring kit GEN1	Kit segmenți piston GEN1
+F5864	Power take-off kit	Kit priză de putere
+F5865	Retarder kit (bolt + O-ring)	Kit retarder (șurub + garnitură O-ring)
+F5866	Service pigtail kit	Kit cablu cu conector service
+F5867	Steering cylinder repair kit 1, 4142	Kit 1 reparație cilindru direcție 4142
+F5868	Kit of 2 caps, AdBlue and fuel	Kit 2 bușoane AdBlue și combustibil
+F5869	Steering cylinder repair kit 2, 4142	Kit 2 reparație cilindru direcție 4142
+F5870	Kit of 4 diodes and support	Kit 4 diode și suport
+F5871	Fifth wheel kit	Kit șa de cuplare
+F5872	Trunnion kit 6x4	Kit fus 6x4
+F5873	Treatment solution bracket kit	Kit suport soluție de tratare
+F5874	Air cleaner element kit	Kit element filtru de aer
+F5875	Air conditioning kit	Kit aer condiționat
+F5876	Air conditioning compressor kit	Kit compresor aer condiționat
+F5877	Air deflector kit	Kit deflector aer
+F5878	Cab suspension air tube kit	Kit tub aer suspensie cabină
+F5879	Alternator terminal kit	Kit bornă alternator
+F5880	Alternator brush kit	Kit perii alternator
+F5881	Rear spring anti-squeak pad and pin seat kit	Kit plăcuță anti-scârțâit și locaș bolț arc spate
+F5882	Battery master switch assembly kit	Kit ansamblu comutator principal baterie
+F5883	Battery cover mounting kit	Kit montaj capac baterie
+F5884	Belt and buckle kit	Kit centură și cataramă
+F5885	Front seat belt and buckle assembly kit	Kit ansamblu centură și cataramă scaun față
+F5886	Front seat belt and buckle assembly kit, left hand	Kit ansamblu centură și cataramă scaun față, stânga
+F5887	Box and cover kit	Kit cutie și capac
+F5888	Rear spring bracket kit	Kit suport arc spate
+F5889	Brake friction lining kit	Kit garnituri de fricțiune frână
+F5890	Brake lining kit	Kit garnituri frână
+F5891	Brake tube clip kit	Kit cleme conductă frână
+F5892	Treatment solution bracket kit	Kit suport soluție de tratare
+F5893	Treatment solution bracket kit	Kit suport soluție de tratare
+F5894	Brake control valve repair kit	Kit reparație supapă comandă frână
+F5895	Brake air dryer drain kit	Kit golire uscător aer frână
+F5896	Brake air dryer kit	Kit uscător aer frână
+F5897	Rear axle electromagnetic brake kit	Kit frână electromagnetică punte spate
+F5898	Brake shoe lining repair kit	Kit reparație garnituri sabot frână
+F5899	Bulb kit	Kit becuri
+F5900	Cab suspension kit, right	Kit suspensie cabină, dreapta
+F5901	Brake caliper pad kit	Kit plăcuțe etrier frână
+F5902	Brake caliper pad kit, high performance	Kit plăcuțe etrier frână, performanță ridicată
+F5903	Front brake caliper pad kit, high performance	Kit plăcuțe etrier frână față, performanță ridicată
+F5904	Cemented type glass repair kit	Kit reparație geam tip lipit
+F5905	Charge air cooler assembly kit	Kit ansamblu răcitor aer supraalimentare
+F5906	Clutch cylinder repair kit	Kit reparație cilindru ambreiaj
+F5907	Clutch pressure plate and bearing kit	Kit placă de presiune și rulment ambreiaj
+F5908	Clutch repair kit	Kit reparație ambreiaj
+F5909	Compressor kit	Kit compresor
+F5910	Crankshaft main bearing kit	Kit cuzineți paliere arbore cotit
+F5911	Caliper slide kit	Kit culisare etrier
+F5912	Towing coupling kit 2G	Kit cuplă tractare 2G
+F5913	Cylinder head gasket kit	Kit garnitură chiulasă
+F5914	Exhaust tail pipe deflector kit	Kit deflector țeavă eșapament
+F5915	Distribution sleeve repair kit	Kit reparație bucșă distribuție
+F5916	Brake drum kit	Kit tambur frână
+F5917	Electromagnetic retarder kit	Kit retarder electromagnetic
+F5918	Electromagnetic retarder kit	Kit retarder electromagnetic
+F5919	Electric wire kit	Kit cablaj electric
+F5920	Electric wire kit (non-regulated)	Kit cablaj electric (non-reglementat)
+F5921	Electric wire kit (Stage V)	Kit cablaj electric (Stage V)
+F5922	Electric wire kit	Kit cablaj electric
+F5923	Parking cooler electric wire kit	Kit cablaj electric climatizare staționară
+F5924	Tachograph rework electrical wire kit	Kit cablaj electric modificare tahograf
+F5925	Engine bearing kit 9L	Kit cuzineți motor 9L
+F5926	Engine overhaul kit	Kit revizie generală motor
+F5927	Engine gasket kit	Kit garnituri motor
+F5928	Engine gasket and seal kit	Kit garnituri și simeringuri motor
+F5929	Air conditioning component fastener kit	Kit elemente de fixare componente aer condiționat
+F5930	Brake lining kit 8x4	Kit ferodouri 8x4
+F5931	Fifth wheel kit	Kit șa de cuplare
+F5932	Fifth wheel handle kit	Kit mâner șa de cuplare
+F5933	Fifth wheel handle kit	Kit mâner șa de cuplare
+F5934	Fifth wheel lock kit	Kit încuietoare șa de cuplare
+F5935	Fifth wheel wear ring kit	Kit inel de uzură șa de cuplare
+F5936	Engine oil filter and gasket kit	Kit filtru ulei motor și garnitură
+F5937	Fixing parts kit	Kit piese de fixare
+F5938	Rear wheel brake flexible tube kit	Kit conductă flexibilă frână roată spate
+F5939	Front flexible brake hose kit	Kit furtun flexibil frână, față
+F5940	Rear flexible brake hose kit	Kit furtun flexibil frână, spate
+F5941	Front brake bushing repair kit	Kit reparație bucșe frână față
+F5942	Fuel injection kit	Kit injecție combustibil
+F5943	Compressor gasket kit	Kit garnituri compresor
+F5944	PTO gasket kit	Kit garnituri PTO
+F5945	Gasket kit	Kit garnituri
+F5946	Grommet kit	Kit garnituri de trecere
+F5947	Heater hardware kit	Kit elemente de fixare încălzitor
+F5948	Auxiliary heater mounting hardware kit	Kit elemente de fixare montaj încălzitor auxiliar
+F5949	Injector hardware kit	Kit elemente de fixare injector
+F5950	Parking cooler harness kit	Kit cablaj climatizare staționară
+F5951	Parking cooler harness kit	Kit cablaj climatizare staționară
+F5952	Retarder brake hardware kit	Kit elemente de fixare frână retarder
+F5953	Headrest kit	Kit tetieră
+F5954	High pressure tire inflator kit	Kit umflare anvelope presiune înaltă
+F5955	Shaft service kit	Kit service arbore
+F5956	Side door kit	Kit ușă laterală
+F5957	Side door kit, left	Kit ușă laterală, stânga
+F5958	Valve lock plate kit	Kit placă de blocare supapă
+F5959	Converter connector kit	Kit mufă convertor
+F5960	Side marker lamp connector kit	Kit mufă lampă gabarit
+F5961	Pressure regulator connector kit	Kit mufă regulator presiune
+F5962	Water-in-fuel sensor connector kit	Kit mufă senzor apă în combustibil
+F5963	Starter relay connector kit	Kit conector releu electromotor
+F5964	Oil pump control kit	Kit comandă pompă ulei
+F5965	Oil separator kit	Kit separator ulei
+F5966	Brake pedal pad kit	Kit cauciuc pedală frână
+F5967	Body side panel kit	Kit panou lateral caroserie
+F5968	Body side trim panel kit, left	Kit panou ornament lateral caroserie, stânga
+F5969	Body side trim panel kit, right	Kit panou ornament lateral caroserie, dreapta
+F5970	Piston and cylinder kit	Kit piston și cilindru
+F5971	Piston kit, 12.7 engine	Kit piston motor 12.7
+F5972	Piston, pin and ring kit	Kit piston, bolț și segmenți
+F5973	Piston, pin and ring kit	Kit piston, bolț și segmenți
+F5974	Piston, pin and ring kit 13L	Kit piston, bolț și segmenți 13L
+F5975	Piston, pin and rings kit	Kit piston, bolț și segmenți
+F5976	Piston, pin and rings kit 9L 0.75 mm	Kit piston, bolț și segmenți 9L 0.75 mm
+F5977	Piston, pin and rings kit, grade B	Kit piston, bolț și segmenți, clasa B
+F5978	Piston ring kit	Kit segmenți piston
+F5979	Plug and seal kit	Kit dop și garnitură
+F5980	Body side trim panel kit	Kit panou ornament lateral caroserie
+F5981	Power steering hose kit	Kit furtun servodirecție
+F5982	Power steering hose kit	Kit furtun servodirecție
+F5983	Power take-off kit	Kit priză de putere
+F5984	Power take-off fixing hardware kit	Kit elemente de fixare priză de putere
+F5985	Power take-off kit ZF 6 1 1 45 PTO	Kit priză de putere ZF 6 1 1 45 PTO
+F5986	Headlamp protector assembly kit, left hand	Kit ansamblu protecție far, stânga
+F5987	Headlamp protector assembly kit, right	Kit ansamblu protecție far, dreapta
+F5988	Rubber protection kit	Kit protecție cauciuc
+F5989	Auxiliary heater pump assembly kit	Kit ansamblu pompă încălzitor auxiliar
+F5990	Rear axle pinion kit	Kit pinion punte spate
+F5991	Rear axle pinion bearing shim kit	Kit șaibe de reglaj rulment pinion punte spate
+F5992	Rear spring hardware kit	Kit elemente de fixare arc spate
+F5993	Water leak recall kit	Kit rechemare scurgere apă
+F5994	Fifth wheel coupling repair kit	Kit reparație cuplă potcoavă
+F5995	Repair kit	Kit reparație
+F5996	Compressor repair kit	Kit reparație compresor
+F5997	Reservoir back kit	Kit rezervor spate
+F5998	Reservoir inlet kit	Kit intrare rezervor
+F5999	Reservoir outlet kit	Kit ieșire rezervor
+F6000	Retarder rotor pair assembly kit	Kit ansamblu pereche rotoare retarder
+F6001	Rear spring hardware kit, tag axle	Kit elemente de fixare arc spate, punte suplimentară
+F6002	Rear suspension rubber kit	Kit cauciucuri suspensie spate
+F6003	Rubber wedge kit	Kit pană cauciuc
+F6004	Inner wheel bearing kit	Kit rulment roată interior
+F6005	Wheel brake bleeder screw kit	Kit șurub aerisire frână roată
+F6006	Wheel brake bleeder screw kit	Kit șurub aerisire frână roată
+F6007	Power transfer seal kit	Kit garnituri transfer putere
+F6008	Power transfer unit idler gear PTO seal kit	Kit garnituri pinion intermediar unitate transfer putere PTO
+F6009	Seat lumbar kit	Kit suport lombar scaun
+F6010	Seat repair kit	Kit reparație scaun
+F6011	Self-steer kit	Kit autovirare
+F6012	APU pressure sensor kit	Kit senzori presiune APU
+F6013	Service pigtail kit	Kit cablu cu conector service
+F6014	Service pigtail kit, female	Kit cablu cu conector service, mamă
+F6015	Kit set	Set kit
+F6016	Frame crossmember shield kit	Kit scut traversă șasiu
+F6017	Socket kit	Kit soclu
+F6018	Front wheel spindle kit	Kit fus roată față
+F6019	Front wheel spindle kit	Kit fus roată față
+F6020	Front wheel spindle kit, left hand	Kit fus roată față, stânga
+F6021	Front wheel spindle kit, right	Kit fus roată față, dreapta
+F6022	Roof spoiler kit	Kit spoiler plafon
+F6023	Roof top spoiler kit	Kit spoiler superior plafon
+F6024	Starter motor hardware kit	Kit elemente de fixare electromotor
+F6025	Starter motor repair kit	Kit reparație electromotor
+F6026	Front steering drag link kit	Kit bară de direcție longitudinală, față
+F6027	Steering drag link front end kit	Kit capăt față bară de direcție longitudinală
+F6028	Steering gear tie rod kit	Kit bară de direcție casetă direcție
+F6029	Steering gear tie rod repair kit	Kit reparație bară de direcție casetă direcție
+F6030	Steering pitman arm kit	Kit levier pitman direcție
+F6031	Terminal kit	Kit borne
+F6032	Thrust washer kit	Kit șaibe axiale
+F6033	Tool box kit	Kit cutie de scule
+F6034	Torque kit	Kit cuplu
+F6035	Track radio installation kit	Kit montaj radio urmărire
+F6036	Transmission control valve kit	Kit supapă comandă cutie de viteze
+F6037	Transmission gasket kit	Kit garnituri cutie de viteze
+F6038	Transmission planetary gear and bearing kit	Kit satelit planetar și rulment cutie de viteze
+F6039	Transmission servo piston seal kit	Kit garnituri piston servo cutie de viteze
+F6040	Turbocharger actuator kit	Kit actuator turbocompresor
+F6041	Universal joint kit	Kit cruce cardanică
+F6042	Universal joint kit, C-pack	Kit cruce cardanică, C-pack
+F6043	Valve kit	Kit supape
+F6044	Crankshaft main bearing thrust washer kit	Kit semilune axiale palier arbore cotit
+F6045	Wiring assembly kit	Kit ansamblu cablaj
+F6046	Horn wiring kit	Kit cablaj claxon
+F6047	Shaft service kit	Kit service arbore
+F6048	Intarder hose kit	Kit furtun intarder
+F6049	Alternator brush kit	Kit perii alternator
+F6050	Electric wire kit	Kit cablaj electric
+F6051	High pressure tire inflator kit	Kit umflare anvelope presiune înaltă
+F6052	Socket kit	Kit soclu
+F6053	Clip 4 50 mm, rear	Clips 4 50 mm, spate
+F6054	Knob	Buton
+F6055	Cigar lighter knob and element	Buton și element brichetă
+F6056	Heater regulator control knob assembly	Ansamblu buton comandă regulator încălzire
+F6057	Lever knob assembly	Ansamblu buton maneta
+F6058	Cigar lighter knob and element assembly	Ansamblu buton și element brichetă
+F6059	Gear change lever knob	Nucă manetă schimbător viteze
+F6060	Gear change lever knob	Nucă manetă schimbător viteze
+F6061	Heater control knob	Buton comandă încălzire
+F6062	Switch knob	Buton comutator
+F6063	Transmission gear shift lever knob	Nucă manetă schimbător cutie de viteze
+F6064	Door handle, complete, outer side, left	Mâner ușă complet, exterior, stânga
+F6065	Compressor	Compresor
+F6066	Connector	Conector
+F6067	Connector	Conector
+F6068	Bellows, caster S S mechanism	Burduf mecanism caster S S
+F6069	Floor corner panel, rear left	Panou colț podea, spate stânga
+F6070	Crankshaft rear seal installation tool	Sculă montaj simering spate arbore cotit
+F6071	Crankshaft locking tool	Sculă blocare arbore cotit
+F6072	Crankshaft front seal installation tool	Sculă montaj simering față arbore cotit
+F6073	Crankshaft front oil seal installation tool	Sculă montaj simering ulei față arbore cotit
+F6074	Crankshaft timing tool	Sculă calare arbore cotit
+F6075	Crankshaft lifter	Dispozitiv ridicare arbore cotit
+F6076	Intermediate control, complete	Comandă intermediară completă
+F6077	L A V setting information plate	Plăcuță informații reglaj L A V
+F6078	L A V vertical rod	Tijă verticală L A V
+F6079	Body side step bracket, lower, left	Suport L treaptă laterală caroserie, inferior, stânga
+F6080	Body side step bracket, lower, right	Suport L treaptă laterală caroserie, inferior, dreapta
+F6081	L bracket	Suport L
+F6082	L bracket C2AS, right	Suport L C2AS, dreapta
+F6083	L bracket C4AS, left	Suport L C4AS, stânga
+F6084	Compressor air tube inlet L bracket	Suport L intrare tub aer compresor
+F6085	L bracket MS, left	Suport L MS, stânga
+F6086	L bracket MS, right	Suport L MS, dreapta
+F6087	Side step attachment L bracket, inner	Suport L fixare treaptă laterală, interior
+F6088	Side step attachment L bracket, outer	Suport L fixare treaptă laterală, exterior
+F6089	Side step attachment L bracket, outer lower	Suport L fixare treaptă laterală, exterior inferior
+F6090	Compressor air tube inlet L bracket	Suport L intrare tub aer compresor
+F6091	Select cable end connector L bracket	Suport L conector capăt cablu selector
+F6092	Beam assembly, left	Ansamblu grindă, stânga
+F6093	Side step attachment L bracket, outer	Suport L fixare treaptă laterală, exterior
+F6094	Label	Etichetă
+F6095	Engine code information label	Etichetă informații cod motor
+F6096	AdBlue tank warning label	Etichetă avertizare rezervor AdBlue
+F6097	ADR label	Etichetă ADR
+F6098	Air conditioning charge date label	Etichetă dată încărcare aer condiționat
+F6099	Battery warranty label	Etichetă garanție baterie
+F6100	Engine code information label	Etichetă informații cod motor
+F6101	Engine code information label (Otokar)	Etichetă informații cod motor (Otokar)
+F6102	Homologation information label	Etichetă informații omologare
+F6103	Instruction label	Etichetă instrucțiuni
+F6104	First aid kit label	Etichetă trusă de prim ajutor
+F6105	Mirror instruction label	Etichetă instrucțiuni oglindă
+F6106	Speed limit label	Etichetă limită de viteză
+F6107	Exhaust aftertreatment additive tank warning label	Etichetă avertizare rezervor aditiv post-tratare evacuare
+F6108	Valve rocker cover label	Etichetă capac culbutori
+F6109	Vehicle emergency message system instruction label	Etichetă instrucțiuni sistem mesaje de urgență vehicul
+F6110	Warning label	Etichetă avertizare
+F6111	Engine code information label	Etichetă informații cod motor
+F6112	Ladder frame	Șasiu tip scară
+F6113	Wiper blade MY	Lamelă ștergător MY
+F6114	Windshield wiper blade	Lamelă ștergător parbriz
+F6115	Wiper blade, left	Lamelă ștergător, stânga
+F6116	Marker lamp and base assembly	Ansamblu lampă de gabarit și bază
+F6117	Fog lamp and bracket assembly	Ansamblu proiector ceață și suport
+F6118	Fog lamp and bracket assembly, left hand	Ansamblu proiector ceață și suport, stânga
+F6119	Lamp and wire assembly	Ansamblu lampă și cablaj
+F6120	Roof marker lamp and wire assembly	Ansamblu lampă gabarit plafon și cablaj
+F6121	Fog lamp assembly	Ansamblu proiector ceață
+F6122	Interior lamp assembly	Ansamblu lampă interioară
+F6123	Interior lamp assembly	Ansamblu lampă interioară
+F6124	Marker lamp assembly	Ansamblu lampă gabarit
+F6125	Panel lamp assembly F-MAX	Ansamblu lampă panou F-MAX
+F6126	Rear lamp assembly	Ansamblu lampă spate
+F6127	Rear lamp assembly, left	Ansamblu lampă spate, stânga
+F6128	Rear lamp assembly, left	Ansamblu lampă spate, stânga
+F6129	Roof warning lamp assembly	Ansamblu lampă avertizare plafon
+F6130	Tail and work lamp assembly	Ansamblu lampă spate și de lucru
+F6131	Tail and work lamp assembly, substance no. 7439 92 1	Ansamblu lampă spate și de lucru, substanță nr. 7439 92 1
+F6132	Tail and work lamp assembly	Ansamblu lampă spate și de lucru
+F6133	Turn signal lamp assembly	Ansamblu lampă semnalizare
+F6134	Turn signal and side marker lamp assembly	Ansamblu lampă semnalizare și gabarit lateral
+F6135	Turn signal and side marker lamp assembly, left hand	Ansamblu lampă semnalizare și gabarit lateral, stânga
+F6136	Lamp assembly	Ansamblu lampă
+F6137	Rear stop and flasher lamp assembly	Ansamblu lampă spate stop și semnalizare
+F6138	Flasher lamp assembly	Ansamblu lampă semnalizare
+F6139	Interior lamp assembly	Ansamblu lampă interioară
+F6140	Licence plate lamp assembly 24V	Ansamblu lampă număr înmatriculare 24V
+F6141	Rear stop lamp assembly	Ansamblu lampă stop spate
+F6142	Rear stop and flasher lamp assembly	Ansamblu lampă spate stop și semnalizare
+F6143	Roof beacon lamp assembly	Ansamblu girofar plafon
+F6144	Roof marker lamp assembly	Ansamblu lampă gabarit plafon
+F6145	Rear licence plate lamp assembly	Ansamblu lampă număr înmatriculare spate
+F6146	Side marker lamp assembly	Ansamblu lampă gabarit lateral
+F6147	Side marker lamp assembly	Ansamblu lampă gabarit lateral
+F6148	Upper console lamp assembly	Ansamblu lampă consolă superioară
+F6149	Rear lamp assembly	Ansamblu lampă spate
+F6150	Rear lamp assembly, left	Ansamblu lampă spate, stânga
+F6151	Rear licence plate lamp assembly ADR	Ansamblu lampă număr înmatriculare spate ADR
+F6152	Rear lamp assembly, right	Ansamblu lampă spate, dreapta
+F6153	Rear lamp assembly, right	Ansamblu lampă spate, dreapta
+F6154	Side turn signal lamp assembly	Ansamblu lampă semnalizare laterală
+F6155	Upper cab marker lamp, right	Lampă gabarit superioară cabină, dreapta
+F6156	Step marker lamp	Lampă gabarit scară
+F6157	Side marker lamp	Lampă gabarit laterală
+F6158	Side turn signal lamp, left	Lampă semnalizare laterală, stânga
+F6159	Side turn signal lamp, right	Lampă semnalizare laterală, dreapta
+F6160	Turn signal lamp, right, F-MAX	Lampă semnalizare, dreapta, F-MAX
+F6161	Front turn signal lamp	Lampă semnalizare față
+F6162	Turn signal lamp, left, F-MAX	Lampă semnalizare, stânga, F-MAX
+F6163	Turn signal lamp, right	Lampă semnalizare, dreapta
+F6164	Front turn signal lamp	Lampă semnalizare față
+F6165	Turn signal lamp, left	Lampă semnalizare, stânga
+F6166	Rear lamp, right, with buzzer	Lampă spate, dreapta, cu buzzer
+F6167	Rear lamp, right, F-MAX	Lampă spate, dreapta, F-MAX
+F6168	Rear lamp, left, F-MAX	Lampă spate, stânga, F-MAX
+F6169	Stop lamp, right	Lampă stop, dreapta
+F6170	Stop lamp, left	Lampă stop, stânga
+F6171	Upper cab lamp, left	Lampă superioară cabină, stânga
+F6172	Door latch and remote control assembly	Ansamblu zăvor și comandă la distanță ușă
+F6173	Latch and remote control	Zăvor și comandă la distanță
+F6174	Door latch and remote control assembly	Ansamblu zăvor și comandă la distanță ușă
+F6175	Body side stowage compartment door latch assembly, left	Ansamblu zăvor ușă compartiment depozitare lateral caroserie, stânga
+F6176	Body side stowage compartment door latch assembly, right	Ansamblu zăvor ușă compartiment depozitare lateral caroserie, dreapta
+F6177	Hood latch assembly, left	Ansamblu zăvor capotă, stânga
+F6178	Hood latch assembly, right	Ansamblu zăvor capotă, dreapta
+F6179	Front door latch assembly, right	Ansamblu zăvor ușă față, dreapta
+F6180	Power door latch assembly, left	Ansamblu zăvor electric ușă, stânga
+F6181	Power door latch assembly, right	Ansamblu zăvor electric ușă, dreapta
+F6182	Power door latch assembly, right	Ansamblu zăvor electric ușă, dreapta
+F6183	Glove compartment door latch	Zăvor ușă torpedou
+F6184	Manual latch and remote control assembly, left	Ansamblu zăvor și comandă la distanță manual, stânga
+F6185	Manual latch and remote control assembly, right	Ansamblu zăvor și comandă la distanță manual, dreapta
+F6186	Latch remote control assembly	Ansamblu comandă la distanță zăvor
+F6187	Spare wheel carrier latch	Zăvor suport roată de rezervă
+F6188	Latch and remote control assembly, left	Ansamblu zăvor și comandă la distanță, stânga
+F6189	Layshaft 6109	Arbore intermediar 6109
+F6190	Layshaft assembly	Ansamblu arbore intermediar
+F6191	Layshaft bearing gripper	Extractor rulment arbore intermediar
+F6192	Layshaft part assembly	Ansamblu parțial arbore intermediar
+F6193	Layshaft rear cover	Capac spate arbore intermediar
+F6194	Door security label	Etichetă securitate ușă
+F6195	Transmission model identification label	Etichetă identificare model cutie de viteze
+F6196	Front spring leaf, 1st	Foaie arc față, 1
+F6197	Front spring leaf, 2nd	Foaie arc față, 2
+F6198	Leaf spring center bolt	Șurub central arc cu foi
+F6199	Leaf spring center bolt kit	Kit șurub central arc cu foi
+F6200	Leaf spring clamp bolt	Șurub bridă arc cu foi
+F6201	Leaf spring clamp bolt kit	Kit șurub bridă arc cu foi
+F6202	Leaf spring front pad	Tampon față arc cu foi
+F6203	Leaf spring rear pad	Tampon spate arc cu foi
+F6204	Front spring leaf, 1st	Foaie arc față, 1
+F6205	Door side label (500)	Etichetă laterală ușă (500)
+F6206	Left retarder bracket	Suport retarder, stânga
+F6207	Ambient lighting lens	Dispersor iluminare ambientală
+F6208	Rear stop lamp lens, left	Dispersor lampă stop spate, stânga
+F6209	Rear stop lamp lens, right	Dispersor lampă stop spate, dreapta
+F6210	Stop lamp lens	Dispersor lampă stop
+F6211	Headlamp levelling motor assembly	Ansamblu motor reglaj înălțime far
+F6212	Air suspension levelling valve	Supapă nivelare suspensie pneumatică
+F6213	Lever	Pârghie
+F6214	Clutch release lever assembly	Ansamblu pârghie decuplare ambreiaj
+F6215	Front lever assembly	Ansamblu pârghie, față
+F6216	Front seat adjust lever assembly	Ansamblu pârghie reglaj scaun față
+F6217	Hood lever assembly	Ansamblu pârghie capotă
+F6218	Wiper lever assembly	Ansamblu pârghie ștergător
+F6219	Brake adjustment lever assembly	Ansamblu pârghie reglaj frână
+F6220	Clutch release lever assembly	Ansamblu pârghie decuplare ambreiaj
+F6221	Starter motor drive lever assembly	Ansamblu pârghie antrenare electromotor
+F6222	Clutch release lever	Pârghie decuplare ambreiaj
+F6223	Counterweight lever	Pârghie contragreutate
+F6224	Transmission shift cable counterweight lever	Pârghie contragreutate cablu schimbător cutie de viteze
+F6225	Door latch remote control actuator rod lever	Pârghie tijă actuator comandă la distanță zăvor ușă
+F6226	Transmission lever	Pârghie cutie de viteze
+F6227	Front brake shoe lever	Pârghie sabot frână față
+F6228	Front brake shoe adjust lever, right hand	Pârghie reglaj sabot frână față, dreapta
+F6229	Gear shift lever	Manetă schimbător viteze
+F6230	Gear shift lever 9S1110	Manetă schimbător viteze 9S1110
+F6231	Heater air temperature control valve lever	Pârghie supapă comandă temperatură aer încălzire
+F6232	Input lever	Pârghie de intrare
+F6233	Outer lever	Pârghie exterioară
+F6234	Rear suspension level lever	Pârghie nivel suspensie spate
+F6235	Rear suspension lever	Pârghie suspensie spate
+F6236	Rear suspension level spring lever	Pârghie arc nivel suspensie spate
+F6237	Retarder brake lever	Manetă frână retarder
+F6238	Starter motor drive lever	Pârghie antrenare electromotor
+F6239	Transmission control select lever, lower	Pârghie selector comandă cutie de viteze, inferioară
+F6240	Transmission detent lever	Pârghie blocare cutie de viteze
+F6241	Transmission gear shift lever	Pârghie schimbător cutie de viteze
+F6242	Transmission gear shift control lever, 1st and 2nd	Pârghie comandă schimbător cutie de viteze, treapta 1 și 2
+F6243	Transmission gear shift shaft lever	Pârghie arbore schimbător cutie de viteze
+F6244	Transmission gear shift lever	Pârghie schimbător cutie de viteze
+F6245	Transmission gear shift housing lever	Pârghie carcasă schimbător cutie de viteze
+F6246	Transmission manual control equalizer shaft lever, inner	Pârghie arbore egalizator comandă manuală cutie de viteze, interioară
+F6247	Transmission manual control lock lever	Pârghie blocare comandă manuală cutie de viteze
+F6248	Valve spring lever	Pârghie arc supapă
+F6249	Starter motor drive lever	Pârghie antrenare electromotor
+F6250	Brake cam lever, axle 4, left/right	Levier camă frână, axa 4, stânga/dreapta
+F6251	Jack lever	Levier cric
+F6252	Steering lever, axle 1, 8x2	Levier direcție, axa 1, 8x2
+F6253	Steering lever, transmission HTB	Levier direcție, transmisie HTB
+F6254	Lid assembly	Ansamblu capac
+F6255	Body lift assembly	Ansamblu amortizor ridicare caroserie
+F6256	Front stowage compartment cover lift assembly	Ansamblu amortizor ridicare capac compartiment depozitare față
+F6257	Front stowage compartment cover lift assembly	Ansamblu amortizor ridicare capac compartiment depozitare față
+F6258	Hood lift assembly	Ansamblu amortizor ridicare capotă
+F6259	Front hood lift assembly	Ansamblu amortizor ridicare capotă față
+F6260	Spare wheel lift assembly	Ansamblu dispozitiv ridicare roată de rezervă
+F6261	Body lift assembly	Ansamblu amortizor ridicare caroserie
+F6262	Body lift assembly no. 1	Ansamblu amortizor ridicare caroserie nr. 1
+F6263	Body lift assembly no. 2	Ansamblu amortizor ridicare caroserie nr. 2
+F6264	Body lift assembly no. 1	Ansamblu amortizor ridicare caroserie nr. 1
+F6265	Body lift assembly no. 2	Ansamblu amortizor ridicare caroserie nr. 2
+F6266	Body lift assembly	Ansamblu amortizor ridicare caroserie
+F6267	Front seat adjusting lift	Mecanism ridicare reglaj scaun față
+F6268	Lifting eye	Ochi de ridicare
+F6269	Instrument light pipe assembly	Ansamblu ghid de lumină instrumente
+F6270	Lined leading brake shoe	Sabot frână primar cu garnitură
+F6271	Cylinder liner no. 1	Cămașă cilindru nr. 1
+F6272	Cylinder liner no. 2	Cămașă cilindru nr. 2
+F6273	Cylinder liner no. 3	Cămașă cilindru nr. 3
+F6274	Cylinder liner no. 4	Cămașă cilindru nr. 4
+F6275	Front wheel brake lining	Garnitură frână roată față
+F6276	Lining plug nozzle with tool 252069100102	Duză dop cămașă cu sculă 252069100102
+F6277	Brake lining, right/left	Garnitură frână, dreapta/stânga
+F6278	Stabilizer bar link	Bieletă bară stabilizatoare
+F6279	Brake link assembly	Ansamblu tijă frână
+F6280	Rear stabilizer link assembly	Ansamblu bieletă stabilizator spate
+F6281	Rear stabilizer bar link assembly	Ansamblu bieletă bară stabilizatoare spate
+F6282	Steering drag link assembly	Ansamblu bară de direcție longitudinală
+F6283	Steering drag link assembly	Ansamblu bară de direcție longitudinală
+F6284	Steering drag link assembly	Ansamblu bară de direcție longitudinală
+F6285	Front anti-roll bar link assembly	Ansamblu bieletă bară stabilizatoare față
+F6286	Rear anti-roll bar link assembly	Ansamblu bieletă bară stabilizatoare spate
+F6287	Steering link assembly, 2nd axle	Ansamblu bară de direcție, punte 2
+F6288	Steering drag link assembly	Ansamblu bară de direcție longitudinală
+F6289	Steering link assembly	Ansamblu bară de direcție
+F6290	Steering link assembly, 2nd axle	Ansamblu bară de direcție, punte 2
+F6291	Steering drag link assembly	Ansamblu bară de direcție longitudinală
+F6292	Steering drag link assembly, 2nd axle	Ansamblu bară de direcție longitudinală, punte 2
+F6293	Steering link assembly, 2nd axle	Ansamblu bară de direcție, punte 2
+F6294	Steering drag link assembly	Ansamblu bară de direcție longitudinală
+F6295	Steering drag link assembly, 2nd axle	Ansamblu bară de direcție longitudinală, punte 2
+F6296	Steering link assembly, 2nd axle	Ansamblu bară de direcție, punte 2
+F6297	Front seat track link	Bieletă șină scaun față
+F6298	Front stabilizer link	Bieletă stabilizator față
+F6299	Front stabilizer link	Bieletă stabilizator față
+F6300	Front door heater air link	Tijă aer încălzire ușă față
+F6301	Stabilizer bar link	Bieletă bară stabilizatoare
+F6302	Rear stabilizer bar link	Bieletă bară stabilizatoare spate
+F6303	Steering drag link	Bară de direcție longitudinală
+F6304	Steering drag link, short	Bară de direcție longitudinală, scurtă
+F6305	Linkage	Timonerie
+F6306	Lithium soap grease	Vaselină pe bază de litiu
+F6307	LK set	Set LK
+F6308	Rear stabilizer bar link assembly	Ansamblu bieletă bară stabilizatoare spate
+F6309	Locating bolt	Șurub de centrare
+F6310	Locating pins	Știfturi de centrare
+F6311	Upper door lock assembly	Ansamblu încuietoare ușă superioară
+F6312	Glove compartment lock assembly	Ansamblu încuietoare torpedou
+F6313	Steering lock assembly	Ansamblu blocare direcție
+F6314	Cab retaining lock, complete	Încuietoare fixare cabină, completă
+F6315	Cab retaining lock, complete, left/right	Încuietoare fixare cabină, completă, stânga/dreapta
+F6316	Hood lock housing	Carcasă încuietoare capotă
+F6317	Gear shift lever lock kit	Kit blocare manetă schimbător viteze
+F6318	Control device module lock mechanism	Mecanism blocare modul dispozitiv de comandă
+F6319	Hex lock nut P T G10 M12x1.5	Piuliță autoblocantă hexagonală P T G10 M12x1.5
+F6320	Lock nut M12 8.0	Piuliță autoblocantă M12 8.0
+F6321	Lock nut M16	Piuliță autoblocantă M16
+F6322	Lock nut M22	Piuliță autoblocantă M22
+F6323	Transmission gear shift rail lock nut	Piuliță autoblocantă tijă schimbător cutie de viteze
+F6324	Lock plate	Placă de blocare
+F6325	Transmission gear shift lock plate	Placă de blocare schimbător cutie de viteze
+F6326	Lock set	Set încuietori
+F6327	Front lock set	Set încuietori, față
+F6328	Stowage compartment lock set	Set încuietori compartiment depozitare
+F6329	Unitized lock set E1 E3	Set încuietori unificat E1 E3
+F6330	Unitized lock set E4 E5	Set încuietori unificat E4 E5
+F6331	Transmission reverse gear shift lever lock	Blocare manetă marșarier cutie de viteze
+F6332	Driver's seat lock	Blocare scaun șofer
+F6333	Locking nut	Piuliță de blocare
+F6334	Transmission gear shift locking piece	Piesă de blocare schimbător cutie de viteze
+F6335	Transmission locking pin	Știft de blocare cutie de viteze
+F6336	Locking sheet	Tablă de blocare
+F6337	Locking wire	Sârmă de siguranță
+F6338	Transmission planetary gear locking wire	Sârmă de siguranță angrenaj planetar cutie de viteze
+F6339	Transmission planetary gear locking wire	Sârmă de siguranță angrenaj planetar cutie de viteze
+F6340	Locknut	Contrapiuliță
+F6341	Door lock set	Set încuietori ușă
+F6342	Lock washer	Șaibă de siguranță
+F6343	Threadlocker 243	Adeziv de blocare filete 243
+F6344	Threadlocker 243 50 ml	Adeziv de blocare filete 243 50 ml
+F6345	Threadlocker 270 250 ml	Adeziv de blocare filete 270 250 ml
+F6346	Threadlocker 270 50 ml	Adeziv de blocare filete 270 50 ml
+F6347	Threadlocker 290 50 ml	Adeziv de blocare filete 290 50 ml
+F6348	Flange sealant 510	Etanșant flanșe 510
+F6349	Flange sealant 518 (50 ml)	Etanșant flanșe 518 (50 ml)
+F6350	Flange sealant 518 50 ml	Etanșant flanșe 518 50 ml
+F6351	Flange sealant 574 50 ml	Etanșant flanșe 574 50 ml
+F6352	Silicone sealant 5900, black	Etanșant siliconic 5900, negru
+F6353	Retaining compound 601 603 50 ml	Adeziv de fixare 601 603 50 ml
+F6354	Retaining compound 648 50 ml	Adeziv de fixare 648 50 ml
+F6355	Rust treatment 7500 1 L	Tratament anticoroziv 7500 1 L
+F6356	Chrome logo (F-MAX)	Logo cromat (F-MAX)
+F6357	Long block 12.7 L Ecotorq	Bloc motor lung 12.7 L Ecotorq
+F6358	Long block 12.7 L Ecotorq	Bloc motor lung 12.7 L Ecotorq
+F6359	Long block 12.7 L OHC	Bloc motor lung 12.7 L OHC
+F6360	Long block 12.7 L OHC (warranty) GEN2	Bloc motor lung 12.7 L OHC (garanție) GEN2
+F6361	Long block 9L	Bloc motor lung 9L
+F6362	Long block kit 12.7 L OHC + engine (warranty)	Kit bloc motor lung 12.7 L OHC + motor (garanție)
+F6363	Cab longitudinal member, left	Lonjeron cabină, stânga
+F6364	Chassis longitudinal member, right	Lonjeron șasiu, dreapta
+F6365	LOTO kit (lockout-tagout)	Kit LOTO (blocare-etichetare)
+F6366	Vent louver assembly	Ansamblu grilă ventilație
+F6367	Air vent louver assembly	Ansamblu grilă ventilație aer
+F6368	Air vent louver assembly, center	Ansamblu grilă ventilație aer, central
+F6369	Air vent louver assembly, left	Ansamblu grilă ventilație aer, stânga
+F6370	Air vent louver assembly	Ansamblu grilă ventilație aer
+F6371	Low pressure valve	Supapă de joasă presiune
+F6372	Lower bumper spoiler, right	Spoiler inferior bară de protecție, dreapta
+F6373	Lower bumper windshield panel, left	Panou inferior bară de protecție parbriz, stânga
+F6374	Lower flange with holes enlarged to slot holes	Flanșă inferioară cu orificii lărgite în fante
+F6375	Lower spacer spring	Arc distanțier inferior
+F6376	Lower rear spoiler, right	Spoiler inferior spate, dreapta
+F6377	Driver's seat lower spring	Arc inferior scaun șofer
+F6378	LP fuel line, ECU to HP pump feed line 9L	Conductă combustibil joasă presiune, ECU la conductă alimentare pompă înaltă presiune 9L
+F6379	LP fuel line, transfer pump to filter 9L	Conductă combustibil joasă presiune, pompă transfer la filtru 9L
+F6380	LRC sub-assembly	Subansamblu LRC
+F6381	Ambient beverage holder ring light assembly, less wire	Ansamblu lumină ambientală inel suport pahare, fără cablu
+F6382	Hypoid gear lubricant SAE 75W-140 synthetic	Lubrifiant angrenaje hipoide SAE 75W-140 sintetic
+F6383	Lubricant fluid	Lichid lubrifiant
+F6384	Valve mounting lower arm	Braț inferior montaj supapă
+F6385	M12 washer, rear rubber suspension	Șaibă M12, suspensie spate cauciuc
+F6386	M16 2 self-locking nut	Piuliță autoblocantă M16 2
+F6387	Hex bolt M16 2x110 grade 10.9	Șurub hexagonal M16 2x110 clasa 10.9
+F6388	M16x1.5 plug, engine to SCR heating hose	Dop M16x1.5, furtun încălzire motor la SCR
+F6389	M22 x 1.5 - 3 8 fitting (sealing)	Racord M22 x 1.5 - 3 8 (etanșare)
+F6390	Hafnium cone M8x25	Con hafniu M8x25
+F6391	Window regulator	Macara geam
+F6392	Door window regulator, right	Macara geam ușă, dreapta
+F6393	Door window regulator, left	Macara geam ușă, stânga
+F6394	Heat shrink tube kit 11 mm	Kit macaroane termocontractabile 11 mm
+F6395	Heat shrink tube kit 4.8 mm	Kit macaroane termocontractabile 4.8 mm
+F6396	Heat shrink tube kit 6.4 mm	Kit macaroane termocontractabile 6.4 mm
+F6397	Heat shrink sleeve kit 9.5 mm	Kit tub termocontractabil 9,5 mm
+F6398	Magnet	Magnet
+F6399	Retarder coil magnet	Magnet bobină retarder
+F6400	Rear axle differential cover magnet	Magnet capac diferențial punte spate
+F6401	Magnetic plug	Dop magnetic
+F6402	Magnetic washer	Șaibă magnetică
+F6403	Main device (KTJC46 interface)	Dispozitiv principal (interfață KTJC46)
+F6404	Air cleaner main element	Element principal filtru de aer
+F6405	Air cleaner main element	Element principal filtru de aer
+F6406	Main harness	Cablaj principal
+F6407	Main oil filter, cold pack	Filtru de ulei principal, pachet climă rece
+F6408	Main shaft	Arbore principal
+F6409	Main shaft assembly stand mandrel	Dorn stand montaj arbore principal
+F6410	Main shaft assembly stand plate	Placă stand montaj arbore principal
+F6411	Main wiring and fuse box assembly	Ansamblu cablaj principal și cutie siguranțe
+F6412	Main wiring and fuse box assembly	Ansamblu cablaj principal și cutie siguranțe
+F6413	Main wiring fuse box assembly	Ansamblu cutie siguranțe cablaj principal
+F6414	Mainshaft assembly	Ansamblu arbore principal
+F6415	Mainshaft bearing gripper	Extractor rulment arbore principal
+F6416	Mainshaft lifting tool	Dispozitiv ridicare arbore principal
+F6417	Mainshaft rear bearing	Rulment spate arbore principal
+F6418	Mainshaft subassembly	Subansamblu arbore principal
+F6419	Male sleeve D1210	Manșon tată D1210
+F6420	Folding seat cushion latch	Clichet șezut scaun rabatabil
+F6421	Hood handle, right, MY2016	Mâner capotă dreapta, MY2016
+F6422	Door handle, interior, right	Mâner ușă interior dreapta
+F6423	Door handle, exterior, right	Mâner exterior ușă dreapta
+F6424	Door handle, exterior, left	Mâner exterior ușă stânga
+F6425	Hood front handle	Mâner frontal capotă
+F6426	Door opening handle, interior, right	Mâner interior deschidere ușă dreapta
+F6427	Upper bunk handle, F-MAX	Mâner pat superior, F-MAX
+F6428	Driver seat lift handle	Mâner ridicare scaun șofer
+F6429	Refrigerator drawer handle	Mâner sertar frigider
+F6430	Hood handle, left, MY2016	Mâner capotă stânga, MY2016
+F6431	Door handle, interior, left	Mâner interior ușă stânga
+F6432	Light switch lever HJA HTC	Manetă lumini HJA HTC
+F6433	Light switch lever HTB HTC	Manetă lumini HTB HTC
+F6434	Exhaust manifold assembly	Ansamblu galerie evacuare
+F6435	Exhaust manifold assembly	Ansamblu galerie evacuare
+F6436	Cooler distribution manifold	Galerie distribuție răcitor
+F6437	Cooler manifold, distribution into cylinder block	Galerie răcitor, distribuție în blocul motor
+F6438	Exhaust manifold	Galerie evacuare
+F6439	Exhaust manifold, center	Galerie evacuare, centrală
+F6440	Exhaust manifold, left	Galerie evacuare, stânga
+F6441	Exhaust manifold, middle	Galerie evacuare, mijloc
+F6442	Exhaust manifold, side	Galerie evacuare, laterală
+F6443	Exhaust manifold, Deutz	Galerie evacuare, Deutz
+F6444	Coupling sleeve 3-4	Manșon cuplare 3-4
+F6445	Coupling sleeve C R	Manșon cuplare C R
+F6446	Gear coupling sleeve 3-4	Manșon cuplare viteze 3-4
+F6447	Shift fork sleeve 3-4	Manșon furcă 3-4
+F6448	Headrest sleeve	Manșon tetieră
+F6449	Blank plexiglass sign holder with magnetic strip	Suport plăcuță plexiglas cu bandă magnetică
+F6450	Front metal mask, F-MAX	Mască față metalică, F-MAX
+F6451	Radio antenna mast assembly	Ansamblu tijă antenă radio
+F6452	Master cylinder assembly	Ansamblu pompă centrală
+F6453	Transmission gear shift master unit assembly	Ansamblu unitate principală schimbare viteze transmisie
+F6454	Sealing mastic	Mastic de etanșare
+F6455	Mat	Covoraș
+F6456	Mat assembly	Ansamblu covoraș
+F6457	Body floor mat assembly, left	Ansamblu covoraș podea caroserie, stânga
+F6458	Body floor mat assembly, right	Ansamblu covoraș podea caroserie, dreapta
+F6459	Body floor mat assembly, left	Ansamblu covoraș podea caroserie, stânga
+F6460	Body floor mat assembly, left	Ansamblu covoraș podea caroserie, stânga
+F6461	Body floor mat assembly, front left	Ansamblu covoraș podea caroserie, față stânga
+F6462	Body floor mat assembly, left	Ansamblu covoraș podea caroserie, stânga
+F6463	Body floor mat assembly, right	Ansamblu covoraș podea caroserie, dreapta
+F6464	Sleeper compartment floor mat assembly, right	Ansamblu covoraș podea cabină de dormit, dreapta
+F6465	Sleeper compartment floor mat assembly, center	Ansamblu covoraș podea cabină de dormit, central
+F6466	Sleeper compartment floor mat assembly, center	Ansamblu covoraș podea cabină de dormit, central
+F6467	Body floor mat assembly, left	Ansamblu covoraș podea caroserie, stânga
+F6468	Front floor mat	Covoraș podea față
+F6469	Front floor mat, left	Covoraș podea față, stânga
+F6470	Front center floor mat assembly	Ansamblu covoraș podea față, central
+F6471	Front floor mat assembly	Ansamblu covoraș podea față
+F6472	Front floor mat assembly, left	Ansamblu covoraș podea față, stânga
+F6473	Sleeping compartment mattress assembly	Ansamblu saltea cabină de dormit
+F6474	Sleeping compartment upper bunk mattress assembly	Ansamblu saltea pat superior cabină de dormit
+F6475	Sleeping compartment mattress assembly	Ansamblu saltea cabină de dormit
+F6476	Sleeping compartment lower mattress assembly	Ansamblu saltea inferioară cabină de dormit
+F6477	Sleeping compartment lower mattress assembly, 06MY	Ansamblu saltea inferioară cabină de dormit, 06MY
+F6478	Console top mat	Covoraș partea superioară consolă
+F6479	Console tray mat	Covoraș tavă consolă
+F6480	Console tray mat	Covoraș tavă consolă
+F6481	Mattress package	Pachet saltea
+F6482	Tandem axle member and gusset assembly	Ansamblu traversă și eclisă punte tandem
+F6483	Tandem axle member and gusset assembly	Ansamblu traversă și eclisă punte tandem
+F6484	Floor side inner member assembly, front left	Ansamblu lonjeron interior lateral podea, față stânga
+F6485	Front floor cross member assembly	Ansamblu traversă podea față
+F6486	Trailer coupling mounting member assembly	Ansamblu traversă montaj cuplă remorcă
+F6487	Frame cross member gusset assembly	Ansamblu eclisă traversă șasiu
+F6488	Rear suspension member gusset assembly, rear	Ansamblu eclisă traversă suspensie spate, spate
+F6489	Door lock mechanism, left	Mecanism închidere ușă stânga
+F6490	Wiper mechanism	Mecanism ștergătoare
+F6491	Steering wheel hub medallion assembly	Ansamblu emblemă butuc volan
+F6492	Mega fuse box 150 A	Cutie siguranțe mega 150 A
+F6493	Floor side inner member assembly, front	Ansamblu lonjeron interior lateral podea, față
+F6494	Floor side inner member assembly, front left	Ansamblu lonjeron interior lateral podea, față stânga
+F6495	Frame crash member assembly, rear towing	Ansamblu traversă anti-impact șasiu, tractare spate
+F6496	Front member assembly	Ansamblu traversă față
+F6497	Front lower cross member assembly	Ansamblu traversă inferioară față
+F6498	Front floor cross member assembly	Ansamblu traversă podea față
+F6499	Front floor cross member assembly 2	Ansamblu traversă podea față 2
+F6500	Front floor cross member assembly, rear lower	Ansamblu traversă podea față, spate inferioară
+F6501	Trailer coupling mounting member assembly	Ansamblu traversă montaj cuplă remorcă
+F6502	Front lower cross member assembly	Ansamblu traversă inferioară față
+F6503	Trailer member assembly	Ansamblu traversă remorcă
+F6504	Center cross member assembly	Ansamblu traversă centrală
+F6505	Floor side member assembly, left	Ansamblu lonjeron lateral podea, stânga
+F6506	Floor side member assembly, right	Ansamblu lonjeron lateral podea, dreapta
+F6507	Front outer cross member assembly	Ansamblu traversă exterioară față
+F6508	Front floor inner cross member assembly	Ansamblu traversă interioară podea față
+F6509	Frame rear towing cross member assembly	Ansamblu traversă spate tractare șasiu
+F6510	Front outer cross member assembly	Ansamblu traversă exterioară față
+F6511	Front lower cross member assembly	Ansamblu traversă inferioară față

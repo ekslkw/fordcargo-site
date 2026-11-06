@@ -1,0 +1,600 @@
+F9461	ABS sensor 180, straight	Senzor ABS 180, drept
+F9462	ABS sensor 90	Senzor ABS 90
+F9463	ABS sensor, rear right	Senzor ABS, dreapta spate
+F9464	ABS sensor, rear left	Senzor ABS, stânga spate
+F9465	Air filter clogging sensor	Senzor colmatare filtru aer
+F9466	Crankshaft sensor	Senzor arbore cotit
+F9467	Differential lock engagement sensor CT IA	Senzor cuplare blocare diferențial CT IA
+F9468	Flame monitoring sensor D2	Senzor supraveghere flacără D2
+F9469	Rain sensor	Senzor de ploaie
+F9470	Differential sensor	Senzor diferențial
+F9471	DP sensor, new type	Senzor DP, tip nou
+F9472	ECAS sensor	Senzor ECAS
+F9473	Gearbox range sensor	Senzor gamă cutie de viteze
+F9474	A/C system sensor	Senzor instalație A/C
+F9475	Reverse gear sensor	Senzor marșarier
+F9476	ECAS level sensor, axle 2	Senzor nivel ECAS, axa 2
+F9477	Oil level sensor	Senzor nivel ulei
+F9478	Oil level sensor, new type	Senzor nivel ulei, tip nou
+F9479	NOx sensor, inlet, from 07/20	Senzor NOx intrare, de la 07/20
+F9480	NOx sensor, outlet, from 07/20	Senzor NOx ieșire, de la 07/20
+F9481	Clutch pedal sensor	Senzor pedală ambreiaj
+F9482	Oil pressure sensor 9L, new type	Senzor presiune ulei 9L, tip nou
+F9483	A/C pressure sensor F-MAX	Senzor presiune A/C F-MAX
+F9484	Fuel rail pressure sensor 9L	Senzor presiune rampă 9L
+F9485	Injection rail pressure sensor	Senzor presiune rampă injecție
+F9486	Tyre pressure sensor	Senzor presiune roată
+F9487	Oil pressure sensor	Senzor presiune ulei
+F9488	Water-in-fuel sensor	Senzor prezență apă în combustibil
+F9489	PTO sensor	Senzor PTO
+F9490	Tachograph sensor	Senzor tahograf
+F9491	Tachograph speed sensor	Senzor viteză tahograf
+F9492	Exhaust temperature sensor, engine, L	Senzor temperatură evacuare motor, L
+F9493	Exhaust temperature sensor, engine, S	Senzor temperatură evacuare motor, S
+F9494	Drum brake wear sensor	Senzor uzură frână tambur
+F9495	Expansion tank sensor F-MAX	Senzor vas de expansiune F-MAX
+F9496	Roof console stowage compartment assembly, separate	Compartiment depozitare consolă plafon, ansamblu separat
+F9497	Lower arm ball joint separator	Separator articulație sferică braț inferior
+F9498	Water separator 12V	Separator apă 12V
+F9499	Serrated wrench for turning injection pump, Deutz	Cheie zimțată pentru rotirea pompei de injecție, Deutz
+F9500	Service kit 1 F-MAX	Kit întreținere 1 F-MAX
+F9501	Service kit 3 E APU	Kit întreținere 3 E APU
+F9502	Clutch master cylinder repair service kit	Kit reparație cilindru principal ambreiaj
+F9503	Transmission brake band servo assembly	Servo bandă frână transmisie, ansamblu
+F9504	Rear band servo assembly	Servo bandă spate, ansamblu
+F9505	Power steering pump pulley installation tool	Dispozitiv montare fulie pompă servodirecție
+F9506	Servo unit	Unitate servo
+F9507	Transmission gear shift servo unit	Unitate servo schimbare viteze, cutie de viteze
+F9508	Air gap adjusting shim kit	Set șaibe de reglaj întrefier
+F9509	Tank cap set	Set bușoane rezervoare
+F9510	Clutch repair set	Set reparație ambreiaj
+F9511	Clutch repair set 300PS, double	Set reparație ambreiaj 300PS, dublu
+F9512	Clutch repair set GC46 7550 EB GC46 7563 EA	Set reparație ambreiaj GC46 7550 EB GC46 7563 EA
+F9513	Ignition switch set with key MY	Set contact cu cheie MY
+F9514	Engine overhaul gasket set, complete	Set garnituri revizie motor, complet
+F9515	Radiator hose set	Set furtunuri radiator
+F9516	Valve grind gasket set	Set garnituri rodare supape
+F9517	Shock mounts with hardware, set of 4	Tampoane amortizor cu elemente de fixare, set 4 buc.
+F9518	Fuse set for BEP	Set siguranțe pentru BEP
+F9519	Shock mount bracket set	Set suporturi tampon amortizor
+F9520	Spring set	Set arcuri
+F9521	Brake pad set CT	Set plăcuțe frână CT
+F9522	Caliper repair set, cover gasket	Set reparație etrier, garnitură capac
+F9523	Caliper repair set, pad plates	Set reparație etrier, tălpi
+F9524	Set screw	Șurub de fixare
+F9525	Transmission gear shift rail set screw	Șurub de fixare tijă schimbare viteze, cutie de viteze
+F9526	Front door window shade assembly	Parasolar geam ușă față, ansamblu
+F9527	Front door window shade assembly, RH	Parasolar geam ușă față, ansamblu, dreapta
+F9528	Shaft	Arbore
+F9529	Clutch release shaft and arm assembly	Arbore și braț decuplare ambreiaj, ansamblu
+F9530	Steering column lower shaft and bearing assembly	Arbore inferior coloană direcție cu rulment, ansamblu
+F9531	Exhaust control valve shaft and counterweight assembly	Arbore cu contragreutate supapă control evacuare, ansamblu
+F9532	Shaft and sleeve assembly	Arbore cu bucșă, ansamblu
+F9533	Automatic transmission input shaft assembly	Arbore intrare cutie de viteze automată, ansamblu
+F9534	Brake shaft assembly	Arbore frână, ansamblu
+F9535	Front power take-off shaft assembly	Arbore priză de putere față, ansamblu
+F9536	Power divider output shaft assembly	Arbore ieșire divizor de putere, ansamblu
+F9537	Transmission input shaft assembly	Arbore intrare cutie de viteze, ansamblu
+F9538	Drive shaft assembly	Arbore cardanic, ansamblu
+F9539	Output shaft assembly	Arbore ieșire, ansamblu
+F9540	Rear axle shaft assembly	Arbore punte spate, ansamblu
+F9541	Shaft assembly 1824 2524, 5150 wheelbase	Arbore, ansamblu 1824 2524, ampatament 5150
+F9542	Coupling shaft assembly	Arbore cuplaj, ansamblu
+F9543	Coupling shaft assembly 1320 mm	Arbore cuplaj, ansamblu 1320 mm
+F9544	Coupling shaft assembly 1530 mm	Arbore cuplaj, ansamblu 1530 mm
+F9545	Coupling shaft assembly, front	Arbore cuplaj, ansamblu, față
+F9546	Coupling shaft assembly, front, C pack	Arbore cuplaj, ansamblu, față, pachet C
+F9547	Coupling shaft assembly, front P	Arbore cuplaj, ansamblu, față P
+F9548	Drive shaft assembly	Arbore cardanic, ansamblu
+F9549	Drive shaft assembly 3235C 3240C, rear	Arbore cardanic, ansamblu 3235C 3240C, spate
+F9550	Drive shaft assembly, front, C pack	Arbore cardanic, ansamblu, față, pachet C
+F9551	Drive shaft assembly, rear	Arbore cardanic, ansamblu, spate
+F9552	Drive shaft assembly, rear, C pack	Arbore cardanic, ansamblu, spate, pachet C
+F9553	Drive shaft assembly, rear	Arbore cardanic, ansamblu, spate
+F9554	Drive shaft assembly, retarder, front	Arbore cardanic, ansamblu, retarder, față
+F9555	Drive shaft assembly, retarder, rear	Arbore cardanic, ansamblu, retarder, spate
+F9556	Retarder shaft assembly, front	Arbore retarder, ansamblu, față
+F9557	Retarder shaft assembly, front	Arbore retarder, ansamblu, față
+F9558	Reverse idler gear shaft assembly	Arbore pinion intermediar marșarier, ansamblu
+F9559	Transmission input shaft assembly	Arbore intrare cutie de viteze, ansamblu
+F9560	Transmission intermediate shaft assembly	Arbore intermediar cutie de viteze, ansamblu
+F9561	Transmission PTO shaft assembly	Arbore PTO cutie de viteze, ansamblu
+F9562	Brake shoe adjusting eccentric shaft	Arbore excentric reglaj sabot frână
+F9563	Brake pedal support pivot shaft	Ax pivot suport pedală frână
+F9564	Clutch pedal support pivot shaft	Ax pivot suport pedală ambreiaj
+F9565	Clutch lever shaft	Ax pârghie ambreiaj
+F9566	Clutch release intermediate shaft	Arbore intermediar decuplare ambreiaj
+F9567	Coupling shaft	Arbore cuplaj
+F9568	Cross gate shaft	Ax selector transversal
+F9569	Shaft end float, MTX transmission case	Joc axial arbore, carcasă cutie de viteze MTX
+F9570	Shaft flange	Flanșă arbore
+F9571	Gear shaft timing pin	Știft calare distribuție arbore pinion
+F9572	Input shaft	Arbore intrare
+F9573	Operating shaft	Ax de acționare
+F9574	Operating shaft, Z-cam	Ax de acționare, camă Z
+F9575	Operating shaft, Z-cam	Ax de acționare, camă Z
+F9576	Pedal support pivot shaft	Ax pivot suport pedală
+F9577	Planet gear shaft	Ax satelit planetar
+F9578	Power divider input shaft	Arbore intrare divizor de putere
+F9579	Power divider output shaft	Arbore ieșire divizor de putere
+F9580	Power take-off shift shaft	Ax cuplare priză de putere
+F9581	PTO adaptor shaft	Arbore adaptor PTO
+F9582	Rear axle shaft	Planetară punte spate
+F9583	Rear axle shaft, left	Planetară punte spate, stânga
+F9584	Rear axle shaft, LH	Planetară punte spate, stânga
+F9585	Rear axle planet gear shaft	Ax satelit planetar punte spate
+F9586	Rear axle shaft, RH	Planetară punte spate, dreapta
+F9587	Rear axle shaft, right	Planetară punte spate, dreapta
+F9588	Reverse gear shaft	Ax pinion marșarier
+F9589	Reverse idler gear shaft	Ax pinion intermediar marșarier
+F9590	Shaft seal	Simering arbore
+F9591	Shaft seal installation mandrel	Dorn montare simering arbore
+F9592	Shaft seal guide liner	Ghidaj montare simering arbore
+F9593	Shaft seal installing tool	Dispozitiv montare simering arbore
+F9594	Shaft sealing ring	Inel de etanșare arbore
+F9595	Shaft sleeve set 240 PS	Set bucșe arbore 240 PS
+F9596	Speedometer shaft	Ax vitezometru
+F9597	Transmission clutch release fork shaft	Ax furcă decuplare ambreiaj, cutie de viteze
+F9598	Transmission dual power control shaft	Ax comandă dual power, cutie de viteze
+F9599	Transmission gear shift shaft	Ax schimbare viteze, cutie de viteze
+F9600	Transmission gear shift cross shaft, front	Ax transversal schimbare viteze, cutie de viteze, față
+F9601	Transmission gear shift shaft	Ax schimbare viteze, cutie de viteze
+F9602	Transmission input shaft	Arbore intrare cutie de viteze
+F9603	Transmission main shaft	Arbore principal cutie de viteze
+F9604	Transmission oil pump shaft	Ax pompă ulei cutie de viteze
+F9605	Transmission planet gear shaft, short	Ax satelit planetar cutie de viteze, scurt
+F9606	Transmission planet gear shaft	Ax satelit planetar cutie de viteze
+F9607	Transmission PTO shaft	Arbore PTO cutie de viteze
+F9608	Transmission pump shaft	Ax pompă cutie de viteze
+F9609	Transmission range and park select lever shaft	Ax pârghie selectare gamă și parcare, cutie de viteze
+F9610	Transmission reverse idler gear shaft	Ax pinion intermediar marșarier, cutie de viteze
+F9611	Transmission speedometer cover shaft	Ax capac vitezometru, cutie de viteze
+F9612	Transmission gear shift shaft	Ax schimbare viteze, cutie de viteze
+F9613	Transmission shaft	Arbore cutie de viteze
+F9614	Suspension trunnion shaft 6x4	Ax trunion suspensie 6x4
+F9615	Valve rocker arm shaft	Ax culbutori
+F9616	Valve rocker arm shaft	Ax culbutori
+F9617	Transmission main shaft	Arbore principal cutie de viteze
+F9618	Clutch yoke shaft	Ax furcă ambreiaj
+F9619	Suspension trunnion shaft 6x	Ax trunion suspensie 6x
+F9620	Shelf	Raft
+F9621	Utility shelf	Raft utilitar
+F9622	Carburettor air cleaner body upper shell assembly	Carcasă superioară corp filtru aer carburator, ansamblu
+F9623	Rear wheel bearing nut lock washer	Șaibă de blocare piuliță rulment roată spate
+F9624	Rear axle shaft	Planetară punte spate
+F9625	Transmission countershaft	Arbore intermediar cutie de viteze
+F9626	Transmission input shaft	Arbore intrare cutie de viteze
+F9627	Transmission reverse idler gear shaft	Ax pinion intermediar marșarier, cutie de viteze
+F9628	Transmission input shaft	Arbore intrare cutie de viteze
+F9629	Shield	Scut
+F9630	Battery heat shield assembly	Scut termic baterie, ansamblu
+F9631	Brake tube shield assembly	Scut conductă frână, ansamblu
+F9632	EGR heat shield assembly	Scut termic EGR, ansamblu
+F9633	EGR heat shield assembly	Scut termic EGR, ansamblu
+F9634	Engine shield assembly	Scut motor, ansamblu
+F9635	Engine side noise insulation shield assembly	Ecran fonic lateral motor, ansamblu
+F9636	Engine side noise insulation shield assembly, LH	Ecran fonic lateral motor, ansamblu, stânga
+F9637	Engine side noise insulation shield assembly, RH	Ecran fonic lateral motor, ansamblu, dreapta
+F9638	Engine lower noise shield assembly	Ecran fonic inferior motor, ansamblu
+F9639	Exhaust shield assembly	Scut evacuare, ansamblu
+F9640	Exhaust crossover pipe heat shield assembly	Scut termic conductă transversală evacuare, ansamblu
+F9641	Exhaust system rear shield assembly	Scut spate sistem evacuare, ansamblu
+F9642	Front shield assembly	Scut față, ansamblu
+F9643	Front seat cushion shield assembly, LH	Scut pernă scaun față, ansamblu, stânga
+F9644	Front seat cushion shield assembly, RH	Scut pernă scaun față, ansamblu, dreapta
+F9645	Rear shield assembly	Scut spate, ansamblu
+F9646	Frame side protection bar heat shield assembly	Scut termic bară protecție laterală pe șasiu, ansamblu
+F9647	Muffler shield assembly	Scut tobă eșapament, ansamblu
+F9648	Muffler heat shield assembly	Scut termic tobă eșapament, ansamblu
+F9649	Retarder brake heat shield assembly	Scut termic frână retarder, ansamblu
+F9650	Brake tube heat shield assembly	Scut termic conductă frână, ansamblu
+F9651	Engine side noise insulation shield assembly, LH	Ecran fonic lateral motor, ansamblu, stânga
+F9652	Engine side noise insulation shield assembly, RH	Ecran fonic lateral motor, ansamblu, dreapta
+F9653	Anti-lock brake shield	Scut ABS
+F9654	Anti-lock brake control sensor shield	Scut senzor ABS
+F9655	Anti-lock brake system protection shield	Scut protecție sistem ABS
+F9656	Brake disc splash shield	Scut protecție disc frână
+F9657	Cab suspension air spring heat shield	Scut termic pernă de aer suspensie cabină
+F9658	Door trim water shield	Folie protecție apă ornament ușă
+F9659	Door trim water shield, LH	Folie protecție apă ornament ușă, stânga
+F9660	EGR valve shield	Scut supapă EGR
+F9661	EGR valve shield	Scut supapă EGR
+F9662	Engine lower noise insulation shield, RH	Ecran fonic inferior motor, dreapta
+F9663	Engine turbocharger heat shield	Scut termic turbocompresor motor
+F9664	Engine compartment splash shield	Apărătoare compartiment motor
+F9665	Engine noise shield	Ecran fonic motor
+F9666	Engine lower noise insulation shield	Ecran fonic inferior motor
+F9667	Exhaust pipe upper shield	Scut superior conductă evacuare
+F9668	Front fender shield	Apărătoare aripă față
+F9669	Front fender splash shield	Apărătoare noroi aripă față
+F9670	Front fender splash shield, without side skirt 315/80, LH	Apărătoare noroi aripă față, fără fustă laterală 315/80, stânga
+F9671	Front fender splash shield, LH	Apărătoare noroi aripă față, stânga
+F9672	Front fender splash shield, LH	Apărătoare noroi aripă față, stânga
+F9673	Front fender splash shield, lowliner	Apărătoare noroi aripă față, lowliner
+F9674	Front fender splash shield, lowliner, LH	Apărătoare noroi aripă față, lowliner, stânga
+F9675	Front fender splash shield, with side skirt 315/70	Apărătoare noroi aripă față, cu fustă laterală 315/70
+F9676	Front fender splash shield, with side skirt 315/70, LH	Apărătoare noroi aripă față, cu fustă laterală 315/70, stânga
+F9677	Front fender splash shield, with side skirt 315/80	Apărătoare noroi aripă față, cu fustă laterală 315/80
+F9678	Front fender splash shield, with side skirt 315/80, LH	Apărătoare noroi aripă față, cu fustă laterală 315/80, stânga
+F9679	Front fender splash shield, without side skirt 315/60, LH	Apărătoare noroi aripă față, fără fustă laterală 315/60, stânga
+F9680	Front seat cushion shield	Scut pernă scaun față
+F9681	Front suspension shield	Scut suspensie față
+F9682	Fuel filter shield	Scut filtru combustibil
+F9683	Harness shield 9 mm	Manșon protecție cablaj 9 mm
+F9684	NOx sensor assembly heat shield	Scut termic senzor NOx, ansamblu
+F9685	Radiator protection shield	Scut protecție radiator
+F9686	Rear disc brake splash shield	Scut protecție disc frână spate
+F9687	Rear floor pan heat shield, rear	Scut termic podea spate, spate
+F9688	Transmission control selector housing shield	Scut carcasă selector comandă cutie de viteze
+F9689	Transmission control selector indicator cable shield	Scut cablu indicator selector cutie de viteze
+F9690	Transmission noise insulation shield	Ecran fonic cutie de viteze
+F9691	Transmission lower noise insulation shield	Ecran fonic inferior cutie de viteze
+F9692	Upper shield	Scut superior
+F9693	Shift cable CC, black/yellow	Cablu schimbător viteze CC, negru/galben
+F9694	Shift cable CC, red	Cablu schimbător viteze CC, roșu
+F9695	Shift cable	Cablu schimbător viteze
+F9696	Shift collar 1522353	Manșon cuplare 1522353
+F9697	Shift knob, 9-speed	Nucă schimbător viteze, 9 trepte
+F9698	Shifting mechanism	Mecanism schimbare viteze
+F9699	Shim	Șaibă de reglaj
+F9700	Shim 0.1 mm, suspension trunnion bearing 6x4	Șaibă de reglaj 0.1 mm, rulment trunion suspensie 6x4
+F9701	Shim 0.200 mm	Șaibă de reglaj 0.200 mm
+F9702	Shim 0254	Șaibă de reglaj 0254
+F9703	Shim 0508	Șaibă de reglaj 0508
+F9704	Shim 1.00	Șaibă de reglaj 1.00
+F9705	Shim 1.10	Șaibă de reglaj 1.10
+F9706	Shim 1.20	Șaibă de reglaj 1.20
+F9707	Shim 1.200	Șaibă de reglaj 1.200
+F9708	Shim 1.30	Șaibă de reglaj 1.30
+F9709	Shim 1.40	Șaibă de reglaj 1.40
+F9710	Shim 1.50	Șaibă de reglaj 1.50
+F9711	Shim 1.60	Șaibă de reglaj 1.60
+F9712	Shim 1.70	Șaibă de reglaj 1.70
+F9713	Shim 1.75	Șaibă de reglaj 1.75
+F9714	Shim 1.80	Șaibă de reglaj 1.80
+F9715	Shim 1.85	Șaibă de reglaj 1.85
+F9716	Shim 1.90	Șaibă de reglaj 1.90
+F9717	Shim 1.95	Șaibă de reglaj 1.95
+F9718	Shim 2.00	Șaibă de reglaj 2.00
+F9719	Shim 2.05	Șaibă de reglaj 2.05
+F9720	Shim 2.10	Șaibă de reglaj 2.10
+F9721	Shim 2.15	Șaibă de reglaj 2.15
+F9722	Shim 2.20	Șaibă de reglaj 2.20
+F9723	Shim 2.25	Șaibă de reglaj 2.25
+F9724	Shim 2.30	Șaibă de reglaj 2.30
+F9725	Shim 2.35	Șaibă de reglaj 2.35
+F9726	Shim 2.40	Șaibă de reglaj 2.40
+F9727	Shim 2.45	Șaibă de reglaj 2.45
+F9728	Shim 2.50	Șaibă de reglaj 2.50
+F9729	Shim 2.55	Șaibă de reglaj 2.55
+F9730	Shim 2.60	Șaibă de reglaj 2.60
+F9731	Shim 2.65	Șaibă de reglaj 2.65
+F9732	Shim 2.70	Șaibă de reglaj 2.70
+F9733	Shim 2.75	Șaibă de reglaj 2.75
+F9734	Shim 2.80	Șaibă de reglaj 2.80
+F9735	Shim 2.90	Șaibă de reglaj 2.90
+F9736	Shim 3.00	Șaibă de reglaj 3.00
+F9737	Shim 3.10	Șaibă de reglaj 3.10
+F9738	Shim 3.20	Șaibă de reglaj 3.20
+F9739	Shim 3.30	Șaibă de reglaj 3.30
+F9740	Air gap shim	Șaibă de reglaj întrefier
+F9741	Power transfer unit oil cooler pump bracket shim	Șaibă de reglaj suport pompă răcitor ulei unitate transfer putere
+F9742	Compensating beam mounting shim	Șaibă de reglaj montaj balansier compensare
+F9743	Countershaft shim	Șaibă de reglaj arbore intermediar
+F9744	Countershaft shim 1.85 mm	Șaibă de reglaj arbore intermediar 1.85 mm
+F9745	Countershaft shim 1.90 mm	Șaibă de reglaj arbore intermediar 1.90 mm
+F9746	Countershaft shim 1.95 mm	Șaibă de reglaj arbore intermediar 1.95 mm
+F9747	Countershaft shim 2.00 mm	Șaibă de reglaj arbore intermediar 2.00 mm
+F9748	Countershaft shim 2.05 mm	Șaibă de reglaj arbore intermediar 2.05 mm
+F9749	Countershaft shim 2.10 mm	Șaibă de reglaj arbore intermediar 2.10 mm
+F9750	Countershaft shim 2.15 mm	Șaibă de reglaj arbore intermediar 2.15 mm
+F9751	Countershaft shim 2.20 mm	Șaibă de reglaj arbore intermediar 2.20 mm
+F9752	Countershaft shim 2.25 mm	Șaibă de reglaj arbore intermediar 2.25 mm
+F9753	Countershaft shim 2.30 mm	Șaibă de reglaj arbore intermediar 2.30 mm
+F9754	Countershaft shim 2.35 mm	Șaibă de reglaj arbore intermediar 2.35 mm
+F9755	Countershaft shim 2.40 mm	Șaibă de reglaj arbore intermediar 2.40 mm
+F9756	Countershaft shim 2.45 mm	Șaibă de reglaj arbore intermediar 2.45 mm
+F9757	Countershaft shim 2.50 mm	Șaibă de reglaj arbore intermediar 2.50 mm
+F9758	Countershaft shim 2.55 mm	Șaibă de reglaj arbore intermediar 2.55 mm
+F9759	Countershaft shim 2.60 mm	Șaibă de reglaj arbore intermediar 2.60 mm
+F9760	Countershaft shim 2.65 mm	Șaibă de reglaj arbore intermediar 2.65 mm
+F9761	Countershaft shim 2.70 mm	Șaibă de reglaj arbore intermediar 2.70 mm
+F9762	Countershaft shim 2.75 mm	Șaibă de reglaj arbore intermediar 2.75 mm
+F9763	Countershaft shim 2.80 mm	Șaibă de reglaj arbore intermediar 2.80 mm
+F9764	Countershaft shim 2.85 mm	Șaibă de reglaj arbore intermediar 2.85 mm
+F9765	Countershaft shim 2.90 mm	Șaibă de reglaj arbore intermediar 2.90 mm
+F9766	Countershaft shim 2.95 mm	Șaibă de reglaj arbore intermediar 2.95 mm
+F9767	Countershaft shim 3.00 mm	Șaibă de reglaj arbore intermediar 3.00 mm
+F9768	Countershaft shim 3.05 mm	Șaibă de reglaj arbore intermediar 3.05 mm
+F9769	Countershaft shim 3.10 mm	Șaibă de reglaj arbore intermediar 3.10 mm
+F9770	Countershaft shim 3.15 mm	Șaibă de reglaj arbore intermediar 3.15 mm
+F9771	Countershaft shim 3.20 mm	Șaibă de reglaj arbore intermediar 3.20 mm
+F9772	Countershaft shim 3.25 mm	Șaibă de reglaj arbore intermediar 3.25 mm
+F9773	Front fender shim	Șaibă de reglaj aripă față
+F9774	Gear set shim 0.15 mm, use as required	Șaibă de reglaj angrenaj 0.15 mm, se folosește după necesitate
+F9775	Gear set shim 0.5 mm, use as required	Șaibă de reglaj angrenaj 0.5 mm, se folosește după necesitate
+F9776	Gear set shim 1.0 mm, use as required	Șaibă de reglaj angrenaj 1.0 mm, se folosește după necesitate
+F9777	Gear set shim 15.5 mm, use as required	Șaibă de reglaj angrenaj 15.5 mm, se folosește după necesitate
+F9778	Gear set shim 55.5 mm, use as required	Șaibă de reglaj angrenaj 55.5 mm, se folosește după necesitate
+F9779	Gear set shim 55 mm, use as required	Șaibă de reglaj angrenaj 55 mm, se folosește după necesitate
+F9780	Gear set shim 56.5 mm, use as required	Șaibă de reglaj angrenaj 56.5 mm, se folosește după necesitate
+F9781	Gear set shim 56 mm, use as required	Șaibă de reglaj angrenaj 56 mm, se folosește după necesitate
+F9782	Gear set shim 57 mm, use as required	Șaibă de reglaj angrenaj 57 mm, se folosește după necesitate
+F9783	Gear set shim 6.12 mm, use as required	Șaibă de reglaj angrenaj 6.12 mm, se folosește după necesitate
+F9784	Gear set shim 6.14 mm, use as required	Șaibă de reglaj angrenaj 6.14 mm, se folosește după necesitate
+F9785	Gear set shim 6.16 mm, use as required	Șaibă de reglaj angrenaj 6.16 mm, se folosește după necesitate
+F9786	Gear set shim 6.18 mm, use as required	Șaibă de reglaj angrenaj 6.18 mm, se folosește după necesitate
+F9787	Gear set shim 6.20 mm, use as required	Șaibă de reglaj angrenaj 6.20 mm, se folosește după necesitate
+F9788	Gear set shim 6.22 mm, use as required	Șaibă de reglaj angrenaj 6.22 mm, se folosește după necesitate
+F9789	Gear set shim 6.24 mm, use as required	Șaibă de reglaj angrenaj 6.24 mm, se folosește după necesitate
+F9790	Gear set shim 6.26 mm, use as required	Șaibă de reglaj angrenaj 6.26 mm, se folosește după necesitate
+F9791	Gear set shim 6.28 mm, use as required	Șaibă de reglaj angrenaj 6.28 mm, se folosește după necesitate
+F9792	Gear set shim 6.30 mm, use as required	Șaibă de reglaj angrenaj 6.30 mm, se folosește după necesitate
+F9793	Gear set shim 6.32 mm, use as required	Șaibă de reglaj angrenaj 6.32 mm, se folosește după necesitate
+F9794	Gear set shim 6.34 mm, use as required	Șaibă de reglaj angrenaj 6.34 mm, se folosește după necesitate
+F9795	Gear set shim 6.36 mm, use as required	Șaibă de reglaj angrenaj 6.36 mm, se folosește după necesitate
+F9796	Gear set shim 6.38 mm, use as required	Șaibă de reglaj angrenaj 6.38 mm, se folosește după necesitate
+F9797	Gear set shim 6.40 mm, use as required	Șaibă de reglaj angrenaj 6.40 mm, se folosește după necesitate
+F9798	Gear set shim 6.42 mm, use as required	Șaibă de reglaj angrenaj 6.42 mm, se folosește după necesitate
+F9799	Gear set shim 6.44 mm, use as required	Șaibă de reglaj angrenaj 6.44 mm, se folosește după necesitate
+F9800	Gear set shim 6.46 mm, use as required	Șaibă de reglaj angrenaj 6.46 mm, se folosește după necesitate
+F9801	Gear set shim 6.48 mm, use as required	Șaibă de reglaj angrenaj 6.48 mm, se folosește după necesitate
+F9802	Gear set shim 6.50 mm, use as required	Șaibă de reglaj angrenaj 6.50 mm, se folosește după necesitate
+F9803	Gear set shim 6.52 mm, use as required	Șaibă de reglaj angrenaj 6.52 mm, se folosește după necesitate
+F9804	Gear set shim 6.54 mm, use as required	Șaibă de reglaj angrenaj 6.54 mm, se folosește după necesitate
+F9805	Gear set shim 6.56 mm, use as required	Șaibă de reglaj angrenaj 6.56 mm, se folosește după necesitate
+F9806	Gear set shim 6.58 mm, use as required	Șaibă de reglaj angrenaj 6.58 mm, se folosește după necesitate
+F9807	Gear set shim 6.60 mm, use as required	Șaibă de reglaj angrenaj 6.60 mm, se folosește după necesitate
+F9808	Gear set shim 6.5	Șaibă de reglaj angrenaj 6.5
+F9809	Gear set shim 6.8	Șaibă de reglaj angrenaj 6.8
+F9810	Injector shim 1.0 mm	Șaibă de reglaj injector 1.0 mm
+F9811	Injector shim 1.2 mm	Șaibă de reglaj injector 1.2 mm
+F9812	Injector shim 1.5 mm	Șaibă de reglaj injector 1.5 mm
+F9813	Injector shim 1.6 mm	Șaibă de reglaj injector 1.6 mm
+F9814	Injector shim 1.7 mm	Șaibă de reglaj injector 1.7 mm
+F9815	Injector shim 2.1 mm	Șaibă de reglaj injector 2.1 mm
+F9816	Injector shim 2.2 mm	Șaibă de reglaj injector 2.2 mm
+F9817	Injector shim 2.3 mm	Șaibă de reglaj injector 2.3 mm
+F9818	Injector shim 3.4 mm	Șaibă de reglaj injector 3.4 mm
+F9819	Input shaft shim 3.85 mm	Șaibă de reglaj arbore intrare 3.85 mm
+F9820	Input shaft shim 3.90 mm	Șaibă de reglaj arbore intrare 3.90 mm
+F9821	Input shaft shim 3.95 mm	Șaibă de reglaj arbore intrare 3.95 mm
+F9822	Shim kit	Kit șaibe de reglaj
+F9823	Power take-off shim	Șaibă de reglaj priză de putere
+F9824	Power take-off idler gear shim	Șaibă de reglaj pinion intermediar priză de putere
+F9825	Rear rubber suspension shim	Șaibă de reglaj suspensie cauciuc spate
+F9826	Spindle pin shim 2.7 mm	Șaibă de reglaj pivot fuzetă 2.7 mm
+F9827	Spindle pin shim 2.8 mm	Șaibă de reglaj pivot fuzetă 2.8 mm
+F9828	Spindle pin shim 2.9 mm	Șaibă de reglaj pivot fuzetă 2.9 mm
+F9829	Spindle pin shim 3.22 mm	Șaibă de reglaj pivot fuzetă 3.22 mm
+F9830	Spindle pin shim 3.24 mm	Șaibă de reglaj pivot fuzetă 3.24 mm
+F9831	Spindle pin shim 3.26 mm	Șaibă de reglaj pivot fuzetă 3.26 mm
+F9832	Spindle pin shim 3.28 mm	Șaibă de reglaj pivot fuzetă 3.28 mm
+F9833	Spindle pin shim 3.2 mm	Șaibă de reglaj pivot fuzetă 3.2 mm
+F9834	Spindle pin shim 3.32 mm	Șaibă de reglaj pivot fuzetă 3.32 mm
+F9835	Spindle pin shim 3.34 mm	Șaibă de reglaj pivot fuzetă 3.34 mm
+F9836	Spindle pin shim 3.36 mm	Șaibă de reglaj pivot fuzetă 3.36 mm
+F9837	Spindle pin shim 3.38 mm	Șaibă de reglaj pivot fuzetă 3.38 mm
+F9838	Spindle pin shim 3.3 mm	Șaibă de reglaj pivot fuzetă 3.3 mm
+F9839	Spindle pin shim 3.42	Șaibă de reglaj pivot fuzetă 3.42
+F9840	Spindle pin shim 3.44 mm	Șaibă de reglaj pivot fuzetă 3.44 mm
+F9841	Spindle pin shim 3.46 mm	Șaibă de reglaj pivot fuzetă 3.46 mm
+F9842	Spindle pin shim 3.48 mm	Șaibă de reglaj pivot fuzetă 3.48 mm
+F9843	Spindle pin shim 3.52 mm	Șaibă de reglaj pivot fuzetă 3.52 mm
+F9844	Spindle pin shim 3.54 mm	Șaibă de reglaj pivot fuzetă 3.54 mm
+F9845	Spindle pin shim 3.58 mm	Șaibă de reglaj pivot fuzetă 3.58 mm
+F9846	Spindle pin shim 3.5 mm	Șaibă de reglaj pivot fuzetă 3.5 mm
+F9847	Spindle pin shim 3.6 mm	Șaibă de reglaj pivot fuzetă 3.6 mm
+F9848	Spindle pin shim 3.62 mm	Șaibă de reglaj pivot fuzetă 3.62 mm
+F9849	Spindle pin shim 3.64 mm	Șaibă de reglaj pivot fuzetă 3.64 mm
+F9850	Spindle pin shim 3.66 mm	Șaibă de reglaj pivot fuzetă 3.66 mm
+F9851	Spindle pin shim 3.68 mm	Șaibă de reglaj pivot fuzetă 3.68 mm
+F9852	Spindle pin shim 3.7 mm	Șaibă de reglaj pivot fuzetă 3.7 mm
+F9853	Spindle pin shim 3.74 mm	Șaibă de reglaj pivot fuzetă 3.74 mm
+F9854	Spindle pin shim 3.76 mm	Șaibă de reglaj pivot fuzetă 3.76 mm
+F9855	Spindle pin shim 3.78 mm	Șaibă de reglaj pivot fuzetă 3.78 mm
+F9856	Spindle pin shim 3.7 mm	Șaibă de reglaj pivot fuzetă 3.7 mm
+F9857	Spindle pin shim 3.8	Șaibă de reglaj pivot fuzetă 3.8
+F9858	Spindle pin shim 3.84 mm	Șaibă de reglaj pivot fuzetă 3.84 mm
+F9859	Spindle pin shim 3.86 mm	Șaibă de reglaj pivot fuzetă 3.86 mm
+F9860	Spindle pin shim 3.88 mm	Șaibă de reglaj pivot fuzetă 3.88 mm
+F9861	Spindle pin shim 3.8 mm	Șaibă de reglaj pivot fuzetă 3.8 mm
+F9862	Spindle pin shim 3.9 mm	Șaibă de reglaj pivot fuzetă 3.9 mm
+F9863	Spindle pin shim 3.92 mm	Șaibă de reglaj pivot fuzetă 3.92 mm
+F9864	Spindle pin shim 3.94 mm	Șaibă de reglaj pivot fuzetă 3.94 mm
+F9865	Spindle pin shim 3.96 mm	Șaibă de reglaj pivot fuzetă 3.96 mm
+F9866	Spindle pin shim 3.98 mm	Șaibă de reglaj pivot fuzetă 3.98 mm
+F9867	Spindle pin shim 31	Șaibă de reglaj pivot fuzetă 31
+F9868	Spindle pin shim 33	Șaibă de reglaj pivot fuzetă 33
+F9869	Spindle pin shim 34	Șaibă de reglaj pivot fuzetă 34
+F9870	Spindle pin shim 35	Șaibă de reglaj pivot fuzetă 35
+F9871	Spindle pin shim 37	Șaibă de reglaj pivot fuzetă 37
+F9872	Spindle pin shim 3 mm	Șaibă de reglaj pivot fuzetă 3 mm
+F9873	Spindle pin shim 4.02 mm	Șaibă de reglaj pivot fuzetă 4.02 mm
+F9874	Spindle pin shim 4.04 mm	Șaibă de reglaj pivot fuzetă 4.04 mm
+F9875	Spindle pin shim 4.06 mm	Șaibă de reglaj pivot fuzetă 4.06 mm
+F9876	Spindle pin shim 4.08 mm	Șaibă de reglaj pivot fuzetă 4.08 mm
+F9877	Spindle pin shim 4.1 mm	Șaibă de reglaj pivot fuzetă 4.1 mm
+F9878	Spindle pin shim 4.1 mm	Șaibă de reglaj pivot fuzetă 4.1 mm
+F9879	Spindle pin shim 4.2 mm	Șaibă de reglaj pivot fuzetă 4.2 mm
+F9880	Spindle pin shim 4 mm	Șaibă de reglaj pivot fuzetă 4 mm
+F9881	Steering column shim	Șaibă de reglaj coloană direcție
+F9882	Shim, thickness 0.10, standard	Șaibă de reglaj, grosime 0.10, standard
+F9883	Transmission shim	Șaibă de reglaj cutie de viteze
+F9884	Transmission gear shift rail shim	Șaibă de reglaj tijă schimbare viteze, cutie de viteze
+F9885	Transmission planet gear shim	Șaibă de reglaj satelit planetar, cutie de viteze
+F9886	Transmission PTO shim	Șaibă de reglaj PTO, cutie de viteze
+F9887	Transmission input shaft thrust shim	Șaibă de reglaj axială arbore intrare, cutie de viteze
+F9888	Suspension trunnion bearing shim 0.08 mm	Șaibă de reglaj rulment trunion suspensie 0.08 mm
+F9889	Input cage shim, use as required	Șaibă de reglaj colivie intrare, se folosește după necesitate
+F9890	Gear set shim, use as required	Șaibă de reglaj angrenaj, se folosește după necesitate
+F9891	Shim, thickness 0.1	Șaibă de reglaj, grosime 0.1
+F9892	Shim, thickness 0.15	Șaibă de reglaj, grosime 0.15
+F9893	Shim 0.35 1524896	Șaibă de reglaj 0.35 1524896
+F9894	Shim, thickness 0.35	Șaibă de reglaj, grosime 0.35
+F9895	Shim, thickness 0.5	Șaibă de reglaj, grosime 0.5
+F9896	Shim T 0.15, standard 948599	Șaibă de reglaj T 0.15, standard 948599
+F9897	Shim T 0.35, standard 941292	Șaibă de reglaj T 0.35, standard 941292
+F9898	Shim T 0.40 1524897	Șaibă de reglaj T 0.40 1524897
+F9899	Shim T 0.45 1524898	Șaibă de reglaj T 0.45 1524898
+F9900	Shim T 0.50, standard 941293	Șaibă de reglaj T 0.50, standard 941293
+F9901	Transmission PTO shim	Șaibă de reglaj PTO, cutie de viteze
+F9902	Transmission input shaft thrust shim	Șaibă de reglaj axială arbore intrare, cutie de viteze
+F9903	Cab mounting shock absorber assembly	Amortizor suspensie cabină, ansamblu
+F9904	Rear shock absorber assembly	Amortizor spate, ansamblu
+F9905	Engine side noise insulation shield assembly	Ecran fonic lateral motor, ansamblu
+F9906	Engine lower noise shield assembly	Ecran fonic inferior motor, ansamblu
+F9907	Turbocharger exhaust outlet elbow shield	Scut termic cot ieșire evacuare turbocompresor
+F9908	Engine lower noise insulation shield	Ecran fonic inferior motor
+F9909	Engine lower noise insulation shield, front LH	Ecran fonic inferior motor, față stânga
+F9910	Engine lower noise insulation shield, rear LH	Ecran fonic inferior motor, spate stânga
+F9911	Exhaust pipe upper shield	Scut superior conductă evacuare
+F9912	Diesel particulate filter shield	Scut filtru de particule diesel
+F9913	Camshaft sensor mounting shim	Șaibă de reglaj montaj senzor arbore cu came
+F9914	Camshaft sensor mounting shim 0.25	Șaibă de reglaj montaj senzor arbore cu came 0.25
+F9915	Transmission shim	Șaibă de reglaj cutie de viteze
+F9916	Rear suspension shock absorber assembly	Amortizor suspensie spate, ansamblu
+F9917	Cab rear suspension shock absorber, double cab	Amortizor suspensie spate cabină, cabină dublă
+F9918	Rear shock absorber, horizontal	Amortizor spate, orizontal
+F9919	Shock absorber spring assembly	Amortizor cu arc, ansamblu
+F9920	Shock absorber spring assembly, front	Amortizor cu arc, ansamblu, față
+F9921	Shock absorber spring assembly, rear	Amortizor cu arc, ansamblu, spate
+F9922	Shock absorber	Amortizor
+F9923	Shock absorber assembly	Amortizor, ansamblu
+F9924	Shock absorber assembly	Amortizor, ansamblu
+F9925	Cab mounting shock absorber assembly	Amortizor suspensie cabină, ansamblu
+F9926	Shock absorber assembly, rear	Amortizor, ansamblu, spate
+F9927	Shock absorber assembly	Amortizor, ansamblu
+F9928	Shock absorber assembly, rear	Amortizor, ansamblu, spate
+F9929	Shock absorber assembly	Amortizor, ansamblu
+F9930	Body shock absorber assembly, front	Amortizor caroserie, ansamblu, față
+F9931	Body shock absorber assembly, rear	Amortizor caroserie, ansamblu, spate
+F9932	Shock absorber assembly, front	Amortizor, ansamblu, față
+F9933	Shock absorber assembly, rear	Amortizor, ansamblu, spate
+F9934	Rear air suspension shock absorber assembly	Amortizor suspensie pneumatică spate, ansamblu
+F9935	Body shock absorber assembly	Amortizor caroserie, ansamblu
+F9936	Cab shock absorber assembly	Amortizor cabină, ansamblu
+F9937	Shock absorber assembly, front	Amortizor, ansamblu, față
+F9938	Driver's seat shock absorber draw cord, left	Cablu tragere amortizor scaun șofer, stânga
+F9939	Shock absorber, LH	Amortizor, stânga
+F9940	Shock absorber, RH	Amortizor, dreapta
+F9941	Steering shaft shock absorber	Amortizor arbore direcție
+F9942	Driver's seat shock absorber	Amortizor scaun șofer
+F9943	Brake shoe and lining assembly 394 mm	Sabot frână cu garnitură, ansamblu 394 mm
+F9944	Brake shoe and lining assembly 410 mm	Sabot frână cu garnitură, ansamblu 410 mm
+F9945	Shoe assembly	Sabot, ansamblu
+F9946	Short block 12.7 L Ecotorq, for all Gen 1.5	Bloc motor scurt 12.7 L Ecotorq, pentru toate Gen 1.5
+F9947	Short block 9 L Ecotorq, for all Gen 1.5	Bloc motor scurt 9 L Ecotorq, pentru toate Gen 1.5
+F9948	Short block 9L E5	Bloc motor scurt 9L E5
+F9949	Short block 9L Euro 3	Bloc motor scurt 9L Euro 3
+F9950	Fan shroud	Carcasă ventilator
+F9951	Fan shroud assembly	Carcasă ventilator, ansamblu
+F9952	Steering column shroud assembly	Carcasă coloană direcție, ansamblu
+F9953	Steering column lower shroud assembly	Carcasă inferioară coloană direcție, ansamblu
+F9954	Steering column lower shroud assembly	Carcasă inferioară coloană direcție, ansamblu
+F9955	Shroud corner part	Colț carcasă ventilator
+F9956	Fan shroud	Carcasă ventilator
+F9957	Fan shroud deflector	Deflector carcasă ventilator
+F9958	Fan shroud half, lower	Jumătate inferioară carcasă ventilator
+F9959	Fan shroud half, lower	Jumătate inferioară carcasă ventilator
+F9960	Shroud main body	Corp principal carcasă ventilator
+F9961	Radiator fan shroud	Carcasă ventilator radiator
+F9962	Radiator fan shroud	Carcasă ventilator radiator
+F9963	Steering column shroud	Carcasă coloană direcție
+F9964	Steering column shroud, inner	Carcasă coloană direcție, interior
+F9965	Steering column shroud, lower	Carcasă coloană direcție, inferioară
+F9966	Steering column shroud, upper	Carcasă coloană direcție, superioară
+F9967	Steering column shroud, lower	Carcasă coloană direcție, inferioară
+F9968	Shroud U-ring	Inel U carcasă
+F9969	Heater vacuum line shroud	Manșon protecție conductă vacuum încălzire
+F9970	Radiator shutter assembly, thermostatic control	Jaluzea radiator cu comandă termostatică, ansamblu
+F9971	Body side assembly	Panou lateral caroserie, ansamblu
+F9972	Body side assembly, LH	Panou lateral caroserie, ansamblu, stânga
+F9973	Side cover, LH	Capac lateral, stânga
+F9974	Side cover, RH	Capac lateral, dreapta
+F9975	Side direction indicator, LH	Semnalizator lateral, stânga
+F9976	Side direction indicator, RH	Semnalizator lateral, dreapta
+F9977	Side extender hinge spring	Arc balama prelungitor lateral
+F9978	Chassis side member, LH, 6x4 tipper	Longeron șasiu, stânga, basculantă 6x4
+F9979	Chassis side member	Longeron șasiu
+F9980	Chassis side member, LH	Longeron șasiu, stânga
+F9981	Chassis side member, RH	Longeron șasiu, dreapta
+F9982	Frame side member	Longeron cadru
+F9983	Frame side member, left	Longeron cadru, stânga
+F9984	Frame side member, LH	Longeron cadru, stânga
+F9985	Frame side member, LH	Longeron cadru, stânga
+F9986	Frame side member, LH, 3532D, 3800 wheelbase	Longeron cadru, stânga, 3532D, ampatament 3800
+F9987	Frame side member, LH	Longeron cadru, stânga
+F9988	Frame side member, right	Longeron cadru, dreapta
+F9989	Side member, LH	Longeron, stânga
+F9990	Side member, RH	Longeron, dreapta
+F9991	Chassis side member, L	Longeron șasiu, L
+F9992	Side step assembly, upper, RH/LH	Treaptă laterală, ansamblu, superioară, dreapta/stânga
+F9993	Side step, lower, LH	Treaptă laterală, inferioară, stânga
+F9994	Side step, lower, RH	Treaptă laterală, inferioară, dreapta
+F9995	Side step, upper, LH	Treaptă laterală, superioară, stânga
+F9996	Side step, upper, RH	Treaptă laterală, superioară, dreapta
+F9997	Side step, upper, RH, H298	Treaptă laterală, superioară, dreapta, H298
+F9998	Side step, lower, LH	Treaptă laterală, inferioară, stânga
+F9999	Side reflector, yellow	Catadioptru lateral, galben
+F10000	Truck of the Year emblem	Siglă Truck of the Year
+F10001	Fuse 150A M	Siguranță 150A M
+F10002	Fuse 20A	Siguranță 20A
+F10003	Fuse 30A	Siguranță 30A
+F10004	Fuse 40A	Siguranță 40A
+F10005	Fuse 60A	Siguranță 60A
+F10006	Piston pin circlip 9L	Siguranță bolț piston 9L
+F10007	Door lock retainer, left	Siguranță broască ușă, stânga
+F10008	Front hub bearing retainer	Siguranță rulment butuc față
+F10009	APU silencer	Amortizor de zgomot APU
+F10010	Silencer assembly	Amortizor de zgomot, ansamblu
+F10011	Silent block and bolt set	Set silentblocuri și șuruburi
+F10012	Cylinder head centering	Centrare chiulasă
+F10013	Front wheel hub oil seal	Simering butuc roată față
+F10014	Rear wheel hub oil seal	Simering butuc roată spate
+F10015	Rear hub oil seal HTC	Simering butuc spate HTC
+F10016	Gearbox rear oil seal	Simering spate cutie de viteze
+F10017	Differential oil seal 2HTC	Simering diferențial 2HTC
+F10018	Differential oil seal HTC	Simering diferențial HTC
+F10019	Final drive oil seal HJA HTQ	Simering grup diferențial HJA HTQ
+F10020	Hub inner oil seal, axle 3	Simering interior butuc, axa 3
+F10021	Interaxle differential oil seal	Simering diferențial interaxial
+F10022	Front crankshaft oil seal 9L	Simering palier față 9L
+F10023	Rear crankshaft oil seal 9L	Simering palier spate 9L
+F10024	Axle shaft oil seal	Simering planetară
+F10025	PTO oil seal	Simering priză de putere
+F10026	Gearbox PTO oil seal 16S	Simering priză de putere cutie de viteze 16S
+F10027	Gearbox PTO oil seal 52x68x8	Simering priză de putere cutie de viteze 52x68x8
+F10028	Direct drive oil seal	Simering priză directă
+F10029	Rear shaft oil seal	Simering spate arbore
+F10030	Valve stem seal 12.7L	Simering supapă 12.7L
+F10031	Valve stem seal 9L	Simering supapă 9L
+F10032	Gearbox synchronizer	Sincron cutie de viteze
+F10033	Synchronizer Eaton	Sincron Eaton
+F10034	Synchronizer R	Sincron R
+F10035	Range gearbox synchronizer	Sincron reductor
+F10036	Synchronizer TR 3-4	Sincron TR 3-4
+F10037	Refrigerator drawer rails	Șine sertar frigider
+F10038	Mask with visor	Mască cu vizieră
+F10039	Spark plug screen	Sită bujie
+F10040	Radiator protection screen	Sită protecție radiatoare
+F10041	Front fender skirt, RH	Fustă aripă față, dreapta
+F10042	Sliding sleeve	Manșon culisant
+F10043	Sleeper cab assembly, F-MAX, with trim, white	Cabină cu cușetă, ansamblu, F-MAX, cu ornamente, albă
+F10044	Sleeper cab assembly H566, trim white	Cabină cu cușetă, ansamblu H566, ornamente albe
+F10045	Sleeper cab assembly, high roof, Cargo blue	Cabină cu cușetă, ansamblu, plafon înalt, Cargo albastră
+F10046	Sleeve	Bucșă
+F10047	Sleeve assembly	Bucșă, ansamblu
+F10048	Cab rear mounting sleeve assembly	Bucșă montaj spate cabină, ansamblu
+F10049	Transmission main shaft carrier sleeve	Bucșă suport arbore principal cutie de viteze
+F10050	Crankshaft pulley hub sleeve	Bucșă butuc fulie arbore cotit
+F10051	Cylinder block sleeve	Cămașă cilindru bloc motor
+F10052	Cylinder block sleeve	Cămașă cilindru bloc motor
+F10053	Cylinder block sleeve, grade 2	Cămașă cilindru bloc motor, clasa 2
+F10054	Cylinder block sleeve, grade 3	Cămașă cilindru bloc motor, clasa 3
+F10055	Cylinder block sleeve, oversize cast, grade 4	Cămașă cilindru bloc motor, supradimensionată turnată, clasa 4
+F10056	Cylinder block sleeve, oversize cast, grade 5	Cămașă cilindru bloc motor, supradimensionată turnată, clasa 5
+F10057	Front seat headrest guide rod sleeve	Bucșă tijă ghidaj tetieră scaun față
+F10058	Fuel injection nozzle sleeve	Bucșă duză injector
+F10059	Fuel injector sleeve	Bucșă injector
+F10060	Guide sleeve	Bucșă de ghidaj

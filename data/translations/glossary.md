@@ -1,0 +1,13 @@
+# Glosar denumiri piese (RO / EN) — pentru consecvență
+- conductă (pipe), furtun (hose), suport (bracket), capac (cover/cap), garnitură (gasket), simering (oil seal)
+- rezervor de combustibil (fuel tank), rezervor AdBlue/uree (urea tank), plutitor (float), bandă de fixare (retaining strap)
+- conductă de retur combustibil (fuel return pipe) — „reverse return” din sursă = retur
+- injector, conductă de injector cilindrul N (injector pipe, cylinder N) — „N. eye / N no” din sursă = cilindrul N
+- pedală de accelerație (accelerator pedal) — „gas pedal” din sursă
+- filtru de aer (air cleaner/air filter), tubulatură verticală de aer (vertical air duct)
+- complet/completă acordat cu substantivul; „ansamblu” pentru assembly
+- litri: „l” (315 l); coduri, puteri (PS), standarde (E5, E6), coduri motor (NHDD, H476) rămân neschimbate
+- „used part” = din dezmembrări (second-hand); „reconditioned” = recondiționat
+- „with bearing” la piese de cabină = TR „yataklı” = cabină cu cușetă (sleeper cab); „without sleeper berth” = fără cușetă
+- „tipping” = basculantă (tipper); „road series” = serie rutieră; „earthmoving series” = serie construcții
+- treaptă de acces (access step), aripă (mudguard), bară de protecție (bumper), capotă (bonnet), traversă (crossmember), stâlp (pillar)

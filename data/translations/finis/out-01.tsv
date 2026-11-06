@@ -1,0 +1,946 @@
+F1	Part identified by code	Piesă identificată după cod
+F2	Piston and connecting rod assembly, 10.3L engine (FM)	Ansamblu piston și bielă, motor 10.3L (FM)
+F3	Long block 12 7L E5 E6E 500PS & E6 legacy	Bloc motor complet (long block) 12 7L E5 E6E 500PS și E6 legacy
+F4	Long block 12.7L E6E 510PS & E6E legacy	Bloc motor complet (long block) 12.7L E6E 510PS și E6E legacy
+F5	Manual transmission base 16 S 2220	Cutie de viteze manuală de bază 16 S 2220
+F6	Final drive gear set 2 643	Set angrenaje transmisie finală 2 643
+F7	Final drive gear set 2 846	Set angrenaje transmisie finală 2 846
+F8	Adapter for 204 226	Adaptor pentru 204 226
+F9	Adapter for 204 598	Adaptor pentru 204 598
+F10	Part 25 2069 01 0200 2D	Piesă 25 2069 01 0200 2D
+F11	2nd gear	Pinion treapta a 2-a
+F12	Final drive gear set 3 083	Set angrenaje transmisie finală 3 083
+F13	3/2-way valve	Supapă 3/2 căi
+F14	Final drive gear set 3 364	Set angrenaje transmisie finală 3 364
+F15	Final drive gear set 3 700	Set angrenaje transmisie finală 3 700
+F16	Upper glass, 3-piece	Geam superior, 3 bucăți
+F17	Adapter for 303 060	Adaptor pentru 303 060
+F18	Adapter for 303 290A	Adaptor pentru 303 290A
+F19	Adapter 303 290B	Adaptor 303 290B
+F20	Mounting plate for 303 435 04	Placă de montaj pentru 303 435 04
+F21	Adapter for 310 129	Adaptor pentru 310 129
+F22	Tire 315/70 ECO5, non-drive axle	Anvelopă 315/70 ECO5, punte nemotoare
+F23	Tire 315/70 ECO5, drive axle	Anvelopă 315/70 ECO5, punte motoare
+F24	Compressor piston with spring, standard, 3230 NHDD	Piston compresor cu arc, standard, 3230 NHDD
+F25	Piston ring 3235 NHDD	Segment piston 3235 NHDD
+F26	Axle pinion seal mounting tool, inner, 330	Dispozitiv montaj simering pinion punte, interior, 330
+F27	Final drive gear set 4 875	Set angrenaje transmisie finală 4 875
+F28	Final drive gear set 4625	Set angrenaje transmisie finală 4625
+F29	Axle pinion seal mounting tool, inner, 470 510	Dispozitiv montaj simering pinion punte, interior, 470 510
+F30	Wheel hub bearing nut, 470 axle	Piuliță rulment butuc roată, punte 470
+F31	Differential bearing 470	Rulment diferențial 470
+F32	Differential collar 470	Inel diferențial 470
+F33	Differential input flange 470	Flanșă intrare diferențial 470
+F34	Differential input flange assembly 470	Ansamblu flanșă intrare diferențial 470
+F35	Differential lock 470	Blocare diferențial 470
+F36	Differential pinion cage 470	Carcasă pinion diferențial 470
+F37	Differential bearing 470	Rulment diferențial 470
+F38	Differential case 470	Carcasă diferențial 470
+F39	Differential case 470	Carcasă diferențial 470
+F40	Differential case bolts 470	Șuruburi carcasă diferențial 470
+F41	Differential snap ring 470	Siguranță diferențial 470
+F42	Gear and pinion set 470	Set coroană și pinion 470
+F43	Hub spacer 470	Distanțier butuc 470
+F44	Pinion cage gasket 470	Garnitură carcasă pinion 470
+F45	Pinion cage O-ring 470	Garnitură O-ring carcasă pinion 470
+F46	Wheel carrier case assembly 470	Ansamblu carcasă suport roată 470
+F47	Adapter kit 9 16S109 1110 NH1 B	Kit adaptor 9 16S109 1110 NH1 B
+F48	Adapter kit 9 16S109 1110 NH4 B	Kit adaptor 9 16S109 1110 NH4 B
+F49	A-pillar inner assembly, lower, left	Ansamblu stâlp A interior, inferior, stânga
+F50	A-pillar inner assembly, lower, right	Ansamblu stâlp A interior, inferior, dreapta
+F51	A-pillar inner assembly, upper, left	Ansamblu stâlp A interior, superior, stânga
+F52	A-pillar inner assembly, upper, right	Ansamblu stâlp A interior, superior, dreapta
+F53	A-pillar outer assembly, left	Ansamblu stâlp A exterior, stânga
+F54	A-pillar outer assembly, right	Ansamblu stâlp A exterior, dreapta
+F55	A-pillar outer, right	Stâlp A exterior, dreapta
+F56	A-pillar outer, right	Stâlp A exterior, dreapta
+F57	Part AAZHHA	Piesă AAZHHA
+F58	ABS ECAS connection cable	Cablu conexiune ABS ECAS
+F59	ABS ECAS interface device USB 2 0	Dispozitiv interfață ABS ECAS USB 2 0
+F60	Floor side member absorber, lower	Absorbant longeron lateral podea, inferior
+F61	Floor side member absorber, lower, left	Absorbant longeron lateral podea, inferior, stânga
+F62	Floor side member absorber, upper	Absorbant longeron lateral podea, superior
+F63	Floor side member absorber, upper, left	Absorbant longeron lateral podea, superior, stânga
+F64	A/C compressor front coupling removal tool	Dispozitiv demontare cuplaj frontal compresor A/C
+F65	Accessory drive belt	Curea antrenare accesorii
+F66	Accessory drive belt 12 5X1075 0117 9479	Curea antrenare accesorii 12 5X1075 0117 9479
+F67	Accessory drive belt 12 5X1475	Curea antrenare accesorii 12 5X1475
+F68	Accessory drive belt 8PK 1535	Curea antrenare accesorii 8PK 1535
+F69	Transmission main control oiler accumulator	Acumulator ungere comandă principală cutie de viteze
+F70	Actuator assembly, 3rd axle	Ansamblu actuator, puntea a 3-a
+F71	Actuation arm, left	Braț de acționare, stânga
+F72	Actuator	Actuator
+F73	Air conditioning actuator	Actuator climatizare
+F74	Air conditioning blend and mode actuator assembly	Ansamblu actuator amestec și mod climatizare
+F75	Actuator assembly	Ansamblu actuator
+F76	A/C mode actuator assembly	Ansamblu actuator mod A/C
+F77	Clutch actuator assembly	Ansamblu actuator ambreiaj
+F78	Clutch actuator assembly	Ansamblu actuator ambreiaj
+F79	Actuator assembly, rear	Ansamblu actuator, spate
+F80	Rear brake actuator assembly	Ansamblu actuator frână spate
+F81	Brake actuator assembly	Ansamblu actuator frână
+F82	Brake system actuator assembly	Ansamblu actuator sistem de frânare
+F83	Brake shoe actuator	Actuator sabot frână
+F84	Castor mechanism actuator	Actuator mecanism unghi de fugă
+F85	Rear axle lift arm actuator	Actuator braț ridicare punte spate
+F86	Steering castor mechanism actuator	Actuator mecanism unghi de fugă direcție
+F87	Steering actuator	Actuator direcție
+F88	Transmission gear shift lever actuator	Actuator manetă schimbător viteze
+F89	Turbo actuator 12 7L 9L	Actuator turbo 12 7L 9L
+F90	Turbo actuator F-MAX	Actuator turbo F-MAX
+F91	AdBlue filter removal tool	Dispozitiv demontare filtru AdBlue
+F92	Air cleaner stack pipe adapter	Adaptor țeavă admisie filtru de aer
+F93	Transmission control select adapter and ring assembly	Ansamblu adaptor și inel selectare comandă cutie de viteze
+F94	Fuel injection pump adapter assembly	Ansamblu adaptor pompă de injecție
+F95	Power steering pump mounting adapter assembly	Ansamblu adaptor montaj pompă servodirecție
+F96	Power steering pump mounting adapter assembly (FL/WH)	Ansamblu adaptor montaj pompă servodirecție (FL/WH)
+F97	Power steering pump mounting adapter assembly (FL/WH)	Ansamblu adaptor montaj pompă servodirecție (FL/WH)
+F98	Power steering pump mounting adapter assembly FL WH	Ansamblu adaptor montaj pompă servodirecție FL WH
+F99	Sleeper adapter assembly	Ansamblu adaptor cușetă
+F100	Sleeping compartment bunk upper bracket adapter assembly	Ansamblu adaptor suport superior pat cușetă
+F101	Tachograph drive adapter assembly	Ansamblu adaptor antrenare tahograf
+F102	Fuel filter element adapter	Adaptor element filtru combustibil
+F103	Fuel filter element adapter	Adaptor element filtru combustibil
+F104	Engine oil line connector adapter	Adaptor racord conductă ulei motor
+F105	Fuel manifold adapter	Adaptor galerie combustibil
+F106	Fuel return adapter	Adaptor retur combustibil
+F107	Heater hose outlet adapter	Adaptor ieșire furtun încălzire
+F108	Heater outlet duct adapter	Adaptor tubulatură ieșire încălzire
+F109	Air hose adapter, front	Adaptor furtun aer, față
+F110	Air hose adapter, front seat, left	Adaptor furtun aer, scaun față, stânga
+F111	Exhaust aftertreatment reservoir hose adapter	Adaptor furtun rezervor post-tratare gaze evacuare
+F112	Exhaust aftertreatment reservoir hose adapter 1 4 in	Adaptor furtun rezervor post-tratare gaze evacuare 1 4 inch
+F113	Exhaust aftertreatment reservoir hose adapter 3 8"	Adaptor furtun rezervor post-tratare gaze evacuare 3 8"
+F114	Multiple lubrication grease filler adapter, upper	Adaptor gresor ungere multiplă, superior
+F115	Power take-off adapter	Adaptor priză de putere
+F116	Starter spring winding adapter	Adaptor înfășurare arc demaror
+F117	Adapter	Adaptor
+F118	Adapter cable	Cablu adaptor
+F119	Degree angle disc adapter	Adaptor disc unghi grade
+F120	Adapter for 16 025 308 072	Adaptor pentru 16 025 308 072
+F121	Adapter for 204 595	Adaptor pentru 204 595
+F122	Adapter for 204 605	Adaptor pentru 204 605
+F123	Adapter	Adaptor
+F124	Spare wheel bracket adapter	Adaptor suport roată de rezervă
+F125	Adapter bush	Bucșă adaptor
+F126	Speedometer gear adapter bush	Bucșă adaptor pinion vitezometru
+F127	Clutch slave cylinder adapter	Adaptor cilindru receptor ambreiaj
+F128	Compression tester adapter	Adaptor tester compresie
+F129	Compressor diagram adapter	Adaptor diagramă compresor
+F130	Adapter for bearing puller M65X2	Adaptor pentru extractor rulmenți M65X2
+F131	Adapter for selector housing bush	Adaptor pentru bucșa carcasei selectorului
+F132	Heater outlet duct adapter	Adaptor tubulatură ieșire încălzire
+F133	Heater hose outlet adapter	Adaptor ieșire furtun încălzire
+F134	Heater hose louvre adapter, centre	Adaptor furtun încălzire fantă ventilație, central
+F135	Heater hose louvre adapter, outer	Adaptor furtun încălzire fantă ventilație, exterior
+F136	Intermediate switch adapter	Adaptor comutator intermediar
+F137	Adapter M95X2 to M65X2	Adaptor M95X2 la M65X2
+F138	Oil filter element adapter	Adaptor element filtru ulei
+F139	Oil pressure sensor adapter	Adaptor senzor presiune ulei
+F140	Oil pressure sensor adapter	Adaptor senzor presiune ulei
+F141	Speedometer gear adapter	Adaptor pinion vitezometru
+F142	Water outlet connector adapter	Adaptor racord ieșire apă
+F143	AdBlue 18 L	AdBlue 18 L
+F144	AdBlue purity test paper	Hârtie test puritate AdBlue
+F145	Anaerobic adhesive	Adeziv anaerob
+F146	Interior rear view mirror adhesive foil	Folie adezivă oglindă retrovizoare interioară
+F147	High strength adhesive, medium viscosity	Adeziv de înaltă rezistență, vâscozitate medie
+F148	Adhesive labels	Etichete adezive
+F149	Adjuster assembly, front side	Ansamblu dispozitiv de reglaj, partea din față
+F150	Rear axle differential bearing adjusting ring, left	Inel de reglaj rulment diferențial punte spate, stânga
+F151	Rear axle differential bearing adjusting ring, right	Inel de reglaj rulment diferențial punte spate, dreapta
+F152	Front seat adjuster	Dispozitiv de reglaj scaun față
+F153	Front seat belt retractor tensioner adjuster assembly	Ansamblu reglaj pretensionator retractor centură scaun față
+F154	Adjuster assembly, rear	Ansamblu dispozitiv de reglaj, spate
+F155	Rear seat back adjuster assembly	Ansamblu reglaj spătar scaun spate
+F156	Rear axle differential adjuster	Dispozitiv de reglaj diferențial punte spate
+F157	Rear axle differential bearing adjuster	Dispozitiv de reglaj rulment diferențial punte spate
+F158	Adjusting screw	Șurub de reglaj
+F159	Adjusting spacer, use two in combination	Distanțier de reglaj, se folosesc două în combinație
+F160	Seat adjuster	Dispozitiv de reglaj scaun
+F161	Adjusting plunger	Plonjor de reglaj
+F162	Adjusting ring, right 951989	Inel de reglaj, dreapta 951989
+F163	Adjusting ring tool	Dispozitiv inel de reglaj
+F164	Adjusting screw	Șurub de reglaj
+F165	Adjustment assembly	Ansamblu reglaj
+F166	Seat adjustment valve	Supapă reglaj scaun
+F167	Air cleaner stack pipe adapter	Adaptor țeavă admisie filtru de aer
+F168	Exhaust aftertreatment reservoir hose adapter	Adaptor furtun rezervor post-tratare gaze evacuare
+F169	Heater outlet duct adapter, right	Adaptor tubulatură ieșire încălzire, dreapta
+F170	Part ADYRDD	Piesă ADYRDD
+F171	Aerial assembly	Ansamblu antenă
+F172	Aerial assembly - GPS	Ansamblu antenă - GPS
+F173	Aerial without cable	Antenă fără cablu
+F174	Rear axle breather	Aerisitor punte spate
+F175	Airbag test cable	Cablu test airbag
+F176	Air bellow support	Suport burduf de aer
+F177	Air bellow support, rear suspension leaf spring, left	Suport burduf de aer, arc cu foi suspensie spate, stânga
+F178	Air bellow support, rear suspension leaf spring, right	Suport burduf de aer, arc cu foi suspensie spate, dreapta
+F179	Brake air dryer assembly 1	Ansamblu uscător aer frână 1
+F180	Air filter regulator	Regulator filtru aer
+F181	Air hose, red	Furtun aer, roșu
+F182	Air hose, transparent white	Furtun aer, alb transparent
+F183	Webasto air inlet	Admisie aer Webasto
+F184	Air pipe diameter	Conductă aer, diametru
+F185	Air reservoir 40 L	Rezervor aer 40 L
+F186	Driver seat air spring	Pernă de aer scaun șofer
+F187	Rear suspension level air spring	Pernă de aer nivel suspensie spate
+F188	Rear suspension level lift air spring	Pernă de aer ridicare nivel suspensie spate
+F189	Air system PPA	Circuit de aer PPA
+F190	Unfiltered air DIS	Aer nefiltrat DIS
+F191	Unfiltered air IC	Aer nefiltrat IC
+F192	Transmission case air vent	Aerisitor carcasă cutie de viteze
+F193	Airbag test cable	Cablu test airbag
+F194	Air spring	Pernă de aer
+F195	Air spring assembly, front	Ansamblu pernă de aer, față
+F196	Air spring assembly, rear	Ansamblu pernă de aer, spate
+F197	Gearshift lever aligner	Dispozitiv aliniere manetă schimbător viteze
+F198	Selector shaft aligner	Dispozitiv aliniere arbore selector
+F199	Alternator 9 0L E6	Alternator 9 0L E6
+F200	Alternator assembly	Ansamblu alternator
+F201	Alternator assembly	Ansamblu alternator
+F202	Alternator bearing removal and installation tool set	Set dispozitive demontare și montare rulmenți alternator
+F203	Clutch kit, complete	Ambreiaj complet
+F204	Compressor clutch	Ambreiaj compresor
+F205	A/C compressor clutch	Ambreiaj compresor AC
+F206	Cab shock absorber, front, F-MAX	Amortizor cabină, față, F-MAX
+F207	Cab shock absorber, rear, F-MAX	Amortizor cabină, spate, F-MAX
+F208	Cab suspension shock absorber, front, spring	Amortizor suspensie cabină, față, cu arc
+F209	Cab suspension shock absorber, front, air bag	Amortizor suspensie cabină, față, cu pernă
+F210	Cab suspension shock absorber, rear, air bag	Amortizor suspensie cabină, spate, cu pernă
+F211	Crankshaft damper	Amortizor arbore cotit
+F212	Cab shock absorber, front, air bag	Amortizor cabină, față, cu pernă
+F213	Cab shock absorber, rear, spring	Amortizor cabină, spate, cu arc
+F214	Cab shock absorber, rear, spring	Amortizor cabină, spate, cu arc
+F215	Hood damper, F-MAX	Amortizor capotă, F-MAX
+F216	Shock absorber, front 1833	Amortizor, față 1833
+F217	Shock absorber, front HTQ	Amortizor, față HTQ
+F218	Cab pneumatic shock absorber, rear	Amortizor pneumatic cabină, spate
+F219	Driver seat shock absorber HTC	Amortizor scaun șofer HTC
+F220	Shock absorber, rear 1833	Amortizor, spate 1833
+F221	Cab suspension shock absorber	Amortizor suspensie cabină
+F222	Transverse cab shock absorber	Amortizor transversal cabină
+F223	Silencer	Amortizor zgomot
+F224	Anchor	Ancoră
+F225	Anchor plunger	Plonjor ancoră
+F226	Anchor plunger, left	Plonjor ancoră, stânga
+F227	Anchor plunger, right	Plonjor ancoră, dreapta
+F228	Air conditioning blower assembly	Ansamblu suflantă climatizare
+F229	Angle piece	Piesă unghiulară
+F230	Prefilter and priming pump assembly	Ansamblu prefiltru și pompă de amorsare
+F231	Priming pump assembly	Ansamblu pompă de amorsare
+F232	Wheel assembly, axle 4, right	Ansamblu roată, puntea 4, dreapta
+F233	Wheel assembly, axle 4, left	Ansamblu roată, puntea 4, stânga
+F234	Pipe assembly, inner front	Ansamblu țevi, interior față
+F235	Radio antenna	Antenă radio
+F236	Dedicated antenna assembly	Ansamblu antenă dedicată
+F237	Dedicated short range communication antenna assembly	Ansamblu antenă comunicații dedicate pe rază scurtă
+F238	Radio antenna assembly	Ansamblu antenă radio
+F239	Tire pressure monitor antenna assembly	Ansamblu antenă monitorizare presiune anvelope
+F240	Tire pressure monitor antenna assembly, substance no. 7439 92 1	Ansamblu antenă monitorizare presiune anvelope, substanță nr. 7439 92 1
+F241	Radio antenna assembly	Ansamblu antenă radio
+F242	Anti-corrosion spray for starter motor terminal eyelet	Spray anticoroziv pentru papucul bornei electromotorului
+F243	Anti-roll bar leg	Picior bară stabilizatoare
+F244	Anti-rotation nut, cab striker suspension arm	Piuliță antirotire, braț suspensie contraplacă cabină
+F245	Fuel tank anti-splash valve kit	Kit supapă antistropire rezervor combustibil
+F246	Transmission gear shift lever anti-squeak	Element antiscârțâit manetă schimbător viteze
+F247	Mud flap, front/rear, inner	Apărătoare noroi, față/spate, interior
+F248	Mud flap bracket, front, right	Suport apărătoare noroi, față, dreapta
+F249	Power steering pump pulley removal tool	Dispozitiv demontare fulie pompă servodirecție
+F250	Steering box lock nut tightening tool	Dispozitiv strângere piuliță de blocare casetă de direcție
+F251	Mud flap, rear, left	Apărătoare noroi, spate, stânga
+F252	Wheel guard, front, right	Apărătoare roată, față, dreapta
+F253	Rear guard bracket, front	Suport apărătoare spate, față
+F254	Rear guard bracket, rear	Suport apărătoare spate, spate
+F255	Silencer guard bracket	Suport apărătoare tobă
+F256	Engine FTP apparatus	Dispozitiv FTP motor
+F257	Camshaft centring tool	Dispozitiv centrare arbore cu came
+F258	Engine and cylinder head lifting tool	Dispozitiv ridicare motor și chiulasă
+F259	Crankshaft rear seal installation tool	Dispozitiv montare simering spate arbore cotit
+F260	Pin removal and installation tool	Dispozitiv demontare și montare știft
+F261	Crankshaft turning tool	Dispozitiv rotire arbore cotit
+F262	Engine turning tool from flywheel	Dispozitiv rotire motor de la volantă
+F263	Hood applique assembly	Ansamblu ornament capotă
+F264	Roof applique assembly	Ansamblu ornament plafon
+F265	Roof applique assembly	Ansamblu ornament plafon
+F266	Roof applique assembly, left	Ansamblu ornament plafon, stânga
+F267	Door applique, inside	Ornament ușă, interior
+F268	Door applique, inside, left	Ornament ușă, interior, stânga
+F269	Front door applique	Ornament ușă față
+F270	APU oil separator puller	Extractor separator ulei APU
+F271	Intermediate piece	Piesă intermediară
+F272	Vehicle communication and measurement module	Modul comunicare și măsurare vehicul
+F273	Locking spring	Arc blocare
+F274	Seat folding cable spring	Arc cablu rabatare scaun
+F275	Front leaf spring 1833	Arc față 1833
+F276	Front leaf spring 1848	Arc față 1848
+F277	Front leaf spring 6X4	Arc față 6X4
+F278	Front leaf spring, axle 1	Arc față, puntea 1
+F279	Front leaf spring, axle 1, mixer	Arc față, puntea 1, betonieră
+F280	Front leaf spring, axle 2	Arc față, puntea 2
+F281	Front spring, air suspension	Arc față, suspensie pneumatică
+F282	Rear leaf spring	Arc spate
+F283	Rear leaf spring 4142, mixer	Arc spate 4142, betonieră
+F284	Rear leaf spring 8X4	Arc spate 8X4
+F285	Rear leaf spring, right	Arc spate, dreapta
+F286	Rear leaf spring, left	Arc spate, stânga
+F287	Rear leaf spring, left	Arc spate, stânga
+F288	Exhaust rocker support spring	Arc suport culbutor evacuare
+F289	Body mounting bolt spring	Arc șurub suprastructură
+F290	Lift axle suspension spring, rear, right	Arc suspensie punte ridicătoare, spate, dreapta
+F291	Lift axle suspension spring, rear, left	Arc suspensie punte ridicătoare, spate, stânga
+F292	Exhaust valve spring	Arc supapă evacuare
+F293	Front fender, rear section, right	Aripă față, secțiune spate, dreapta
+F294	Front fender, left, rear section	Aripă față, stânga, secțiune spate
+F295	Rear outer bearing, complete	Rulment exterior spate, complet
+F296	Starter motor rear cover	Capac spate electromotor
+F297	Rear hub installation tool V347 Transit	Dispozitiv montare butuc spate V347 Transit
+F298	Steering gear sector shaft pitman arm	Levier de direcție arbore sector casetă de direcție
+F299	Wiper arm and blade assembly	Ansamblu braț și lamelă ștergător
+F300	Valve rocker arm and shaft assembly	Ansamblu culbutor și ax culbutori
+F301	Cab to frame arm assembly	Ansamblu braț cabină-șasiu
+F302	Cab to frame suspension arm assembly, front, left	Ansamblu braț suspensie cabină-șasiu, față, stânga
+F303	Door check arm assembly	Ansamblu braț limitator ușă
+F304	Rear suspension arm assembly, lower	Ansamblu braț suspensie spate, inferior
+F305	Outside rear view mirror arm assembly	Ansamblu braț oglindă retrovizoare exterioară
+F306	Outside rear view mirror arm assembly, left	Ansamblu braț oglindă retrovizoare exterioară, stânga
+F307	Valve rocker arm assembly	Ansamblu culbutor
+F308	Exhaust valve rocker arm assembly	Ansamblu culbutor evacuare
+F309	Windshield wiper arm assembly	Ansamblu braț ștergător parbriz
+F310	Holder arm assembly	Ansamblu braț suport
+F311	Secondary pitman arm assembly	Ansamblu levier de direcție secundar
+F312	Rear suspension arm assembly	Ansamblu braț suspensie spate
+F313	Wiper arm assembly	Ansamblu braț ștergător
+F314	Rear suspension compensating arm assembly	Ansamblu braț compensator suspensie spate
+F315	Valve arm assembly	Ansamblu braț supapă
+F316	Intake valve rocker arm assembly	Ansamblu culbutor admisie
+F317	Driver seat weight adjustment arm	Braț reglaj greutate scaun șofer
+F318	Driver seat weight adjustment arm	Braț reglaj greutate scaun șofer
+F319	Front bumper arm	Braț bară de protecție față
+F320	Front bumper arm, left	Braț bară de protecție față, stânga
+F321	Front bumper arm, left	Braț bară de protecție față, stânga
+F322	Front bumper arm, right	Braț bară de protecție față, dreapta
+F323	Front cab suspension arm, right	Braț suspensie cabină față, dreapta
+F324	Front suspension arm, right	Braț suspensie față, dreapta
+F325	Mirror lower bracket arm assembly, left	Ansamblu braț suport inferior oglindă, stânga
+F326	Mirror lower bracket arm assembly, right	Ansamblu braț suport inferior oglindă, dreapta
+F327	Rear suspension arm	Braț suspensie spate
+F328	Armrest assembly, front	Ansamblu cotieră, față
+F329	Front seat back armrest assembly, left	Ansamblu cotieră spătar scaun față, stânga
+F330	Front seat back armrest assembly, right	Ansamblu cotieră spătar scaun față, dreapta
+F331	Rear anti-roll bar link arm	Braț bieletă bară stabilizatoare spate
+F332	Steering gear arm, LHD	Braț casetă de direcție, LHD
+F333	Steering gear pitman arm	Levier de direcție casetă
+F334	Steering idler arm	Braț intermediar direcție
+F335	Steering knuckle arm	Braț fuzetă
+F336	Steering knuckle to drag link arm	Braț fuzetă spre bara de direcție
+F337	Steering knuckle arm, left	Braț fuzetă, stânga
+F338	Steering knuckle arm, left	Braț fuzetă, stânga
+F339	Steering knuckle arm, left 3800	Braț fuzetă, stânga 3800
+F340	Steering knuckle arm, left 4750	Braț fuzetă, stânga 4750
+F341	Steering knuckle arm, right 3800	Braț fuzetă, dreapta 3800
+F342	Steering knuckle arm, right 4750	Braț fuzetă, dreapta 4750
+F343	Steering knuckle to drag link arm, left	Braț fuzetă spre bara de direcție, stânga
+F344	Steering knuckle to drag link arm	Braț fuzetă spre bara de direcție
+F345	Intake valve rocker arm	Culbutor admisie
+F346	Outside rear view mirror wiring arm assembly, left	Ansamblu braț cablaj oglindă retrovizoare exterioară, stânga
+F347	Outside rear view mirror wiring arm assembly, right	Ansamblu braț cablaj oglindă retrovizoare exterioară, dreapta
+F348	Steering knuckle arm, left	Braț fuzetă, stânga
+F349	Steering knuckle arm, right	Braț fuzetă, dreapta
+F350	Armature	Indus
+F351	Armored brake pipe	Conductă frână armată
+F352	Armored brake pipe, 10 m	Conductă frână armată, 10 m
+F353	Armored brake pipe	Conductă frână armată
+F354	Door pull armrest assembly, left	Ansamblu cotieră mâner ușă, stânga
+F355	Door pull armrest assembly, right	Ansamblu cotieră mâner ușă, dreapta
+F356	Armrest, left	Cotieră, stânga
+F357	Muff arrester assembly	Ansamblu opritor manșon
+F358	Articulation bolt	Șurub articulație
+F359	Burner 24V	Arzător 24V
+F360	Ash tray	Scrumieră
+F361	ASR DCV bracket	Suport ASR DCV
+F362	Exhaust aftertreatment solution doser assembly	Ansamblu dozator soluție post-tratare gaze evacuare
+F363	Bracket assembly, front, left	Ansamblu suport, față, stânga
+F364	Bracket assembly, rear, left	Ansamblu suport, spate, stânga
+F365	Bracket assembly, rear, right	Ansamblu suport, spate, dreapta
+F366	ATS vehicle identification system update equipment	Echipament actualizare sistem de identificare vehicul ATS
+F367	Autoclutch transmission	Cutie de viteze cu ambreiaj automat
+F368	Auxiliary box shaft assembly	Ansamblu arbore cutie auxiliară
+F369	Auxiliary heater adapter wiring	Cablaj adaptor încălzitor auxiliar
+F370	Auxiliary heater diagnostic device	Dispozitiv diagnoză încălzitor auxiliar
+F371	Auxiliary tool for glow plug cable coupler	Dispozitiv auxiliar pentru conectorul cablului bujiei incandescente
+F372	Rear axle assembly LWHDB	Ansamblu punte spate LWHDB
+F373	Balancer shaft	Ax balansier
+F374	Gearbox select fork shaft, Eaton	Ax furci selectare cutie de viteze, Eaton
+F375	Rear axle	Punte spate
+F376	Camshaft	Arbore cu came
+F377	Transmission main shaft axial washer	Șaibă axială arbore principal cutie de viteze
+F378	Transmission main shaft axial washer 7 40 MM	Șaibă axială arbore principal cutie de viteze 7 40 MM
+F379	Transmission main shaft axial washer 7 50 MM	Șaibă axială arbore principal cutie de viteze 7 50 MM
+F380	Transmission main shaft axial washer 7 70 MM	Șaibă axială arbore principal cutie de viteze 7 70 MM
+F381	Transmission main shaft axial washer 7 80 MM	Șaibă axială arbore principal cutie de viteze 7 80 MM
+F382	Transmission main shaft axial washer 7 90 MM	Șaibă axială arbore principal cutie de viteze 7 90 MM
+F383	Transmission main shaft axial washer 8 00 MM	Șaibă axială arbore principal cutie de viteze 8 00 MM
+F384	Rear axle assembly LWHDB	Ansamblu punte spate LWHDB
+F385	Front axle	Punte față
+F386	Rear axle	Punte spate
+F387	Axle seat, left	Suport punte, stânga
+F388	Axle seat, right	Suport punte, dreapta
+F389	Axle shaft, right	Planetară, dreapta
+F390	B-pillar inner assembly, left	Ansamblu stâlp B interior, stânga
+F391	B-pillar inner assembly, right	Ansamblu stâlp B interior, dreapta
+F392	B-pillar inner assembly, left	Ansamblu stâlp B interior, stânga
+F393	B-pillar inner, left	Stâlp B interior, stânga
+F394	B-pillar inner, right	Stâlp B interior, dreapta
+F395	B-pillar outer, left	Stâlp B exterior, stânga
+F396	B-pillar outer, right	Stâlp B exterior, dreapta
+F397	B-pillar outer, upper, left	Stâlp B exterior, superior, stânga
+F398	B-pillar outer, upper, right	Stâlp B exterior, superior, dreapta
+F399	B-pillar trim, left	Ornament stâlp B, stânga
+F400	B-pillar trim, right	Ornament stâlp B, dreapta
+F401	B-post lower bracket	Suport inferior stâlp B
+F402	B-post right L-sheet OT Jumbo	Tablă în L stâlp B dreapta OT Jumbo
+F403	B-post upper bracket OT Jumbo	Suport superior stâlp B OT Jumbo
+F404	Fore and aft adjustment button	Buton reglaj față-spate
+F405	Rear seat back trim assembly, centre	Ansamblu tapițerie spătar scaun spate, central
+F406	Double seat back frame, left	Cadru spătar banchetă dublă, stânga
+F407	Double seat back frame, right	Cadru spătar banchetă dublă, dreapta
+F408	Back panel and C-pillar assembly	Ansamblu panou spate și stâlp C
+F409	Body back panel assembly	Ansamblu panou spate caroserie
+F410	Body back panel	Panou spate caroserie
+F411	Back panel without glass	Panou spate fără geam
+F412	Back panel with glass	Panou spate cu geam
+F413	Body back panel	Panou spate caroserie
+F414	Double seat backrest, rear, right	Spătar banchetă dublă, spate, dreapta
+F415	Drum brake backplate assembly	Ansamblu talere frână tambur
+F416	Drum brake backplate assembly, left	Ansamblu taler frână tambur, stânga
+F417	Drum brake backplate assembly, right	Ansamblu taler frână tambur, dreapta
+F418	Driver's seat backrest, left	Spătar scaun șofer, stânga
+F419	Driver's seat backrest, right	Spătar scaun șofer, dreapta
+F420	Rear adjustment button, left	Buton reglaj spate, stânga
+F421	Rear adjustment button, right	Buton reglaj spate, dreapta
+F422	Model badge assembly	Ansamblu emblemă model
+F423	Front door model identification badge assembly	Ansamblu emblemă identificare model ușă față
+F424	Badge assembly, letter P	Ansamblu emblemă, litera P
+F425	Badge assembly, number 9	Ansamblu emblemă, cifra 9
+F426	Letter badge	Emblemă literă
+F427	Badge letter C 2010 5MY	Emblemă litera C 2010 5MY
+F428	Badge letter H 2010 5MY	Emblemă litera H 2010 5MY
+F429	Badge letter M 2010 5MY	Emblemă litera M 2010 5MY
+F430	Badge letter S 2010 5MY	Emblemă litera S 2010 5MY
+F431	Number badge	Emblemă cifră
+F432	Badge number 0 2010 5MY	Emblemă cifra 0 2010 5MY
+F433	Badge number 5 2010 5MY	Emblemă cifra 5 2010 5MY
+F434	Badge letter D 20105M	Emblemă litera D 20105M
+F435	Quarter panel baffle assembly at wheel house, lower	Ansamblu deflector panou lateral la pasajul roții, inferior
+F436	Oil baffle	Deflector ulei
+F437	Rear wheel brake grease baffle	Deflector vaselină frână roată spate
+F438	Bag F-MAX	Geantă F-MAX
+F439	Bag F-Trucks	Geantă F-Trucks
+F440	Engine oil pan 12 7	Baie ulei motor 12 7
+F441	Digital multimeter 1507	Multimetru digital 1507
+F442	Hybrid floor warning sign	Panou avertizare pardoseală hibrid
+F443	HV cone, 15 pcs	Con HV, 15 buc.
+F444	HV chain (25X2 / 50 M)	Lanț HV (25X2 / 50 M)
+F445	Rescue hook, suitable for low voltage up to 1 kV	Cârlig de salvare, potrivit pentru joasă tensiune până la 1 kV
+F446	Phillips screwdriver PH3 (1000V insulated)	Șurubelniță Phillips PH3 (izolată 1000V)
+F447	Flat slotted screwdriver 4MM (1000V insulated)	Șurubelniță dreaptă 4MM (izolată 1000V)
+F448	Long nose pliers 200 MM (1000V insulated)	Clește cu vârf lung 200 MM (izolat 1000V)
+F449	High voltage arc insulating gloves M	Mănuși izolatoare arc electric înaltă tensiune M
+F450	High voltage arc insulating face protection mask, 1000V rated	Mască protecție facială izolatoare arc electric înaltă tensiune, 1000V
+F451	Hood hinge, right, F-MAX	Balama capotă, dreapta, F-MAX
+F452	Hood hinge, right, MY2016	Balama capotă, dreapta, MY2016
+F453	Upper bunk hinge 1842 1848	Balama pat superior 1842 1848
+F454	Hood hinge, left, F-MAX	Balama capotă, stânga, F-MAX
+F455	Hood hinge, left, MY2016	Balama capotă, stânga, MY2016
+F456	Door hinge, upper, left, F-MAX	Balama ușă, superioară, stânga, F-MAX
+F457	Door hinge	Balama ușă
+F458	Ball	Bilă
+F459	Ball bearing	Rulment cu bile
+F460	Clutch release fork ball joint	Articulație sferică furcă decuplare ambreiaj
+F461	Transmission ball joint	Articulație sferică cutie de viteze
+F462	Transmission range selection ball joint	Articulație sferică selectare gamă cutie de viteze
+F463	Transmission synchronizer ball pin	Știft sferic sincron cutie de viteze
+F464	Rear axle torque arm ball	Bilă braț de reacțiune punte spate
+F465	Transmission gear roller ball	Bilă rulare angrenaj cutie de viteze
+F466	Ball sleeve	Bucșă sferică
+F467	Starter motor armature thrust ball	Bilă axială indus electromotor
+F468	Transmission gear shift housing pin ball	Bilă știft carcasă schimbător viteze
+F469	Transmission oil filler tube ball	Bilă tub umplere ulei cutie de viteze
+F470	Transmission oil pump housing ball	Bilă carcasă pompă ulei cutie de viteze
+F471	Transmission reverse gear shift interlock ball	Bilă interblocare schimbare treaptă marșarier
+F472	Transmission synchronizer ball	Bilă sincron cutie de viteze
+F473	Sleeper bunk bench	Banchetă pat
+F474	Front bumper strip	Bandou bară față
+F475	Banjo bolt	Șurub banjo
+F476	Heater hose inlet/outlet banjo bolt	Șurub banjo intrare/ieșire furtun încălzire
+F477	Banjo bolt M12X1 5X24	Șurub banjo M12X1 5X24
+F478	Solenoid valve banjo bolt	Șurub banjo electrovalvă
+F479	Solenoid valve banjo bolt	Șurub banjo electrovalvă
+F480	Heater hose inlet/outlet banjo	Banjo intrare/ieșire furtun încălzire
+F481	Banjo, steel, 8, male	Banjo, oțel, 8, filet exterior
+F482	Sleeping compartment bunk assembly, lower	Ansamblu pat cușetă, inferior
+F483	Sleeping compartment bunk assembly, upper	Ansamblu pat cușetă, superior
+F484	Front stabilizer bar assembly	Ansamblu bară stabilizatoare față
+F485	Rear stabilizer bar assembly	Ansamblu bară stabilizatoare spate
+F486	Front stabilizer bar assembly	Ansamblu bară stabilizatoare față
+F487	Front stabilizer bar assembly	Ansamblu bară stabilizatoare față
+F488	Rear stabilizer bar assembly	Ansamblu bară stabilizatoare spate
+F489	Battery tray cover bar	Bară capac suport baterie
+F490	Battery tray cover locator bar	Bară poziționare capac suport baterie
+F491	Cab centre balance bar	Bară echilibrare centrală cabină
+F492	Cab centre balance torsion bar, left	Bară de torsiune echilibrare centrală cabină, stânga
+F493	Trailer crash protection bar	Bară protecție anti-impact remorcă
+F494	Trailer crash protection bar	Bară protecție anti-impact remorcă
+F495	Front spring shackle bar	Bară cercel arc față
+F496	Front stabilizer bar	Bară stabilizatoare față
+F497	Front spring shackle bar, inner	Bară cercel arc față, interior
+F498	Guide bar	Bară de ghidare
+F499	Rear bumper impact bar, outer	Bară anti-impact bară de protecție spate, exterior
+F500	Rear stabilizer bar	Bară stabilizatoare spate
+F501	Frame side protection bar	Bară protecție laterală pe șasiu
+F502	Front stabilizer bar	Bară stabilizatoare față
+F503	Stabilizer bar	Bară stabilizatoare
+F504	Rear underrun protection bar	Bară antiîmpănare spate
+F505	Front centre bumper, F-MAX	Bară de protecție față centrală, F-MAX
+F506	Steering drag link, axle 1	Bară de direcție, puntea 1
+F507	Front bumper, right 1842	Bară de protecție față, dreapta 1842
+F508	Front bumper, right 8X4	Bară de protecție față, dreapta 8X4
+F509	Front bumper, right 1848	Bară de protecție față, dreapta 1848
+F510	Front bumper, right 1848 S	Bară de protecție față, dreapta 1848 S
+F511	Front bumper, right 8X4	Bară de protecție față, dreapta 8X4
+F512	Front bumper, right N	Bară de protecție față, dreapta N
+F513	Front bumper, left 1848	Bară de protecție față, stânga 1848
+F514	Front bumper, left 8X4	Bară de protecție față, stânga 8X4
+F515	Front bumper, left 1842	Bară de protecție față, stânga 1842
+F516	Front bumper, left 8X4	Bară de protecție față, stânga 8X4
+F517	Front bumper, left, with lamp S	Bară de protecție față, stânga, cu lampă S
+F518	Drag link, axle 2, tipper	Bară longitudinală, puntea 2, basculantă
+F519	Drag link, axle 2, mixer	Bară longitudinală, puntea 2, betonieră
+F520	Intermediate drag link HTC	Bară longitudinală intermediară HTC
+F521	Drag link, F-MAX	Bară longitudinală, F-MAX
+F522	Drag link	Bară longitudinală
+F523	Drag link, axle 1	Bară longitudinală, puntea 1
+F524	Rear bumper 4142	Bară de protecție spate 4142
+F525	Tie rod HTC, F-MAX	Bară transversală HTC, F-MAX
+F526	Tie rod 1842	Bară transversală 1842
+F527	Tie rod 1848	Bară transversală 1848
+F528	Antenna base, outer	Bază antenă, exterior
+F529	Fuel filter base assembly	Ansamblu bază filtru combustibil
+F530	Cigar lighter base assembly	Ansamblu bază brichetă
+F531	Fuel filter base assembly	Ansamblu bază filtru combustibil
+F532	Fuel filter base assembly, cold pack	Ansamblu bază filtru combustibil, pachet climă rece
+F533	Basic puller M65X2	Extractor de bază M65X2
+F534	Retarder battery cable assembly, positive	Ansamblu cablu baterie retarder, pozitiv
+F535	AGM battery 210AH	Baterie AGM 210AH
+F536	Prefilter bowl, F-MAX	Pahar prefiltru, F-MAX
+F537	Retarder battery cable assembly	Ansamblu cablu baterie retarder
+F538	Battery	Baterie
+F539	Battery 180 AH	Baterie 180 AH
+F540	Battery 210 AH AGM	Baterie 210 AH AGM
+F541	Battery 225 AH	Baterie 225 AH
+F542	Battery 225AH	Baterie 225AH
+F543	Retarder battery cable assembly	Ansamblu cablu baterie retarder
+F544	Battery cable	Cablu baterie
+F545	Battery support unit	Unitate suport baterie
+F546	Battery tester	Tester baterie
+F547	Body front fender	Aripă față caroserie
+F548	Body front fender, left	Aripă față caroserie, stânga
+F549	Body rear fender	Aripă spate caroserie
+F550	Rear suspension support beam assembly	Ansamblu traversă suport suspensie spate
+F551	Rear suspension support beam assembly, left	Ansamblu traversă suport suspensie spate, stânga
+F552	Beam assembly	Ansamblu traversă
+F553	Rear suspension cradle mounting beam assembly	Ansamblu traversă montaj leagăn suspensie spate
+F554	Tag axle beam assembly	Ansamblu grindă punte purtătoare spate
+F555	Rear suspension cradle beam assembly	Ansamblu traversă leagăn suspensie spate
+F556	Rear axle beam bushing assembly	Ansamblu bucșă grindă punte spate
+F557	Rear axle beam bushing assembly, right	Ansamblu bucșă grindă punte spate, dreapta
+F558	Rear axle beam, non-driven	Grindă punte spate, nemotoare
+F559	Bearing	Rulment
+F560	Bearing adjuster nut tool	Dispozitiv piuliță reglaj rulment
+F561	Bearing adjustment washer	Șaibă reglaj rulment
+F562	Alternator front bearing	Rulment față alternator
+F563	Alternator front bearing	Rulment față alternator
+F564	Alternator bearing	Rulment alternator
+F565	Bearing and hub assembly	Ansamblu rulment și butuc
+F566	Bearing assembly	Ansamblu rulment
+F567	Bearing assembly 1524988	Ansamblu rulment 1524988
+F568	Alternator rear bearing assembly	Ansamblu rulment spate alternator
+F569	Driveshaft bearing assembly	Ansamblu rulment arbore cardanic
+F570	Bearing assembly, front	Ansamblu rulment, față
+F571	Front wheel kingpin bearing assembly	Ansamblu rulment pivot fuzetă roată față
+F572	Power take-off bearing assembly	Ansamblu rulment priză de putere
+F573	Power take-off bearing assembly	Ansamblu rulment priză de putere
+F574	Bearing assembly, rear	Ansamblu rulment, spate
+F575	Rear axle differential bearing assembly	Ansamblu rulment diferențial punte spate
+F576	Rear axle drive pinion bearing assembly, front	Ansamblu rulment pinion de atac punte spate, față
+F577	Rear wheel bearing assembly	Ansamblu rulment roată spate
+F578	Transmission bearing assembly	Ansamblu rulment cutie de viteze
+F579	Transmission output shaft bearing assembly, rear	Ansamblu rulment arbore secundar cutie de viteze, spate
+F580	Transfer case drive gear bearing assembly	Ansamblu rulment pinion antrenare cutie de transfer
+F581	Universal joint bearing assembly	Ansamblu rulment cruce cardanică
+F582	Bearing assembly, front	Ansamblu rulment, față
+F583	Clutch bearing assembly	Ansamblu rulment ambreiaj
+F584	Bearing assembly, inner	Ansamblu rulment, interior
+F585	Input bearing assembly	Ansamblu rulment intrare
+F586	Side gear bearing assembly	Ansamblu rulment pinion planetar
+F587	Thrust bearing assembly	Ansamblu rulment axial
+F588	Clutch release bearing assembly	Ansamblu rulment de presiune ambreiaj
+F589	Transmission input bearing assembly	Ansamblu rulment intrare cutie de viteze
+F590	Transmission bearing assembly	Ansamblu rulment cutie de viteze
+F591	Transmission control select bearing assembly	Ansamblu rulment selectare comandă cutie de viteze
+F592	Transmission countershaft bearing assembly, front	Ansamblu rulment arbore intermediar cutie de viteze, față
+F593	Transmission countershaft bearing assembly, front/rear	Ansamblu rulment arbore intermediar cutie de viteze, față/spate
+F594	Transmission countershaft bearing assembly, rear	Ansamblu rulment arbore intermediar cutie de viteze, spate
+F595	Transmission input shaft bearing assembly, front	Ansamblu rulment arbore primar cutie de viteze, față
+F596	Transmission main shaft bearing assembly 9S75	Ansamblu rulment arbore principal cutie de viteze 9S75
+F597	Transmission planetary housing bearing assembly	Ansamblu rulment carcasă planetară cutie de viteze
+F598	Transmission planetary housing bearing assembly	Ansamblu rulment carcasă planetară cutie de viteze
+F599	U-joint bearing assembly 240 300PS H298	Ansamblu rulment cruce cardanică 240 300PS H298
+F600	Universal joint bearing assembly 350 PS H476 H476C	Ansamblu rulment cruce cardanică 350 PS H476 H476C
+F601	Transmission countershaft bearing assembly	Ansamblu rulment arbore intermediar cutie de viteze
+F602	Connecting rod bearing, lower, blue, after 20 05 2020	Cuzinet bielă, inferior, albastru, după 20 05 2020
+F603	Connecting rod bearing, upper, blue, after 20 05 2020	Cuzinet bielă, superior, albastru, după 20 05 2020
+F604	Bearing bush	Bucșă lagăr
+F605	Camshaft bearing	Cuzinet arbore cu came
+F606	Camshaft bearing, centre	Cuzinet arbore cu came, central
+F607	Camshaft bearing, front	Cuzinet arbore cu came, față
+F608	Bearing cone and cup, outer	Rulment con și cuvă, exterior
+F609	Connecting rod bearing, lower	Cuzinet bielă, inferior
+F610	Connecting rod bearing, lower	Cuzinet bielă, inferior
+F611	Connecting rod bearing, upper	Cuzinet bielă, superior
+F612	Connecting rod bearing, upper	Cuzinet bielă, superior
+F613	Connecting rod bearing, lower	Cuzinet bielă, inferior
+F614	Connecting rod bearing	Cuzinet bielă
+F615	Connecting rod bearing, green	Cuzinet bielă, verde
+F616	Connecting rod bearing, green 0 127	Cuzinet bielă, verde 0 127
+F617	Connecting rod bearing, green 0 254	Cuzinet bielă, verde 0 254
+F618	Connecting rod bearing, green 0 508	Cuzinet bielă, verde 0 508
+F619	Connecting rod bearing, green/black 0 127	Cuzinet bielă, verde/negru 0 127
+F620	Connecting rod bearing, red	Cuzinet bielă, roșu
+F621	Connecting rod bearing, red 0 254	Cuzinet bielă, roșu 0 254
+F622	Connecting rod bearing, red 0 508	Cuzinet bielă, roșu 0 508
+F623	Connecting rod bearing	Cuzinet bielă
+F624	Crankshaft main bearing, upper	Cuzinet palier arbore cotit, superior
+F625	Crankshaft bearing	Cuzinet arbore cotit
+F626	Crankshaft main bearing	Cuzinet palier arbore cotit
+F627	Crankshaft main bearing, lower	Cuzinet palier arbore cotit, inferior
+F628	Crankshaft main bearing, lower, blue	Cuzinet palier arbore cotit, inferior, albastru
+F629	Crankshaft main bearing kit, lower, green	Kit cuzineți palier arbore cotit, inferior, verde
+F630	Crankshaft main bearing kit, lower, green/black	Kit cuzineți palier arbore cotit, inferior, verde/negru
+F631	Crankshaft main bearing kit, lower, red	Kit cuzineți palier arbore cotit, inferior, roșu
+F632	Crankshaft main bearing kit, lower, red 0 254	Kit cuzineți palier arbore cotit, inferior, roșu 0 254
+F633	Crankshaft main bearing kit, lower, red 0 508	Kit cuzineți palier arbore cotit, inferior, roșu 0 508
+F634	Crankshaft main bearing kit, lower, red/black	Kit cuzineți palier arbore cotit, inferior, roșu/negru
+F635	Crankshaft main bearing, lower, red	Cuzinet palier arbore cotit, inferior, roșu
+F636	Crankshaft main thrust bearing kit, lower, green	Kit cuzineți palier axial arbore cotit, inferior, verde
+F637	Crankshaft main thrust bearing kit, lower, red	Kit cuzineți palier axial arbore cotit, inferior, roșu
+F638	Crankshaft main thrust bearing, lower, red 0 50	Cuzinet palier axial arbore cotit, inferior, roșu 0 50
+F639	Crankshaft main bearing, upper, blue	Cuzinet palier arbore cotit, superior, albastru
+F640	Crankshaft main bearing, upper, red	Cuzinet palier arbore cotit, superior, roșu
+F641	Bearing cup and cone, inner	Rulment cuvă și con, interior
+F642	Differential case bearing, left	Rulment carcasă diferențial, stânga
+F643	Differential case bearing	Rulment carcasă diferențial
+F644	Differential case bearing	Rulment carcasă diferențial
+F645	Flywheel bearing	Rulment volantă
+F646	Flywheel bearing	Rulment volantă
+F647	Front spindle bearing, outer	Rulment fuzetă față, exterior
+F648	Front spindle bearing, inner	Rulment fuzetă față, interior
+F649	Front spindle bearing, outer	Rulment fuzetă față, exterior
+F650	Front spindle bearing, outer	Rulment fuzetă față, exterior
+F651	Countershaft cluster gear bearing	Rulment bloc pinioane arbore intermediar
+F652	Bearing housing assembly	Ansamblu carcasă rulment
+F653	Inner bearing assembly	Ansamblu rulment interior
+F654	Input shaft bearing	Rulment arbore primar
+F655	Bearing installer	Dispozitiv montare rulmenți
+F656	Crankshaft main bearing	Cuzinet palier arbore cotit
+F657	Pinion bearing	Rulment pinion
+F658	Rear axle pinion bearing, outer	Rulment pinion punte spate, exterior
+F659	Bearing puller	Extractor rulmenți
+F660	Bearing puller for layshaft M95X2	Extractor rulmenți pentru arbore intermediar M95X2
+F661	Bearing puller M65X2	Extractor rulmenți M65X2
+F662	Rear axle pinion bearing	Rulment pinion punte spate
+F663	Rear axle shaft bearing, inner	Rulment planetară punte spate, interior
+F664	Rear axle shaft bearing, inner	Rulment planetară punte spate, interior
+F665	Rear cab lock striker bearing	Rulment contraplacă închidere cabină spate
+F666	Rear wheel hub bearing, inner	Rulment butuc roată spate, interior
+F667	Rear wheel hub bearing, outer	Rulment butuc roată spate, exterior
+F668	Connecting rod bearing, upper, red, after 20 05 2020	Cuzinet bielă, superior, roșu, după 20 05 2020
+F669	Bearing spacer	Distanțier rulment
+F670	Spindle bearing	Rulment fuzetă
+F671	Rear cab lock striker bearing	Rulment contraplacă închidere cabină spate
+F672	Synchronizer bearing	Rulment sincron
+F673	Transmission gear select lever yoke bearing	Rulment furcă manetă selectare trepte cutie de viteze
+F674	Transmission countershaft bearing	Rulment arbore intermediar cutie de viteze
+F675	Transmission countershaft bearing	Rulment arbore intermediar cutie de viteze
+F676	Transmission input shaft bearing	Rulment arbore primar cutie de viteze
+F677	Transmission main shaft bearing, rear	Rulment arbore principal cutie de viteze, spate
+F678	Transmission main shaft bearing	Rulment arbore principal cutie de viteze
+F679	Transmission gear shift lever yoke bearing	Rulment furcă manetă schimbător viteze
+F680	Differential case bearing	Rulment carcasă diferențial
+F681	Suspension trunnion bearing	Rulment fus oscilant suspensie
+F682	Refrigerator	Frigider
+F683	Bellow	Burduf
+F684	Rear lift axle bellow assembly	Ansamblu burduf punte ridicătoare spate
+F685	Tag axle bellow assembly	Ansamblu burduf punte purtătoare
+F686	Tag axle lifting bellow assembly	Ansamblu burduf ridicare punte purtătoare
+F687	Seat suspension bellow	Burduf suspensie scaun
+F688	Bellows	Burduf
+F689	Belt	Curea
+F690	A/C accessory drive belt 9 L Euro 3 5	Curea antrenare accesorii AC 9 L Euro 3 5
+F691	Belt and buckle assembly	Ansamblu centură și cataramă
+F692	Front seat belt and buckle assembly with hook	Ansamblu centură și cataramă scaun față, cu cârlig
+F693	Belt and retractor assembly	Ansamblu centură și retractor
+F694	Front seat belt and retractor assembly	Ansamblu centură și retractor scaun față
+F695	Rear seat belt assembly, complete, left	Ansamblu centură scaun spate, complet, stânga
+F696	Upper mattress belt assembly	Ansamblu chingă saltea superioară
+F697	Drive belt	Curea de antrenare
+F698	A/C drive belt	Curea antrenare A/C
+F699	Front seat belt	Centură scaun față
+F700	Bezel	Ramă
+F701	Headlamp switch bezel	Ramă comutator faruri
+F702	Bezel and switch assembly	Ansamblu ramă și comutator
+F703	Emergency call bezel and switch assembly	Ansamblu ramă și comutator apel de urgență
+F704	Headlamp bezel assembly	Ansamblu ramă far
+F705	Sunblind bezel assembly	Ansamblu ramă parasolar
+F706	Back window bezel	Ramă geam spate
+F707	Roof console bezel assembly	Ansamblu ramă consolă plafon
+F708	Cup holder bezel	Ramă suport pahar
+F709	Door lock cylinder bezel	Ramă cilindru închidere ușă
+F710	Emergency call bezel	Ramă apel de urgență
+F711	Front turn signal bezel, left	Ramă semnalizator față, stânga
+F712	Front turn signal bezel, right	Ramă semnalizator față, dreapta
+F713	Headlamp switch bezel	Ramă comutator faruri
+F714	Headlamp switch bezel	Ramă comutator faruri
+F715	Instrument panel bezel, centre	Ramă planșă de bord, centrală
+F716	Instrument panel centre bezel with AdBlue indicator	Ramă centrală planșă de bord cu indicator AdBlue
+F717	Installation bezel	Ramă de montaj
+F718	Instrument panel centre stack bezel	Ramă consolă centrală planșă de bord
+F719	Instrument panel bezel, centre	Ramă planșă de bord, centrală
+F720	Reading lamp bezel	Ramă lampă de citit
+F721	Parking brake lever opening bezel	Ramă deschidere manetă frână de parcare
+F722	Power outlet and cigarette lighter bezel, front stowage	Ramă priză de curent și brichetă, compartiment depozitare față
+F723	Radio adapter bezel	Ramă adaptor radio
+F724	Rear door outer bezel	Ramă exterioară ușă spate
+F725	Rear door outer handle bezel	Ramă mâner exterior ușă spate
+F726	Roof vent opening bezel, inside	Ramă deschidere trapă aerisire plafon, interior
+F727	Roof bezel with bed, high roof	Ramă plafon cu pat, plafon înalt
+F728	Shifter boot bezel	Ramă burduf manetă schimbător viteze
+F729	Tachograph bezel	Ramă tahograf
+F730	Window regulator control switch bezel	Ramă comutator comandă macara geam
+F731	Connecting rod, 9L engine	Bielă motor 9L
+F732	Locking ball	Bilă blocare
+F733	Ball joint removal and installation tool	Dispozitiv demontare și montare articulație sferică
+F734	Alternator bearing	Rulment alternator
+F735	Rear roof stowage bin assembly	Ansamblu compartiment depozitare plafon, spate
+F736	Rear roof console stowage bin assembly	Ansamblu compartiment depozitare consolă plafon, spate
+F737	Binary switch	Comutator binar
+F738	Windshield wiper blade assembly	Ansamblu lamelă ștergător parbriz
+F739	Radiator fan blade assembly	Ansamblu palete ventilator radiator
+F740	Windscreen wiper blade assembly	Ansamblu lamelă ștergător parbriz
+F741	Blanking cover 20MM	Capac obturare 20MM
+F742	Blanking cover 22MM	Capac obturare 22MM
+F743	Blanking cover 38MM	Capac obturare 38MM
+F744	Blanking cover 45MM	Capac obturare 45MM
+F745	Bleeding tube	Tub aerisire
+F746	Windshield sun blind assembly	Ansamblu parasolar parbriz
+F747	Windshield sun blind assembly	Ansamblu parasolar parbriz
+F748	Side skirt lock	Blocator fustă laterală
+F749	Cylinder block assembly	Ansamblu bloc motor
+F750	Junction block assembly	Ansamblu bloc de joncțiune
+F751	Cylinder block, cap and liner assembly	Ansamblu bloc motor, capace și cămăși cilindri
+F752	Cylinder block	Bloc motor
+F753	Cylinder block 10 3L 460PS	Bloc motor 10 3L 460PS
+F754	Cylinder block 12 7L Ecotorq	Bloc motor 12 7L Ecotorq
+F755	Cylinder block 9L Ecotorq	Bloc motor 9L Ecotorq
+F756	Cylinder block NHDD 9L E5	Bloc motor NHDD 9L E5
+F757	Lower radiator grille air deflector block	Bloc deflector aer grilă radiator inferioară
+F758	Valve block flange TCDF 20 323351	Flanșă bloc supape TCDF 20 323351
+F759	Cylinder block 12,7L Ecotorq	Bloc motor 12,7L Ecotorq
+F760	Transmission gear shift block	Bloc schimbător viteze cutie de viteze
+F761	Valve block clamping plate	Placă de fixare bloc supape
+F762	Blower assembly	Ansamblu suflantă
+F763	Heater blower assembly	Ansamblu suflantă încălzire
+F764	Blower assembly	Ansamblu suflantă
+F765	Heater blower assembly	Ansamblu suflantă încălzire
+F766	Rear suspension lower arm bolt M20X2 5X110 G8 8	Șurub braț inferior suspensie spate M20X2 5X110 G8 8
+F767	Rear suspension lower arm bolt M20X2 5X150 G8 8	Șurub braț inferior suspensie spate M20X2 5X150 G8 8
+F768	Rear suspension arm bolt M20X80	Șurub braț suspensie spate M20X80
+F769	Bolt M12X50	Șurub M12X50
+F770	Retarder gear mounting bolt	Șurub montaj retarder
+F771	Rear suspension link bolt M16X2X100 G10 9	Șurub bieletă suspensie spate M16X2X100 G10 9
+F772	Rear suspension link bolt M16X2X120 G10 9	Șurub bieletă suspensie spate M16X2X120 G10 9
+F773	Rear suspension link bolt M16X2X130 G10 9	Șurub bieletă suspensie spate M16X2X130 G10 9
+F774	Rear suspension link bolt M16X2X140 G10 9	Șurub bieletă suspensie spate M16X2X140 G10 9
+F775	Transmission countershaft brake assembly bolt	Șurub ansamblu frână arbore intermediar cutie de viteze
+F776	Transmission case bolt	Șurub carcasă cutie de viteze
+F777	Rear axle beam, non-driven	Grindă punte spate, nemotoare
+F778	Bumper assembly, front	Ansamblu tampon, față
+F779	Rear axle bumper assembly	Ansamblu tampon punte spate
+F780	Front seat adjustment mechanism guide bumper	Tampon ghidaj mecanism reglaj scaun față
+F781	Sleeping compartment bunk assembly, lower	Ansamblu pat cușetă, inferior
+F782	Sleeping compartment bunk assembly, upper	Ansamblu pat cușetă, superior
+F783	Side running board, rear, left	Treaptă laterală, spate, stânga
+F784	Oil pump body and adapter assembly	Ansamblu corp și adaptor pompă ulei
+F785	Cab body assembly, unpainted	Ansamblu caroserie cabină, nevopsită
+F786	Cab body assembly, unpainted, without door	Ansamblu caroserie cabină, nevopsită, fără uși
+F787	Cab body assembly, low roof day cab, unpainted	Ansamblu caroserie cabină scurtă cu plafon jos, nevopsită
+F788	Cab body assembly, painted	Ansamblu caroserie cabină, vopsită
+F789	Cab body assembly, painted, F-MAX, without door, metal blue	Ansamblu caroserie cabină, vopsită, F-MAX, fără uși, albastru metalizat
+F790	Cab body assembly, painted, F-MAX, without door, beige	Ansamblu caroserie cabină, vopsită, F-MAX, fără uși, bej
+F791	Cab body assembly, painted, F-MAX, without door, Carmine Red	Ansamblu caroserie cabină, vopsită, F-MAX, fără uși, Carmine Red
+F792	Cab body assembly, painted, F-MAX, without door, Lightning Blue	Ansamblu caroserie cabină, vopsită, F-MAX, fără uși, Lightning Blue
+F793	Cab body assembly, painted, F-MAX, without door, Red Rush	Ansamblu caroserie cabină, vopsită, F-MAX, fără uși, Red Rush
+F794	Cab body assembly, painted, F-MAX, without door, Squirrel Grey	Ansamblu caroserie cabină, vopsită, F-MAX, fără uși, Squirrel Grey
+F795	Cab body assembly without bed, low roof (painted, without trim), Ford Orange	Ansamblu caroserie cabină fără pat, plafon jos (vopsită, fără ornamente), Ford Orange
+F796	Cab body assembly, day cab, low roof, Frozen White	Ansamblu caroserie cabină scurtă, plafon jos, Frozen White
+F797	Cab body assembly, sleeper, extra high roof, Deep Orange	Ansamblu caroserie cabină cu cușetă, plafon extra înalt, Deep Orange
+F798	Cab body assembly, sleeper, extra high roof, Ruby Red	Ansamblu caroserie cabină cu cușetă, plafon extra înalt, Ruby Red
+F799	Auxiliary heater air intake body	Corp admisie aer încălzitor auxiliar
+F800	Auxiliary heater air outlet body	Corp ieșire aer încălzitor auxiliar
+F801	Auxiliary heater body, lower	Corp încălzitor auxiliar, inferior
+F802	Auxiliary heater body, upper	Corp încălzitor auxiliar, superior
+F803	Cab body complete with bed, without door, without trim, painted Agate Black	Caroserie cabină completă cu pat, fără uși, fără ornamente, vopsită Agate Black
+F804	Body computer	Calculator caroserie
+F805	Front fender	Aripă față
+F806	Front fender, left	Aripă față, stânga
+F807	Front fender, left	Aripă față, stânga
+F808	Front fender, left	Aripă față, stânga
+F809	Front fender, right	Aripă față, dreapta
+F810	Front fender, right	Aripă față, dreapta
+F811	Fuel filter body	Corp filtru combustibil
+F812	Fuel filter body, chassis	Corp filtru combustibil, șasiu
+F813	Cab body, unpainted, F-MAX	Caroserie cabină, nevopsită, F-MAX
+F814	Rear fender	Aripă spate
+F815	Secondary air injection pump relief valve body	Corp supapă de siguranță pompă injecție aer secundar
+F816	Body side assembly, left	Ansamblu lateral caroserie, stânga
+F817	Body side assembly, right	Ansamblu lateral caroserie, dreapta
+F818	Body side assembly, left	Ansamblu lateral caroserie, stânga
+F819	Body side assembly, right	Ansamblu lateral caroserie, dreapta
+F820	Body side complete, left	Lateral caroserie complet, stânga
+F821	Body side complete, right	Lateral caroserie complet, dreapta
+F822	Cab body assembly, painted, F-MAX	Ansamblu caroserie cabină, vopsită, F-MAX
+F823	Cab body assembly, painted, F-MAX, without door, AA Yellow	Ansamblu caroserie cabină, vopsită, F-MAX, fără uși, AA Yellow
+F824	Cab body assembly, painted, F-MAX, without door, Absolute Black	Ansamblu caroserie cabină, vopsită, F-MAX, fără uși, Absolute Black
+F825	Cab body assembly, painted, F-MAX, without door, Blazer Blue	Ansamblu caroserie cabină, vopsită, F-MAX, fără uși, Blazer Blue
+F826	Cab body assembly, painted, F-MAX, without door, Broom Yellow	Ansamblu caroserie cabină, vopsită, F-MAX, fără uși, Broom Yellow
+F827	Cab body assembly, painted, F-MAX, without door, Chrome Yellow	Ansamblu caroserie cabină, vopsită, F-MAX, fără uși, Chrome Yellow
+F828	Cab body assembly, painted, F-MAX, without door, Coca-Cola Red	Ansamblu caroserie cabină, vopsită, F-MAX, fără uși, Coca-Cola Red
+F829	Cab body assembly, painted, F-MAX, without door, Dark Blue	Ansamblu caroserie cabină, vopsită, F-MAX, fără uși, Dark Blue
+F830	Cab body assembly, painted, F-MAX, without door, Deep Orange	Ansamblu caroserie cabină, vopsită, F-MAX, fără uși, Deep Orange
+F831	Cab body assembly, painted, F-MAX, without door, Diffused Silver	Ansamblu caroserie cabină, vopsită, F-MAX, fără uși, Diffused Silver
+F832	Cab body assembly, painted, F-MAX, without door, Flame Red	Ansamblu caroserie cabină, vopsită, F-MAX, fără uși, Flame Red
+F833	Cab body assembly, painted, F-MAX, without door, French Blue	Ansamblu caroserie cabină, vopsită, F-MAX, fără uși, French Blue
+F834	Cab body assembly, painted, F-MAX, without door, HBG Green	Ansamblu caroserie cabină, vopsită, F-MAX, fără uși, HBG Green
+F835	Cab body assembly, painted, F-MAX, without door, Khaki Green	Ansamblu caroserie cabină, vopsită, F-MAX, fără uși, Khaki Green
+F836	Cab body assembly, painted, F-MAX, without door, Light Blue	Ansamblu caroserie cabină, vopsită, F-MAX, fără uși, Light Blue
+F837	Cab body assembly, painted, F-MAX, without door, Moondust Silver	Ansamblu caroserie cabină, vopsită, F-MAX, fără uși, Moondust Silver
+F838	Cab body assembly, painted, F-MAX, without door, Moss Green	Ansamblu caroserie cabină, vopsită, F-MAX, fără uși, Moss Green
+F839	Cab body assembly, painted, F-MAX, without door, Opal Green	Ansamblu caroserie cabină, vopsită, F-MAX, fără uși, Opal Green
+F840	Cab body assembly, painted, F-MAX, without door, Pepsi Blue	Ansamblu caroserie cabină, vopsită, F-MAX, fără uși, Pepsi Blue
+F841	Cab body assembly, painted, F-MAX, without door, Race Red	Ansamblu caroserie cabină, vopsită, F-MAX, fără uși, Race Red
+F842	Cab body assembly, painted, F-MAX, without door, Ruby Red	Ansamblu caroserie cabină, vopsită, F-MAX, fără uși, Ruby Red
+F843	Cab body assembly, painted, F-MAX, without door, Saffron Yellow	Ansamblu caroserie cabină, vopsită, F-MAX, fără uși, Saffron Yellow
+F844	Cab body assembly, painted, F-MAX, without door, Signal Yellow	Ansamblu caroserie cabină, vopsită, F-MAX, fără uși, Signal Yellow
+F845	Cab body assembly, painted, F-MAX, without door, Sky Blue	Ansamblu caroserie cabină, vopsită, F-MAX, fără uși, Sky Blue
+F846	Cab body assembly, painted, F-MAX, without door, Skyfir Green	Ansamblu caroserie cabină, vopsită, F-MAX, fără uși, Skyfir Green
+F847	Cab body assembly, painted, F-MAX, without door, Sulfur Yellow	Ansamblu caroserie cabină, vopsită, F-MAX, fără uși, Sulfur Yellow
+F848	Cab body assembly, painted, F-MAX, without door, Tango Orange	Ansamblu caroserie cabină, vopsită, F-MAX, fără uși, Tango Orange
+F849	Cab body assembly, painted, F-MAX, without door, Traffic Black	Ansamblu caroserie cabină, vopsită, F-MAX, fără uși, Traffic Black
+F850	Cab body assembly, painted, F-MAX, without door, Traffic Blue	Ansamblu caroserie cabină, vopsită, F-MAX, fără uși, Traffic Blue
+F851	Cab body assembly, painted, F-MAX, without door, UPS Brown	Ansamblu caroserie cabină, vopsită, F-MAX, fără uși, UPS Brown
+F852	Cab body assembly, painted, F-MAX, without door, Vaillant Green	Ansamblu caroserie cabină, vopsită, F-MAX, fără uși, Vaillant Green
+F853	Cab body assembly, painted, F-MAX, without door, Zinc Yellow	Ansamblu caroserie cabină, vopsită, F-MAX, fără uși, Zinc Yellow
+F854	Body shell with closures	Caroserie brută cu uși și capote
+F855	Part BOK FEAT	Piesă BOK FEAT
+F856	Rear rubber suspension spring bolster	Suport arc suspensie spate din cauciuc
+F857	Bolt	Șurub
+F858	Bolt, flanged hex	Șurub hexagonal cu flanșă
+F859	Bolt, hex head	Șurub cu cap hexagonal
+F860	Bolt M10X25	Șurub M10X25
+F861	Bolt M6X12 HF 8	Șurub M6X12 HF 8
+F862	Bolt M6X12 PN TI 8	Șurub M6X12 PN TI 8
+F863	Bolt M8X40 HF 8	Șurub M8X40 HF 8
+F864	Steering shaft bolt	Șurub ax volan
+F865	Bolt 12 9 M16X125	Șurub 12 9 M16X125
+F866	Bolt 3 4 10 X 1 125 UNC 2A	Șurub 3 4 10 X 1 125 UNC 2A
+F867	Alternator through bolt	Șurub străpuns alternator
+F868	Exhaust aftertreatment tank bolt and plate assembly	Ansamblu șurub și placă rezervor post-tratare gaze evacuare
+F869	Bolt and washer assembly	Ansamblu șurub și șaibă
+F870	Bolt and washer assembly, hex head	Ansamblu șurub și șaibă, cap hexagonal
+F871	Bolt and washer assembly, self-locking	Ansamblu șurub și șaibă, autoblocant
+F872	Bolt and washer assembly, hex head	Ansamblu șurub și șaibă, cap hexagonal
+F873	Bolt and washer M8X20 HF PTP FL	Șurub cu șaibă M8X20 HF PTP FL
+F874	Bolt and washer M8X25	Șurub cu șaibă M8X25
+F875	Front spring bolt M24	Șurub arc față M24
+F876	Front spring bolt M24X190	Șurub arc față M24X190
+F877	Rear spring bolt M30X2X260	Șurub arc spate M30X2X260
+F878	Rear suspension upper arm bolt	Șurub braț superior suspensie spate
+F879	V-rod articulation bolt M24X2X102	Șurub articulație bară V M24X2X102
+F880	V-rod articulation bolt M20X1 5X85, mixer	Șurub articulație bară V M20X1 5X85, betonieră
+F881	Brake compressor governor adjusting bolt assembly	Ansamblu șurub reglaj regulator compresor frână
+F882	Fuel injection pump leak-off bolt assembly	Ansamblu șurub retur scurgeri pompă de injecție
+F883	Rear axle shock absorber bracket bolt assembly	Ansamblu șurub suport amortizor punte spate
+F884	Adjusting bolt assembly	Ansamblu șurub de reglaj
+F885	Banjo bolt M16X1 5X28 hex, special steel	Șurub banjo M16X1 5X28 hexagonal, oțel special
+F886	Stabilizer bar support bolt M18X60	Șurub suport bară stabilizatoare M18X60
+F887	Bolt M8X60 HF 10	Șurub M8X60 HF 10
+F888	Engine front support bracket and insulator bolt	Șurub suport și tampon suport motor față
+F889	Front end accessory bracket bolt	Șurub suport accesorii frontale
+F890	Rear spring hanger bracket bolt	Șurub suport ureche arc spate
+F891	Rear suspension trunnion bracket bolt	Șurub suport fus oscilant suspensie spate
+F892	Brake pipe connector bolt	Șurub racord conductă frână
+F893	Brake pipe connector bolt	Șurub racord conductă frână
+F894	Brake pump reservoir clamp bolt	Șurub colier rezervor pompă frână
+F895	Cab arm bolt M16X90X1 5	Șurub braț cabină M16X90X1 5
+F896	Cab tilt pivot bolt	Șurub pivot basculare cabină
+F897	Cam cover brace bolt	Șurub bridă capac culbutori
+F898	Camshaft bolt	Șurub arbore cu came
+F899	Camshaft sprocket bolt	Șurub pinion arbore cu came
+F900	Front spring clamp bolt, axle 1	Șurub clemă arc față, puntea 1
+F901	Front spring clamp bolt, axle 2	Șurub clemă arc față, puntea 2
+F902	Clutch housing bolt	Șurub carcasă ambreiaj
+F903	Clutch housing flange hex bolt	Șurub hexagonal flanșă carcasă ambreiaj
+F904	Connecting rod bolt	Șurub bielă
+F905	Connecting rod bolt, short	Șurub bielă, scurt
+F906	Cylinder front cover assembly alignment bolt	Șurub aliniere ansamblu capac frontal bloc motor
+F907	Crankshaft pulley retaining bolt	Șurub fixare fulie arbore cotit
+F908	Crankshaft main bolt	Șurub palier arbore cotit
+F909	Crankshaft main bearing cap bolt	Șurub capac palier arbore cotit
+F910	Crankshaft main bearing cap bolt	Șurub capac palier arbore cotit
+F911	Crankshaft pulley retaining bolt	Șurub fixare fulie arbore cotit
+F912	Towing pin bolt	Șurub cui tractare
+F913	Cylinder head bolt	Șurub chiulasă
+F914	Differential gear case cap bolt	Șurub capac carcasă diferențial
+F915	Engine electronic control module bolt	Șurub modul control electronic motor
+F916	Engine electronic control module cover bolt	Șurub capac modul control electronic motor
+F917	Engine front mounting bolt	Șurub suport motor față
+F918	Engine lifting eye bolt	Șurub ureche ridicare motor
+F919	Engine piston oil cooler bolt M8X110 MM	Șurub duză răcire pistoane motor M8X110 MM
+F920	Engine piston oil cooler bolt M8X50 MM	Șurub duză răcire pistoane motor M8X50 MM
+F921	Engine piston oil cooler bolt M8X80 MM	Șurub duză răcire pistoane motor M8X80 MM
+F922	Exhaust manifold bolt	Șurub galerie evacuare
+F923	Exhaust manifold bolt	Șurub galerie evacuare
+F924	Exhaust manifold bolt M10X1 5X40 MM	Șurub galerie evacuare M10X1 5X40 MM
+F925	Fan belt idler pulley adjusting bolt	Șurub reglaj rolă intermediară curea ventilator
+F926	Flywheel to crankshaft bolt	Șurub volantă pe arbore cotit
+F927	Bolt, flanged hex	Șurub hexagonal cu flanșă
+F928	Bolt, flanged hex 10	Șurub hexagonal cu flanșă 10
+F929	Flywheel housing bolt	Șurub carcasă volantă
+F930	Flywheel to crankshaft bolt	Șurub volantă pe arbore cotit
+F931	Front fender bolt	Șurub aripă față
+F932	Front seat track bolt	Șurub glisieră scaun față
+F933	Front spring lower seat mounting bracket bolt	Șurub suport montaj talpă inferioară arc față
+F934	Front spring mounting bolt	Șurub montaj arc față
+F935	Fuel injection pump mounting bolt	Șurub montaj pompă de injecție
+F936	Fuel injector to cylinder head bolt	Șurub fixare injector pe chiulasă
+F937	Fuel tank mounting bolt, front	Șurub montaj rezervor combustibil, față
+F938	Fuel tank support mounting bolt, front	Șurub montaj suport rezervor combustibil, față
+F939	Clutch fork bolt	Șurub furcă ambreiaj
+F940	Steering knuckle bolt M16X1 5	Șurub fuzetă M16X1 5
+F941	Bolt G 10 9 M10X30 0	Șurub G 10 9 M10X30 0
+F942	Bolt G 10 9 M12X30 0	Șurub G 10 9 M12X30 0
+F943	Bolt G 10 9 M12X40 0	Șurub G 10 9 M12X40 0
+F944	Bolt G 10 9 M12X45 0	Șurub G 10 9 M12X45 0
+F945	Bolt G 10 9 M16X55 0	Șurub G 10 9 M16X55 0
+F946	Bolt G 10 9 M20X100	Șurub G 10 9 M20X100

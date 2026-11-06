@@ -1,0 +1,720 @@
+F947	Bolt, grade 10.9, M24X120	Șurub, clasa 10.9, M24X120
+F948	Bolt, grade 10.9, M24X90.0	Șurub, clasa 10.9, M24X90.0
+F949	Bolt, grade 8.0, M16X90.0	Șurub, clasa 8.0, M16X90.0
+F950	Bolt, grade 8.8, M8X30.0	Șurub, clasa 8.8, M8X30.0
+F951	Bolt, grade 8, M8X80.0	Șurub, clasa 8, M8X80.0
+F952	Bolt, grade 10.9, M12X35.0	Șurub, clasa 10.9, M12X35.0
+F953	Bolt, grade 10.9, M24X2X102.6X4	Șurub, clasa 10.9, M24X2X102.6X4
+F954	Bolt, grade 10.9, M14X45.0	Șurub, clasa 10.9, M14X45.0
+F955	Hex bolt	Șurub hexagonal
+F956	Hex bolt 8.8 M16X120	Șurub hexagonal 8.8 M16X120
+F957	Hex bolt 8.8 M16X150	Șurub hexagonal 8.8 M16X150
+F958	Hex bolt, grade 10.9, M10X1.5X140.0	Șurub hexagonal, clasa 10.9, M10X1.5X140.0
+F959	Hex bolt, grade 10.9, M10X1.5X60	Șurub hexagonal, clasa 10.9, M10X1.5X60
+F960	Hex bolt, grade 8.8, M8X45.0	Șurub hexagonal, clasa 8.8, M8X45.0
+F961	Hex head bolt	Șurub cu cap hexagonal
+F962	Hex head flange bolt	Șurub cu cap hexagonal și guler
+F963	Hex head bolt	Șurub cu cap hexagonal
+F964	Thermostat housing mounting bolt	Șurub fixare carcasă termostat
+F965	Hex bolt 10.9 M12X130.0	Șurub hexagonal 10.9 M12X130.0
+F966	Hex bolt 10.9 M12X70	Șurub hexagonal 10.9 M12X70
+F967	Hex bolt 10.9 M12X90	Șurub hexagonal 10.9 M12X90
+F968	Hex bolt, property class 10.9, M16X95X2.0	Șurub hexagonal, clasa 10.9, M16X95X2.0
+F969	Front end accessory drive idler bolt to engine	Șurub rolă intermediară antrenare accesorii față, la motor
+F970	Knurled bolt	Șurub moletat
+F971	Long bolt	Șurub lung
+F972	Bolt M08X1.25X55	Șurub M08X1.25X55
+F973	Hex bolt with pilot point M10X1.5X55, class 8.8	Șurub hexagonal cu vârf de ghidare M10X1.5X55, clasa 8.8
+F974	Bolt M10X100, Hafnium, class 8	Șurub M10X100, Hafnium, clasa 8
+F975	Bolt M10X125, Hafnium, class 8	Șurub M10X125, Hafnium, clasa 8
+F976	Bolt M10X130, Hafnium, class 10	Șurub M10X130, Hafnium, clasa 10
+F977	Bolt M10X130, Hafnium, class 8	Șurub M10X130, Hafnium, clasa 8
+F978	Bolt M10X14, Hafnium	Șurub M10X14, Hafnium
+F979	Bolt M10X165, Hafnium, class 10	Șurub M10X165, Hafnium, clasa 10
+F980	Bolt M10X20, Hafnium, class 10	Șurub M10X20, Hafnium, clasa 10
+F981	Bolt M10X25	Șurub M10X25
+F982	Bolt M10X25, Hafnium, class 10	Șurub M10X25, Hafnium, clasa 10
+F983	Bolt M10X25, Hafnium, prevailing torque, class 10	Șurub M10X25, Hafnium, autoblocant, clasa 10
+F984	Bolt M10X25, solid high, class 10	Șurub M10X25, plin, înalt, clasa 10
+F985	Bolt M10X30, Hafnium, class 10	Șurub M10X30, Hafnium, clasa 10
+F986	Bolt M10X30, Hafnium, pilot point, class 10	Șurub M10X30, Hafnium, cu vârf de ghidare, clasa 10
+F987	Bolt M10X30, Hafnium, with adhesive, class 10	Șurub M10X30, Hafnium, cu adeziv, clasa 10
+F988	Bolt M10X30X1.5, grade 10.9	Șurub M10X30X1.5, clasa 10.9
+F989	Bolt M10X35	Șurub M10X35
+F990	Bolt M10X35, Hafnium, class 10	Șurub M10X35, Hafnium, clasa 10
+F991	Bolt M10X40, Hafnium, class 10	Șurub M10X40, Hafnium, clasa 10
+F992	Bolt M10X40, Hafnium, knurled, special, class 8	Șurub M10X40, Hafnium, moletat, special, clasa 8
+F993	Bolt M10X45, Hafnium, special, class 10	Șurub M10X45, Hafnium, special, clasa 10
+F994	Bolt M10X50, Hafnium, class 8	Șurub M10X50, Hafnium, clasa 8
+F995	Bolt M10X50, Hafnium, class 10	Șurub M10X50, Hafnium, clasa 10
+F996	Bolt M10X55, Hafnium	Șurub M10X55, Hafnium
+F997	Bolt M10X60, Hafnium, class 10	Șurub M10X60, Hafnium, clasa 10
+F998	Hex bolt M10X60, class 10	Șurub hexagonal M10X60, clasa 10
+F999	Bolt M10X70, grade 8.8	Șurub M10X70, clasa 8.8
+F1000	Bolt M10X75, Hafnium, class 10	Șurub M10X75, Hafnium, clasa 10
+F1001	Bolt M10X75, Hafnium, with adhesive	Șurub M10X75, Hafnium, cu adeziv
+F1002	Bolt M10X80, Hafnium	Șurub M10X80, Hafnium
+F1003	Bolt M10X80, Hafnium, class 10	Șurub M10X80, Hafnium, clasa 10
+F1004	Bolt M10X90, Hafnium, with adhesive, class 10	Șurub M10X90, Hafnium, cu adeziv, clasa 10
+F1005	Bolt M10X90, Hafnium, class 8	Șurub M10X90, Hafnium, clasa 8
+F1006	Bolt M10X95, Hafnium, class 8	Șurub M10X95, Hafnium, clasa 8
+F1007	Hex bolt M12X100, class 10	Șurub hexagonal M12X100, clasa 10
+F1008	Bolt M12X110, grade 10.9	Șurub M12X110, clasa 10.9
+F1009	Bolt M12X145	Șurub M12X145
+F1010	Bolt M12X25, Hafnium, class 10	Șurub M12X25, Hafnium, clasa 10
+F1011	Bolt M12X25, Hafnium, class 8	Șurub M12X25, Hafnium, clasa 8
+F1012	Bolt M12X30, Hafnium	Șurub M12X30, Hafnium
+F1013	Bolt M12X30, Hafnium, class 10	Șurub M12X30, Hafnium, clasa 10
+F1014	Bolt M12X30, Hafnium, with adhesive, class 10	Șurub M12X30, Hafnium, cu adeziv, clasa 10
+F1015	Bolt M12X35	Șurub M12X35
+F1016	Bolt M12X35, Hafnium	Șurub M12X35, Hafnium
+F1017	Bolt M12X35, Hafnium, class 8	Șurub M12X35, Hafnium, clasa 8
+F1018	Flat countersunk bolt M12X40, high, class 10	Șurub cu cap înecat plat M12X40, înalt, clasa 10
+F1019	Hex flange bolt M12X40, property class 10.9	Șurub hexagonal cu guler M12X40, clasa 10.9
+F1020	Bolt M12X40, Hafnium, class 10	Șurub M12X40, Hafnium, clasa 10
+F1021	Bolt M12X40, Hafnium, pilot point, A	Șurub M12X40, Hafnium, cu vârf de ghidare, A
+F1022	Hex flange bolt M12X45, property class 10.9	Șurub hexagonal cu guler M12X45, clasa 10.9
+F1023	Bolt M12X50, Hafnium, class 10	Șurub M12X50, Hafnium, clasa 10
+F1024	Bolt M12X50, Hafnium, prevailing torque, class 10	Șurub M12X50, Hafnium, autoblocant, clasa 10
+F1025	Flywheel hex flange bolt M12X50, class 8	Șurub hexagonal cu guler volant M12X50, clasa 8
+F1026	Bolt M12X60, grade 10.9	Șurub M12X60, clasa 10.9
+F1027	Bolt M12X60, Hafnium, class 10	Șurub M12X60, Hafnium, clasa 10
+F1028	Bolt M12X75, Hafnium	Șurub M12X75, Hafnium
+F1029	Hex flange bolt M12X80X1.75, grade 10.9	Șurub hexagonal cu guler M12X80X1.75, clasa 10.9
+F1030	Bolt M12X85, Hafnium	Șurub M12X85, Hafnium
+F1031	Hex flange bolt M12X85, class 8	Șurub hexagonal cu guler M12X85, clasa 8
+F1032	Bolt M12X95	Șurub M12X95
+F1033	Bolt M14	Șurub M14
+F1034	Bolt M14X1.5X55, grade 10.9	Șurub M14X1.5X55, clasa 10.9
+F1035	Bolt M14X1.5X30, Hafnium, class 10	Șurub M14X1.5X30, Hafnium, clasa 10
+F1036	Bolt M14X1.5X30, Hafnium, with adhesive, class 10	Șurub M14X1.5X30, Hafnium, cu adeziv, clasa 10
+F1037	Bolt M14X1.5X35, Hafnium, with adhesive, class 10	Șurub M14X1.5X35, Hafnium, cu adeziv, clasa 10
+F1038	Bolt M14X110, Hafnium, class 10	Șurub M14X110, Hafnium, clasa 10
+F1039	Bolt M14X120, Hafnium, class 10	Șurub M14X120, Hafnium, clasa 10
+F1040	Bolt M14X130, Hafnium, class 10	Șurub M14X130, Hafnium, clasa 10
+F1041	Bolt M14X2X40	Șurub M14X2X40
+F1042	Bolt M14X30, Hafnium, pilot point, class 10	Șurub M14X30, Hafnium, cu vârf de ghidare, clasa 10
+F1043	Bolt M14X30, Hafnium, class 10	Șurub M14X30, Hafnium, clasa 10
+F1044	Bolt M14X35, Hafnium, class 10	Șurub M14X35, Hafnium, clasa 10
+F1045	Bolt M14X35, Hafnium, pilot point, class 10	Șurub M14X35, Hafnium, cu vârf de ghidare, clasa 10
+F1046	Bolt M14X40, Hafnium	Șurub M14X40, Hafnium
+F1047	Bolt M14X40, Hafnium, with adhesive, class 10	Șurub M14X40, Hafnium, cu adeziv, clasa 10
+F1048	Bolt M14X40, Hafnium, class 10.9	Șurub M14X40, Hafnium, clasa 10.9
+F1049	Bolt M14X45, Hafnium, class 10	Șurub M14X45, Hafnium, clasa 10
+F1050	Bolt M14X45, Hafnium, Neptunium, with adhesive, class 10	Șurub M14X45, Hafnium, Neptunium, cu adeziv, clasa 10
+F1051	Hex flange bolt M14X45X2.0, grade 10.9	Șurub hexagonal cu guler M14X45X2.0, clasa 10.9
+F1052	Cardan shaft flange bolt M14X50	Șurub flanșă cardan M14X50
+F1053	Bolt M14X50, Hafnium, class 10	Șurub M14X50, Hafnium, clasa 10
+F1054	Bolt M14X50, Hafnium, pilot point, class 10	Șurub M14X50, Hafnium, cu vârf de ghidare, clasa 10
+F1055	Hex flange bolt M14X50, property class 10.9	Șurub hexagonal cu guler M14X50, clasa 10.9
+F1056	Bolt M14X55, Hafnium	Șurub M14X55, Hafnium
+F1057	Bolt M14X55, Hafnium, class 10	Șurub M14X55, Hafnium, clasa 10
+F1058	Bolt M14X55, Hafnium, with adhesive, class 10	Șurub M14X55, Hafnium, cu adeziv, clasa 10
+F1059	Hex bolt M14X55, class 10	Șurub hexagonal M14X55, clasa 10
+F1060	Bolt M14X60, Hafnium, class 10	Șurub M14X60, Hafnium, clasa 10
+F1061	Bolt M14X60X2.0, grade 10.9	Șurub M14X60X2.0, clasa 10.9
+F1062	Bolt M14X65, Hafnium	Șurub M14X65, Hafnium
+F1063	Bolt M14X65X2.0, grade 10.9	Șurub M14X65X2.0, clasa 10.9
+F1064	Bolt M14X70, Hafnium	Șurub M14X70, Hafnium
+F1065	Bolt M14X75, grade 10.9	Șurub M14X75, clasa 10.9
+F1066	Bolt M14X75, Hafnium, class 10	Șurub M14X75, Hafnium, clasa 10
+F1067	Bolt M14X75, Hafnium, class 10	Șurub M14X75, Hafnium, clasa 10
+F1068	Bolt M14X80, Hafnium, class 10	Șurub M14X80, Hafnium, clasa 10
+F1069	Bolt M14X90, Hafnium, class 10	Șurub M14X90, Hafnium, clasa 10
+F1070	Bolt M14X95, grade 10.9	Șurub M14X95, clasa 10.9
+F1071	Bolt M14X95, Hafnium	Șurub M14X95, Hafnium
+F1072	Bolt M14X95, Hafnium, class 10	Șurub M14X95, Hafnium, clasa 10
+F1073	Bolt M16	Șurub M16
+F1074	Bolt M16X110, grade 12.9	Șurub M16X110, clasa 12.9
+F1075	Bolt M16X1.5X26, Race Tine, prevailing torque, class 8	Șurub M16X1.5X26, Race Tine, autoblocant, clasa 8
+F1076	Bolt M16X1.5X60, grade 10	Șurub M16X1.5X60, clasa 10
+F1077	Bolt M16X1.5X90, solid high, class 10	Șurub M16X1.5X90, plin, înalt, clasa 10
+F1078	Bolt M16X100, Hafnium, class 10	Șurub M16X100, Hafnium, clasa 10
+F1079	Bolt M16X100, Hafnium, Neptunium, with adhesive, class 10	Șurub M16X100, Hafnium, Neptunium, cu adeziv, clasa 10
+F1080	Bolt M16X100, Hafnium, pilot point, class 10	Șurub M16X100, Hafnium, cu vârf de ghidare, clasa 10
+F1081	Bolt M16X105, Hafnium, class 10	Șurub M16X105, Hafnium, clasa 10
+F1082	Bolt M16X105, Hafnium, pilot point, class 10	Șurub M16X105, Hafnium, cu vârf de ghidare, clasa 10
+F1083	Bolt M16X120, Hafnium, class 10	Șurub M16X120, Hafnium, clasa 10
+F1084	Bolt M16X120, Hafnium, pilot point, class 10	Șurub M16X120, Hafnium, cu vârf de ghidare, clasa 10
+F1085	Bolt M16X120, Hafnium, class 10	Șurub M16X120, Hafnium, clasa 10
+F1086	Bolt M16X130, Hafnium	Șurub M16X130, Hafnium
+F1087	Bolt M16X140, grade 8.8	Șurub M16X140, clasa 8.8
+F1088	Bolt M16X150	Șurub M16X150
+F1089	Bolt M16X150, Hafnium, class 10	Șurub M16X150, Hafnium, clasa 10
+F1090	Bolt M16X1.5X50, Hafnium	Șurub M16X1.5X50, Hafnium
+F1091	Bolt M16X1.5X65, Hafnium	Șurub M16X1.5X65, Hafnium
+F1092	Bolt M16X2X50, grade 10.9	Șurub M16X2X50, clasa 10.9
+F1093	Bolt M16X2X70, grade 10.9	Șurub M16X2X70, clasa 10.9
+F1094	Hex flange bolt M16X30, class 10.9	Șurub hexagonal cu guler M16X30, clasa 10.9
+F1095	Bolt M16X35, Hafnium, class 10	Șurub M16X35, Hafnium, clasa 10
+F1096	Bolt M16X35, Hafnium, pilot point, class 10	Șurub M16X35, Hafnium, cu vârf de ghidare, clasa 10
+F1097	Bolt M16X40, Hafnium, class 10	Șurub M16X40, Hafnium, clasa 10
+F1098	Bolt M16X40, Hafnium, with adhesive, class 10	Șurub M16X40, Hafnium, cu adeziv, clasa 10
+F1099	Bolt M16X40, Hafnium, with adhesive, class 10	Șurub M16X40, Hafnium, cu adeziv, clasa 10
+F1100	Bolt M16X40X2.0, grade 10.9	Șurub M16X40X2.0, clasa 10.9
+F1101	Bolt M16X45	Șurub M16X45
+F1102	Bolt M16X45, Hafnium	Șurub M16X45, Hafnium
+F1103	Bolt M16X45, Hafnium, class 10	Șurub M16X45, Hafnium, clasa 10
+F1104	Bolt M16X47, Hafnium, with adhesive, class 10	Șurub M16X47, Hafnium, cu adeziv, clasa 10
+F1105	Bolt M16X50, Hafnium, class 10	Șurub M16X50, Hafnium, clasa 10
+F1106	Bolt M16X50, solid high, prevailing torque, class 10	Șurub M16X50, plin, înalt, autoblocant, clasa 10
+F1107	Bolt M16X50X2.0, Hafnium, grade 10.9	Șurub M16X50X2.0, Hafnium, clasa 10.9
+F1108	Bolt M16X55, Hafnium	Șurub M16X55, Hafnium
+F1109	Bolt M16X60, Hafnium, class 10.9	Șurub M16X60, Hafnium, clasa 10.9
+F1110	Front buffer bolt M16X65	Șurub tampon față M16X65
+F1111	Front engine mount bolt M16X65	Șurub tampon motor față M16X65
+F1112	Bolt M16X70, Hafnium, class 10.9	Șurub M16X70, Hafnium, clasa 10.9
+F1113	Bolt M16X70, Hafnium, class 10	Șurub M16X70, Hafnium, clasa 10
+F1114	Bolt M16X70X2.0, grade 10.9	Șurub M16X70X2.0, clasa 10.9
+F1115	Bolt M16X75, Hafnium, pilot point, class 10	Șurub M16X75, Hafnium, cu vârf de ghidare, clasa 10
+F1116	Bolt M16X80, Hafnium, with adhesive, class 10	Șurub M16X80, Hafnium, cu adeziv, clasa 10
+F1117	Bolt M16X80, Hafnium, class 10	Șurub M16X80, Hafnium, clasa 10
+F1118	Bolt M16X80, Hafnium, pilot point, class 10	Șurub M16X80, Hafnium, cu vârf de ghidare, clasa 10
+F1119	Bolt M16X90, Hafnium, pilot point, class 10	Șurub M16X90, Hafnium, cu vârf de ghidare, clasa 10
+F1120	Flange bolt M16X90X2.0, grade 10.9	Șurub cu guler M16X90X2.0, clasa 10.9
+F1121	Bolt M16X95, Hafnium, class 10	Șurub M16X95, Hafnium, clasa 10
+F1122	Bolt M18X1.5X50, Hafnium, class 10	Șurub M18X1.5X50, Hafnium, clasa 10
+F1123	Bolt M18X1.5X70.0, class 8.8, 320 PS	Șurub M18X1.5X70.0, clasa 8.8, 320 PS
+F1124	Bolt M18X1.5X80, Hafnium, class 10	Șurub M18X1.5X80, Hafnium, clasa 10
+F1125	Bolt M18X1.5X85.0	Șurub M18X1.5X85.0
+F1126	Bolt M18X1.5X90, Hafnium, class 10	Șurub M18X1.5X90, Hafnium, clasa 10
+F1127	Bolt M18X135, Hafnium, class 10	Șurub M18X135, Hafnium, clasa 10
+F1128	Bolt M18X1.5X100, Hafnium	Șurub M18X1.5X100, Hafnium
+F1129	Bolt M18X2X70, Hafnium, class 10	Șurub M18X2X70, Hafnium, clasa 10
+F1130	Bolt M18X2X70, Hafnium, pilot point, with adhesive, class 10	Șurub M18X2X70, Hafnium, cu vârf de ghidare, cu adeziv, clasa 10
+F1131	Bolt M20	Șurub M20
+F1132	Bolt M20X1.5X45, Hafnium, class 10	Șurub M20X1.5X45, Hafnium, clasa 10
+F1133	Bolt M20X1.5X60, Hafnium, class 10	Șurub M20X1.5X60, Hafnium, clasa 10
+F1134	Hex bolt M20X1.5X60, class 10	Șurub hexagonal M20X1.5X60, clasa 10
+F1135	Bolt M20X100, Hafnium, class 10	Șurub M20X100, Hafnium, clasa 10
+F1136	Bolt M20X100, Hafnium, pilot point, class 10	Șurub M20X100, Hafnium, cu vârf de ghidare, clasa 10
+F1137	Bolt M20X115	Șurub M20X115
+F1138	Bolt M20X120, Tendon, 4142	Șurub M20X120, Tendon, 4142
+F1139	Bolt M20X130, grade 10.9	Șurub M20X130, clasa 10.9
+F1140	Bolt M20X130, Hafnium	Șurub M20X130, Hafnium
+F1141	Bolt M20X140, Hafnium, class 10	Șurub M20X140, Hafnium, clasa 10
+F1142	Bolt M20X1.5X60	Șurub M20X1.5X60
+F1143	Bolt M20X160, Hafnium, class 10	Șurub M20X160, Hafnium, clasa 10
+F1144	Bolt M20X170, Hafnium, class 10	Șurub M20X170, Hafnium, clasa 10
+F1145	Bolt M20X195, Tendon, 4142	Șurub M20X195, Tendon, 4142
+F1146	Hex bolt M20X55, class 10	Șurub hexagonal M20X55, clasa 10
+F1147	Bolt M20X60, Hafnium, class 10	Șurub M20X60, Hafnium, clasa 10
+F1148	Bolt M20X70, Hafnium	Șurub M20X70, Hafnium
+F1149	Bolt M20X80, Hafnium, class 10	Șurub M20X80, Hafnium, clasa 10
+F1150	Hex bolt M20X80, class 10	Șurub hexagonal M20X80, clasa 10
+F1151	Bolt M20X85X2, with adhesive, class 12.9	Șurub M20X85X2, cu adeziv, clasa 12.9
+F1152	Bolt M20X95, Hafnium	Șurub M20X95, Hafnium
+F1153	Bolt M22, 2.5 pitch, length 190	Șurub M22, pas 2.5, lungime 190
+F1154	Bolt M22, 2.5 pitch, length 230	Șurub M22, pas 2.5, lungime 230
+F1155	Bolt M30X210	Șurub M30X210
+F1156	Bolt M4X10, Peen Tine, class 8	Șurub M4X10, Peen Tine, clasa 8
+F1157	Bolt M4X16, Peen Tine, pilot point, class 8	Șurub M4X16, Peen Tine, cu vârf de ghidare, clasa 8
+F1158	Bolt M4X6, Peen Tine, class 8	Șurub M4X6, Peen Tine, clasa 8
+F1159	Bolt M4X8, Peen Tine, class 8	Șurub M4X8, Peen Tine, clasa 8
+F1160	Bolt M5X12, Hafnium, class 10	Șurub M5X12, Hafnium, clasa 10
+F1161	Bolt M5X12, Peen Tine, pilot point	Șurub M5X12, Peen Tine, cu vârf de ghidare
+F1162	Bolt M5X16, Hafnium, class 8	Șurub M5X16, Hafnium, clasa 8
+F1163	Bolt M5X20, Peen Tine, pilot point, with adhesive, class 8	Șurub M5X20, Peen Tine, cu vârf de ghidare, cu adeziv, clasa 8
+F1164	Bolt M5X25, Peen Tine, class 8	Șurub M5X25, Peen Tine, clasa 8
+F1165	Bolt M6X10, Hafnium, class 8	Șurub M6X10, Hafnium, clasa 8
+F1166	Bolt M6X14, Hafnium, class 8	Șurub M6X14, Hafnium, clasa 8
+F1167	Bolt M6X15.5, Wafer Tine, with adhesive, paint clear, class 8	Șurub M6X15.5, Wafer Tine, cu adeziv, fără vopsea, clasa 8
+F1168	Bolt M6X16	Șurub M6X16
+F1169	Flat countersunk bolt M6X16, Tine, pilot point, class 10	Șurub cu cap înecat plat M6X16, Tine, cu vârf de ghidare, clasa 10
+F1170	Bolt M6X16, Hafnium, class 8	Șurub M6X16, Hafnium, clasa 8
+F1171	Bolt M6X16, Peen, pilot point, with adhesive, class 8	Șurub M6X16, Peen, cu vârf de ghidare, cu adeziv, clasa 8
+F1172	Bolt M6X16, Peen Tine, prevailing torque, class 8	Șurub M6X16, Peen Tine, autoblocant, clasa 8
+F1173	Flat countersunk bolt M6X20, Tine, class 8	Șurub cu cap înecat plat M6X20, Tine, clasa 8
+F1174	Bolt M6X25, Hafnium, class 10	Șurub M6X25, Hafnium, clasa 10
+F1175	Bolt M6X25, Hafnium, class 8	Șurub M6X25, Hafnium, clasa 8
+F1176	Bolt M6X25, Peen Tine, class 8	Șurub M6X25, Peen Tine, clasa 8
+F1177	Bolt M6X30, Hafnium, class 8	Șurub M6X30, Hafnium, clasa 8
+F1178	Bolt M6X30 mm	Șurub M6X30 mm
+F1179	Bolt M6X80 mm	Șurub M6X80 mm
+F1180	Bolt M8X12, Peen Tine, class 8	Șurub M8X12, Peen Tine, clasa 8
+F1181	Bolt M8X1.25X45	Șurub M8X1.25X45
+F1182	Flat countersunk bolt M8X14	Șurub cu cap înecat plat M8X14
+F1183	Bolt M8X14, Hafnium, prevailing torque, class 8	Șurub M8X14, Hafnium, autoblocant, clasa 8
+F1184	Bolt M8X14, Hafnium, class 8	Șurub M8X14, Hafnium, clasa 8
+F1185	Bolt M8X14, Peen Tine	Șurub M8X14, Peen Tine
+F1186	Bolt M8X14, Peen Tine, class 8	Șurub M8X14, Peen Tine, clasa 8
+F1187	Bolt M8X140.0	Șurub M8X140.0
+F1188	Bolt M8X140, Hafnium, class 8	Șurub M8X140, Hafnium, clasa 8
+F1189	Hex flange bolt M8X145, class 8	Șurub hexagonal cu guler M8X145, clasa 8
+F1190	Bolt M8X16, Hafnium, class 10	Șurub M8X16, Hafnium, clasa 10
+F1191	Bolt M8X16, Hafnium, class 8	Șurub M8X16, Hafnium, clasa 8
+F1192	Bolt M8X16, Hafnium, with adhesive, class 8	Șurub M8X16, Hafnium, cu adeziv, clasa 8
+F1193	Bolt M8X16, Hafnium, pilot point, class 8	Șurub M8X16, Hafnium, cu vârf de ghidare, clasa 8
+F1194	Bolt M8X161, Hafnium, class 8	Șurub M8X161, Hafnium, clasa 8
+F1195	Bolt M8X18, Hafnium, with adhesive, class 8	Șurub M8X18, Hafnium, cu adeziv, clasa 8
+F1196	Bolt M8X20, Hafnium, class 8	Șurub M8X20, Hafnium, clasa 8
+F1197	Bolt M8X20, Hafnium, pilot point, class 8	Șurub M8X20, Hafnium, cu vârf de ghidare, clasa 8
+F1198	Bolt M8X20, Peen Tine, class 8	Șurub M8X20, Peen Tine, clasa 8
+F1199	Bolt M8X20, Peen Tine, class 8	Șurub M8X20, Peen Tine, clasa 8
+F1200	Bolt M8X20, Peen Tine, pilot point, class 8	Șurub M8X20, Peen Tine, cu vârf de ghidare, clasa 8
+F1201	Flat countersunk bolt M8X25	Șurub cu cap înecat plat M8X25
+F1202	Flat countersunk bolt M8X25, Tine, class 8	Șurub cu cap înecat plat M8X25, Tine, clasa 8
+F1203	Bolt M8X25, Hafnium, class 8	Șurub M8X25, Hafnium, clasa 8
+F1204	Bolt M8X25, Hafnium, class 8	Șurub M8X25, Hafnium, clasa 8
+F1205	Hex bolt M8X25, TP, class 8	Șurub hexagonal M8X25, TP, clasa 8
+F1206	Bolt M8X30	Șurub M8X30
+F1207	Bolt M8X30, Hafnium, class 10	Șurub M8X30, Hafnium, clasa 10
+F1208	Bolt M8X30, Hafnium, class 8	Șurub M8X30, Hafnium, clasa 8
+F1209	Bolt M8X30, Peen Tine, class 8	Șurub M8X30, Peen Tine, clasa 8
+F1210	Bolt M8X30, Peen Tine, pilot point, class 8	Șurub M8X30, Peen Tine, cu vârf de ghidare, clasa 8
+F1211	Bolt M8X35, Peen Tine, class 8	Șurub M8X35, Peen Tine, clasa 8
+F1212	Hex flange bolt M8X40, class 10	Șurub hexagonal cu guler M8X40, clasa 10
+F1213	Bolt M8X40, Hafnium, class 10	Șurub M8X40, Hafnium, clasa 10
+F1214	Bolt M8X40, Hafnium, class 8	Șurub M8X40, Hafnium, clasa 8
+F1215	Pan flange bolt M8X40, Tine, pilot point, class 8	Șurub cu cap bombat și guler M8X40, Tine, cu vârf de ghidare, clasa 8
+F1216	Bolt M8X45, Hafnium, class 8	Șurub M8X45, Hafnium, clasa 8
+F1217	Bolt M8X45, Peen Tine, class 8	Șurub M8X45, Peen Tine, clasa 8
+F1218	Bolt M8X45X1.25, grade 10.9	Șurub M8X45X1.25, clasa 10.9
+F1219	Bolt M8X50, Hafnium, class 8	Șurub M8X50, Hafnium, clasa 8
+F1220	Bolt M8X65, Hafnium, class 8	Șurub M8X65, Hafnium, clasa 8
+F1221	Bolt M8X78, Hafnium, pilot point, class 8	Șurub M8X78, Hafnium, cu vârf de ghidare, clasa 8
+F1222	Bolt M8X80, Hafnium, class 10	Șurub M8X80, Hafnium, clasa 10
+F1223	Bolt M8X85, Hafnium, class 10	Șurub M8X85, Hafnium, clasa 10
+F1224	Main bearing bolt	Șurub lagăr palier
+F1225	Oil pump cover bolt	Șurub capac pompă ulei
+F1226	Oil pump idler gear attaching bolt	Șurub fixare pinion intermediar pompă ulei
+F1227	Oil pump mounting bolt	Șurub fixare pompă ulei
+F1228	Oil supply tube connecting bolt	Șurub conectare conductă alimentare ulei
+F1229	Piston bolt, 12.7L	Șurub piston, 12.7 l
+F1230	Piston bolt, 9L	Șurub piston, 9 l
+F1231	Pivot bolt	Șurub pivot
+F1232	Power divider front cover bolt	Șurub capac față distribuitor de putere
+F1233	Power steering tube bolt	Șurub conductă servodirecție
+F1234	Rear axle differential bolt	Șurub diferențial punte spate
+F1235	Rear axle differential bearing cap bolt	Șurub capac lagăr diferențial punte spate
+F1236	Rear axle differential gear case bolt	Șurub carcasă diferențial punte spate
+F1237	Rear axle differential lock bolt	Șurub blocare diferențial punte spate
+F1238	Rear axle housing bolt	Șurub carcasă punte spate
+F1239	Rear axle housing cover bolt	Șurub capac carcasă punte spate
+F1240	Rear axle housing to center differential housing bolt	Șurub carcasă punte spate la carcasa diferențialului central
+F1241	Rear axle pinion bolt	Șurub pinion punte spate
+F1242	Rear axle shaft retaining bolt	Șurub fixare planetară punte spate
+F1243	Rear spring tie bolt	Șurub legătură arc spate
+F1244	Rear stabilizer bar link to control arm bolt	Șurub bieletă bară stabilizatoare spate la braț suspensie
+F1245	Rear suspension lower arm bolt	Șurub braț inferior suspensie spate
+F1246	Rear suspension support beam bar bolt	Șurub bară traversă suport suspensie spate
+F1247	Rear view outside mirror support bracket bolt	Șurub suport oglindă retrovizoare exterioară
+F1248	Rear wheel brake bolt	Șurub frână roată spate
+F1249	Rear wheel brake shoe anchor bolt	Șurub ancorare sabot frână roată spate
+F1250	Rear wheel disc bolt	Șurub disc roată spate
+F1251	Rear wheel hub bolt	Șurub butuc roată spate
+F1252	Rear wheel spacer bolt	Șurub distanțier roată spate
+F1253	Reduction gear bolt	Șurub reductor
+F1254	Steering knuckle adjusting bolt	Șurub reglaj fuzetă
+F1255	Retaining bolt M16X70, Hafnium	Șurub fixare M16X70, Hafnium
+F1256	Rocker arm shaft bolt	Șurub ax culbutori
+F1257	Rocker arm shaft bolt	Șurub ax culbutori
+F1258	Rear stabilizer bar bolt M18X61	Șurub bară stabilizatoare spate M18X61
+F1259	Rear suspension mounting bolt M22X180	Șurub fixare suspensie spate M22X180
+F1260	Crankshaft position sensor bolt	Șurub senzor poziție arbore cotit
+F1261	Turbocharger air pressure sensor bolt	Șurub senzor presiune aer turbo
+F1262	Shift cable bracket mounting bolt 7474	Șurub fixare suport cablu schimbător 7474
+F1263	Short bolt	Șurub scurt
+F1264	Special bolt	Șurub special
+F1265	Special bolt 10.9 M20X2.5X160	Șurub special 10.9 M20X2.5X160
+F1266	Special bolt 10.9 M20X2.5X235	Șurub special 10.9 M20X2.5X235
+F1267	Special bolt 7/16 in UNF	Șurub special 7/16 in UNF
+F1268	Special bolt, rear cab lock striker	Șurub special contraplacă încuietoare cabină, spate
+F1269	Special bolt, cab tilting piston	Șurub special piston basculare cabină
+F1270	Special bolt, front spring mounting	Șurub special fixare arc față
+F1271	Special bolt, grade 10.9, M20X2.5X200	Șurub special, clasa 10.9, M20X2.5X200
+F1272	Special bolt M12X75	Șurub special M12X75
+F1273	Special bolt M16X65X1.5, engine	Șurub special M16X65X1.5, motor
+F1274	Special bolt M16X65X1.5, engine	Șurub special M16X65X1.5, motor
+F1275	Special bolt M18X35.0	Șurub special M18X35.0
+F1276	Special bolt M20X1.5X40, grade 12.9	Șurub special M20X1.5X40, clasa 12.9
+F1277	Special bolt M20X105X1.5, grade 10.9	Șurub special M20X105X1.5, clasa 10.9
+F1278	Special bolt M8X30, grade 10	Șurub special M8X30, clasa 10
+F1279	Special bolt	Șurub special
+F1280	Splash shield bolt	Șurub apărătoare stropire
+F1281	Spring bolt	Șurub arc
+F1282	Steering column bolt	Șurub coloană volan
+F1283	Steering shaft coupling bolt	Șurub cuplaj ax volan
+F1284	Steering knuckle bolt	Șurub fuzetă
+F1285	Steering knuckle arm to tie rod end bolt	Șurub braț fuzetă la cap de bară
+F1286	Steering knuckle stop bolt	Șurub limitator fuzetă
+F1287	Stepped idler bolt	Șurub în trepte rolă intermediară
+F1288	Engine block skirt stiffener to cylinder block bolt	Șurub rigidizare fustă bloc motor la blocul cilindrilor
+F1289	Cab lock striker bolt	Șurub contraplacă încuietoare cabină
+F1290	Spring friction support bolt 8X4	Șurub suport fricțiune arc 8X4
+F1291	Chassis support bolt M16X140	Șurub suport șasiu M16X140
+F1292	V support bolt M20X1.5X102	Șurub suport V M20X1.5X102
+F1293	Torque converter bracket to turbine bolt	Șurub suport convertizor de cuplu la turbină
+F1294	Rear buffer bolt M18X2X82	Șurub tampon spate M18X2X82
+F1295	Torque converter bracket bolt	Șurub suport convertizor de cuplu
+F1296	Suspension tendon bolt	Șurub Tendon suspensie
+F1297	Front end accessory drive tensioner bolt	Șurub întinzător antrenare accesorii față
+F1298	Front end accessory drive tensioner bolt	Șurub întinzător antrenare accesorii față
+F1299	Front end accessory drive tensioner bolt M10X70	Șurub întinzător antrenare accesorii față M10X70
+F1300	Transmission gear shift bolt	Șurub schimbător viteze cutie de viteze
+F1301	Transmission gear shift bolt	Șurub schimbător viteze cutie de viteze
+F1302	Transmission gear shift fork bolt	Șurub furcă schimbător viteze cutie de viteze
+F1303	Transmission output shaft flange bolt	Șurub flanșă arbore de ieșire cutie de viteze
+F1304	Transmission shift housing interlock opening bolt	Șurub orificiu interblocare carcasă schimbător cutie de viteze
+F1305	Transmission support bolt	Șurub suport cutie de viteze
+F1306	Valve cover bolt	Șurub capac culbutori
+F1307	Valve rocker arm bolt	Șurub culbutor supapă
+F1308	Valve rocker arm cover bolt	Șurub capac culbutori
+F1309	Valve rocker arm shaft support bolt	Șurub suport ax culbutori
+F1310	Valve rocker arm shaft support bolt M8X60	Șurub suport ax culbutori M8X60
+F1311	Wheel hub cap bolt	Șurub capac butuc roată
+F1312	Hex washer bolt M10X18, paint clear, class 8	Șurub hexagonal cu șaibă M10X18, fără vopsea, clasa 8
+F1313	Hex washer bolt M12X35	Șurub hexagonal cu șaibă M12X35
+F1314	Washer bolt M5X18, Peen Tine, class 8	Șurub cu șaibă M5X18, Peen Tine, clasa 8
+F1315	Washer bolt M6X16, Hafnium, class 8	Șurub cu șaibă M6X16, Hafnium, clasa 8
+F1316	Washer bolt M6X16, Peen Tine, pilot point, prevailing torque	Șurub cu șaibă M6X16, Peen Tine, cu vârf de ghidare, autoblocant
+F1317	Washer bolt M6X20, pilot point, flat, class 8	Șurub cu șaibă M6X20, cu vârf de ghidare, plat, clasa 8
+F1318	Washer bolt M6X25, Hafnium, pilot point, Continent, class 8	Șurub cu șaibă M6X25, Hafnium, cu vârf de ghidare, Continent, clasa 8
+F1319	Washer bolt M6X25, Peen Tine, with adhesive, class 8	Șurub cu șaibă M6X25, Peen Tine, cu adeziv, clasa 8
+F1320	Washer bolt M8X20, Hafnium, prevailing torque, flat	Șurub cu șaibă M8X20, Hafnium, autoblocant, plat
+F1321	Washer bolt M8X25, Hafnium, flat, class 8	Șurub cu șaibă M8X25, Hafnium, plat, clasa 8
+F1322	Washer bolt M8X35, Hafnium	Șurub cu șaibă M8X35, Hafnium
+F1323	Hex bolt and washer M6X20, Neptunium, Continent, class 8	Șurub hexagonal cu șaibă M6X20, Neptunium, Continent, clasa 8
+F1324	Bolt, grade 10.9, M16X55.0	Șurub, clasa 10.9, M16X55.0
+F1325	Bolt, grade 10.9, M24X2X102 (6X4)	Șurub, clasa 10.9, M24X2X102 (6X4)
+F1326	Flywheel hex flange bolt M12X80, class 8	Șurub hexagonal cu guler volant M12X80, clasa 8
+F1327	Special bolt	Șurub special
+F1328	Washer bolt M10X32, Hafnium, pilot point, flat, class 10	Șurub cu șaibă M10X32, Hafnium, cu vârf de ghidare, plat, clasa 10
+F1329	Bolt M8X1.25X24	Șurub M8X1.25X24
+F1330	Clutch housing to transmission bolt	Șurub carcasă ambreiaj la cutia de viteze
+F1331	Bolt M18X100	Șurub M18X100
+F1332	Bolt M18X120	Șurub M18X120
+F1333	Bolts M14X110, class 10.9 type	Șuruburi M14X110, tip clasa 10.9
+F1334	Bolt set	Set șuruburi
+F1335	Front end accessory drive tensioner bolt	Șurub întinzător antrenare accesorii față
+F1336	Feature book	Broșură caracteristici
+F1337	Booster spring	Arc amplificator
+F1338	Transmission gear shift lever boot assembly	Burduf manetă schimbător viteze, ansamblu
+F1339	Transmission gear shift linkage boot assembly	Burduf timonerie schimbător viteze, ansamblu
+F1340	Transmission gear shift lever boot assembly	Burduf manetă schimbător viteze, ansamblu
+F1341	Transmission gear shift boot assembly	Burduf schimbător viteze, ansamblu
+F1342	Steering column boot	Burduf coloană volan
+F1343	Transmission shift cable boot	Burduf cablu schimbător viteze
+F1344	Compressor air intake pipe assembly	Conductă admisie aer compresor, ansamblu
+F1345	Rear exhaust pipe assembly	Țeavă eșapament spate, ansamblu
+F1346	Compressor water inlet pipe assembly	Conductă intrare apă compresor, ansamblu
+F1347	Bottom half clamp	Jumătate inferioară colier
+F1348	Auxiliary heater bottom section	Secțiune inferioară încălzitor auxiliar
+F1349	Roof bow	Arcadă plafon
+F1350	Folding bow assembly	Arcadă rabatabilă, ansamblu
+F1351	Folding top bow assembly	Arcadă prelată rabatabilă, ansamblu
+F1352	Folding top bow assembly #3	Arcadă prelată rabatabilă, ansamblu nr. 3
+F1353	Folding top bow assembly 2	Arcadă prelată rabatabilă, ansamblu 2
+F1354	Folding top bow assembly 3	Arcadă prelată rabatabilă, ansamblu 3
+F1355	Roof side bow assembly, center, LH	Arcadă laterală plafon, ansamblu, centru, stânga
+F1356	Roof side bow assembly, front, RH	Arcadă laterală plafon, ansamblu, față, dreapta
+F1357	Folding top bow	Arcadă prelată rabatabilă
+F1358	Folding top bow #3	Arcadă prelată rabatabilă nr. 3
+F1359	Folding top bow 3	Arcadă prelată rabatabilă 3
+F1360	Rear roof bow, front	Arcadă plafon spate, față
+F1361	Roof bow, center front	Arcadă plafon, centru față
+F1362	Roof bow, center middle	Arcadă plafon, centru mijloc
+F1363	Roof bow headlining support, side	Arcadă plafon suport căptușeală, lateral
+F1364	Fuel water separator bowl	Pahar separator apă combustibil
+F1365	Bowl kit	Kit pahar
+F1366	Roof bow, center rear	Arcadă plafon, centru spate
+F1367	Fuse box assembly	Cutie siguranțe, ansamblu
+F1368	Fuse junction panel box assembly	Cutie panou joncțiune siguranțe, ansamblu
+F1369	Stowage box assembly	Cutie depozitare, ansamblu
+F1370	Steering box assembly less arm	Casetă direcție, ansamblu, fără braț
+F1371	Upper console storage box	Cutie depozitare consolă superioară
+F1372	Console storage box	Cutie depozitare consolă
+F1373	F-MAX outfit box	Cutie echipament F-MAX
+F1374	Tool box	Cutie scule
+F1375	Side protection bar bracket on frame	Suport bară protecție laterală pe șasiu
+F1376	Rear brace assembly	Contrafișă spate, ansamblu
+F1377	Spare wheel brace assembly	Contrafișă roată de rezervă, ansamblu
+F1378	Body side vertical brace, rear	Contrafișă verticală lateral caroserie, spate
+F1379	Center body pillar inner brace	Contrafișă interioară stâlp central caroserie
+F1380	Center body pillar inner brace, LH	Contrafișă interioară stâlp central caroserie, stânga
+F1381	Floor member 1 to floor side member brace	Contrafișă traversă podea 1 la lonjeron lateral podea
+F1382	Floor member to floor side member brace	Contrafișă traversă podea la lonjeron lateral podea
+F1383	Front bumper end to frame brace	Contrafișă capăt bară de protecție față la șasiu
+F1384	Front fender to door opening panel brace, LH	Contrafișă aripă față la panou deschidere ușă, stânga
+F1385	Front fender to door opening panel brace, RH	Contrafișă aripă față la panou deschidere ușă, dreapta
+F1386	Quarter window lower brace, LH	Contrafișă inferioară geam lateral spate, stânga
+F1387	Rear fender brace	Contrafișă aripă spate
+F1388	Bracket	Suport
+F1389	Front spring mounting bracket, front	Suport fixare arc față, față
+F1390	Front spring bracket, front, LH	Suport arc față, față, stânga
+F1391	Rear spring bracket, front	Suport arc spate, față
+F1392	Bumper mounting bracket	Suport fixare bară de protecție
+F1393	Engine mounting bracket	Suport fixare motor
+F1394	Fuel filter bracket	Suport filtru combustibil
+F1395	Second axle anti-roll bar bracket, LH	Suport bară antiruliu punte 2, stânga
+F1396	Second axle anti-roll bar bracket, RH	Suport bară antiruliu punte 2, dreapta
+F1397	A/C compressor mounting bracket	Suport fixare compresor A/C
+F1398	Air cleaner support bracket	Suport filtru de aer
+F1399	ABS sensor retaining bracket, upper	Suport fixare senzor ABS, superior
+F1400	A/C support bracket	Suport A/C
+F1401	Actuator bracket	Suport actuator
+F1402	AdBlue tank mounting bracket	Suport fixare rezervor AdBlue
+F1403	AdBlue tank mounting bracket	Suport fixare rezervor AdBlue
+F1404	Air cleaner bracket	Suport filtru de aer
+F1405	Air cleaner intake tube bracket, lower	Suport tub admisie filtru de aer, inferior
+F1406	Air cleaner bracket, outer	Suport filtru de aer, exterior
+F1407	Air conditioning bracket	Suport climatizare
+F1408	Air conditioning compressor mounting bracket	Suport fixare compresor climatizare
+F1409	Air conditioning evaporator drain bracket	Suport scurgere evaporator climatizare
+F1410	Air conditioning evaporator tube support bracket	Suport conductă evaporator climatizare
+F1411	Air conditioning hose bracket	Suport furtun climatizare
+F1412	Air duct support bracket	Suport tubulatură aer
+F1413	Air duct support bracket	Suport tubulatură aer
+F1414	Air spring suspension control bracket	Suport comandă suspensie pneumatică
+F1415	Alternator bracket	Suport alternator
+F1416	Alternator bracket	Suport alternator
+F1417	Bracket and bearing	Suport și rulment
+F1418	Transmission gear shift lever bracket and bearing assembly	Suport și rulment manetă schimbător viteze, ansamblu
+F1419	Transmission gear shift lever bracket and bearing assembly	Suport și rulment manetă schimbător viteze, ansamblu
+F1420	Anti-lock brake bracket	Suport ABS
+F1421	Anti-lock brake sensor retaining bracket, upper	Suport fixare senzor ABS, superior
+F1422	APU protection bracket	Suport protecție APU
+F1423	ASR valve bracket	Suport supapă ASR
+F1424	Accelerator pedal support bracket assembly	Suport pedală accelerație, ansamblu
+F1425	Retarder electric control box bracket assembly	Suport cutie comandă electrică retarder, ansamblu
+F1426	Brake tube support bracket assembly	Suport conductă frână, ansamblu
+F1427	Door bracket assembly	Suport ușă, ansamblu
+F1428	Door outside handle mounting bracket assembly	Suport fixare mâner exterior ușă, ansamblu
+F1429	Door outside handle mounting bracket assembly, LH	Suport fixare mâner exterior ușă, ansamblu, stânga
+F1430	Door outside handle mounting bracket assembly, RH	Suport fixare mâner exterior ușă, ansamblu, dreapta
+F1431	Bracket assembly, right	Suport, ansamblu, dreapta
+F1432	Engine charge air cooler duct bracket assembly	Suport tubulatură intercooler motor, ansamblu
+F1433	Engine noise insulation shield bracket assembly	Suport scut izolare fonică motor, ansamblu
+F1434	Engine timing transducer bracket assembly	Suport traductor distribuție motor, ansamblu
+F1435	Fire extinguisher mounting bracket assembly	Suport fixare extinctor, ansamblu
+F1436	Front bracket assembly	Suport față, ansamblu
+F1437	Front bracket assembly	Suport față, ansamblu
+F1438	Front brake caliper mounting bracket assembly	Suport fixare etrier frână față, ansamblu
+F1439	Front end accessory drive bracket assembly	Suport antrenare accesorii față, ansamblu
+F1440	Front fender rear upper bracket assembly	Suport superior spate aripă față, ansamblu
+F1441	Front fender rear upper bracket assembly, LH	Suport superior spate aripă față, ansamblu, stânga
+F1442	Front seat mounting bracket assembly	Suport fixare scaun față, ansamblu
+F1443	Front seat track stop bracket assembly	Suport opritor șină scaun față, ansamblu
+F1444	Front shock absorber bracket assembly	Suport amortizor față, ansamblu
+F1445	Front spring hanger bracket assembly, outer	Suport cercel arc față, ansamblu, exterior
+F1446	Front stabilizer bar side member bracket assembly	Suport bară stabilizatoare față pe lonjeron, ansamblu
+F1447	Front vibration damper bracket assembly	Suport amortizor vibrații față, ansamblu
+F1448	Front wheel brake bracket assembly	Suport frână roată față, ansamblu
+F1449	Front wheel brake bracket assembly, LH	Suport frână roată față, ansamblu, stânga
+F1450	Front wheel brake bracket assembly, RH	Suport frână roată față, ansamblu, dreapta
+F1451	Fuel bracket assembly	Suport combustibil, ansamblu
+F1452	Fuel tank rear reinforcement bracket assembly	Suport ranforsare spate rezervor combustibil, ansamblu
+F1453	Fuel bracket assembly	Suport combustibil, ansamblu
+F1454	Hood bracket assembly	Suport capotă, ansamblu
+F1455	Hood lift bracket assembly on body	Suport ridicare capotă pe caroserie, ansamblu
+F1456	Hood lift bracket assembly on body, LH	Suport ridicare capotă pe caroserie, ansamblu, stânga
+F1457	Interior scanning sensor bracket assembly	Suport senzor scanare interior, ansamblu
+F1458	Jack hold-down bracket assembly	Suport fixare cric, ansamblu
+F1459	Jack storage bracket assembly	Suport depozitare cric, ansamblu
+F1460	Lower back panel bracket assembly, center	Suport panou spate inferior, ansamblu, centru
+F1461	Muffler hanger bracket assembly	Suport agățare tobă eșapament, ansamblu
+F1462	Pan bracket assembly	Suport baie, ansamblu
+F1463	Body rocker panel bracket assembly	Suport prag caroserie, ansamblu
+F1464	Body rocker panel bracket assembly, LH	Suport prag caroserie, ansamblu, stânga
+F1465	Body rocker panel bracket assembly, RH	Suport prag caroserie, ansamblu, dreapta
+F1466	Auxiliary heater water pump bracket assembly	Suport pompă apă încălzitor auxiliar, ansamblu
+F1467	Quarter panel to wheelhouse bracket assembly	Suport panou lateral spate la carcasa roții, ansamblu
+F1468	Radiator grille extension bracket assembly	Suport prelungire grilă radiator, ansamblu
+F1469	Radiator grille extension bracket assembly, LH	Suport prelungire grilă radiator, ansamblu, stânga
+F1470	Rear bracket assembly	Suport spate, ansamblu
+F1471	Rear axle shock absorber mounting bracket assembly	Suport fixare amortizor punte spate, ansamblu
+F1472	Rear brake camshaft and diaphragm bracket assembly	Suport ax cu came și cilindru membrană frână spate, ansamblu
+F1473	Rear brake camshaft and diaphragm bracket assembly, LH	Suport ax cu came și cilindru membrană frână spate, ansamblu, stânga
+F1474	Rear brake camshaft and diaphragm bracket assembly, RH	Suport ax cu came și cilindru membrană frână spate, ansamblu, dreapta
+F1475	Rear brake shoe anchor bracket assembly, LH	Suport ancorare sabot frână spate, ansamblu, stânga
+F1476	Rear brake shoe anchor bracket assembly, RH	Suport ancorare sabot frână spate, ansamblu, dreapta
+F1477	Rear fender front support bracket assembly	Suport față aripă spate, ansamblu
+F1478	Rear fender mounting bracket assembly	Suport fixare aripă spate, ansamblu
+F1479	Rear shock absorber bracket assembly	Suport amortizor spate, ansamblu
+F1480	Rear stabilizer bar bracket assembly	Suport bară stabilizatoare spate, ansamblu
+F1481	Roof bracket assembly	Suport plafon, ansamblu
+F1482	Roof console mounting bracket assembly, side	Suport fixare consolă plafon, ansamblu, lateral
+F1483	Roof console mounting bracket assembly, side, LH	Suport fixare consolă plafon, ansamblu, lateral, stânga
+F1484	Roof front console bracket assembly	Suport consolă față plafon, ansamblu
+F1485	Roof front console bracket assembly, LH	Suport consolă față plafon, ansamblu, stânga
+F1486	Front seat track shield bracket assembly	Suport apărătoare șină scaun față, ansamblu
+F1487	Side skirt protection bracket assembly	Suport protecție fustă laterală, ansamblu
+F1488	Spare wheel carrier mounting bracket assembly	Suport fixare port-roată de rezervă, ansamblu
+F1489	Speed sensor mounting bracket assembly	Suport fixare senzor viteză, ansamblu
+F1490	Rear spoiler bracket assembly	Suport spoiler spate, ansamblu
+F1491	Stabilizer bracket assembly	Suport stabilizator, ansamblu
+F1492	Stabilizer bar link to frame bracket assembly	Suport bieletă bară stabilizatoare la șasiu, ansamblu
+F1493	Bracket assembly, left	Suport, ansamblu, stânga
+F1494	Starter switch bracket assembly	Suport comutator pornire, ansamblu
+F1495	Tachograph mounting bracket assembly, upper	Suport fixare tahograf, ansamblu, superior
+F1496	Tire bracket assembly	Suport anvelopă, ansamblu
+F1497	Windshield wiper motor mounting bracket assembly	Suport fixare motor ștergător parbriz, ansamblu
+F1498	Wire connector bracket assembly	Suport conector cablaj, ansamblu
+F1499	Wire terminal ground attaching bracket assembly	Suport fixare terminal masă cablaj, ansamblu
+F1500	ASR cylinder bracket assembly	Suport cilindru ASR, ansamblu
+F1501	Cab mounting bracket assembly, LH	Suport fixare cabină, ansamblu, stânga
+F1502	Fuel tank bracket assembly	Suport rezervor combustibil, ansamblu
+F1503	Rear fender bracket assembly, LH	Suport aripă spate, ansamblu, stânga
+F1504	Rear fender bracket assembly, RH	Suport aripă spate, ansamblu, dreapta
+F1505	Speaker bracket assembly	Suport difuzor, ansamblu
+F1506	A roll bar bracket assembly, front, RH	Suport bară antiruliu A, ansamblu, față, dreapta
+F1507	A roll bar bracket assembly, lower, LH	Suport bară antiruliu A, ansamblu, inferior, stânga
+F1508	A roll bar bracket assembly, lower, RH	Suport bară antiruliu A, ansamblu, inferior, dreapta
+F1509	Alternator bracket assembly, front	Suport alternator, ansamblu, față
+F1510	Alternator bracket assembly, rear	Suport alternator, ansamblu, spate
+F1511	APU protection bracket assembly	Suport protecție APU, ansamblu
+F1512	Body lift pump mounting bracket assembly	Suport fixare pompă basculare caroserie, ansamblu
+F1513	Brake air reservoir bracket assembly, lower	Suport rezervor aer frână, ansamblu, inferior
+F1514	Brake air reservoir mounting bracket assembly	Suport fixare rezervor aer frână, ansamblu
+F1515	Chassis extension bracket assembly, LH	Suport prelungire șasiu, ansamblu, stânga
+F1516	Chassis extension bracket assembly, RH	Suport prelungire șasiu, ansamblu, dreapta
+F1517	Front bracket assembly, LH	Suport față, ansamblu, stânga
+F1518	Front bracket assembly, RH	Suport față, ansamblu, dreapta
+F1519	Front spring hanger bracket assembly, outer	Suport cercel arc față, ansamblu, exterior
+F1520	Fuel tank bracket assembly	Suport rezervor combustibil, ansamblu
+F1521	Fuel tank bracket assembly	Suport rezervor combustibil, ansamblu
+F1522	Fuel tank bracket assembly, rear	Suport rezervor combustibil, ansamblu, spate
+F1523	Radiator lower control bracket assembly	Suport inferior radiator, ansamblu
+F1524	Radiator mounting bracket assembly	Suport fixare radiator, ansamblu
+F1525	Hydraulic tilt ram bracket assembly, LH	Suport cilindru hidraulic basculare, ansamblu, stânga
+F1526	Hydraulic tilt ram bracket assembly, RH	Suport cilindru hidraulic basculare, ansamblu, dreapta
+F1527	Rear bracket assembly, LH	Suport spate, ansamblu, stânga
+F1528	Rear bracket assembly, RH	Suport spate, ansamblu, dreapta
+F1529	Rear fender lower bracket assembly, LH	Suport inferior aripă spate, ansamblu, stânga
+F1530	Rear stabilizer bar bracket assembly, upper	Suport bară stabilizatoare spate, ansamblu, superior
+F1531	Rear spoiler bracket assembly	Suport spoiler spate, ansamblu
+F1532	Brake air reservoir bracket assembly, lower	Suport rezervor aer frână, ansamblu, inferior
+F1533	Front spring bracket assembly	Suport arc față, ansamblu
+F1534	Fuel tank bracket assembly	Suport rezervor combustibil, ansamblu
+F1535	Radiator lower bracket assembly	Suport inferior radiator, ansamblu
+F1536	Rear bracket assembly, RH	Suport spate, ansamblu, dreapta
+F1537	Stabilizer bar bracket assembly	Suport bară stabilizatoare, ansamblu
+F1538	Automatic tensioner bracket	Suport întinzător automat
+F1539	Auxiliary heater hose bracket	Suport furtun încălzitor auxiliar
+F1540	Auxiliary heater mounting bracket	Suport fixare încălzitor auxiliar
+F1541	Auxiliary spring bracket, rear	Suport arc auxiliar, spate
+F1542	Auxiliary spring bracket	Suport arc auxiliar
+F1543	Auxiliary spring bracket, rear	Suport arc auxiliar, spate
+F1544	Axle lift to chassis bracket	Suport ridicare punte la șasiu
+F1545	Back panel to floor bracket	Suport panou spate la podea
+F1546	Back panel to floor bracket, LH	Suport panou spate la podea, stânga
+F1547	Brake backing plate bracket, LH	Suport talpă frână, stânga
+F1548	Brake backing plate bracket, RH	Suport talpă frână, dreapta
+F1549	Trailer crash protection bar bracket	Suport bară de protecție antiîncastrare remorcă
+F1550	Side protection bar bracket, on frame	Suport bară de protecție laterală, pe șasiu
+F1551	Side protection bar bracket	Suport bară de protecție laterală
+F1552	Side protection bar bracket, on frame	Suport bară de protecție laterală, pe șasiu
+F1553	Battery fuse box bracket	Suport cutie siguranțe baterie
+F1554	Rear axle bellows bracket to crossmember	Suport burduf punte spate la traversă
+F1555	Body front mounting bracket	Suport montaj caroserie, față
+F1556	Body front mounting bracket	Suport montaj caroserie, față
+F1557	Body front mounting bracket, LH	Suport montaj caroserie, față, stânga
+F1558	Body lift pump bracket, lower	Suport pompă basculare caroserie, inferior
+F1559	Body lift pump bracket	Suport pompă basculare caroserie
+F1560	Body lift pump bracket	Suport pompă basculare caroserie
+F1561	Body lift pump bracket, lower	Suport pompă basculare caroserie, inferior
+F1562	Body rear window bracket	Suport geam spate caroserie
+F1563	Body side step bracket	Suport treaptă laterală caroserie
+F1564	Brake air reservoir bracket	Suport rezervor aer frână
+F1565	Brake air reservoir bracket, lower	Suport rezervor aer frână, inferior
+F1566	Brake combination valve bracket	Suport supapă combinată frână
+F1567	Brake load sensing valve linkage support bracket	Suport tijă supapă corectoare de frânare în funcție de sarcină
+F1568	Brake moisture ejector valve bracket	Suport supapă evacuare condens frână
+F1569	Brake pedal support bracket	Suport pedală frână
+F1570	Brake reservoir bracket	Suport rezervor frână
+F1571	Brake reservoir mounting bracket	Suport montaj rezervor frână
+F1572	Brake system bracket	Suport sistem de frânare
+F1573	Brake tube support bracket	Suport conductă frână
+F1574	Brake tube support bracket, front	Suport conductă frână, față
+F1575	Brake actuator mounting bracket	Suport montaj actuator frână
+F1576	Brake air dryer mounting bracket	Suport montaj uscător aer frână
+F1577	Brake air reservoir bracket	Suport rezervor aer frână
+F1578	Anti-lock brake ECU assembly bracket	Suport ansamblu ECU ABS
+F1579	Second axle bump stop bracket	Suport tampon limitator punte a doua
+F1580	Bumper mounting bracket	Suport montaj bară de protecție
+F1581	Bumper mounting bracket	Suport montaj bară de protecție
+F1582	Bumper mounting bracket, rear LH	Suport montaj bară de protecție, spate stânga
+F1583	Bumper mounting bracket, rear RH	Suport montaj bară de protecție, spate dreapta
+F1584	Bumper reinforcement bracket, LH	Suport ranforsare bară de protecție, stânga
+F1585	Bumper reinforcement bracket, RH	Suport ranforsare bară de protecție, dreapta
+F1586	Push button starter switch bracket	Suport buton pornire motor
+F1587	Cab forward bracket	Suport cabină, față
+F1588	Cab forward hinge bracket, RH	Suport balama cabină, față, dreapta
+F1589	Cab mounting bracket, side member LH	Suport montaj cabină, longeron stânga
+F1590	Cab mounting bracket, side member RH	Suport montaj cabină, longeron dreapta
+F1591	Cab mounting bracket, side member	Suport montaj cabină, longeron
+F1592	Cab mounting bracket, side member LH	Suport montaj cabină, longeron stânga
+F1593	Cab mounting bracket, side member RH	Suport montaj cabină, longeron dreapta
+F1594	Cab mounting bracket, side member upper	Suport montaj cabină, longeron, superior
+F1595	Cab mounting bracket, upper RH	Suport montaj cabină, superior dreapta
+F1596	Cab mounting bracket	Suport montaj cabină
+F1597	Cab mounting bracket, front LH	Suport montaj cabină, față stânga
+F1598	Cab mounting bracket, front RH	Suport montaj cabină, față dreapta
+F1599	Cab mounting bracket, LH	Suport montaj cabină, stânga
+F1600	Cab pivot bracket, lower LH	Suport pivot cabină, inferior stânga
+F1601	Cab pivot bracket, lower RH	Suport pivot cabină, inferior dreapta
+F1602	Cab rear support bracket	Suport spate cabină
+F1603	Cab rear support bracket	Suport spate cabină
+F1604	Cab rear support bracket, LH	Suport spate cabină, stânga
+F1605	Cab rear suspension bracket	Suport suspensie spate cabină
+F1606	Cab rear suspension bracket, upper	Suport suspensie spate cabină, superior
+F1607	Cab rear suspension bracket, upper	Suport suspensie spate cabină, superior
+F1608	Cab spring bracket, front LH	Suport arc cabină, față stânga
+F1609	Cab suspension bracket, front	Suport suspensie cabină, față
+F1610	Cab suspension bracket	Suport suspensie cabină
+F1611	Cab suspension height valve bracket	Suport supapă nivel suspensie cabină
+F1612	Cab tilt stop bracket	Suport limitator basculare cabină
+F1613	Cab to frame suspension arm bracket	Suport braț suspensie cabină la șasiu
+F1614	Rear-facing camera bracket	Suport cameră orientată spre spate
+F1615	Catwalk mounting bracket	Suport montaj platformă de acces
+F1616	Center body pillar lower reinforcement bracket	Suport ranforsare inferioară stâlp central caroserie
+F1617	Charge air cooler bracket	Suport intercooler
+F1618	Charge air pipe support bracket	Suport conductă aer supraalimentare
+F1619	Circuit breaker bracket	Suport întrerupător automat
+F1620	Circuit breaker mounting bracket	Suport montaj întrerupător automat
+F1621	Trailer axle compensator bracket, RH	Suport compensator punte remorcă, dreapta
+F1622	Compressor outlet pipe bracket	Suport conductă ieșire compresor
+F1623	On-board diagnostic connector bracket	Suport conector diagnoză (OBD)
+F1624	Control cable bracket	Suport cablu de comandă
+F1625	Control connection bracket	Suport conexiune comandă
+F1626	Voltage converter bracket	Suport convertor tensiune
+F1627	Coupling shaft bearing support bracket	Suport rulment arbore cardanic
+F1628	Coupling shaft center bearing bracket	Suport rulment intermediar arbore cardanic
+F1629	Cowl top panel to dash bracket	Suport panou superior torpedou la bord
+F1630	Coupling shaft center bearing support bracket	Suport rulment intermediar arbore cardanic
+F1631	Cross connector bracket	Suport conector transversal
+F1632	Dash panel to instrument panel brace bracket	Suport întăritură panou bord la planșa de bord
+F1633	Deflector panel bracket	Suport panou deflector
+F1634	Door scuff plate bracket	Suport ornament prag ușă
+F1635	ECU module bracket	Suport modul ECU
+F1636	Engine air cleaner support bracket	Suport filtru de aer motor
+F1637	Engine noise shield bracket, lower	Suport ecran fonic motor, inferior
+F1638	Engine noise shield bracket, lower	Suport ecran fonic motor, inferior
+F1639	Engine support bracket, rear LH	Suport motor, spate stânga
+F1640	Engine support bracket, rear RH	Suport motor, spate dreapta
+F1641	Engine air cleaner support bracket, front	Suport filtru de aer motor, față
+F1642	Engine charge air bracket	Suport supraalimentare motor
+F1643	Engine charge air inlet pipe bracket, upper	Suport conductă admisie aer supraalimentare motor, superior
+F1644	Engine turbocharger exhaust pipe bracket	Suport conductă evacuare turbocompresor motor
+F1645	Engine charge air supply tube bracket	Suport tub alimentare aer supraalimentare motor
+F1646	Engine turbocharger support plate bracket	Suport placă susținere turbocompresor motor
+F1647	Engine turbocharger exhaust bracket	Suport evacuare turbocompresor motor
+F1648	Engine turbocharger exhaust pipe bracket	Suport conductă evacuare turbocompresor motor
+F1649	Engine control cable bracket	Suport cablu comandă motor
+F1650	Engine front support bracket	Suport motor, față
+F1651	Engine front support insulator bracket	Suport tampon motor, față
+F1652	Engine mounting bracket	Suport montaj motor
+F1653	Engine mounting bracket, rear LH	Suport montaj motor, spate stânga
+F1654	Engine mounting bracket, rear RH	Suport montaj motor, spate dreapta
+F1655	Engine noise shield bracket	Suport ecran fonic motor
+F1656	Engine support bracket	Suport motor
+F1657	Engine support bracket, rear	Suport motor, spate
+F1658	Engine thermostat connector bracket	Suport conector termostat motor
+F1659	Exhaust catalyst support bracket	Suport catalizator evacuare
+F1660	Exhaust pipe mounting bracket	Suport montaj țeavă de evacuare
+F1661	Exhaust catalyst bracket	Suport catalizator evacuare
+F1662	Exhaust catalyst support bracket	Suport catalizator evacuare
+F1663	Exhaust deflector bracket	Suport deflector evacuare
+F1664	Exhaust pipe mounting bracket	Suport montaj țeavă de evacuare
+F1665	Exhaust pipe mounting bracket	Suport montaj țeavă de evacuare
+F1666	Exhaust pipe shield bracket	Suport scut termic țeavă de evacuare

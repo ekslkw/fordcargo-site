@@ -1,0 +1,54 @@
+# FordCargo.ro — EKS LKW
+
+> Distribuitor independent de piese pentru camioane și capete tractor Ford Trucks (Cargo, F-MAX, F-LINE), din București, România. Firma: EKS LKW Piese Auto S.R.L., în domeniul pieselor de schimb din 1990. Prețurile nu sunt publicate pe site; se oferă ofertă la cerere, după cod de piesă sau seria de șasiu (VIN).
+
+EKS LKW nu este reprezentanța oficială Ford sau Ford Trucks. Denumirile Ford, Cargo, F-MAX și F-LINE sunt folosite doar pentru a indica aplicabilitatea pieselor.
+
+Catalogul conține peste 35.000 de referințe: coduri Ford/Otosan (de ex. CC46 2L324 AA) și coduri T/FINIS asociate (de ex. T199352), cu denumiri în română și engleză. Piesele pot fi originale sau aftermarket; producătorul se precizează în ofertă.
+
+## Contact
+
+- Adresă: Șoseaua Viilor 54, 050152 București, România
+- Telefon / WhatsApp: +40 733 357 357
+- Program: luni–vineri 08:00–18:00
+- [Cerere de ofertă](https://fordcargo.ro/contact): formular cu cod piesă, VIN și descriere
+
+## Pagini principale
+
+- [Acasă](https://fordcargo.ro/)
+- [Căutare piese după cod](https://fordcargo.ro/cauta-piese): coduri Ford, T sau FINIS
+- [Catalog piese](https://fordcargo.ro/catalog)
+- [Despre EKS LKW](https://fordcargo.ro/despre-noi)
+- [Întrebări frecvente](https://fordcargo.ro/intrebari-frecvente)
+- [Ghiduri](https://fordcargo.ro/ghiduri): cum se identifică piesa corectă și cum se citește un cod Ford
+
+## Piese pe modele
+
+- [Ford Cargo](https://fordcargo.ro/piese-ford-cargo)
+- [Ford F-MAX](https://fordcargo.ro/piese-ford-f-max)
+- [Ford F-LINE](https://fordcargo.ro/piese-ford-f-line)
+- [Ford F-LINE E (electric)](https://fordcargo.ro/piese-ford-f-line-electrice)
+- [Capete tractor Ford Trucks](https://fordcargo.ro/piese-ford-capete-tractor)
+- [Camioane de șantier și basculante](https://fordcargo.ro/piese-ford-camioane-santier-basculante)
+
+## Categorii de piese
+
+- [Motor și ungere — piese pentru camioane Ford](https://fordcargo.ro/categorie/motor/)
+- [Transmisie și ambreiaj — piese pentru camioane Ford](https://fordcargo.ro/categorie/transmisie/)
+- [Frânare — piese pentru camioane Ford](https://fordcargo.ro/categorie/franare/)
+- [Suspensie și roți — piese pentru camioane Ford](https://fordcargo.ro/categorie/suspensie/)
+- [Direcție — piese pentru camioane Ford](https://fordcargo.ro/categorie/directie/)
+- [Electrică și iluminare — piese pentru camioane Ford](https://fordcargo.ro/categorie/electric/)
+- [Răcire — piese pentru camioane Ford](https://fordcargo.ro/categorie/racire/)
+- [Cabină și caroserie — piese pentru camioane Ford](https://fordcargo.ro/categorie/cabina/)
+- [Filtre și întreținere — piese pentru camioane Ford](https://fordcargo.ro/categorie/filtre/)
+- [Turbo, admisie și evacuare — piese pentru camioane Ford](https://fordcargo.ro/categorie/turbo/)
+- [Alimentare, injecție și AdBlue — piese pentru camioane Ford](https://fordcargo.ro/categorie/alimentare/)
+- [Încălzire și climatizare — piese pentru camioane Ford](https://fordcargo.ro/categorie/climatizare/)
+- [Șasiu, fixări și alte componente — piese pentru camioane Ford](https://fordcargo.ro/categorie/alte/)
+
+## Optional
+
+- [Referințe în engleză / English reference index](https://fordcargo.ro/en/references/)
+- [Politica de confidențialitate](https://fordcargo.ro/politici/confidentialitate/)
+- [Sitemap](https://fordcargo.ro/sitemap.xml)

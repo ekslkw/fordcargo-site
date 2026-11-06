@@ -1,0 +1,830 @@
+F11353	Rear spring cross member, front	Traversă arc spate, față
+F11354	Chassis cross member	Traversă șasiu
+F11355	Front axle cross member 4142	Traversă punte față 4142
+F11356	Floor cross member, front	Traversă podea, față
+F11357	Engine cross member	Traversă motor
+F11358	Rear cross member 27 T	Traversă spate 27 T
+F11359	Longitudinal cross member, rear LH	Traversă longitudinală, spate stânga
+F11360	Battery tray assembly, LH	Tavă baterie ansamblu, stânga
+F11361	Battery tray assembly	Tavă baterie ansamblu
+F11362	Battery tray assembly, cold pack	Tavă baterie ansamblu, pachet climat rece
+F11363	Battery tray assembly, cold pack	Tavă baterie ansamblu, pachet climat rece
+F11364	Battery tray, LH	Tavă baterie, stânga
+F11365	Engine air cleaner tray	Tavă filtru de aer motor
+F11366	Engine air cleaner tray	Tavă filtru de aer motor
+F11367	Engine wiring harness tray	Tavă cablaj motor
+F11368	SCR tank tray	Tavă rezervor SCR
+F11369	SCR tank tray	Tavă rezervor SCR
+F11370	Front bumper step, F-MAX	Treaptă bară de protecție față, F-MAX
+F11371	Front bumper lower step	Treaptă inferioară bară de protecție față
+F11372	Lower step, RH	Treaptă inferioară scară, dreapta
+F11373	Lower step, LH	Treaptă inferioară scară, stânga
+F11374	Cab front step	Treaptă scară față cabină
+F11375	Middle step, F-MAX	Treaptă mijloc scară, F-MAX
+F11376	Rear cab step, fender	Treaptă spate cabină, aripă
+F11377	Upper step, F-MAX	Treaptă superioară, F-MAX
+F11378	Insert nut	Piuliță inserție
+F11379	Trim	Ornament
+F11380	Front door trim assembly, RH	Ornament ușă față ansamblu, dreapta
+F11381	Front door trim assembly, LH	Ornament ușă față ansamblu, stânga
+F11382	Front door trim assembly, RH	Ornament ușă față ansamblu, dreapta
+F11383	Front body pillar to instrument panel filler trim	Ornament de umplere stâlp caroserie față – panou de bord
+F11384	Trim pin 5 5 4X1 6 10 3, push-in, plain	Știft ornament 5 5 4X1 6 10 3, cu apăsare, simplu
+F11385	Trim pin 5X0 6 2, plain	Știft ornament 5X0 6 2, simplu
+F11386	Trim pin 6X28, nylon	Știft ornament 6X28, nailon
+F11387	Outside rear view mirror trim	Ornament oglindă retrovizoare exterioară
+F11388	Outside rear view mirror trim, LH	Ornament oglindă retrovizoare exterioară, stânga
+F11389	Trunnion hub seal driver	Dorn montaj simering butuc trunion
+F11390	SCR tank tray	Tavă rezervor SCR
+F11391	A/C compressor to heater tube	Țeavă AC compresor – aerotermă
+F11392	A/C compressor to radiator tube	Țeavă AC compresor – radiator
+F11393	A/C tube assembly, compressor to condenser	Țeavă AC ansamblu, compresor – condensator
+F11394	A/C tube assembly, dehydrator to condenser	Țeavă AC ansamblu, deshidrator – condensator
+F11395	A/C tube assembly, dehydrator to evaporator	Țeavă AC ansamblu, deshidrator – evaporator
+F11396	A/C tube assembly, evaporator to compressor	Țeavă AC ansamblu, evaporator – compresor
+F11397	Tube assembly, cab floor connector to slave cylinder	Conductă ansamblu, conector podea cabină – cilindru receptor
+F11398	Fuel injection pump inlet tube assembly	Conductă ansamblu admisie pompă de injecție
+F11399	Tube assembly, fuel pump to fuel rail	Conductă ansamblu, pompă combustibil – rampă combustibil
+F11400	Fuel supply tube assembly	Conductă ansamblu alimentare combustibil
+F11401	Tube assembly, rear axle air shift to differential	Conductă ansamblu, comandă pneumatică punte spate – diferențial
+F11402	Transmission oil tube, main shaft	Conductă ulei cutie de viteze, arbore principal
+F11403	Transmission oil supply tube	Conductă alimentare ulei cutie de viteze
+F11404	Transmission oil transfer tube	Conductă transfer ulei cutie de viteze
+F11405	Tube	Conductă
+F11406	Breather tube	Conductă aerisire
+F11407	Tube, fuel filter to fuel pump	Conductă, filtru combustibil – pompă combustibil
+F11408	Heater water tube	Conductă apă încălzire
+F11409	Air cleaner tube	Conductă filtru de aer
+F11410	Air cleaner intake tube	Conductă admisie filtru de aer
+F11411	Air cleaner intake tube	Conductă admisie filtru de aer
+F11412	Tube, air compressor to water pump	Conductă, compresor aer – pompă de apă
+F11413	Air cylinder tube	Conductă cilindru pneumatic
+F11414	Heater water outlet tube and bracket assembly	Conductă ieșire apă încălzire cu suport, ansamblu
+F11415	Water pump inlet tube and flange assembly	Conductă admisie pompă de apă cu flanșă, ansamblu
+F11416	Oil level indicator tube and dipstick assembly	Tub joja nivel ulei cu jojă, ansamblu
+F11417	Slave cylinder tube assembly	Conductă cilindru receptor ansamblu
+F11418	Tube assembly	Conductă ansamblu
+F11419	A/C tube assembly	Țeavă AC ansamblu
+F11420	Air conditioning tube assembly	Țeavă climatizare ansamblu
+F11421	A/C compressor suction tube assembly	Țeavă AC ansamblu, aspirație compresor
+F11422	A/C compressor suction and discharge tube assembly	Țeavă AC ansamblu, aspirație și refulare compresor
+F11423	A/C tube assembly, compressor to condenser	Țeavă AC ansamblu, compresor – condensator
+F11424	A/C tube assembly, dehydrator to condenser	Țeavă AC ansamblu, deshidrator – condensator
+F11425	A/C tube assembly, dehydrator to evaporator	Țeavă AC ansamblu, deshidrator – evaporator
+F11426	A/C tube assembly, dehydrator to evaporator	Țeavă AC ansamblu, deshidrator – evaporator
+F11427	A/C tube assembly, dehydrator to condenser	Țeavă AC ansamblu, deshidrator – condensator
+F11428	A/C evaporator tube assembly	Țeavă AC ansamblu, evaporator
+F11429	A/C evaporator drain tube assembly	Tub scurgere evaporator AC, ansamblu
+F11430	A/C tube assembly, evaporator to compressor	Țeavă AC ansamblu, evaporator – compresor
+F11431	A/C tube assembly, evaporator to compressor	Țeavă AC ansamblu, evaporator – compresor
+F11432	Brake tube assembly, cylinder coupling to brake booster	Conductă frână ansamblu, cuplaj cilindru – servofrână
+F11433	Tube assembly, cab floor connector to slave cylinder	Conductă ansamblu, conector podea cabină – cilindru receptor
+F11434	Air inlet tube assembly	Conductă admisie aer ansamblu
+F11435	Air inlet tube assembly, front	Conductă admisie aer ansamblu, față
+F11436	Doser tube assembly	Conductă dozator ansamblu
+F11437	Exhaust doser tube assembly	Conductă dozator evacuare ansamblu
+F11438	Exhaust aftertreatment doser tube assembly	Conductă dozator post-tratare gaze evacuare, ansamblu
+F11439	Exhaust aftertreatment solution doser tube assembly	Conductă dozator soluție post-tratare gaze evacuare, ansamblu
+F11440	EGR cooler outlet tube assembly	Conductă ieșire răcitor EGR, ansamblu
+F11441	EGR cooler outlet tube assembly	Conductă ieșire răcitor EGR, ansamblu
+F11442	EGR cooler tube assembly	Conductă răcitor EGR, ansamblu
+F11443	Engine tube assembly	Conductă motor ansamblu
+F11444	Engine charge air cooler inlet tube assembly	Conductă admisie intercooler motor, ansamblu
+F11445	Engine charge air cooler outlet tube assembly	Conductă ieșire intercooler motor, ansamblu
+F11446	Tube assembly, turbocharger to cylinder block oil	Conductă ulei ansamblu, turbocompresor – bloc motor
+F11447	Evaporator and heat exchanger tube assembly	Conductă evaporator și schimbător de căldură, ansamblu
+F11448	Front tube assembly	Conductă ansamblu, față
+F11449	Fuel injection tube assembly, cylinder #2	Conductă injecție combustibil ansamblu, cilindrul 2
+F11450	Fuel injection tube assembly, cylinder #3	Conductă injecție combustibil ansamblu, cilindrul 3
+F11451	Fuel injection tube assembly, cylinder #4	Conductă injecție combustibil ansamblu, cilindrul 4
+F11452	Fuel injection tube assembly, cylinder #5	Conductă injecție combustibil ansamblu, cilindrul 5
+F11453	Fuel injection tube assembly, cylinder #6	Conductă injecție combustibil ansamblu, cilindrul 6
+F11454	Fuel injection pump fuel return tube assembly	Conductă retur combustibil pompă de injecție, ansamblu
+F11455	Fuel injection pump inlet tube assembly	Conductă admisie pompă de injecție, ansamblu
+F11456	Tube assembly, fuel pump to fuel rail	Conductă ansamblu, pompă combustibil – rampă combustibil
+F11457	Tube assembly, fuel tank to fuel filter	Conductă ansamblu, rezervor combustibil – filtru combustibil
+F11458	Fuel lift pump inlet tube assembly	Conductă admisie pompă de alimentare combustibil, ansamblu
+F11459	Fuel return tube assembly	Conductă retur combustibil, ansamblu
+F11460	Fuel supply tube assembly	Conductă alimentare combustibil, ansamblu
+F11461	Fuel supply tube assembly	Conductă alimentare combustibil, ansamblu
+F11462	Oil level indicator tube assembly	Tub joja nivel ulei, ansamblu
+F11463	Oil pump inlet tube assembly	Conductă admisie pompă ulei, ansamblu
+F11464	Power steering tube assembly	Conductă servodirecție, ansamblu
+F11465	Power steering return line tube assembly	Conductă retur servodirecție, ansamblu
+F11466	Tube assembly, rear axle air shift to differential	Conductă ansamblu, comandă pneumatică punte spate – diferențial
+F11467	Return to tank tube assembly, LH	Conductă retur la rezervor, ansamblu, stânga
+F11468	Turbocharger oil return tube assembly	Conductă retur ulei turbocompresor, ansamblu
+F11469	Transmission oil cooler outlet tube assembly, intermediate	Conductă ieșire răcitor ulei cutie de viteze, ansamblu, intermediară
+F11470	Water bypass tube assembly, upper	Conductă bypass apă, ansamblu, superioară
+F11471	Power steering tube assembly	Conductă servodirecție, ansamblu
+F11472	Tube assembly	Conductă ansamblu
+F11473	Clutch tube assembly, intermediate	Conductă ambreiaj ansamblu, intermediară
+F11474	Compressor delivery tube assembly	Conductă refulare compresor, ansamblu
+F11475	Exhaust doser tube assembly	Conductă dozator evacuare, ansamblu
+F11476	Drain tube assembly	Conductă scurgere, ansamblu
+F11477	Fuel leak-off tube assembly	Conductă retur scurgeri combustibil, ansamblu
+F11478	Radiator lower hose tube assembly	Conductă furtun inferior radiator, ansamblu
+F11479	A/C tube assembly, compressor to condenser	Țeavă AC ansamblu, compresor – condensator
+F11480	A/C tube assembly, dehydrator to condenser	Țeavă AC ansamblu, deshidrator – condensator
+F11481	A/C tube assembly, dehydrator to evaporator	Țeavă AC ansamblu, deshidrator – evaporator
+F11482	A/C tube assembly, evaporator to compressor	Țeavă AC ansamblu, evaporator – compresor
+F11483	A/C outlet tube assembly	Țeavă ieșire AC, ansamblu
+F11484	A/C tube assembly, evaporator to condenser	Țeavă AC ansamblu, evaporator – condensator
+F11485	Air brake tube assembly 6.0 mm, green	Conductă frână pneumatică ansamblu 6.0 mm, verde
+F11486	Hydraulic clutch tube assembly	Conductă ambreiaj hidraulic, ansamblu
+F11487	Clutch tube assembly, intermediate	Conductă ambreiaj ansamblu, intermediară
+F11488	Cold start injection tube assembly	Conductă injecție pornire la rece, ansamblu
+F11489	Cold start injection fuel tube assembly	Conductă combustibil injecție pornire la rece, ansamblu
+F11490	Compressor delivery tube assembly	Conductă refulare compresor, ansamblu
+F11491	Crankcase vent oil return tube assembly	Conductă retur ulei aerisire carter, ansamblu
+F11492	Fuel injection tube assembly, cylinder 1	Conductă injecție combustibil ansamblu, cilindrul 1
+F11493	Fuel injection tube assembly, cylinder 2	Conductă injecție combustibil ansamblu, cilindrul 2
+F11494	Fuel injection tube assembly, cylinder 3	Conductă injecție combustibil ansamblu, cilindrul 3
+F11495	Fuel injection tube assembly, cylinder 4	Conductă injecție combustibil ansamblu, cilindrul 4
+F11496	Fuel injection tube assembly, cylinder 5	Conductă injecție combustibil ansamblu, cilindrul 5
+F11497	Fuel injection tube assembly, cylinder 6	Conductă injecție combustibil ansamblu, cilindrul 6
+F11498	Tube assembly, fuel line to fuel rail, right	Conductă ansamblu, linie combustibil – rampă combustibil, dreapta
+F11499	Fuel tube assembly	Conductă combustibil, ansamblu
+F11500	Fuel injection pump inlet tube assembly	Conductă admisie pompă de injecție, ansamblu
+F11501	Fuel injection pump return tube assembly	Conductă retur pompă de injecție, ansamblu
+F11502	Fuel injector tube assembly	Conductă injector combustibil, ansamblu
+F11503	Fuel return tube assembly	Conductă retur combustibil, ansamblu
+F11504	Fuel injection tube assembly, cylinder 2	Conductă injecție combustibil ansamblu, cilindrul 2
+F11505	Fuel injection tube assembly, cylinder 5	Conductă injecție combustibil ansamblu, cilindrul 5
+F11506	Cylinder head return tube assembly	Conductă retur chiulasă, ansamblu
+F11507	Main filter tube assembly	Conductă filtru principal, ansamblu
+F11508	Radiator outlet tube assembly	Conductă ieșire radiator, ansamblu
+F11509	Radiator upper hose tube assembly	Conductă furtun superior radiator, ansamblu
+F11510	Main filter tube assembly	Conductă filtru principal, ansamblu
+F11511	Auxiliary heater supply tube	Conductă alimentare încălzitor auxiliar
+F11512	Heater hose tube and bracket assembly	Conductă furtun încălzire cu suport, ansamblu
+F11513	Brake tube, compressor to reservoir	Conductă frână, compresor – rezervor aer
+F11514	Brake control valve outlet tube	Conductă ieșire supapă comandă frână
+F11515	Breather tube	Conductă aerisire
+F11516	Air cleaner tube	Conductă filtru de aer
+F11517	Air cleaner tube	Conductă filtru de aer
+F11518	Air cleaner air outlet tube	Conductă ieșire aer filtru de aer
+F11519	Air cleaner outlet tube	Conductă ieșire filtru de aer
+F11520	Air cleaner outlet tube, upper	Conductă ieșire filtru de aer, superioară
+F11521	Crankcase ventilation tube	Conductă ventilație carter
+F11522	EGR cooler water inlet tube	Conductă admisie apă răcitor EGR
+F11523	EGR cooler water outlet tube	Conductă ieșire apă răcitor EGR
+F11524	EGR cooler outlet tube	Conductă ieșire răcitor EGR
+F11525	Wiring harness tube	Tub protecție cablaj electric
+F11526	Wiring harness routing tube	Tub ghidare cablaj electric
+F11527	Engine air cleaner outlet tube	Conductă ieșire filtru de aer motor
+F11528	Exhaust gas recirculation tube	Conductă recirculare gaze de evacuare (EGR)
+F11529	Catalyst filter tube	Conductă filtru catalizator
+F11530	Exhaust particulate filter tube, high pressure	Conductă filtru de particule, presiune înaltă
+F11531	Exhaust particulate filter tube, low pressure	Conductă filtru de particule, presiune joasă
+F11532	Front body pillar tube, front	Țeavă stâlp caroserie față, față
+F11533	Tube, fuel filter to fuel pump	Conductă, filtru combustibil – pompă combustibil
+F11534	Fuel leak-off tube	Conductă retur scurgeri combustibil
+F11535	Tube, fuel pump to fuel filter	Conductă, pompă combustibil – filtru combustibil
+F11536	Tube, fuel pump to fuel filter	Conductă, pompă combustibil – filtru combustibil
+F11537	Fuel tube, yellow, 30 m	Conductă combustibil, galbenă, 30 m
+F11538	Fuel valve tube	Conductă supapă combustibil
+F11539	Front door guide tube	Tub ghidaj ușă față
+F11540	Front door window shade guide tube, rear LH	Tub ghidaj parasolar geam ușă față, spate stânga
+F11541	Auxiliary heater tube	Conductă încălzitor auxiliar
+F11542	Auxiliary heater air intake tube	Conductă admisie aer încălzitor auxiliar
+F11543	Heater hose tube	Conductă furtun încălzire
+F11544	Nylon tube	Conductă nailon
+F11545	Nylon tube 1/4 outside diameter, truck only	Conductă nailon diametru exterior 1/4, doar camion
+F11546	Nylon tube 1/4 outside diameter, US	Conductă nailon diametru exterior 1/4, US
+F11547	Nylon tube 1/4 outside diameter	Conductă nailon diametru exterior 1/4
+F11548	Nylon tube 16 mm, less ends	Conductă nailon 16 mm, fără capete
+F11549	Nylon tube 16 mm, less ends	Conductă nailon 16 mm, fără capete
+F11550	Nylon tube 5/16 outside diameter, US	Conductă nailon diametru exterior 5/16, US
+F11551	Nylon tube 5/16 outside diameter, US	Conductă nailon diametru exterior 5/16, US
+F11552	Nylon tube 5/16 outside diameter	Conductă nailon diametru exterior 5/16
+F11553	Nylon brake tube 12 mm, blue, 10 m	Conductă frână nailon 12 mm, albastră, 10 m
+F11554	Nylon brake tube 12 mm, green, 10 m	Conductă frână nailon 12 mm, verde, 10 m
+F11555	Nylon brake tube 12 mm, red, 10 m	Conductă frână nailon 12 mm, roșie, 10 m
+F11556	Nylon brake tube 12 mm, yellow, 10 m	Conductă frână nailon 12 mm, galbenă, 10 m
+F11557	Nylon tube bulk 16.0 mm, red	Conductă nailon la metru 16.0 mm, roșie
+F11558	Nylon tube bulk 6 mm, blue	Conductă nailon la metru 6 mm, albastră
+F11559	Nylon tube bulk 9.0 mm, red	Conductă nailon la metru 9.0 mm, roșie
+F11560	Nylon tube bulk, green	Conductă nailon la metru, verde
+F11561	Outlet tube	Conductă ieșire
+F11562	Exhaust aftertreatment reservoir cooler inlet tube	Conductă intrare răcitor rezervor post-tratare gaze evacuare
+F11563	Fender stop lamp support tube, LH	Țeavă suport lampă stop aripă, stânga
+F11564	Fender stop lamp support tube, RH	Țeavă suport lampă stop aripă, dreapta
+F11565	Rear fender stop lamp support tube	Țeavă suport lampă stop aripă spate
+F11566	Exhaust aftertreatment tank tube	Conductă rezervor post-tratare gaze evacuare
+F11567	Thermostat to engine cooler tube	Conductă termostat – răcitor motor
+F11568	Transmission gear shift tube, lower	Țeavă schimbător viteze cutie de viteze, inferioară
+F11569	Transmission oil tube, control body to case	Conductă ulei cutie de viteze, corp comandă – carcasă
+F11570	Transmission oil cooler tube	Conductă răcitor ulei cutie de viteze
+F11571	Transmission oil cooler outlet tube, rear	Conductă ieșire răcitor ulei cutie de viteze, spate
+F11572	Transmission oil spray tube	Conductă pulverizare ulei cutie de viteze
+F11573	Transmission oil transfer tube	Conductă transfer ulei cutie de viteze
+F11574	Tube, transmission to oil cooler outlet	Conductă, cutie de viteze – ieșire răcitor ulei
+F11575	Water bypass tube	Conductă bypass apă
+F11576	Water drain tube	Conductă scurgere apă
+F11577	Yoke tube	Țeavă furcă
+F11578	Nylon tube bulk 16.0 mm, red	Conductă nailon la metru 16.0 mm, roșie
+F11579	Brake compressor tube	Conductă compresor frână
+F11580	Air cleaner tube	Conductă filtru de aer
+F11581	Nylon tube	Conductă nailon
+F11582	Nylon tube bulk, green	Conductă nailon la metru, verde
+F11583	Air filter ducting	Tubulatură filtru aer
+F11584	Turbo lubrication pipe removal tool	Sculă demontare conductă ungere turbo
+F11585	Turbo oil feed pipe bracket	Suport conductă alimentare ulei turbo
+F11586	Turbo oil feed pipe removal/installation tool	Sculă demontare/montare conductă alimentare ulei turbo
+F11587	Turbocharger assembly	Turbocompresor ansamblu
+F11588	Turbocharger assembly	Turbocompresor ansamblu
+F11589	Turbocharger assembly	Turbocompresor ansamblu
+F11590	Turbocharger downpipe 9.0L EU5	Țeavă evacuare turbocompresor 9.0L EU5
+F11591	Engine turning tool via crankshaft	Sculă rotire motor prin arborele cotit
+F11592	Twin clutch pressure plate bearing ring pliers	Clește inel rulment placă de presiune ambreiaj dublu
+F11593	Two-shaft assembly locator block	Bloc poziționare ansamblu cu doi arbori
+F11594	Two-shaft assembly tray	Tavă ansamblu cu doi arbori
+F11595	TXV to evaporator fixing block	Bloc fixare supapă de expansiune (TXV) – evaporator
+F11596	Tyre	Anvelopă
+F11597	Rear spring U-bolt	Bridă arc spate
+F11598	U-bolt	Bridă
+F11599	U-bolt 120	Bridă 120
+F11600	U-bolt clamp plate	Placă de strângere bridă
+F11601	Exhaust pipe U-bolt, front	Bridă țeavă evacuare, față
+F11602	Front stabilizer bar U-bolt	Bridă bară stabilizatoare față
+F11603	Front spring U-bolt	Bridă arc față
+F11604	Front spring U-bolt	Bridă arc față
+F11605	Muffler inlet pipe U-bolt	Bridă țeavă intrare tobă evacuare
+F11606	Radiator pipe mounting clamp U-bolt	Bridă colier montaj conductă radiator
+F11607	Rear spring U-bolt	Bridă arc spate
+F11608	Rear spring U-bolt 6X4	Bridă arc spate 6X4
+F11609	Rear suspension link U-bolt	Bridă bieletă suspensie spate
+F11610	Rear air suspension U-bolt	Bridă suspensie pneumatică spate
+F11611	Rear axle U-bolt	Bridă punte spate
+F11612	Rear spring U-bolt	Bridă arc spate
+F11613	Steering stabilizer cross U-bolt	Bridă traversă stabilizator direcție
+F11614	Front spring U-bolt	Bridă arc față
+F11615	Tag axle U-bolt	Bridă punte suplimentară
+F11616	Underbody assembly, front	Podea caroserie ansamblu, față
+F11617	Oil 75W 85, axle 470, 205 L	Ulei 75W 85, punte 470, 205 L
+F11618	Rear axle oil 75W 85	Ulei punte spate 75W 85
+F11619	Rear axle oil 75W 85, 20 L	Ulei punte spate 75W 85, 20 L
+F11620	Gearbox oil 75W80, 208 L	Ulei cutie de viteze 75W80, 208 L
+F11621	Differential oil 85W 140	Ulei diferențial 85W 140
+F11622	Axle oil 85W140, 205 L	Ulei grup 85W140, 205 L
+F11623	Axle oil 85W140, 20 L	Ulei grup 85W140, 20 L
+F11624	Engine oil 5W30, 18 L	Ulei motor 5W30, 18 L
+F11625	Engine oil 5W30, 205 L	Ulei motor 5W30, 205 L
+F11626	Engine oil 5W20, 18 L	Ulei motor 5W20, 18 L
+F11627	Engine oil XLD 5W20	Ulei motor XLD 5W20
+F11628	Power steering oil	Ulei servodirecție
+F11629	Transmission oil 75W 80, long life	Ulei cutie de viteze 75W 80, long life
+F11630	Ultrasonic leak detector	Detector ultrasonic de scurgeri
+F11631	Underbody assembly	Podea caroserie ansamblu
+F11632	Underbody assembly	Podea caroserie ansamblu
+F11633	Underbody assembly, front	Podea caroserie ansamblu, față
+F11634	Underbody assembly, sleeper compartment	Podea caroserie ansamblu, compartiment de dormit
+F11635	Underbody assembly, front	Podea caroserie ansamblu, față
+F11636	Underbody dash panel assembly	Panou perete frontal podea caroserie, ansamblu
+F11637	Display unit	Unitate afișaj
+F11638	Brake unit assembly	Unitate frână, ansamblu
+F11639	Anti-lock brake and traction control unit assembly, complete	Unitate ABS și control tracțiune, ansamblu complet
+F11640	Engine oil unit assembly	Unitate ulei motor, ansamblu
+F11641	Multifunction unit assembly	Unitate multifuncțională, ansamblu
+F11642	Integrated vehicle dynamics control multifunction unit assembly	Unitate multifuncțională control integrat dinamică vehicul, ansamblu
+F11643	Anti-lock brake control unit assembly, E series	Unitate comandă ABS, ansamblu, seria E
+F11644	Engine oil unit assembly	Unitate ulei motor, ansamblu
+F11645	Engine oil cooler unit assembly	Unitate răcitor ulei motor, ansamblu
+F11646	Unloading hose	Furtun descărcare
+F11647	Integrated vehicle dynamics multifunction control unit assembly	Unitate comandă multifuncțională dinamică vehicul integrată, ansamblu
+F11648	Upper air spring plate weldment, LH	Placă superioară pernă de aer, sudată, stânga
+F11649	Upper air spring plate weldment, RH	Placă superioară pernă de aer, sudată, dreapta
+F11650	Driver's seat upper spring	Arc superior scaun șofer
+F11651	Urea	Uree
+F11652	Door, RH, F-MAX	Ușă dreapta, F-MAX
+F11653	Door, LH, F-MAX	Ușă stânga, F-MAX
+F11654	USB cable A-C 3 m with ferrite (KTRC46 interface)	Cablu USB A-C 3 m cu ferită (interfață KTRC46)
+F11655	USB CAN interface device	Dispozitiv interfață USB CAN
+F11656	USB stick 32 GB	Stick USB 32 GB
+F11657	USB to ODU cable	Cablu USB – ODU
+F11658	User manual	Manual de utilizare
+F11659	User manual, Arabic/English, F-MAX	Manual de utilizare, arabă/engleză, F-MAX
+F11660	User manual, Arabic/English, Legacy	Manual de utilizare, arabă/engleză, Legacy
+F11661	User manual, English, Legacy	Manual de utilizare, engleză, Legacy
+F11662	User manual, French, F-MAX	Manual de utilizare, franceză, F-MAX
+F11663	User manual, Hebrew, F-MAX	Manual de utilizare, ebraică, F-MAX
+F11664	User manual, Hebrew, Legacy	Manual de utilizare, ebraică, Legacy
+F11665	User manual, Italian, F-MAX	Manual de utilizare, italiană, F-MAX
+F11666	User manual, Italian, Legacy	Manual de utilizare, italiană, Legacy
+F11667	User manual, Polish, F-MAX	Manual de utilizare, poloneză, F-MAX
+F11668	User manual, Polish, Legacy	Manual de utilizare, poloneză, Legacy
+F11669	User manual, Portuguese, F-MAX	Manual de utilizare, portugheză, F-MAX
+F11670	User manual, Portuguese, Legacy	Manual de utilizare, portugheză, Legacy
+F11671	User manual, Russian, F-MAX	Manual de utilizare, rusă, F-MAX
+F11672	User manual, Spanish, F-MAX	Manual de utilizare, spaniolă, F-MAX
+F11673	User manual, Spanish, Legacy	Manual de utilizare, spaniolă, Legacy
+F11674	User manual, English, F-MAX	Manual de utilizare, engleză, F-MAX
+F11675	User manual, Turkish, F-MAX	Manual de utilizare, turcă, F-MAX
+F11676	User manual, Turkish, Legacy	Manual de utilizare, turcă, Legacy
+F11677	Front bumper extension, RH (primed)	Prelungire bară de protecție față, dreapta (grunduită)
+F11678	V-arm long head bolt	Șurub cu cap lung braț în V
+F11679	Rear suspension V-arm 6X4	Braț în V suspensie spate 6X4
+F11680	V-arm short head bolt	Șurub cu cap scurt braț în V
+F11681	V-band clamp, intercooler pipe mounting	Colier bandă V, montaj conductă intercooler
+F11682	V-band clamp, turbocharger to intercooler mounting	Colier bandă V, montaj turbocompresor – intercooler
+F11683	Rear suspension V-lever	Pârghie în V suspensie spate
+F11684	V-ring	Inel V (simering V-ring)
+F11685	Transmission gear shift housing V-ring	Inel V carcasă schimbător viteze cutie de viteze
+F11686	Transmission selector lever V-ring	Inel V levier selector cutie de viteze
+F11687	V-rod shock absorber installation fixture	Dispozitiv montaj amortizor bară în V
+F11688	V-belt, 9L industrial Stage V	Curea trapezoidală, 9L industrial Stage V
+F11689	Valance, driver side, back	Ornament inferior, partea șoferului, spate
+F11690	Valance, driver side, LH	Ornament inferior, partea șoferului, stânga
+F11691	Front seat valance, LH	Ornament inferior scaun față, stânga
+F11692	Intake valve	Supapă admisie
+F11693	Steering column valve, F-MAX	Supapă coloană volan, F-MAX
+F11694	Exhaust valve	Supapă evacuare
+F11695	Alloy wheel valve	Valvă jantă aliaj
+F11696	Fuel rail pressure valve 9L	Supapă presiune rampă 9L
+F11697	Exhaust gas recirculation valve	Supapă recirculare gaze (EGR)
+F11698	Valve	Supapă
+F11699	Exhaust valve	Supapă evacuare
+F11700	Intake valve	Supapă admisie
+F11701	ASR valve	Supapă ASR
+F11702	Air valve assembly	Supapă aer, ansamblu
+F11703	Air suspension valve assembly	Supapă suspensie pneumatică, ansamblu
+F11704	Air spring suspension solenoid valve assembly	Electrovalvă suspensie pneumatică, ansamblu
+F11705	Brake valve assembly	Supapă frână, ansamblu
+F11706	Brake air condenser return valve assembly	Supapă retur condensator aer frână, ansamblu
+F11707	Brake air pressure reducing valve assembly	Supapă reducere presiune aer frână, ansamblu
+F11708	Brake double check valve assembly	Supapă dublă de reținere frână, ansamblu
+F11709	Brake moisture ejector valve assembly	Supapă evacuare umiditate frână, ansamblu
+F11710	Brake pressure metering valve assembly	Supapă dozare presiune frână, ansamblu
+F11711	Cab suspension valve assembly	Supapă suspensie cabină, ansamblu
+F11712	Cab suspension spring control valve assembly	Supapă comandă arc suspensie cabină, ansamblu
+F11713	Positive crankcase ventilation oil drain check valve assembly	Supapă de reținere scurgere ulei ventilație carter, ansamblu
+F11714	Drive valve assembly	Supapă acționare, ansamblu
+F11715	EGR valve assembly	Supapă EGR, ansamblu
+F11716	EGR vacuum regulator valve assembly	Supapă reglare vacuum EGR, ansamblu
+F11717	Exhaust brake valve assembly	Supapă frână de motor (evacuare), ansamblu
+F11718	Fuel pressure regulator valve assembly	Supapă reglare presiune combustibil, ansamblu
+F11719	Fuel pressure relief valve assembly	Supapă limitare presiune combustibil, ansamblu
+F11720	Oil valve assembly	Supapă ulei, ansamblu
+F11721	Oil anti-drainback valve assembly	Supapă anti-retur ulei, ansamblu
+F11722	Oil pressure relief valve assembly	Supapă limitare presiune ulei, ansamblu
+F11723	Parking brake air valve assembly	Supapă aer frână de parcare, ansamblu
+F11724	Rear valve assembly	Supapă spate, ansamblu
+F11725	Rear axle shift solenoid valve assembly	Electrovalvă comandă punte spate, ansamblu
+F11726	Stabilizer valve assembly	Supapă stabilizator, ansamblu
+F11727	Tire valve assembly	Valvă anvelopă, ansamblu
+F11728	Trailer valve assembly	Supapă remorcă, ansamblu
+F11729	Trailer brake hand control valve assembly	Supapă comandă manuală frână remorcă, ansamblu
+F11730	Transmission control valve assembly	Supapă comandă cutie de viteze, ansamblu
+F11731	Transmission oil cooler bypass valve assembly	Supapă bypass răcitor ulei cutie de viteze, ansamblu
+F11732	Turbo engine control shut-off valve assembly	Supapă închidere comandă motor turbo, ansamblu
+F11733	Turbocharger inlet valve assembly	Supapă admisie turbocompresor, ansamblu
+F11734	Valve assembly	Supapă, ansamblu
+F11735	Air filter valve assembly	Supapă filtru de aer, ansamblu
+F11736	Air production valve assembly	Supapă producție aer, ansamblu
+F11737	Brake pressure control valve assembly	Supapă control presiune frână, ansamblu
+F11738	Evaporator expansion valve assembly	Supapă de expansiune evaporator, ansamblu
+F11739	Fuel heater valve assembly	Supapă încălzire combustibil, ansamblu
+F11740	Fuel tank valve assembly	Supapă rezervor combustibil, ansamblu
+F11741	Fuel vapour valve assembly	Supapă vapori combustibil, ansamblu
+F11742	Heater water control valve assembly	Robinet comandă apă încălzire, ansamblu
+F11743	Pressure feed valve assembly	Supapă alimentare sub presiune, ansamblu
+F11744	Pressure reducing valve assembly	Supapă reducere presiune, ansamblu
+F11745	Trailer control valve assembly	Supapă comandă remorcă, ansamblu
+F11746	Air pressure reducing valve assembly	Supapă reducere presiune aer, ansamblu
+F11747	APU valve assembly	Supapă APU, ansamblu
+F11748	Brake control valve assembly	Supapă comandă frână, ansamblu
+F11749	Exhaust brake valve assembly	Supapă frână de motor (evacuare), ansamblu
+F11750	Heater water control valve assembly	Robinet comandă apă încălzire, ansamblu
+F11751	Levelling valve assembly	Supapă nivelare, ansamblu
+F11752	Load apportioning valve assembly	Supapă repartiție frânare în funcție de sarcină, ansamblu
+F11753	Parking brake air valve assembly	Supapă aer frână de parcare, ansamblu
+F11754	Parking brake control valve assembly	Supapă comandă frână de parcare, ansamblu
+F11755	Steering hydraulic distributor valve assembly	Supapă distribuitor hidraulic direcție, ansamblu
+F11756	Tyre valve assembly	Valvă anvelopă, ansamblu
+F11757	Air pressure reducer valve assembly	Supapă reducere presiune aer, ansamblu
+F11758	APU valve assembly	Supapă APU, ansamblu
+F11759	Valve block	Bloc supape
+F11760	Brake pressure valve	Supapă presiune frână
+F11761	Brake air reservoir drain valve	Supapă purjare rezervor aer frână
+F11762	Valve cover	Capac culbutori
+F11763	Engine air cleaner valve	Supapă filtru de aer motor
+F11764	Engine air cleaner drain valve	Supapă evacuare praf filtru de aer motor
+F11765	Engine piston cooler oil feed restrictor valve	Supapă restricție alimentare ulei răcire pistoane motor
+F11766	Exhaust valve	Supapă evacuare
+F11767	Exhaust valve	Supapă evacuare
+F11768	Exhaust aftertreatment urea pipe heater valve	Supapă încălzire conductă uree post-tratare gaze evacuare
+F11769	Hand brake valve, complete	Supapă frână de mână, completă
+F11770	Valve guide	Ghid supapă
+F11771	Valve guide remover	Sculă extragere ghid supapă
+F11772	Valve guide, standard, exhaust	Ghid supapă, standard, evacuare
+F11773	Valve guide, standard, intake	Ghid supapă, standard, admisie
+F11774	Inlet valve	Supapă admisie
+F11775	Intake valve	Supapă admisie
+F11776	Valve cotter key	Semicon (siguranță) supapă
+F11777	Oil pressure regulator valve	Supapă reglare presiune ulei
+F11778	Valve spring retainer, lower	Taler arc supapă, inferior
+F11779	Valve spring retainer, upper	Taler arc supapă, superior
+F11780	Retarder control valve	Supapă comandă retarder
+F11781	Valve seat adjusting tool	Sculă reglare scaun supapă
+F11782	Exhaust valve seat	Scaun supapă evacuare
+F11783	Intake valve seat	Scaun supapă admisie
+F11784	Intake valve spring	Arc supapă admisie
+F11785	Valve tool	Sculă supape
+F11786	Transmission control valve, rear servo lockout	Supapă comandă cutie de viteze, blocare servo spate
+F11787	Transmission main oil pressure reducing valve	Supapă reducere presiune principală ulei cutie de viteze
+F11788	Transmission pump flow control valve	Supapă control debit pompă cutie de viteze
+F11789	Transmission range selection valve	Supapă selecție gamă cutie de viteze
+F11790	Engine air cleaner valve	Supapă filtru de aer motor
+F11791	Radiator shutter vane	Lamelă jaluzea radiator
+F11792	Windscreen washer reservoir	Vas spălător parbriz
+F11793	Power steering oil reservoir	Vas ulei servodirecție
+F11794	Viscous fan coupling 9 L	Vâscocuplaj 9 L
+F11795	High temperature grease 18 kg	Vaselină temperaturi înalte 18 kg
+F11796	EGR elbow V-band clamp	Colier bandă V cot EGR
+F11797	Coupling bushing kit	Kit bucșe cuplă
+F11798	Coupling jaw coupling body	Corp cuplă cu gheară
+F11799	Coupling lock kit	Kit blocare cuplă
+F11800	Coupling mechanism main bolt	Bolț principal mecanism cuplă
+F11801	Coupling rubber block kit	Kit bloc cauciuc cuplă
+F11802	VCI diagnostic interface (KTRC46 interface)	Interfață diagnoză VCI (interfață KTRC46)
+F11803	VCM II Wi-Fi dongle	Adaptor Wi-Fi VCM II
+F11804	VDE 1000V insulated combination pliers	Clește combinat izolat VDE 1000V
+F11805	VDE 1000V insulated side cutters	Clește tăietor lateral izolat VDE 1000V
+F11806	Rear axle housing vent assembly	Aerisitor carcasă punte spate, ansamblu
+F11807	Roof vent assembly	Aerisitor plafon, ansamblu
+F11808	Seat cushion vent	Aerisire pernă scaun
+F11809	A/C line valve	Ventil conductă AC
+F11810	Heater blower fan	Ventilator aerotermă
+F11811	Refrigerator fan	Ventilator frigider
+F11812	Height sensor vertical rod	Tijă verticală senzor înălțime
+F11813	Leveling valve vertical rod	Tijă verticală supapă nivelare
+F11814	Exterior sun visor assembly	Parasolar exterior, ansamblu
+F11815	Inside sun visor assembly	Parasolar interior, ansamblu
+F11816	A/C evaporator expansion valve assembly	Supapă de expansiune evaporator AC, ansamblu
+F11817	A/C evaporator expansion valve assembly	Supapă de expansiune evaporator AC, ansamblu
+F11818	Fuel pressure regulator valve assembly	Supapă reglare presiune combustibil, ansamblu
+F11819	Exhaust aftertreatment urea pipe heater valve	Supapă încălzire conductă uree post-tratare gaze evacuare
+F11820	Oil filter bypass valve	Supapă bypass filtru ulei
+F11821	Transmission gear shift control valve	Supapă comandă schimbare trepte cutie de viteze
+F11822	VMM black probe	Sondă neagră VMM
+F11823	VMM carrying case	Geantă transport VMM
+F11824	VMM COP clips	Cleme COP VMM
+F11825	VMM red probe	Sondă roșie VMM
+F11826	VMM secondary ignition transducer cable	Cablu traductor aprindere secundară VMM
+F11827	VMM secondary ignition transducer clip	Clemă traductor aprindere secundară VMM
+F11828	VMM self-test adapter, port C	Adaptor autotest VMM, port C
+F11829	Steering wheel, F-MAX	Volan, F-MAX
+F11830	Steering wheel, F-MAX Black Line	Volan, F-MAX Black Line
+F11831	Steering wheel locking tool	Sculă blocare volan
+F11832	Engine flywheel 9L	Volantă motor 9L
+F11833	Door belt weatherstrip, outer	Garnitură etanșare ușă la linia geamului, exterioară
+F11834	Rear door weatherstrip assembly, upper	Garnitură etanșare ușă spate, ansamblu, superioară
+F11835	Rear door weatherstrip	Garnitură etanșare ușă spate
+F11836	Door fixed glass weatherstrip, inner LH	Garnitură etanșare geam fix ușă, interioară stânga
+F11837	Door fixed glass weatherstrip, inner RH	Garnitură etanșare geam fix ușă, interioară dreapta
+F11838	Warning label	Etichetă avertizare
+F11839	Concrete pump warning label	Etichetă avertizare pompă de beton
+F11840	Warranty book	Carte de garanție
+F11841	Warranty book, Arabic/English, Legacy F-MAX	Carte de garanție, arabă/engleză, Legacy F-MAX
+F11842	Warranty book, English, Legacy F-MAX	Carte de garanție, engleză, Legacy F-MAX
+F11843	Warranty book, English, Legacy F-MAX	Carte de garanție, engleză, Legacy F-MAX
+F11844	Warranty book, French, F-MAX	Carte de garanție, franceză, F-MAX
+F11845	Warranty book, German	Carte de garanție, germană
+F11846	Warranty book, Hebrew, F-MAX	Carte de garanție, ebraică, F-MAX
+F11847	Warranty book, Hebrew, Legacy	Carte de garanție, ebraică, Legacy
+F11848	Warranty book, Hebrew, Legacy F-MAX	Carte de garanție, ebraică, Legacy F-MAX
+F11849	Warranty book, Italian, Legacy F-MAX	Carte de garanție, italiană, Legacy F-MAX
+F11850	Warranty book, Polish, Legacy F-MAX	Carte de garanție, poloneză, Legacy F-MAX
+F11851	Warranty book, Portuguese, Legacy F-MAX	Carte de garanție, portugheză, Legacy F-MAX
+F11852	Warranty book, Russian, F-MAX	Carte de garanție, rusă, F-MAX
+F11853	Warranty book, Turkish, Legacy F-MAX	Carte de garanție, turcă, Legacy F-MAX
+F11854	Washer	Șaibă
+F11855	Torque rod washer	Șaibă bară de reacțiune
+F11856	Washer 021	Șaibă 021
+F11857	Washer 1522355	Șaibă 1522355
+F11858	Flat washer 16.8X40.3X5.2, steel	Șaibă plată 16.8X40.3X5.2, oțel
+F11859	Flat washer 20X40X5	Șaibă plată 20X40X5
+F11860	Washer 25X50X7	Șaibă 25X50X7
+F11861	Washer 33.3X38.9X2.0	Șaibă 33.3X38.9X2.0
+F11862	Flat washer 6.4X12X1.5, steel	Șaibă plată 6.4X12X1.5, oțel
+F11863	Flat washer 8.4X25X2.2, steel	Șaibă plată 8.4X25X2.2, oțel
+F11864	Air conditioning mounting washer	Șaibă montaj climatizare
+F11865	Body mount washer	Șaibă tampon caroserie
+F11866	Rear rubber suspension bracket washer	Șaibă suport suspensie cauciuc spate
+F11867	Camshaft nut washer	Șaibă piuliță ax cu came
+F11868	Camshaft thrust washer	Șaibă axială ax cu came
+F11869	Air cleaner retaining lock washer	Șaibă siguranță fixare filtru de aer
+F11870	Compressor mounting bolt washer	Șaibă șurub montaj compresor
+F11871	Crankcase vent pump washer	Șaibă pompă aerisire carter
+F11872	Washer D 16X24 mm, thickness 1.5	Șaibă D 16X24 mm, grosime 1.5
+F11873	Differential pinion washer	Șaibă pinion diferențial
+F11874	Differential pinion thrust washer	Șaibă axială pinion diferențial
+F11875	Drain plug washer	Șaibă dop golire
+F11876	Driveshaft washer	Șaibă arbore cardanic
+F11877	Engine dynamic balancer thrust washer	Șaibă axială echilibror dinamic motor
+F11878	Fibre washer 19.0X30.1X1	Șaibă fibră 19.0X30.1X1
+F11879	Flat washer	Șaibă plată
+F11880	Flat washer 13.0X24.0X3.0 M12	Șaibă plată 13.0X24.0X3.0 M12
+F11881	Flat washer 6.4X12.0X1.5 M6	Șaibă plată 6.4X12.0X1.5 M6
+F11882	Flat washer 6.6X17.0X2.5 M6	Șaibă plată 6.6X17.0X2.5 M6
+F11883	Flat washer 8.4X19.0X3.0 M8	Șaibă plată 8.4X19.0X3.0 M8
+F11884	Flat washer 8.4X30X2.5, steel	Șaibă plată 8.4X30X2.5, oțel
+F11885	Flat washer 21X40X4, steel	Șaibă plată 21X40X4, oțel
+F11886	Flywheel drive washer	Șaibă antrenare volantă
+F11887	Front anti-roll bar bracket washer	Șaibă suport bară stabilizatoare față
+F11888	Front fender washer	Șaibă aripă față
+F11889	Front fender bolt washer	Șaibă șurub aripă față
+F11890	Heater connection washer	Șaibă racord încălzire
+F11891	Suspension I-arm washer X4	Șaibă braț I suspensie X4
+F11892	Lock washer	Șaibă de siguranță
+F11893	Washer M12	Șaibă M12
+F11894	Washer M14	Șaibă M14
+F11895	Washer M20	Șaibă M20
+F11896	Washer M22	Șaibă M22
+F11897	Washer M24	Șaibă M24
+F11898	Washer M27	Șaibă M27
+F11899	Washer PTF	Șaibă PTF
+F11900	Power divider front cover bolt washer	Șaibă șurub capac față distribuitor putere
+F11901	Power steering pump tube washer	Șaibă conductă pompă servodirecție
+F11902	Power transfer unit idler gear thrust washer	Șaibă axială pinion intermediar unitate transfer putere
+F11903	Power transfer unit idler gear thrust washer, PTO	Șaibă axială pinion intermediar unitate transfer putere, PTO
+F11904	Radiator mounting washer	Șaibă montaj radiator
+F11905	Rear axle differential washer	Șaibă diferențial punte spate
+F11906	Rear axle differential pinion thrust washer	Șaibă axială pinion diferențial punte spate
+F11907	Rear axle differential side gear thrust washer	Șaibă axială pinion planetar diferențial punte spate
+F11908	Rear axle planetary washer	Șaibă planetară punte spate
+F11909	Rear axle shaft to hub washer	Șaibă semiax spate – butuc
+F11910	Rear step bumper mounting washer	Șaibă montaj bară de protecție spate cu treaptă
+F11911	Rear suspension arm washer, upper	Șaibă braț suspensie spate, superioară
+F11912	Rear suspension washer	Șaibă suspensie spate
+F11913	Rear suspension arm hanger washer	Șaibă suport braț suspensie spate
+F11914	Rear suspension torque arm end pin washer	Șaibă bolț capăt braț de reacțiune suspensie spate
+F11915	Rear wheel bearing washer	Șaibă rulment roată spate
+F11916	Rear wheel bearing nut lock washer	Șaibă siguranță piuliță rulment roată spate
+F11917	Rear wheel brake washer	Șaibă frână roată spate
+F11918	Rear wheel brake adjuster washer	Șaibă reglaj frână roată spate
+F11919	Electromagnetic retarder brake washer	Șaibă retarder electromagnetic
+F11920	Roof headlining washer	Șaibă căptușeală plafon
+F11921	Shock absorber lower mounting washer	Șaibă montaj inferior amortizor
+F11922	Shock absorber upper mounting washer	Șaibă montaj superior amortizor
+F11923	Sealing washer	Șaibă de etanșare
+F11924	Shock absorber washer	Șaibă amortizor
+F11925	Special washer 12.5X21.5X7.0	Șaibă specială 12.5X21.5X7.0
+F11926	Special washer 21X34X4	Șaibă specială 21X34X4
+F11927	Special washer M6 6.5X30	Șaibă specială M6 6.5X30
+F11928	Spring lock washer, type B, M6	Șaibă elastică, tip B, M6
+F11929	Transmission spring washer	Șaibă elastică cutie de viteze
+F11930	Transmission cover spring washer	Șaibă elastică capac cutie de viteze
+F11931	Transmission gear shift fork spring washer	Șaibă elastică furcă schimbător cutie de viteze
+F11932	Transmission pump spring washer	Șaibă elastică pompă cutie de viteze
+F11933	Transmission gear shift spring washer	Șaibă elastică schimbător cutie de viteze
+F11934	Spindle bolt washer	Șaibă bolț fuzetă
+F11935	Spring shackle stud retaining washer	Șaibă fixare prezon cercel arc
+F11936	Tooth lock washer, type J, 19X30 M18	Șaibă dințată de siguranță, tip J, 19X30 M18
+F11937	Transmission pump thrust washer	Șaibă axială pompă cutie de viteze
+F11938	Thrust washer	Șaibă axială
+F11939	Transmission washer	Șaibă cutie de viteze
+F11940	Transmission washer 8.4	Șaibă cutie de viteze 8.4
+F11941	Transmission case stud lock washer	Șaibă siguranță prezon carcasă cutie de viteze
+F11942	Transmission clutch release valve washer	Șaibă supapă decuplare ambreiaj cutie de viteze
+F11943	Transmission gear shift lever washer	Șaibă levier schimbător cutie de viteze
+F11944	Transmission gear shift shaft thrust washer	Șaibă axială ax schimbător cutie de viteze
+F11945	Transmission input shaft washer	Șaibă arbore primar cutie de viteze
+F11946	Transmission input shaft thrust washer	Șaibă axială arbore primar cutie de viteze
+F11947	Transmission main shaft thrust washer	Șaibă axială arbore principal cutie de viteze
+F11948	Transmission main shaft thrust washer 7.30 mm	Șaibă axială arbore principal cutie de viteze 7.30 mm
+F11949	Transmission main shaft washer	Șaibă arbore principal cutie de viteze
+F11950	Transmission main shaft thrust washer	Șaibă axială arbore principal cutie de viteze
+F11951	Transmission output shaft flange retaining washer	Șaibă fixare flanșă arbore secundar cutie de viteze
+F11952	Transmission planet gear thrust washer	Șaibă axială satelit cutie de viteze
+F11953	Transmission planet carrier flange washer	Șaibă flanșă port-sateliți cutie de viteze
+F11954	Transmission planet gear washer	Șaibă satelit cutie de viteze
+F11955	Transmission PTO washer	Șaibă PTO cutie de viteze
+F11956	Transmission pump washer	Șaibă pompă cutie de viteze
+F11957	Air brake tube washer	Șaibă conductă frână pneumatică
+F11958	Air brake tube washer	Șaibă conductă frână pneumatică
+F11959	Turbo engine heat exchanger fan shaft washer	Șaibă ax ventilator schimbător de căldură motor turbo
+F11960	Water pump hub bolt washer	Șaibă șurub butuc pompă de apă
+F11961	Water pump thrust washer, front	Șaibă axială pompă de apă, față
+F11962	Washer, clutch housing to transmission	Șaibă, carcasă ambreiaj – cutie de viteze
+F11963	Washers	Șaibe
+F11964	SCR tank mount washer	Șaibă suport rezervor SCR
+F11965	Transmission main shaft thrust washer	Șaibă axială arbore principal cutie de viteze
+F11966	Transmission PTO washer	Șaibă PTO cutie de viteze
+F11967	Water filter removal tool	Sculă demontare filtru apă
+F11968	Water heater 24 V	Încălzitor apă 24 V
+F11969	Water hose	Furtun apă
+F11970	Water pump and filter assembly	Pompă de apă și filtru, ansamblu
+F11971	Water pump and filter assembly	Pompă de apă și filtru, ansamblu
+F11972	Water pump and filter assembly	Pompă de apă și filtru, ansamblu
+F11973	Water pump assembly	Pompă de apă, ansamblu
+F11974	Water pump guide tools	Scule ghidare pompă de apă
+F11975	Sun gear wave washer	Șaibă ondulată pinion solar
+F11976	Wear pad	Plăcuță de uzură
+F11977	Wear parts	Piese de uzură
+F11978	Weatherstrip	Garnitură de etanșare
+F11979	Weatherstrip assembly	Garnitură de etanșare, ansamblu
+F11980	Front door weatherstrip assembly	Garnitură de etanșare ușă față, ansamblu
+F11981	Front door weatherstrip assembly, front outer lower	Garnitură de etanșare ușă față, ansamblu, față exterior inferior
+F11982	Rear door weatherstrip assembly, upper	Garnitură de etanșare ușă spate, ansamblu, superioară
+F11983	Windshield weatherstrip assembly	Garnitură de etanșare parbriz, ansamblu
+F11984	Door window weatherstrip	Garnitură de etanșare geam ușă
+F11985	Door window weatherstrip, LH	Garnitură de etanșare geam ușă, stânga
+F11986	Door window weatherstrip, RH	Garnitură de etanșare geam ușă, dreapta
+F11987	Door belt weatherstrip	Garnitură de etanșare ușă la linia geamului
+F11988	Door belt weatherstrip, inner	Garnitură de etanșare ușă la linia geamului, interioară
+F11989	Door belt weatherstrip, inner LH	Garnitură de etanșare ușă la linia geamului, interioară stânga
+F11990	Door belt weatherstrip, outer LH	Garnitură de etanșare ușă la linia geamului, exterioară stânga
+F11991	Front door weatherstrip	Garnitură de etanșare ușă față
+F11992	Front door glass frame weatherstrip, LH	Garnitură de etanșare cadru geam ușă față, stânga
+F11993	Door weatherstrip	Garnitură de etanșare ușă
+F11994	Wedge	Pană
+F11995	Wedge assembly	Pană, ansamblu
+F11996	Rear suspension trunnion wedge	Pană trunion suspensie spate
+F11997	Suspension trunnion wedge, upper/lower	Pană trunion suspensie, superioară/inferioară
+F11998	Wedge assembly	Pană, ansamblu
+F11999	Wheel balance weight (100 g)	Greutate echilibrare roată (100 g)
+F12000	Wheel balance weight (125 g)	Greutate echilibrare roată (125 g)
+F12001	Wheel balance weight (150 g)	Greutate echilibrare roată (150 g)
+F12002	Wheel balance weight (50 g)	Greutate echilibrare roată (50 g)
+F12003	Wheel balance weight 100 g	Greutate echilibrare roată 100 g
+F12004	Wheel balance weight 125 g	Greutate echilibrare roată 125 g
+F12005	Wheel balance weight 150 g	Greutate echilibrare roată 150 g
+F12006	Wheel balance weight 50 g	Greutate echilibrare roată 50 g
+F12007	Wheel balance weight 75 g	Greutate echilibrare roată 75 g
+F12008	Ford welcome kit	Set de bun venit Ford
+F12009	Welcome set vest L 2016	Vestă set de bun venit L 2016
+F12010	Welcome set vest M	Vestă set de bun venit M
+F12011	Welcome set vest XL 2016	Vestă set de bun venit XL 2016
+F12012	Welcome set vest XXL 2016	Vestă set de bun venit XXL 2016
+F12013	Wheel	Roată
+F12014	Wheel 22.5X8.25	Jantă 22.5X8.25
+F12015	Wheel 22.5X9.0	Jantă 22.5X9.0
+F12016	Steering wheel assembly	Volan, ansamblu
+F12017	Wheel assembly	Roată, ansamblu
+F12018	Steering wheel assembly	Volan, ansamblu
+F12019	Wheel assembly 22.5X11.75	Jantă, ansamblu 22.5X11.75
+F12020	Steering wheel assembly	Volan, ansamblu
+F12021	Wheel hub bearing driver	Dorn montaj rulment butuc roată
+F12022	Steering wheel assembly	Volan, ansamblu
+F12023	Wide angle mirror	Oglindă unghi larg
+F12024	Wide angle mirror, optional	Oglindă unghi larg, opțională
+F12025	Wide angle mirror, power, heated	Oglindă unghi larg, electrică, încălzită
+F12026	Windshield, heated, with rain sensor	Parbriz încălzit, cu senzor de ploaie
+F12027	Windshield washer fluid 1 L	Lichid spălare parbriz 1 L
+F12028	Windshield, GCC	Parbriz, GCC
+F12029	Windshield glass, TNT	Geam parbriz, TNT
+F12030	Windshield, heated	Parbriz încălzit
+F12031	Windshield, heated, with rain sensor, LDW	Parbriz încălzit, cu senzor de ploaie, LDW
+F12032	Windshield, standard	Parbriz, standard
+F12033	Windshield, standard, with rain sensor	Parbriz standard, cu senzor de ploaie
+F12034	Wiper arm and blade assembly	Braț ștergător cu lamelă, ansamblu
+F12035	Windshield wiper assembly	Ștergător parbriz, ansamblu
+F12036	Air cleaner restriction sensor wiring assembly	Cablaj senzor colmatare filtru de aer
+F12037	Body main wiring assembly	Cablaj principal caroserie
+F12038	Curtain lamp wiring assembly, LH	Cablaj lampă perdea, stânga
+F12039	Wiring assembly, dash panel to engine	Cablaj, panou bord – motor
+F12040	Wiring assembly, dash panel to engine	Cablaj, panou bord – motor
+F12041	Door lock feed wiring assembly	Cablaj alimentare încuietoare ușă
+F12042	Engine compartment wiring assembly, LH	Cablaj compartiment motor, stânga
+F12043	Exhaust emission control wiring assembly, rear	Cablaj control emisii evacuare, spate
+F12044	Front seat heating/cooling wiring assembly	Cablaj încălzire/răcire scaun față
+F12045	Front seat heating/cooling wiring assembly, RH	Cablaj încălzire/răcire scaun față, dreapta
+F12046	Fuel tank sender wiring assembly	Cablaj senzor nivel rezervor combustibil
+F12047	Fuel sensor jumper wiring assembly	Cablaj de legătură senzor combustibil
+F12048	Fuel shut-off solenoid feed wiring assembly	Cablaj alimentare electrovalvă oprire combustibil
+F12049	Headlamp extension wiring assembly	Cablaj prelungire far
+F12050	Headlamp dimmer switch jumper wiring assembly	Cablaj de legătură comutator faza scurtă/lungă far
+F12051	Interior lamp feed wiring assembly	Cablaj alimentare lampă interioară
+F12052	Wiring assembly, marker lamp to switch	Cablaj, lampă gabarit – comutator
+F12053	Main wiring assembly	Cablaj principal
+F12054	Wiring assembly, PEC to heater	Cablaj, PEC – încălzitor
+F12055	Rear lamp wiring assembly	Cablaj lampă spate
+F12056	Rear lamp extension jumper wiring assembly	Cablaj de legătură prelungire lampă spate
+F12057	Seat belt warning indicator wiring assembly	Cablaj indicator avertizare centură de siguranță
+F12058	Wiring assembly, marker lamp to switch	Cablaj, lampă gabarit – comutator
+F12059	Seat belt warning indicator wiring assembly	Cablaj indicator avertizare centură de siguranță
+F12060	Front seat back tray retainer wiring	Cablaj fixare tavă spătar scaun față
+F12061	Rear lamp wiring assembly	Cablaj lampă spate
+F12062	Trailer wiring, rear, 6X4	Cablaj remorcă, spate, 6X4
+F12063	Air conditioning wiring assembly	Cablaj climatizare
+F12064	Front ABS speed sensor wiring assembly	Cablaj senzor turație ABS față
+F12065	Auxiliary heater indicator lamp wiring assembly	Cablaj lampă indicator încălzitor auxiliar
+F12066	Auxiliary heater main wiring assembly	Cablaj principal încălzitor auxiliar
+F12067	Back-up lamp connection wiring assembly	Cablaj conectare lampă marșarier
+F12068	Battery output wiring assembly	Cablaj ieșire baterie
+F12069	Battery output wiring assembly	Cablaj ieșire baterie
+F12070	Body main wiring assembly	Cablaj principal caroserie
+F12071	Brake wiring assembly	Cablaj frână
+F12072	ABS control extension wiring assembly	Cablaj prelungire comandă ABS
+F12073	Cab wiring harness, GR	Cablaj cabină, GR
+F12074	Cab ground wiring harness	Cablaj masă cabină
+F12075	Cab wiring harness, LA	Cablaj cabină, LA
+F12076	Cab latch switch wiring harness	Cablaj comutator zăvor cabină
+F12077	Cab tilt wiring harness	Cablaj basculare cabină
+F12078	Cigarette lighter jumper wiring harness	Cablaj de legătură brichetă
+F12079	Wiring harness, COURTE	Cablaj, COURTE
+F12080	Courtesy lamp wiring harness	Cablaj lampă de curtoazie
+F12081	Courtesy lamp wiring harness, FD	Cablaj lampă de curtoazie, FD
+F12082	Courtesy lamp jumper wiring harness	Cablaj de legătură lampă de curtoazie
+F12083	Dash wiring harness, P	Cablaj bord, P
+F12084	Dash panel wiring harness	Cablaj panou de bord
+F12085	Dash panel headlamp junction wiring harness	Cablaj joncțiune faruri panou de bord
+F12086	Dash panel to engine wiring harness	Cablaj panou de bord – motor
+F12087	Door entry illumination wiring harness	Cablaj iluminare acces ușă
+F12088	Door lock wiring harness, FD	Cablaj încuietoare ușă, FD
+F12089	Door lock jumper wiring harness	Cablaj de legătură încuietoare ușă
+F12090	Door lock jumper wiring harness, left	Cablaj de legătură încuietoare ușă, stânga
+F12091	Door lock jumper wiring harness, right	Cablaj de legătură încuietoare ușă, dreapta
+F12092	Engine wiring harness	Cablaj motor
+F12093	Engine block heater wiring harness	Cablaj încălzitor bloc motor
+F12094	Engine block heater extension wiring harness	Cablaj prelungire încălzitor bloc motor
+F12095	Engine compartment wiring harness, left	Cablaj compartiment motor, stânga
+F12096	Engine control module wiring harness	Cablaj modul de comandă motor
+F12097	Engine control sensor wiring harness	Cablaj senzori comandă motor
+F12098	Engine control sensor extension wiring harness	Cablaj prelungire senzori comandă motor
+F12099	Exhaust wiring harness	Cablaj evacuare
+F12100	Exhaust aftertreatment pump wiring harness	Cablaj pompă sistem post-tratare gaze de evacuare
+F12101	Exhaust aftertreatment pump, injector, tank wiring harness	Cablaj pompă, injector, rezervor sistem post-tratare gaze de evacuare
+F12102	Exhaust aftertreatment pump, injector, tank wiring harness	Cablaj pompă, injector, rezervor sistem post-tratare gaze de evacuare
+F12103	Exhaust emission control wiring harness, rear	Cablaj control emisii evacuare, spate
+F12104	Front seat heating/cooling wiring harness	Cablaj încălzire/răcire scaun față
+F12105	Fuel tank sender wiring harness	Cablaj traductor nivel rezervor combustibil
+F12106	Fuel tank sender extension wiring harness	Cablaj prelungire traductor nivel rezervor combustibil
+F12107	Fuel shut-off solenoid wiring harness	Cablaj electrovalvă oprire combustibil
+F12108	Fuel shut-off solenoid wiring harness, FD	Cablaj electrovalvă oprire combustibil, FD
+F12109	Ground wiring harness	Cablaj masă
+F12110	Headlamp wiring harness	Cablaj far
+F12111	Headlamp dimmer switch jumper wiring harness	Cablaj de legătură comutator faza scurtă/lungă
+F12112	Headlamp extension wiring harness	Cablaj prelungire far
+F12113	Heater blower motor wiring harness	Cablaj motor ventilator încălzire
+F12114	Interior lamp wiring harness, FD	Cablaj lampă interioară, FD
+F12115	Intermediate contact box to front box wiring harness	Cablaj cutie de contact intermediară – cutie față
+F12116	Lamp wiring harness, A	Cablaj lampă, A
+F12117	Auxiliary rear lamp wiring harness	Cablaj lampă auxiliară spate
+F12118	Luggage compartment lamp wiring harness	Cablaj lampă compartiment bagaje
+F12119	Main wiring harness	Cablaj principal
+F12120	Main wiring harness, E	Cablaj principal, E
+F12121	Main extension wiring harness	Cablaj prelungire principal
+F12122	Marker lamp wiring harness	Cablaj lampă de gabarit
+F12123	Marker lamp to switch wiring harness	Cablaj lampă de gabarit – comutator
+F12124	PEC to heater wiring harness	Cablaj PEC – încălzitor
+F12125	P/E/C to heater wiring harness	Cablaj P/E/C – încălzitor
+F12126	Passive entry and start front door wiring harness	Cablaj ușă față acces și pornire fără cheie
+F12127	Passive entry and start front door wiring harness, E	Cablaj ușă față acces și pornire fără cheie, E
+F12128	PEC wiring harness	Cablaj PEC
+F12129	Power divider differential lockout wiring harness	Cablaj blocare diferențial distribuitor de putere
+F12130	Rear wiring harness	Cablaj spate
+F12131	Rear lamp wiring harness	Cablaj lampă spate
+F12132	Rear lamp wiring harness	Cablaj lampă spate
+F12133	Rear lamp extension jumper wiring harness	Cablaj de legătură prelungire lampă spate
+F12134	Seat belt warning indicator wiring harness	Cablaj indicator avertizare centură de siguranță
+F12135	Tachograph wiring harness, FD	Cablaj tahograf, FD
+F12136	Thermostart wiring harness	Cablaj Thermostart
+F12137	Trailer brake control switch wiring harness	Cablaj comutator comandă frână remorcă
+F12138	Transmission wiring harness	Cablaj cutie de viteze
+F12139	Automatic transmission control wiring harness	Cablaj comandă cutie de viteze automată
+F12140	Transmission control selector indicator lamp wiring harness	Cablaj lampă indicator selector cutie de viteze
+F12141	Transmission control switch wiring harness	Cablaj comutator comandă cutie de viteze
+F12142	Transmission wiring harness	Cablaj cutie de viteze
+F12143	Transmission control selector wiring harness	Cablaj selector cutie de viteze
+F12144	Auxiliary heater water pump wiring harness	Cablaj pompă de apă încălzitor auxiliar
+F12145	Rear lamp wiring harness	Cablaj lampă spate
+F12146	Wiring harness	Cablaj
+F12147	Fuel sender wiring harness	Cablaj traductor nivel combustibil
+F12148	Jumper wiring harness, right	Cablaj de legătură, dreapta
+F12149	Accessory feed wiring harness	Cablaj alimentare accesorii
+F12150	Alternator to battery wiring harness	Cablaj alternator – baterie
+F12151	Engine wiring harness, genset 450 (12.7L, non-regulated)	Cablaj motor, generator 450 (12.7L, nereglementat)
+F12152	Engine wiring harness, genset 550 (12.7L, non-regulated)	Cablaj motor, generator 550 (12.7L, nereglementat)
+F12153	Engine wiring harness, industrial (12.7L, Stage V)	Cablaj motor, industrial (12.7L, Stage V)
+F12154	Engine wiring harness, industrial (9L, non-regulated)	Cablaj motor, industrial (9L, nereglementat)
+F12155	Engine wiring harness, industrial (9L, Stage V)	Cablaj motor, industrial (9L, Stage V)
+F12156	FMS wiring harness	Cablaj FMS
+F12157	Fuel sender wiring harness	Cablaj traductor nivel combustibil
+F12158	Fuel sender wiring harness	Cablaj traductor nivel combustibil
+F12159	Jumper wiring harness	Cablaj de legătură
+F12160	Running board lamp wiring harness	Cablaj lampă treaptă
+F12161	Engine control sensor extension wiring harness	Cablaj prelungire senzori comandă motor
+F12162	Engine low oil level sensor wiring harness	Cablaj senzor nivel scăzut ulei motor
+F12163	Engine control sensor wiring harness	Cablaj senzori comandă motor
+F12164	Fuse wiring harness	Cablaj siguranțe
+F12165	Rear view outside mirror control wiring harness	Cablaj comandă oglindă retrovizoare exterioară
+F12166	Speed sensor wiring harness	Cablaj senzor viteză
+F12167	Rear view outside mirror control wiring harness	Cablaj comandă oglindă retrovizoare exterioară
+F12168	Front seat back wire	Cablu spătar scaun față
+F12169	Front seat back trim retaining wire	Sârmă fixare tapițerie spătar scaun față
+F12170	Wiring harness	Cablaj
+F12171	Front suspension level height sensor jumper wire	Cablu de legătură senzor înălțime nivel suspensie față
+F12172	Speedometer drive connector transmission lock wire	Sârmă blocare conector antrenare vitezometru la cutia de viteze
+F12173	Relay feed wiring harness	Cablaj alimentare releu
+F12174	Single jumper wiring harness	Cablaj de legătură simplu
+F12175	Wiring harness	Cablaj
+F12176	Alternator wiring harness	Cablaj alternator
+F12177	Main wiring harness	Cablaj principal
+F12178	Rear lamps wiring harness	Cablaj lămpi spate
+F12179	Anti-skid brake control wiring harness	Cablaj comandă frânare antiderapantă
+F12180	Engine compartment wiring harness	Cablaj compartiment motor
+F12181	Main wiring harness	Cablaj principal
+F12182	Rear wiring harness	Cablaj spate

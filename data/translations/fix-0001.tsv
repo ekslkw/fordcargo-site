@@ -1,0 +1,270 @@
+1	Injector pipe, cylinder 2	Conductă injector, cilindrul 2
+2	2C46 9B273 BA fuel supply pipe	Conductă de alimentare cu combustibil 2C46 9B273 BA
+3	2C46 9E967 DB injector fuel pipe	Conductă de combustibil injector 2C46 9E967 DB
+4	Injector pipe, cylinder 3	Conductă injector, cilindrul 3
+6	Hose adapter - turbocharger inlet	Adaptor furtun - intrare turbocompresor
+7	Hose adapter - turbocharger inlet (type)	Adaptor furtun - intrare turbocompresor (tip)
+8	AdBlue dosing module	Modul de dozare AdBlue
+9	AdBlue feed pipe	Conductă de alimentare AdBlue
+10	AdBlue reagent supply pipe	Conductă de alimentare cu reactiv AdBlue
+11	Engine air cleaner hose	Furtun filtru de aer motor
+12	Air housing outlet pipe	Conductă de ieșire carcasă aer
+13	Air intake pipe bracket	Suport conductă de admisie aer
+14	Vertical air duct	Tubulatură verticală de aer
+15	Vertical air duct, complete	Tubulatură verticală de aer, completă
+16	Vertical air duct, complete	Tubulatură verticală de aer, completă
+17	Vertical air duct, complete (with bearing)	Tubulatură verticală de aer, completă (cu lagăr)
+18	Air vessel outlet hose elbow, thick (industrial engine)	Cot furtun ieșire recipient de aer, gros (motor industrial)
+20	BC46 5J277 AB	BC46 5J277 AB
+21	Fuel injector bolt	Șurub injector combustibil
+22	EGR pipe bolt (technical-work)	Șurub conductă EGR (tehnic-lucru)
+23	Air cleaner bracket, outer	Suport filtru de aer, exterior
+24	Fuel pipe support bracket	Suport conductă de combustibil
+25	Fuel tank bracket	Suport rezervor de combustibil
+26	Pipe bracket	Suport conductă
+27	Fuel tank bracket, front, complete	Suport rezervor de combustibil, față, complet
+28	Fuel tank bracket, complete, NHDD 7.3 l	Suport rezervor de combustibil, complet, NHDD 7.3 l
+29	Injection nozzle bracket with pump	Suport duză de injecție cu pompă
+30	Air cleaner bracket, outer	Suport filtru de aer, exterior
+31	Vertical air duct bracket	Suport tubulatură verticală de aer
+32	SCR tank mounting bracket	Suport de montare rezervor SCR
+33	Fuel sensor cable, complete	Cablu senzor combustibil, complet
+34	Fuel sensor cable, complete	Cablu senzor combustibil, complet
+35	Vertical air duct cap D26SDB	Capac tubulatură verticală de aer D26SDB
+36	CARGO 25/24-32/30 pipe between fuel pump and fuel distributor	Conductă între pompa de combustibil și distribuitor, CARGO 25/24-32/30
+37	High-pressure fuel centrifugal unit, NHDD	Unitate centrifugală combustibil de înaltă presiune, NHDD
+38	Fuel injection clamping plate, NHDD	Placă de strângere injecție combustibil, NHDD
+39	Engine injector wiring harness clip	Clemă cablaj injectoare motor
+40	Fuel injection common rail	Rampă comună (common rail) injecție combustibil
+44	Manifold, complete, 1846	Galerie completă, 1846
+47	Connecting pipe	Conductă de legătură
+48	Connecting pipe protection bracket	Suport de protecție conductă de legătură
+49	Connector M16X1.5-M22X1.5 (technical-work)	Conector M16X1.5-M22X1.5 (tehnic-lucru)
+50	Vertical air duct connector	Conector tubulatură verticală de aer
+51	Fuel injector connector, complete	Conector injector combustibil, complet
+52	Fuel injector connector, complete, NHDD	Conector injector combustibil, complet, NHDD
+53	Hose connector	Conector furtun
+54	Air cleaner unit connector	Conector unitate filtru de aer
+55	EGR cooler	Răcitor EGR
+56	Fuel tank cover	Capac rezervor de combustibil
+57	Urea tank cover, complete	Capac rezervor uree (AdBlue), complet
+58	Fuel tank cover, complete	Capac rezervor de combustibil, complet
+59	Fuel cover, lower	Capac combustibil, inferior
+60	Fuel tank valve cover	Capac supapă rezervor de combustibil
+61	Fuel injector nozzle sleeve	Cămașă duză injector combustibil
+62	Diesel fuel automatic mechanism holder	Suport mecanism automat motorină
+63	Diesel fuel pipe, CARGO	Conductă motorină, CARGO
+64	Diesel fuel tank	Rezervor de motorină
+65	Diesel fuel tank 315 l, 2010, without pipe	Rezervor de motorină 315 l, 2010, fără conductă
+66	Diesel fuel tank 315 l	Rezervor de motorină 315 l
+67	Diesel fuel tank 510 l	Rezervor de motorină 510 l
+68	Diesel fuel tank cover	Capac rezervor de motorină
+69	Diesel fuel tank support leg	Picior de susținere rezervor de motorină
+70	Diesel fuel tank support leg, 315 l, reinforced	Picior de susținere rezervor de motorină, 315 l, ranforsat
+71	Drain valve	Supapă de golire
+73	EGR pipe	Conductă EGR
+74	EGR pipe, complete	Conductă EGR, completă
+75	EGR valve	Supapă EGR
+76	Elbow between EGR valve and pipe	Cot între supapa EGR și conductă
+79	Fuel tank float, 315 l	Plutitor rezervor de combustibil, 315 l
+80	Urea tank float	Plutitor rezervor uree (AdBlue)
+81	Urea tank float (brand)	Plutitor rezervor uree (AdBlue) (marcă)
+82	Urea tank float, long type	Plutitor rezervor uree (AdBlue), tip lung
+83	Fuel tank float, 520 l	Plutitor rezervor de combustibil, 520 l
+84	Fuel tank float, 520 l, optional	Plutitor rezervor de combustibil, 520 l, opțional
+85	Urea tank float, long type	Plutitor rezervor uree (AdBlue), tip lung
+86	Fuel tank float, complete	Plutitor rezervor de combustibil, complet
+87	Fuel tank float	Plutitor rezervor de combustibil
+88	F-MAX injector, 13 l, E6	Injector F-MAX, 13 l, E6
+89	FORD engine injector holder	Suport injector motor FORD
+91	Fuel float	Plutitor combustibil
+92	Fuel float, complete	Plutitor combustibil, complet
+93	Fuel hose	Furtun de combustibil
+94	Fuel return hose assembly	Ansamblu furtun retur combustibil
+95	Fuel hose, complete, NHDD 7.3 l	Furtun de combustibil, complet, NHDD 7.3 l
+96	Fuel hose, white (30 m)	Furtun de combustibil, alb (30 m)
+97	Fuel injector sleeve, yellow (technical-work)	Cămașă injector combustibil, galbenă (tehnic-lucru)
+98	Fuel injection pump for separator	Pompă de injecție pentru separator
+99	Fuel injection solenoid	Solenoid injecție combustibil
+100	Fuel injection solenoid 689	Solenoid injecție combustibil 689
+101	Fuel injection solenoid 771/723	Solenoid injecție combustibil 771/723
+102	Fuel injector assembly, complete (12.7 l)	Ansamblu injector combustibil, complet (12.7 l)
+103	Fuel injector assembly, complete, 240PS, 300PS - 7.3 l	Ansamblu injector combustibil, complet, 240PS, 300PS - 7.3 l
+104	Fuel injector assembly, complete, 260PS (320PS E1, E3, E5)	Ansamblu injector combustibil, complet, 260PS (320PS E1, E3, E5)
+105	Fuel injector assembly, complete, 350PS, 380PS (320PS-E4), 9 l E6	Ansamblu injector combustibil, complet, 350PS, 380PS (320PS-E4), 9 l E6
+106	Fuel injector pipe, cylinder 1	Conductă injector combustibil, cilindrul 1
+107	Fuel injector pipe, cylinder 2	Conductă injector combustibil, cilindrul 2
+108	Fuel injector pipe, cylinder 3	Conductă injector combustibil, cilindrul 3
+109	Fuel injector pipe, cylinder 4	Conductă injector combustibil, cilindrul 4
+110	Fuel injector pipe, cylinder 5	Conductă injector combustibil, cilindrul 5
+111	Fuel injector pipe, cylinder 6	Conductă injector combustibil, cilindrul 6
+114	Fuel level sensor	Senzor nivel combustibil
+115	Fuel pipe	Conductă de combustibil
+118	Fuel pump, complete (NHDD)	Pompă de combustibil, completă (NHDD)
+120	Fuel rail (with pressure regulating valve)	Rampă de combustibil (cu supapă de reglare a presiunii)
+121	Fuel rail dump valve	Supapă de descărcare rampă de combustibil
+122	Shaped polyamide fuel hose	Furtun de combustibil profilat din poliamidă
+123	Fuel solenoid valve	Electrovalvă de combustibil
+124	Fuel supply pipe to injector	Conductă de alimentare cu combustibil către injector
+125	Fuel tank	Rezervor de combustibil
+128	Fuel tank 315 l, road truck	Rezervor de combustibil 315 l, camion rutier
+129	Fuel tank 315 l, tipper, 3C46 9002 CB	Rezervor de combustibil 315 l, basculantă, 3C46 9002 CB
+130	Fuel tank 350 l	Rezervor de combustibil 350 l
+131	Fuel tank 600 l	Rezervor de combustibil 600 l
+132	Fuel tank, complete, 650 l	Rezervor de combustibil, complet, 650 l
+133	Fuel tank, complete, 400 l	Rezervor de combustibil, complet, 400 l
+134	Fuel tank, complete, 550 l	Rezervor de combustibil, complet, 550 l
+135	Fuel tank, complete, 520 l	Rezervor de combustibil, complet, 520 l
+136	Fuel tank support leg, complete	Picior de susținere rezervor de combustibil, complet
+137	Fuel tank support leg (H476) + STG4	Picior de susținere rezervor de combustibil (H476) + STG4
+138	Accelerator bracket	Suport accelerație
+139	Gasket - clamp connections	Garnitură - conexiuni colier
+140	Urea injector sealing gasket	Garnitură de etanșare injector uree (AdBlue)
+141	Gasket - clamp connections	Garnitură - conexiuni colier
+142	Fuel level gauge, complete (1830 4X2)	Indicator nivel combustibil, complet (1830 4X2)
+143	Heat shield stud	Prezon scut termic
+144	High-pressure fuel pump	Pompă de combustibil de înaltă presiune
+145	Air hose	Furtun de aer
+146	Water tank hose	Furtun rezervor de apă
+147	Water tank hose, no. 7439-92-1	Furtun rezervor de apă, nr. 7439-92-1
+148	Fuel supply hose, complete	Furtun de alimentare cu combustibil, complet
+149	Fuel level hose	Furtun nivel combustibil
+150	Cooler hose	Furtun răcitor
+151	Engine air cleaner outlet hose, left	Furtun ieșire filtru de aer motor, stânga
+152	Fuel level hose	Furtun nivel combustibil
+153	Polyamide fuel hose	Furtun de combustibil din poliamidă
+155	Injection pipe, cylinder 5	Conductă de injecție, cilindrul 5
+156	Injector, 13 l, E6	Injector, 13 l, E6
+157	Injector system	Sistem injector
+158	Injector 350PS 380PS 320PS, black, industrial	Injector 350PS 380PS 320PS, negru, industrial
+160	Urea tank injector, complete	Injector rezervor uree (AdBlue), complet
+161	Fuel injector assembly, complete (10.3 l, 460PS, E5) (H566)	Ansamblu injector combustibil, complet (10.3 l, 460PS, E5) (H566)
+162	Fuel injector assembly, complete (12.7 l)	Ansamblu injector combustibil, complet (12.7 l)
+163	Injector sleeve	Cămașă injector
+164	Injector sleeve rubber element	Element din cauciuc cămașă injector
+165	Injector sleeve (technical-work)	Cămașă injector (tehnic-lucru)
+168	Injector pipe	Conductă injector
+169	Injector pipe, cylinder 1	Conductă injector, cilindrul 1
+170	Injector pipe, cylinder 2	Conductă injector, cilindrul 2
+171	Injector pipe, cylinder 3	Conductă injector, cilindrul 3
+172	Injector pipe, cylinder 4	Conductă injector, cilindrul 4
+173	Injector pipe, cylinder 5	Conductă injector, cilindrul 5
+174	Injector pipe, cylinder 6	Conductă injector, cilindrul 6
+175	Injector pipe, cylinder 2	Conductă injector, cilindrul 2
+176	Injector pipe, cylinder 3	Conductă injector, cilindrul 3
+177	Injector pipe, cylinder 1	Conductă injector, cilindrul 1
+178	Injector pipe, cylinder 2	Conductă injector, cilindrul 2
+179	Injector pipe, cylinder 3	Conductă injector, cilindrul 3
+180	Injector pipe, cylinder 5	Conductă injector, cilindrul 5
+181	Injector pipe, cylinder 6	Conductă injector, cilindrul 6
+182	Injector, reconditioned (used part)	Injector recondiționat (din dezmembrări)
+184	Injector system	Sistem injector
+186	Injector, reconditioned (used part)	Injector recondiționat (din dezmembrări)
+187	Intermediate outlet pipe (H476 + type) DC	Conductă intermediară de ieșire (H476 + tip) DC
+188	Intermediate fuel return pipe, sleeper cab, high roof	Conductă intermediară retur combustibil, cabină cu cușetă, plafon înalt
+189	Fuel injector kit	Kit injector combustibil
+190	Distributor bushing kit for cable end	Kit bucșă distribuitor pentru capăt de cablu
+192	Manifold bolt bushing (used part)	Bucșă șurub galerie (din dezmembrări)
+193	Manifold gasket	Garnitură galerie
+194	SCR tank pump module (brand)	Modul pompă rezervor SCR (marcă)
+196	Fuel injector connector nut, NHDD	Piuliță conector injector combustibil, NHDD
+197	Fuel injector connector nut, NHDD	Piuliță conector injector combustibil, NHDD
+199	Accelerator pedal	Pedală de accelerație
+200	Accelerator pedal, E6	Pedală de accelerație, E6
+201	Accelerator pedal, E6	Pedală de accelerație, E6
+202	EGR cooler inlet pipe	Conductă intrare răcitor EGR
+203	EGR cooler outlet pipe	Conductă ieșire răcitor EGR
+204	Fuel pipe	Conductă de combustibil
+205	Fuel injector pipe	Conductă injector combustibil
+206	Fuel injector pipe, cylinder 3	Conductă injector combustibil, cilindrul 3
+207	Fuel injector pipe, cylinder 4	Conductă injector combustibil, cilindrul 4
+208	Fuel return pipe	Conductă retur combustibil
+209	Water tank pipe	Conductă rezervor de apă
+210	Pipe, complete	Conductă completă
+211	Fuel pipe, complete	Conductă de combustibil, completă
+212	Fuel injector pipe, complete	Conductă injector combustibil, completă
+213	Fuel injector pipe, complete, cylinder 1	Conductă injector combustibil, completă, cilindrul 1
+214	Fuel injector pipe, complete, cylinder 2	Conductă injector combustibil, completă, cilindrul 2
+215	Fuel injector pipe, complete, cylinder 3, NHDD	Conductă injector combustibil, completă, cilindrul 3, NHDD
+216	Fuel injector pipe, complete, cylinder 4	Conductă injector combustibil, completă, cilindrul 4
+217	Fuel injector pipe, complete, cylinder 5, NHDD	Conductă injector combustibil, completă, cilindrul 5, NHDD
+218	Fuel injector pipe, complete, cylinder 6	Conductă injector combustibil, completă, cilindrul 6
+219	Fuel injector pipe, complete, cylinder 6, NHDD	Conductă injector combustibil, completă, cilindrul 6, NHDD
+220	Fuel return pipe, complete, NHDD	Conductă retur combustibil, completă, NHDD
+221	Fuel return pipe, complete, NHDD	Conductă retur combustibil, completă, NHDD
+222	Fuel supply pipe, complete	Conductă de alimentare cu combustibil, completă
+223	SCR tank pipe, complete	Conductă rezervor SCR, completă
+224	Fuel pipe from pump to fuel distributor, complete	Conductă combustibil de la pompă la distribuitor, completă
+225	Fuel pipe from pump to fuel distributor, complete, NHDD	Conductă combustibil de la pompă la distribuitor, completă, NHDD
+226	SCR tank pipe, complete	Conductă rezervor SCR, completă
+227	Fuel pipe, complete	Conductă de combustibil, completă
+228	Fuel pump supply pipe, complete	Conductă alimentare pompă de combustibil, completă
+229	Fuel pump supply pipe, complete, NHDD	Conductă alimentare pompă de combustibil, completă, NHDD
+230	SCR tank pipe, complete (blue)	Conductă rezervor SCR, completă (albastră)
+231	SCR tank pipe, complete (red)	Conductă rezervor SCR, completă (roșie)
+232	SCR tank pipe, complete (yellow)	Conductă rezervor SCR, completă (galbenă)
+233	Cold-start fuel injection pipe, complete, NHDD	Conductă injecție combustibil pornire la rece, completă, NHDD
+234	Fuel pipe, complete	Conductă de combustibil, completă
+235	Fuel pump pipe, complete	Conductă pompă de combustibil, completă
+236	Fuel pump pipe, complete	Conductă pompă de combustibil, completă
+237	Fuel pump pipe, complete, NHDD	Conductă pompă de combustibil, completă, NHDD
+238	Fuel pump supply pipe, complete	Conductă alimentare pompă de combustibil, completă
+239	Injector pipe, complete	Conductă injector, completă
+240	Turbocharger air intake pipe, complete	Conductă admisie aer turbocompresor, completă
+241	EGR valve outlet pipe, 9 l	Conductă ieșire supapă EGR, 9 l
+242	Fuel pipe	Conductă de combustibil
+243	Fuel injector pipe	Conductă injector combustibil
+244	Fuel injector pipe, cylinder 1	Conductă injector combustibil, cilindrul 1
+245	Fuel injector pipe, cylinder 2	Conductă injector combustibil, cilindrul 2
+246	Fuel injector pipe, cylinder 6	Conductă injector combustibil, cilindrul 6
+247	Fuel return pipe, 12.7 l	Conductă retur combustibil, 12.7 l
+248	Fuel supply pipe	Conductă de alimentare cu combustibil
+249	Air cleaner pipe	Conductă filtru de aer
+250	Fuel pump inlet pipe	Conductă intrare pompă de combustibil
+251	Fuel pump inlet pipe	Conductă intrare pompă de combustibil
+252	Urea injector plastic cover	Capac plastic injector uree (AdBlue)
+253	Plastic vessel cover	Capac plastic recipient
+255	Fuel pump, complete	Pompă de combustibil, completă
+256	High-pressure fuel pump assembly, complete	Ansamblu pompă de combustibil de înaltă presiune, complet
+257	Cab heater fuel pump	Pompă de combustibil încălzire habitaclu
+258	Fuel injector rail, complete, NHDD	Rampă injectoare combustibil, completă, NHDD
+259	Rail plug	Dop rampă
+260	Fuel tank bracket reinforcement, rear	Ranforsare suport rezervor de combustibil, spate
+261	Fuel tank retaining strap, complete	Bandă de fixare rezervor de combustibil, completă
+262	SCR tank retaining strap, complete	Bandă de fixare rezervor SCR, completă
+263	SCR tank retaining strap, complete	Bandă de fixare rezervor SCR, completă
+264	Fuel tank retaining strap, complete	Bandă de fixare rezervor de combustibil, completă
+265	Fuel tank retaining strap, complete	Bandă de fixare rezervor de combustibil, completă
+266	Fuel tank retaining strap, complete, 315 l	Bandă de fixare rezervor de combustibil, completă, 315 l
+268	Rubber mount, vertical air duct connection	Tampon de cauciuc, conexiune tubulatură verticală de aer
+269	Rubber mount, vertical air duct connection	Tampon de cauciuc, conexiune tubulatură verticală de aer
+270	Rubber pad, fuel tank to bracket	Plăcuță de cauciuc rezervor de combustibil - suport
+271	Rubber pad, fuel tank to bracket	Plăcuță de cauciuc rezervor de combustibil - suport
+272	Rubber retaining strap, lower	Bandă de fixare din cauciuc, inferioară
+273	Rubber retaining strap, fuel tank to strap	Bandă de fixare din cauciuc, rezervor de combustibil - bandă
+274	Rubber retaining strap, fuel tank to strap, 1835/2	Bandă de fixare din cauciuc, rezervor de combustibil - bandă, 1835/2
+275	SCR supply module service kit	Kit de service modul de alimentare SCR
+276	SCR tank	Rezervor SCR
+277	SCR tank assembly	Ansamblu rezervor SCR
+278	SCR tank bracket	Suport rezervor SCR
+279	SCR tank retaining strap	Bandă de fixare rezervor SCR
+280	SCR tank stand	Suport de sprijin rezervor SCR
+281	Fuel injector sealing washer, NHDD	Șaibă de etanșare injector combustibil, NHDD
+282	Fuel injector pressure sensor	Senzor presiune injector combustibil
+283	Water-in-fuel sensor, complete	Senzor apă în combustibil, complet
+284	EGR shield	Scut EGR
+285	EGR valve shield	Scut supapă EGR
+287	Fuel injection control solenoid	Solenoid control injecție combustibil
+288	Fuel injection control solenoid (0928 400 699)	Solenoid control injecție combustibil (0928 400 699)
+289	Fuel tank strap clamp	Colier bandă rezervor de combustibil
+290	Stud M8X12 - M8X38 10	Prezon M8X12 - M8X38 10
+291	SCR system supply module assembly	Ansamblu modul de alimentare sistem SCR
+292	Injection pressure switch, complete	Comutator presiune injecție, complet
+293	Injection pressure switch, complete	Comutator presiune injecție, complet
+294	Oil-fuel temperature switch, complete, NHDD	Comutator temperatură ulei-combustibil, complet, NHDD
+295	Injection pressure switch, complete	Comutator presiune injecție, complet
+296	Tank bracket	Suport rezervor
+297	Fuel tank, complete, 400 l	Rezervor de combustibil, complet, 400 l
+298	Tank cover	Capac rezervor
+299	Tank cover 60 mm	Capac rezervor 60 mm
+300	Tank float	Plutitor rezervor
